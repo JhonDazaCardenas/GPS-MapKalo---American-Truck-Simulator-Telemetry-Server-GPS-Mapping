@@ -1,9 +1,7 @@
 # GPS MapKalo - American Truck Simulator Telemetry Server + GPS Mapping
 
 Telemetry server for **American Truck Simulator** with advanced GPS mapping integration.
-
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
-
 **By DevZeros S.A.S in partnership with JhonDazaCardenas**
 
 ## Main Features
@@ -137,7 +135,14 @@ Scan the QR code with your payment app or click on the logos above.
 &nbsp;&nbsp;&nbsp;
 [<img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>](https://github.com/JhonDazaCardenas)
 
-**Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S**  [<img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="24" style="vertical-align: middle;">](https://devzeros.com/)
+<div align="center" style="background-color: #1e1e1e; border-radius: 12px; padding: 20px; border: 1px solid #333;">
+  <p style="color: #fff; margin-bottom: 15px;">
+    Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S
+  </p>
+  <a href="https://devzeros.com/" target="_blank">
+    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="40" style="filter: brightness(0) invert(1);">
+  </a>
+</div>
 
 ## Preview
 
@@ -151,10 +156,10 @@ Clear Mode:
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
 
 Mobile Dark mode:
-<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
 
 Mobile Clear Mode: 
-<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribution
 
