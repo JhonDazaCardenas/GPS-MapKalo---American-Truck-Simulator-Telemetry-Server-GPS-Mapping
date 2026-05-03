@@ -1,103 +1,103 @@
-# GPS MapKalo - American Truck Simulator Telemetry Server + GPS Mapping
+# GPS MapKalo - Servidor de Telemetría de American Truck Simulator + GPS Mapping
 
-Telemetry server for American Truck Simulator with advanced GPS mapping integration for the MapKalo Colombia map.
+Servidor de telemetría para American Truck Simulator con integración de GPS mapping avanzado para el mapa Colombia de MapKalo.
 
 ================================================================================
-FOLDER STRUCTURE
+ESTRUCTURA DE CARPETAS
 ================================================================================
 
-|-----------| contains the GPS MapKalo Android app with GPS mapping
+|-----------| contiene la aplicación Android GPS MapKalo con GPS mapping
 |  mobile   |
-|-----------| (GPS MapKalo.apk = installation)
+|-----------| (GPS MapKalo.apk = instalación)
 |-----------|
-|  server   | contains compiled server and HTML5 dashboard
+|  server   | contiene el servidor compilado y dashboard HTML5
 |-----------|
 
-Note: This is a compiled distribution. Source code is not included.
+Nota: Esta es una distribución compilada. El código fuente no está incluido.
 
-Simply run "server/GPSMapKalo.exe" to start the server and connect your HTML5 mobile dashboard or GPS MapKalo Android app!
+Simplemente ejecuta "server/GPSMapKalo.exe" para iniciar el servidor y conecta tu dashboard HTML5 móvil o la app GPS MapKalo Android!
 
 ================================================================================
-SYSTEM REQUIREMENTS
+REQUISITOS DEL SISTEMA
 ================================================================================
 
-- Windows 10, 11 (32-bit or 64-bit)
-- Linux Debian, Ubuntu and derivatives
-- .NET Framework 4.5+
+- Windows 10, 11 (32-bit o 64-bit)
+- Linux Debian, Ubuntu y derivados
+- .NET Framework 4.5 o superior
 
-Supported game:
-- American Truck Simulator with MapKalo (only)
-- Version 1.58+
+Juego soportado:
+- American Truck Simulator con MapKalo (únicamente)
+- Versión 1.58+
 
-Tested browsers:
-- Opera (recommended)
-- Brave (recommended)
+Navegadores testeados:
+- Opera (recomendado)
+- Brave (recomendado)
 - Firefox, Chrome, Edge
 
 ================================================================================
-INSTALLATION
+INSTALACIÓN
 ================================================================================
 
 Windows:
-1. Extract ZIP anywhere
-2. Run server/GPSMapKalo.exe as admin
-3. Click "Install"
-4. When done, click "OK", select open Mapkalo
-5. Done
+1. Descomprime el ZIP donde quieras
+2. Ejecuta server/GPSMapKalo.exe como administrador
+3. Haz clic en "Instalar"
+4. Cuando termine, haz clic en "Aceptar", selecciona abrir MapKalo
+5. Listo
 
 Linux (Debian/Ubuntu):
-1. Extract ZIP
-2. Run: mono server/GPSMapKalo.exe
+1. Extrae el archivo ZIP
+2. Ejecuta: mono server/GPSMapKalo.exe
 
 Android:
-1. Install mobile/Android/GPS MapKalo.apk
-2. Enter server IP (without http:// and port)
-3. Or scan the QR code shown by the server
+1. Instala mobile/Android/GPS MapKalo.apk
+2. Ingresa la IP del servidor (sin http:// y puerto)
+3. O escanea el código QR mostrado por el servidor
 
 ================================================================================
-USAGE
+USO
 ================================================================================
 
-1. Run server/GPSMapKalo.exe (or server on Linux)
-2. Run American Truck Simulator
-3. Desktop users: Connect to same Wi-Fi/LAN, open browser and navigate to "HTML5 App URL"
-4. Mobile users: Use GPS MapKalo app, enter server IP or scan QR code
-5. Enjoy your GPS dashboard!
+1. Ejecuta server/GPSMapKalo.exe (o el servidor en Linux)
+2. Ejecuta American Truck Simulator
+3. Usuarios de escritorio: Conéctate a la misma Wi-Fi/LAN, abre el navegador y navega a la "URL de la App HTML5"
+4. Usuarios móviles: Usa la app GPS MapKalo, ingresa la IP del servidor o escanea el código QR
+5. ¡Disfruta tu dashboard con GPS!
 
 ================================================================================
-REST API
+API REST
 ================================================================================
 
 GET http://localhost:25555/api/ats/telemetry
 
-Returns JSON with latest telemetry data.
+Retorna un objeto JSON con los últimos datos de telemetría.
 
-Full reference in Telemetry.md.
+Referencia completa en Telemetry.md.
 
 ================================================================================
-HTML5 DASHBOARD
+DASHBOARD HTML5
 ================================================================================
 
 http://localhost:25555/
 
-Works in any modern browser.
+Funciona en cualquier navegador moderno.
 
 ================================================================================
-DONATIONS
+DONACIONES
 ================================================================================
 
-Support the project! GPS MapKalo is free. If it helps you, consider supporting development.
+¡Apoya el desarrollo del proyecto! GPS MapKalo es gratuito. Si te ayuda, considera apoyar su desarrollo.
 
-- Bre-B (Colombian bank accounts)
-- PayPal (international transfers)
+- Bre-B (Cuentas bancarias de Colombia)
+- PayPal (Transferencias internacionales)
 
-Scan the QR code with your payment app or click on the logos in the full README.md.
+Escanea el código QR con tu aplicación de pagos o haz clic en los logos en el README.md completo.
 
 ================================================================================
-FOLLOW US
+SÍGUENOS
 ================================================================================
 
-Follow me on social media for updates, new features, and trucking content:
+Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de camiones:
 
 - Twitch: https://www.twitch.tv/jhondazac
 - YouTube: https://www.youtube.com/@JhonDazaAmbienteGIS
@@ -105,40 +105,40 @@ Follow me on social media for updates, new features, and trucking content:
 - Discord: https://discord.gg/wgt2RjfzH8
 - GitHub: https://github.com/JhonDazaCardenas
 
-Hit that follow button! 🚛💨
+¡Dale al botón de seguir! 🚛💨
 
 ================================================================================
-PREVIEW
+VISTA PREVIA
 ================================================================================
 
-GPS MapKalo Server, Dark mode, Clear mode, Mobile Dark mode, Mobile Clear mode.
-See full README.md for images.
+Servidor GPS MapKalo, Modo oscuro, Modo claro, Móvil modo oscuro, Móvil modo claro.
+Consulta el README.md completo para ver las imágenes.
 
 ================================================================================
-VERSION
+VERSIÓN
 ================================================================================
 
 GPS MapKalo 2026
 
-- Based on: ETS2 Telemetry Web Server 3.2.5
-- Adapted for American Truck Simulator only with MapKalo
-- Added GPS mapping features
-- Rebranded to GPS MapKalo with GPS integration
-- Compiled distribution (no source code)
+- Basado en: ETS2 Telemetry Web Server 3.2.5
+- Adaptado para American Truck Simulator únicamente con MapKalo
+- Agregadas características de GPS mapping
+- Rebranded a GPS MapKalo con integración GPS
+- Distribución compilada (sin código fuente)
 
 ================================================================================
-CREDITS AND REFERENCES
+CRÉDITOS Y REFERENCIAS
 ================================================================================
 
-Developed by DevZeros S.A.S in partnership with JhonDazaCardenas (2026)
+Desarrollado por DevZeros S.A.S en unión con JhonDazaCardenas (2026)
 
-Project references:
-- Map (MapKalo mod): https://github.com/ETS2LA/maps/
-- Original idea: https://github.com/Funbit/ets2-telemetry-server
-- Inspiration: https://github.com/TruckSim-GPS/trucksim-gps-server
+Referencias del proyecto:
+- Mapa (MapKalo mod): https://github.com/ETS2LA/maps/
+- Idea original: https://github.com/Funbit/ets2-telemetry-server
+- Inspiración: https://github.com/TruckSim-GPS/trucksim-gps-server
 
 ================================================================================
-LICENSE
+LICENCIA
 ================================================================================
 
-GNU General Public License v3 (GPL-3). Read LICENSE file for details.
+GNU General Public License v3 (GPL-3). Lee el archivo LICENSE para detalles.
