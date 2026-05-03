@@ -2,7 +2,7 @@
 
 Telemetry server for **American Truck Simulator** with advanced GPS mapping integration.
 
-Entry: <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
 
 **By DevZeros S.A.S in partnership with JhonDazaCardenas**
 
@@ -99,19 +99,27 @@ Support the project! GPS MapKalo is **free**. If it helps you, consider supporti
 ### Donation Options
 
 **Bre-B**
+
 [<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27)
+
 <br>
 <br>
+
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27" width="250" height="250">
+
 <br>
 <br>
 <br>
 
 **PayPal**
+
 [<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
+
 <br>
 <br>
+
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
+
 <br>
 <br>
 
@@ -134,19 +142,19 @@ Scan the QR code with your payment app or click on the logos above.
 ## Preview
 
 GPS MapKalo Server: 
-<img width="650" height="1000" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
 
-Map:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
+Dark mode:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
 
-Navigation:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
+Clear Mode:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
 
-mobile Dark mode:
-<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
+Mobile Dark mode:
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
 
 Mobile Clear Mode: 
-<img width="1220" height="2712" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
+<img width="610" height="1356" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribution
 
