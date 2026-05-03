@@ -140,7 +140,7 @@ Scan the QR code with your payment app or click on the logos above.
     Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S
   </p>
   <a href="https://devzeros.com/" target="_blank">
-    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="40" style="filter: brightness(0) invert(1);">
+    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="40" style="filter: background-color: #1e1e1e; border-radius: 12px; padding: 20px; ">
   </a>
 </div>
 
@@ -156,10 +156,10 @@ Clear Mode:
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
 
 Mobile Dark mode:
-<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
+<img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
 
 Mobile Clear Mode: 
-<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
+<img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribution
 
