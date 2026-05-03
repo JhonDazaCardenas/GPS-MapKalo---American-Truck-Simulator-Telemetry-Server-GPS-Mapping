@@ -1,0 +1,53 @@
+[
+  {
+    "uid": "55dec1db6580016c",
+    "type": 41,
+    "x": -30407.9765625,
+    "y": -44701.375,
+    "nodeUids": [
+      "55dec1d9e180042e"
+    ],
+    "checkpoints": [
+      {
+        "route": "sea_eve1",
+        "checkpoint": "offer_point"
+      }
+    ],
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "56368f4d4a000146",
+    "type": 41,
+    "x": 4903.296875,
+    "y": 38228.3828125,
+    "nodeUids": [
+      "56368f4d3a80033d"
+    ],
+    "checkpoints": [
+      {
+        "route": "sea_eve1",
+        "checkpoint": "offer_point"
+      }
+    ],
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "55dec71edc80016c",
+    "type": 41,
+    "x": -126630.515625,
+    "y": 139620.859375,
+    "nodeUids": [
+      "55dec71e0180042e"
+    ],
+    "checkpoints": [
+      {
+        "route": "sea_eve1",
+        "checkpoint": "offer_point"
+      }
+    ],
+    "sectorX": -32,
+    "sectorY": 34
+  }
+]

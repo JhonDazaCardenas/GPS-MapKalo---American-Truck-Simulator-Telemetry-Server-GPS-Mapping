@@ -1,0 +1,6389 @@
+[
+  {
+    "uid": "52f64270c600007c",
+    "type": 34,
+    "x": 12542.98046875,
+    "y": 33233.75390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52f64270c200015c"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e8002000018",
+    "type": 34,
+    "x": 12649.41015625,
+    "y": 33685.94140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e8032000050"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e8004000032",
+    "type": 34,
+    "x": 12676.734375,
+    "y": 33695.6484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e802b80006c"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e8072400020",
+    "type": 34,
+    "x": 12663.4609375,
+    "y": 33690.8515625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e802f400058"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e809680000e",
+    "type": 34,
+    "x": 12644.90625,
+    "y": 33684.7265625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e8054400045"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e809740002f",
+    "type": 34,
+    "x": 12658.90234375,
+    "y": 33689.27734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e80f4800069"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e809940002a",
+    "type": 34,
+    "x": 12668.421875,
+    "y": 33692.609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e8080000063"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e809dc00006",
+    "type": 34,
+    "x": 12654.0625,
+    "y": 33687.65234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e8064c0003c"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fb8e80f7c00028",
+    "type": 34,
+    "x": 12672.80859375,
+    "y": 33694.3828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fb8e80a7c00061"
+    ],
+    "sectorX": 3,
+    "sectorY": 8
+  },
+  {
+    "uid": "4d180fcc4e800143",
+    "type": 34,
+    "x": 18851.5,
+    "y": 34156.84375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d180fcc800002a2"
+    ],
+    "sectorX": 4,
+    "sectorY": 8
+  },
+  {
+    "uid": "4d180fccc0400144",
+    "type": 34,
+    "x": 18847.53515625,
+    "y": 34166.953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d180fccd94002a3"
+    ],
+    "sectorX": 4,
+    "sectorY": 8
+  },
+  {
+    "uid": "42ca7a4c0ac00085",
+    "type": 34,
+    "x": -32505.640625,
+    "y": -13862.8359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c1bc0011a"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4c0c80007c",
+    "type": 34,
+    "x": -32582.6796875,
+    "y": -14127.02734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c51000111"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4c27000084",
+    "type": 34,
+    "x": -32503.1796875,
+    "y": -13853.08203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c60000119"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4c3100007a",
+    "type": 34,
+    "x": -32581,
+    "y": -14112.4140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4ce9c0010f"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4c3b800082",
+    "type": 34,
+    "x": -32507.1171875,
+    "y": -13867.25390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c35400117"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4c50400083",
+    "type": 34,
+    "x": -32504.48828125,
+    "y": -13858.01953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c3ac00118"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4ca7800080",
+    "type": 34,
+    "x": -32579.84765625,
+    "y": -14097.64453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c55c00115"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4cbb00007b",
+    "type": 34,
+    "x": -32581.91015625,
+    "y": -14122.42578125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c6c400110"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4cc300007d",
+    "type": 34,
+    "x": -32580.5234375,
+    "y": -14107.6015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4cbd800112"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4cdb80007f",
+    "type": 34,
+    "x": -32580.0625,
+    "y": -14102.36328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4cc7000114"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4cdcc00081",
+    "type": 34,
+    "x": -32579.3671875,
+    "y": -14093.54296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4cf0c00116"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4ce600007e",
+    "type": 34,
+    "x": -32578.9609375,
+    "y": -14089.546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c9ec00113"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "42ca7a4cf4000079",
+    "type": 34,
+    "x": -32581.52734375,
+    "y": -14117.4921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "42ca7a4c08c0010e"
+    ],
+    "sectorX": -9,
+    "sectorY": -4
+  },
+  {
+    "uid": "537a85d0ad00023b",
+    "type": 34,
+    "x": -36907.39453125,
+    "y": 37274.564453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "537a85d030800678",
+      "537a85d0cfc00679",
+      "537a85d00f00067a",
+      "537a85d068c0067b",
+      "537a85d09d80067c"
+    ],
+    "sectorX": -10,
+    "sectorY": 9
+  },
+  {
+    "uid": "4a5edd88a2800000",
+    "type": 34,
+    "x": -68060.046875,
+    "y": 6409.30859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a5edd8808800039",
+      "4a5edd885240003a",
+      "4a5edd888900003b",
+      "4a5edd880b00003c",
+      "4a5edd8836c0003d"
+    ],
+    "sectorX": -18,
+    "sectorY": 1
+  },
+  {
+    "uid": "4d18043c09c00143",
+    "type": 34,
+    "x": -68220.21875,
+    "y": 6241.8828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d18043caac002a2"
+    ],
+    "sectorX": -18,
+    "sectorY": 1
+  },
+  {
+    "uid": "4d18043cbb000144",
+    "type": 34,
+    "x": -68228.40625,
+    "y": 6234.7890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d18043cf84002a3"
+    ],
+    "sectorX": -18,
+    "sectorY": 1
+  },
+  {
+    "uid": "5bac10d4ec800001",
+    "type": 34,
+    "x": -29124.82421875,
+    "y": 3114.27734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac10d4a0800006"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac10d5de800000",
+    "type": 34,
+    "x": -29139.95703125,
+    "y": 3101.94140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac10d560800005"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac10d60b800004",
+    "type": 34,
+    "x": -29136.234375,
+    "y": 3105.0546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac10d4d6000009"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac10d704000003",
+    "type": 34,
+    "x": -29132.34375,
+    "y": 3108.3125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac10d484000008"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac10d7c4000002",
+    "type": 34,
+    "x": -29128.5859375,
+    "y": 3111.56640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac10d7e0800007"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac110cbc000000",
+    "type": 34,
+    "x": -29153.40625,
+    "y": 3084.51953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac110c7c800005"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac110e26000002",
+    "type": 34,
+    "x": -29164.81640625,
+    "y": 3075.296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac110c31800007"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac110e4c000004",
+    "type": 34,
+    "x": -29157.16796875,
+    "y": 3081.80859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac110ddd800009"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac110e5a800003",
+    "type": 34,
+    "x": -29160.92578125,
+    "y": 3078.5546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac110c9f000008"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac110ef2800001",
+    "type": 34,
+    "x": -29168.5390625,
+    "y": 3072.18359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac110cfc000006"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac11143e000004",
+    "type": 34,
+    "x": -29119.16796875,
+    "y": 3099.8671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac1115f7800009"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1114e4800003",
+    "type": 34,
+    "x": -29112.28125,
+    "y": 3092.71484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac111426800008"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac11159e800000",
+    "type": 34,
+    "x": -29105.80859375,
+    "y": 3085.640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac1115a3800005"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1115cf000002",
+    "type": 34,
+    "x": -29108.77734375,
+    "y": 3089.19921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac11161d800007"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1117e9000001",
+    "type": 34,
+    "x": -29115.79296875,
+    "y": 3096.37109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac111441000006"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac114486800000",
+    "type": 34,
+    "x": -29153.37109375,
+    "y": 3067.24609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac114735000005"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1144a9000003",
+    "type": 34,
+    "x": -29143.5,
+    "y": 3056.08203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac1145fb800008"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1144f7000004",
+    "type": 34,
+    "x": -29150.16796875,
+    "y": 3063.6015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac1146ef000009"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac114612000002",
+    "type": 34,
+    "x": -29140.70703125,
+    "y": 3052.37890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac11474f800007"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac11472a800001",
+    "type": 34,
+    "x": -29146.83203125,
+    "y": 3059.7734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac114744000006"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac115904000002",
+    "type": 34,
+    "x": -29142.83984375,
+    "y": 3070.25,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac115841800007"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac115908800004",
+    "type": 34,
+    "x": -29139.50390625,
+    "y": 3066.421875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac115851800009"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac11596b800003",
+    "type": 34,
+    "x": -29133.37890625,
+    "y": 3059.02734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac115a09800008"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac1159a7800001",
+    "type": 34,
+    "x": -29136.171875,
+    "y": 3062.73046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac1159c8800006"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5bac115abf800000",
+    "type": 34,
+    "x": -29146.04296875,
+    "y": 3073.89453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5bac115acc000005"
+    ],
+    "sectorX": -8,
+    "sectorY": 0
+  },
+  {
+    "uid": "5f1f411fa5910001",
+    "type": 34,
+    "x": 20707.525390625,
+    "y": 43394.4453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "achievement",
+        [
+          "la_bridges"
+        ]
+      ]
+    ],
+    "nodeUids": [
+      "5f1f4116f1910000",
+      "5f1f411d7b110000",
+      "5f1f412a2a110000",
+      "5f1f412f47910000"
+    ],
+    "sectorX": 5,
+    "sectorY": 10
+  },
+  {
+    "uid": "488a175826c00186",
+    "type": 34,
+    "x": 29348.318359375,
+    "y": 21900.755859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1758e1c003a2",
+      "488a1758f00003a3",
+      "488a1758824003a4",
+      "488a1758e3c003a5"
+    ],
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175870400182",
+    "type": 34,
+    "x": 29300.087890625,
+    "y": 21918.509765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a175861000397",
+      "488a1758eb800398",
+      "488a17583ac00399",
+      "488a17586180039a"
+    ],
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "410918008a0000ec",
+    "type": 34,
+    "x": -30235.158203125,
+    "y": -44234.439453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "slow_time",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "410918001f000214",
+      "410918008f800215",
+      "4109180094800216",
+      "4109180077c00217"
+    ],
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "488a1a1814c00d64",
+    "type": 34,
+    "x": -28199.62109375,
+    "y": -19996.4375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18cf801e6e"
+    ],
+    "sectorX": -8,
+    "sectorY": -5
+  },
+  {
+    "uid": "488a1a1891000d65",
+    "type": 34,
+    "x": -28196.01953125,
+    "y": -19994.6953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18d0401e6f"
+    ],
+    "sectorX": -8,
+    "sectorY": -5
+  },
+  {
+    "uid": "488a1a18d5000d6e",
+    "type": 34,
+    "x": -28203.37890625,
+    "y": -19998.203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a1802c01e7a"
+    ],
+    "sectorX": -8,
+    "sectorY": -5
+  },
+  {
+    "uid": "488a1a180c800d8f",
+    "type": 34,
+    "x": -28221.12109375,
+    "y": -20007.23046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18d1401ea6"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "488a1a1823000d92",
+    "type": 34,
+    "x": -28225.52734375,
+    "y": -20009.51171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a1843801ea9"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "488a1a183a800d90",
+    "type": 34,
+    "x": -28216.53515625,
+    "y": -20004.99609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18f2001ea7"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "488a1a1841400d6d",
+    "type": 34,
+    "x": -28212.19140625,
+    "y": -20002.87109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18f3801e79"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "488a1a1847000d6c",
+    "type": 34,
+    "x": -28207.47265625,
+    "y": -20000.50390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a18e5801e78"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "488a1a1890800d91",
+    "type": 34,
+    "x": -28229.82421875,
+    "y": -20011.28125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "488a1a1862801ea8"
+    ],
+    "sectorX": -8,
+    "sectorY": -6
+  },
+  {
+    "uid": "4735967c51810000",
+    "type": 34,
+    "x": -35460.125,
+    "y": 10646.171875,
+    "dlcGuard": 21,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4735967c26810002",
+      "4735967ce0410003",
+      "4735967c17810004",
+      "4735967c32010005"
+    ],
+    "sectorX": -9,
+    "sectorY": 2
+  },
+  {
+    "uid": "627dfbd7ea000050",
+    "type": 34,
+    "x": -41941.845703125,
+    "y": 30856.259765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "627dfbd7928000a8",
+      "627dfbd6688000a9",
+      "627dfbd4a28000aa",
+      "627dfbd42b8000ab",
+      "627dfbd42b0000ac"
+    ],
+    "sectorX": -11,
+    "sectorY": 7
+  },
+  {
+    "uid": "627e01a94c800032",
+    "type": 34,
+    "x": -41998.880859375,
+    "y": 30939.015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "627e01a98280007d",
+      "627e01ab2a80007e",
+      "627e01a92600007f",
+      "627e01a971800080",
+      "627e01a8fe000081"
+    ],
+    "sectorX": -11,
+    "sectorY": 7
+  },
+  {
+    "uid": "4a32f1c435c000ae",
+    "type": 34,
+    "x": -45550.279296875,
+    "y": 28296.783203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a32f1c4dd4001b6",
+      "4a32f1c4fe4001b7",
+      "4a32f1c4e6c001b8",
+      "4a32f1c4314001b9",
+      "4a32f1c4688001ba"
+    ],
+    "sectorX": -12,
+    "sectorY": 7
+  },
+  {
+    "uid": "4621597c39c00000",
+    "type": 34,
+    "x": -26961.857421875,
+    "y": 11241.037109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4621597c0b000001",
+      "4621597ca2400002",
+      "4621597c26c00003",
+      "4621597cdd000004",
+      "4621597c5cc00005"
+    ],
+    "sectorX": -7,
+    "sectorY": 2
+  },
+  {
+    "uid": "46215a0ca7c00000",
+    "type": 34,
+    "x": -26959.82421875,
+    "y": 11226.19140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46215a0c70400001",
+      "46215a0c41000002",
+      "46215a0cce000003",
+      "46215a0ce2800004",
+      "46215a0c3e800005"
+    ],
+    "sectorX": -7,
+    "sectorY": 2
+  },
+  {
+    "uid": "46215a28fb000000",
+    "type": 34,
+    "x": -26960.8515625,
+    "y": 11219.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46215a2832800001",
+      "46215a28e1400002",
+      "46215a2874c00003",
+      "46215a2833800004",
+      "46215a289c400005"
+    ],
+    "sectorX": -7,
+    "sectorY": 2
+  },
+  {
+    "uid": "46215a5828800000",
+    "type": 34,
+    "x": -26882.06640625,
+    "y": 11192.890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46215a58ef400001",
+      "46215a584cc00002",
+      "46215a580d000003",
+      "46215a5818000004",
+      "46215a58f1000005"
+    ],
+    "sectorX": -7,
+    "sectorY": 2
+  },
+  {
+    "uid": "46215a782c000000",
+    "type": 34,
+    "x": -26910.892578125,
+    "y": 11233.615234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46215a78c3c00001",
+      "46215a785c000002",
+      "46215a783a000003",
+      "46215a78e7c00004",
+      "46215a7887800005"
+    ],
+    "sectorX": -7,
+    "sectorY": 2
+  },
+  {
+    "uid": "46b3387cd0c0006e",
+    "type": 34,
+    "x": 815.77734375,
+    "y": 49078.1328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46b3387cdac000e4"
+    ],
+    "sectorX": 0,
+    "sectorY": 12
+  },
+  {
+    "uid": "46b3494488400000",
+    "type": 34,
+    "x": 826.671875,
+    "y": 48992.88671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46b3494405800001"
+    ],
+    "sectorX": 0,
+    "sectorY": 12
+  },
+  {
+    "uid": "52fbc2204700002d",
+    "type": 34,
+    "x": -3187.2421875,
+    "y": 32683.16015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc220f8c00069"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc2205380002f",
+    "type": 34,
+    "x": -3167.48046875,
+    "y": 32698.12890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc22072c0006b"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc22074c00030",
+    "type": 34,
+    "x": -3171.6171875,
+    "y": 32694.88671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc2205d40006c"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc2207880002e",
+    "type": 34,
+    "x": -3175.4375,
+    "y": 32691.9296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc22017c0006a"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc2207b40002b",
+    "type": 34,
+    "x": -3179.49609375,
+    "y": 32688.859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc220ee000067"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc2209f800031",
+    "type": 34,
+    "x": -3163.87890625,
+    "y": 32701.2109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc22072c0006d"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc220a280002c",
+    "type": 34,
+    "x": -3183.37109375,
+    "y": 32685.74609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc22022800068"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc220b3400032",
+    "type": 34,
+    "x": -3160.5625,
+    "y": 32703.6640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc2205c40006e"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc3307400002d",
+    "type": 34,
+    "x": -3025.89453125,
+    "y": 32658.234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc330e8000069"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc33078400030",
+    "type": 34,
+    "x": -3040.0625,
+    "y": 32671.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc3303ac0006c"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc33086400031",
+    "type": 34,
+    "x": -3047.59375,
+    "y": 32678.26171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc3300cc0006d"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc3309f00002c",
+    "type": 34,
+    "x": -3029.08984375,
+    "y": 32661.62890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc3306fc00068"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc330a280002b",
+    "type": 34,
+    "x": -3032.8046875,
+    "y": 32664.921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc330ef000067"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc330ca40002e",
+    "type": 34,
+    "x": -3036.51953125,
+    "y": 32668.41796875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc3306740006a"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "52fbc330f8c0002f",
+    "type": 34,
+    "x": -3043.953125,
+    "y": 32675.23828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "52fbc3302400006b"
+    ],
+    "sectorX": -1,
+    "sectorY": 8
+  },
+  {
+    "uid": "4db957a821000001",
+    "type": 34,
+    "x": -3328.0546875,
+    "y": 45726.47265625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a842c00009"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a83c800000",
+    "type": 34,
+    "x": -3332.84765625,
+    "y": 45717.359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a893000008"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a85c000002",
+    "type": 34,
+    "x": -3325.85546875,
+    "y": 45731.078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a87fc0000a"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a875c00005",
+    "type": 34,
+    "x": -3319.76171875,
+    "y": 45744.56640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a802400011"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a8ad800006",
+    "type": 34,
+    "x": -3321.5625,
+    "y": 45740.234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a85d000012"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a8c4800004",
+    "type": 34,
+    "x": -3312.056640625,
+    "y": 45726.875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a8a000000c",
+      "4db957a8f640000d",
+      "4db957a85ac0000e",
+      "4db957a8f3c0000f",
+      "4db957a8d9000010"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a8d4400007",
+    "type": 34,
+    "x": -3323.78125,
+    "y": 45735.4296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a8fdc00013"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db957a8d9000003",
+    "type": 34,
+    "x": -3330.1015625,
+    "y": 45721.953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db957a8ad80000b"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db9580ccf400004",
+    "type": 34,
+    "x": -3169.04296875,
+    "y": 45287.12890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db9580c79c0000c"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db9580cd9000003",
+    "type": 34,
+    "x": -3175.4453125,
+    "y": 45295.80078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db9580c6c80000b"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db9580cde800002",
+    "type": 34,
+    "x": -3186.78515625,
+    "y": 45303.4921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db9580c4480000a"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db9580ce5000006",
+    "type": 34,
+    "x": -3195.87109375,
+    "y": 45293.728515625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db9580c9d40000e",
+      "4db9580cc200000f",
+      "4db9580c89000010",
+      "4db9580c03000011",
+      "4db9580ca7c00012"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4db9580cfbc00001",
+    "type": 34,
+    "x": -3194.578125,
+    "y": 45311.24609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4db9580c79c00009"
+    ],
+    "sectorX": -1,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d18185042c00096",
+    "type": 34,
+    "x": -4826.65625,
+    "y": 63540.546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d1818505c8001f6"
+    ],
+    "sectorX": -2,
+    "sectorY": 15
+  },
+  {
+    "uid": "4d181850f2000078",
+    "type": 34,
+    "x": -4830.61328125,
+    "y": 63550.6484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d181850748001d8"
+    ],
+    "sectorX": -2,
+    "sectorY": 15
+  },
+  {
+    "uid": "512a17802f80008c",
+    "type": 34,
+    "x": -12512.87109375,
+    "y": 67102.484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a17806700012b"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a178038000087",
+    "type": 34,
+    "x": -12498.16796875,
+    "y": 67084.8203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a1780bbc00126"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a17805780008b",
+    "type": 34,
+    "x": -12510.30078125,
+    "y": 67099.390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a1780b140012a"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a178058400086",
+    "type": 34,
+    "x": -12491.7421875,
+    "y": 67077.0625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a178016800125"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a17806cc00085",
+    "type": 34,
+    "x": -12501.21875,
+    "y": 67088.578125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a17807c000124"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a1780a040008a",
+    "type": 34,
+    "x": -12504.59765625,
+    "y": 67092.609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a1780d1400129"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a1780a8400088",
+    "type": 34,
+    "x": -12494.96875,
+    "y": 67080.859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a1780dd000127"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a1780ab400089",
+    "type": 34,
+    "x": -12507.7578125,
+    "y": 67096.09375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a17808c400128"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "512a1780bec00084",
+    "type": 34,
+    "x": -12489.0390625,
+    "y": 67073.265625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "512a178006400123"
+    ],
+    "sectorX": -4,
+    "sectorY": 16
+  },
+  {
+    "uid": "428ec0a8e100020c",
+    "type": 34,
+    "x": -31456.560546875,
+    "y": 41655.958984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "428ec0a84d0004c8",
+      "428ec0a837c004c9",
+      "428ec0a89fc004ca",
+      "428ec0a8390004cb",
+      "428ec0a871c004cc"
+    ],
+    "sectorX": -8,
+    "sectorY": 10
+  },
+  {
+    "uid": "2c210404b1c00000",
+    "type": 34,
+    "x": -35857.251953125,
+    "y": 47878.26953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2c21040416800001",
+      "2c21040412000002",
+      "2c2104043d000003",
+      "2c21040454000004",
+      "2c21040460c00005"
+    ],
+    "sectorX": -9,
+    "sectorY": 11
+  },
+  {
+    "uid": "4a7eb8f80d8000a9",
+    "type": 34,
+    "x": -62755.22265625,
+    "y": -11639.931640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a7eb8f8edc001a2",
+      "4a7eb8f89c4001a3",
+      "4a7eb8f80c0001a4",
+      "4a7eb8f824c001a5",
+      "4a7eb8f838c001a6"
+    ],
+    "sectorX": -16,
+    "sectorY": -3
+  },
+  {
+    "uid": "4a7eb8f8278000ab",
+    "type": 34,
+    "x": -62741.56640625,
+    "y": -11656.955078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a7eb8f83c8001ac",
+      "4a7eb8f8004001ad",
+      "4a7eb8f8a70001ae",
+      "4a7eb8f803c001af",
+      "4a7eb8f8658001b0"
+    ],
+    "sectorX": -16,
+    "sectorY": -3
+  },
+  {
+    "uid": "4a7eb8f8294000a8",
+    "type": 34,
+    "x": -62752.09765625,
+    "y": -11645.982421875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a7eb8f89bc0019d",
+      "4a7eb8f86000019e",
+      "4a7eb8f84880019f",
+      "4a7eb8f8220001a0",
+      "4a7eb8f8f68001a1"
+    ],
+    "sectorX": -16,
+    "sectorY": -3
+  },
+  {
+    "uid": "4a7eb8f8e88000aa",
+    "type": 34,
+    "x": -62787.306640625,
+    "y": -11680.6953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a7eb8f8bd8001a7",
+      "4a7eb8f8574001a8",
+      "4a7eb8f83ac001a9",
+      "4a7eb8f8b78001aa",
+      "4a7eb8f8370001ab"
+    ],
+    "sectorX": -16,
+    "sectorY": -3
+  },
+  {
+    "uid": "4a7eb8f8f6c000a7",
+    "type": 34,
+    "x": -62834.439453125,
+    "y": -11664.619140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4a7eb8f862c00198",
+      "4a7eb8f893400199",
+      "4a7eb8f8f980019a",
+      "4a7eb8f82d40019b",
+      "4a7eb8f869c0019c"
+    ],
+    "sectorX": -16,
+    "sectorY": -3
+  },
+  {
+    "uid": "2b0fe75482000002",
+    "type": 34,
+    "x": 2726.267578125,
+    "y": 76705.53125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2b0fe750c1800000",
+      "2b0fe7545dc00000",
+      "2b0fe754f0800001",
+      "2b0fe768c3400000"
+    ],
+    "sectorX": 0,
+    "sectorY": 19
+  },
+  {
+    "uid": "4c4206502dc0001c",
+    "type": 34,
+    "x": 6140.11328125,
+    "y": 76378.484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c4206501ec00039"
+    ],
+    "sectorX": 1,
+    "sectorY": 19
+  },
+  {
+    "uid": "3b308c302400005f",
+    "type": 34,
+    "x": 5779.896484375,
+    "y": -55737.28125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b308c30dbc00191",
+      "3b308c30a5c00192",
+      "3b308c30f3800193",
+      "3b308c30a7c00194",
+      "3b308c3039800195"
+    ],
+    "sectorX": 1,
+    "sectorY": -14
+  },
+  {
+    "uid": "5cfc9a4af9800381",
+    "type": 34,
+    "x": 8241.236328125,
+    "y": 56575.900390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5cfc9a4aa8800ac5",
+      "5cfc9a4ae1000ac6",
+      "5cfc9a49cb800ac7",
+      "5cfc9a4bcb000ac8",
+      "5cfc9a485d800ac9"
+    ],
+    "sectorX": 2,
+    "sectorY": 14
+  },
+  {
+    "uid": "3b303abcfd400299",
+    "type": 34,
+    "x": 8640.58984375,
+    "y": -55256.583984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b303abc05c02fdf",
+      "3b303abca6c02fe0",
+      "3b303abc40c02fe1",
+      "3b303abcd2002fe2",
+      "3b303abc48402fe3"
+    ],
+    "sectorX": 2,
+    "sectorY": -14
+  },
+  {
+    "uid": "3b303abce44017d2",
+    "type": 34,
+    "x": 14473.802734375,
+    "y": -55572.26953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b303abcbb004a36",
+      "3b303abc97404a37",
+      "3b303abcec804a38",
+      "3b303abc97004a39",
+      "3b303abc94c04a3a",
+      "3b303abcc6c04a3b",
+      "3b303abc0b004a3c",
+      "3b303abc5b404a3d",
+      "3b303abc35004a3e",
+      "3b303abc71804a3f",
+      "3b303abcb2004a40",
+      "3b303abc9f004a41",
+      "3b303abcd5c04a42",
+      "3b303abc6a804a43"
+    ],
+    "sectorX": 3,
+    "sectorY": -14
+  },
+  {
+    "uid": "4c423adc9ac000a2",
+    "type": 34,
+    "x": 16237.66015625,
+    "y": 71007.4375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c423adca4400150"
+    ],
+    "sectorX": 4,
+    "sectorY": 17
+  },
+  {
+    "uid": "4c423adcb64000a1",
+    "type": 34,
+    "x": 16247.66015625,
+    "y": 71003.2421875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c423adc4b80014f"
+    ],
+    "sectorX": 4,
+    "sectorY": 17
+  },
+  {
+    "uid": "536f18bc3900004c",
+    "type": 34,
+    "x": 23080.458984375,
+    "y": 60046.5,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "536f18bca68000dc",
+      "536f18bc2a8000dd",
+      "536f18bcd94000de",
+      "536f18bc73c000df",
+      "536f18bc3ac000e0"
+    ],
+    "sectorX": 5,
+    "sectorY": 15
+  },
+  {
+    "uid": "4b5f212c0c000046",
+    "type": 34,
+    "x": 32878.26171875,
+    "y": 25899.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4b5f212c264000d4"
+    ],
+    "sectorX": 8,
+    "sectorY": 6
+  },
+  {
+    "uid": "4b5f212cb9800048",
+    "type": 34,
+    "x": 32886.83203125,
+    "y": 25893.046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4b5f212c114000d6"
+    ],
+    "sectorX": 8,
+    "sectorY": 6
+  },
+  {
+    "uid": "3b4a79bcac800010",
+    "type": 34,
+    "x": 39864.55859375,
+    "y": 22225.59375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "slow_time",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b4a79bc6400003c",
+      "3b4a79bcb480003d"
+    ],
+    "sectorX": 9,
+    "sectorY": 5
+  },
+  {
+    "uid": "49a16f580c800079",
+    "type": 34,
+    "x": 37292.79296875,
+    "y": 59451.453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5859800109"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f583f400075",
+    "type": 34,
+    "x": 37320.796875,
+    "y": 59442.984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f588e800105"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f5882800078",
+    "type": 34,
+    "x": 37303.734375,
+    "y": 59443.23046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5819400108"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f588b000073",
+    "type": 34,
+    "x": 37317.1484375,
+    "y": 59446.5546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f587dc00103"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f588ec00070",
+    "type": 34,
+    "x": 37324.2734375,
+    "y": 59439.6015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5826000100"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f5895c0006e",
+    "type": 34,
+    "x": 37328.0703125,
+    "y": 59435.953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f58a6c000fe"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58a5000077",
+    "type": 34,
+    "x": 37299.03515625,
+    "y": 59447.5390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f58d9c00107"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58b8800071",
+    "type": 34,
+    "x": 37336.60546875,
+    "y": 59429.390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5887400101"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58ca40006f",
+    "type": 34,
+    "x": 37334.54296875,
+    "y": 59429.8671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f58064000ff"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58d7000076",
+    "type": 34,
+    "x": 37285.93359375,
+    "y": 59455.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f582a800106"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58e5000074",
+    "type": 34,
+    "x": 37313.5234375,
+    "y": 59449.96484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5865c00104"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "49a16f58e5c00072",
+    "type": 34,
+    "x": 37331.6171875,
+    "y": 59432.8203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a16f5893400102"
+    ],
+    "sectorX": 9,
+    "sectorY": 14
+  },
+  {
+    "uid": "4d17fd78af400143",
+    "type": 34,
+    "x": 37660,
+    "y": 81605.9140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17fd78d9c002a2"
+    ],
+    "sectorX": 9,
+    "sectorY": 20
+  },
+  {
+    "uid": "4d17fd78e8000144",
+    "type": 34,
+    "x": 37654.62890625,
+    "y": 81596.5,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17fd784c8002a3"
+    ],
+    "sectorX": 9,
+    "sectorY": 20
+  },
+  {
+    "uid": "37f9c63431000061",
+    "type": 34,
+    "x": 40065.9140625,
+    "y": 22633.7734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c634d9c000d7"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c63460c00065",
+    "type": 34,
+    "x": 40057.08984375,
+    "y": 22638.33984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c63430c000db"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c63469000067",
+    "type": 34,
+    "x": 40052.40625,
+    "y": 22640.6796875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c634e0c000dd"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c6347ec00068",
+    "type": 34,
+    "x": 40048.09375,
+    "y": 22642.63671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c6348b8000de"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c634b2800064",
+    "type": 34,
+    "x": 40074.37890625,
+    "y": 22629.1875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c634c48000da"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c634c1000063",
+    "type": 34,
+    "x": 40070.3828125,
+    "y": 22631.578125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c63488c000d9"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c634c9400062",
+    "type": 34,
+    "x": 40061.390625,
+    "y": 22636.10546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c634c28000d8"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c634e4c00069",
+    "type": 34,
+    "x": 40044.44140625,
+    "y": 22644.5859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c634640000df"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "37f9c634fa000066",
+    "type": 34,
+    "x": 40040.88671875,
+    "y": 22646.43359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "37f9c6346a0000dc"
+    ],
+    "sectorX": 10,
+    "sectorY": 5
+  },
+  {
+    "uid": "6024d85001800032",
+    "type": 34,
+    "x": 46476.359375,
+    "y": -42795.69140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d85097800078"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d8509b800037",
+    "type": 34,
+    "x": 46464.82421875,
+    "y": -42773.65625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d8501280007d"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d850f9000038",
+    "type": 34,
+    "x": 46463.01953125,
+    "y": -42769.9140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d8522400007e"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d851f0800039",
+    "type": 34,
+    "x": 46461.23046875,
+    "y": -42766.33203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d8500f80007f"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d8521800002d",
+    "type": 34,
+    "x": 46478.18359375,
+    "y": -42799.95703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d853a7000073"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d85241800034",
+    "type": 34,
+    "x": 46467.15625,
+    "y": -42777.7265625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d8504180007a"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d852ec000033",
+    "type": 34,
+    "x": 46474.0390625,
+    "y": -42791.3046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d85055800079"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d85344000031",
+    "type": 34,
+    "x": 46471.7578125,
+    "y": -42786.73828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d851c9000077"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d85395000030",
+    "type": 34,
+    "x": 46469.58203125,
+    "y": -42782.41015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d853ea000076"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91819000039",
+    "type": 34,
+    "x": 46256.76171875,
+    "y": -42850.5,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d91a9780007f"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d9186080002d",
+    "type": 34,
+    "x": 46219.96875,
+    "y": -42842.49609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d9198f800073"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91882000037",
+    "type": 34,
+    "x": 46248.8125,
+    "y": -42848.69140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d9186800007d"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d918c4000030",
+    "type": 34,
+    "x": 46238.99609375,
+    "y": -42846.8671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d9184b000076"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91a07800034",
+    "type": 34,
+    "x": 46244.1640625,
+    "y": -42847.9453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d91b7b00007a"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91a19800038",
+    "type": 34,
+    "x": 46252.84375,
+    "y": -42849.640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d9180f00007e"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91a94800031",
+    "type": 34,
+    "x": 46234.2890625,
+    "y": -42845.83984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d91a01800077"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91b12000033",
+    "type": 34,
+    "x": 46229.31640625,
+    "y": -42844.73046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d91b6a000079"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "6024d91b22000032",
+    "type": 34,
+    "x": 46224.42578125,
+    "y": -42843.78125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "6024d91902000078"
+    ],
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "3b49b80c034000b4",
+    "type": 34,
+    "x": 48025.7890625,
+    "y": 10826.05078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c278001a9"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80c1a0000b3",
+    "type": 34,
+    "x": 48045.80859375,
+    "y": 10845.62890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c654001a8"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80c300000af",
+    "type": 34,
+    "x": 48049.32421875,
+    "y": 10848.86328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c57c001a4"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80c8dc000b0",
+    "type": 34,
+    "x": 48038.296875,
+    "y": 10836.9921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c234001a5"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80c930000b1",
+    "type": 34,
+    "x": 48052.23828125,
+    "y": 10852.04296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c15c001a6"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80ce44000b7",
+    "type": 34,
+    "x": 48030.0234375,
+    "y": 10829.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c5b8001ac"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80ce58000b6",
+    "type": 34,
+    "x": 48021.46875,
+    "y": 10821.2890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80caa8001ab"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80cf4c000b2",
+    "type": 34,
+    "x": 48042.078125,
+    "y": 10841.03515625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80ca1c001a7"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "3b49b80cf98000b5",
+    "type": 34,
+    "x": 48034.859375,
+    "y": 10834.66015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3b49b80c900001aa"
+    ],
+    "sectorX": 12,
+    "sectorY": 2
+  },
+  {
+    "uid": "49825734e5000000",
+    "type": 34,
+    "x": 51714.21484375,
+    "y": 18712.11328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49825734f0400036",
+      "4982573453000037",
+      "4982573496000038",
+      "498257347b800039",
+      "498257345b80003a"
+    ],
+    "sectorX": 12,
+    "sectorY": 4
+  },
+  {
+    "uid": "504793e809800004",
+    "type": 34,
+    "x": 49032.59765625,
+    "y": 89542.421875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e8f880000b"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e810800000",
+    "type": 34,
+    "x": 49032.73046875,
+    "y": 89561.9375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e8f2c00007"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e832c00006",
+    "type": 34,
+    "x": 49032.96484375,
+    "y": 89532.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e8de40000d"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e83cc00003",
+    "type": 34,
+    "x": 49032.41796875,
+    "y": 89557.328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e89c00000a"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e85c400002",
+    "type": 34,
+    "x": 49032.546875,
+    "y": 89552.359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e8c0000009"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e89b400005",
+    "type": 34,
+    "x": 49032.67578125,
+    "y": 89537.171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e854c0000c"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504793e8f9000001",
+    "type": 34,
+    "x": 49032.56640625,
+    "y": 89547.265625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504793e89b400008"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794301d400006",
+    "type": 34,
+    "x": 50212.1953125,
+    "y": 89787.6328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "50479430a5c0000d"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047943080400002",
+    "type": 34,
+    "x": 50226.9609375,
+    "y": 89786.484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047943086000009"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "50479430adc00001",
+    "type": 34,
+    "x": 50197.63671875,
+    "y": 89789.328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "50479430b2400008"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "50479430b0800005",
+    "type": 34,
+    "x": 50222.25,
+    "y": 89786.671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794305800000c"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "50479430c2c00003",
+    "type": 34,
+    "x": 50202.1875,
+    "y": 89788.546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794305bc0000a"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "50479430e0000000",
+    "type": 34,
+    "x": 50217.0234375,
+    "y": 89787.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "50479430f3c00007"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "50479430e8c00004",
+    "type": 34,
+    "x": 50207.12109375,
+    "y": 89788.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794301780000b"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947c18c00003",
+    "type": 34,
+    "x": 50335.98046875,
+    "y": 89809.078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c1400000a"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947c27c00000",
+    "type": 34,
+    "x": 50350.83203125,
+    "y": 89807.859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c1cc00007"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947c3e400006",
+    "type": 34,
+    "x": 50346,
+    "y": 89808.28125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c3c80000d"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947c74000001",
+    "type": 34,
+    "x": 50331.41015625,
+    "y": 89809.828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c00c00008"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947ca2800002",
+    "type": 34,
+    "x": 50360.76953125,
+    "y": 89807.28125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c69400009"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947cb8000004",
+    "type": 34,
+    "x": 50340.93359375,
+    "y": 89808.734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c3080000b"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047947cdcc00005",
+    "type": 34,
+    "x": 50356.06640625,
+    "y": 89807.453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047947c4f00000c"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b039000005",
+    "type": 34,
+    "x": 49415.86328125,
+    "y": 89899.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b08300000c"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b03f000002",
+    "type": 34,
+    "x": 49414.65625,
+    "y": 89894.625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b0c3800009"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b06bc00001",
+    "type": 34,
+    "x": 49423.828125,
+    "y": 89922.609375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b080400008"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b07d000006",
+    "type": 34,
+    "x": 49419,
+    "y": 89908.7578125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b00d80000d"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b0cb000004",
+    "type": 34,
+    "x": 49420.609375,
+    "y": 89913.59375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b0fc40000b"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b0f8400000",
+    "type": 34,
+    "x": 49417.48046875,
+    "y": 89904.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b0b9800007"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "504794b0fc800003",
+    "type": 34,
+    "x": 49422.06640625,
+    "y": 89918.34375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "504794b0a240000a"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950c12000003",
+    "type": 34,
+    "x": 49112.24609375,
+    "y": 89568.03125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950c8c80000a"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950c30c00000",
+    "type": 34,
+    "x": 49112.42578125,
+    "y": 89553.125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950cf7400007"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950c43000002",
+    "type": 34,
+    "x": 49112.79296875,
+    "y": 89543.171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950ce6000009"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950c9d000006",
+    "type": 34,
+    "x": 49112.39453125,
+    "y": 89557.96875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950c87c0000d"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950ca6400005",
+    "type": 34,
+    "x": 49112.50390625,
+    "y": 89547.875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950cc2c0000c"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950cc0c00004",
+    "type": 34,
+    "x": 49112.375,
+    "y": 89563.0625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950cddc0000b"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "5047950cd6800001",
+    "type": 34,
+    "x": 49112.55859375,
+    "y": 89572.640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5047950ce2000008"
+    ],
+    "sectorX": 12,
+    "sectorY": 22
+  },
+  {
+    "uid": "46b3350454000000",
+    "type": 34,
+    "x": 54398.7109375,
+    "y": 13568.767578125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "46b335040cc00002",
+      "46b335044e800003",
+      "46b3350424c00004",
+      "46b3350478400005",
+      "46b3350457c00006"
+    ],
+    "sectorX": 13,
+    "sectorY": 3
+  },
+  {
+    "uid": "49a52c087c000001",
+    "type": 34,
+    "x": 52353.32421875,
+    "y": 42713.0703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a52c08fb400005"
+    ],
+    "sectorX": 13,
+    "sectorY": 10
+  },
+  {
+    "uid": "49a52c087e800000",
+    "type": 34,
+    "x": 52346.86328125,
+    "y": 42704.36328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a52c080d000004"
+    ],
+    "sectorX": 13,
+    "sectorY": 10
+  },
+  {
+    "uid": "49a5214c31c00001",
+    "type": 34,
+    "x": 54409.65234375,
+    "y": 44515.4296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a5214c8f400004"
+    ],
+    "sectorX": 13,
+    "sectorY": 11
+  },
+  {
+    "uid": "49a5214c5a800002",
+    "type": 34,
+    "x": 54414.25,
+    "y": 44516.50390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "49a5214c55000005"
+    ],
+    "sectorX": 13,
+    "sectorY": 11
+  },
+  {
+    "uid": "54f11b442d000005",
+    "type": 34,
+    "x": 65443.92578125,
+    "y": 51065.90625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b44ba000010"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b4445000004",
+    "type": 34,
+    "x": 65448.37109375,
+    "y": 51064.02734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b452e80000f"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b45cf800002",
+    "type": 34,
+    "x": 65457.68359375,
+    "y": 51060.21484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b468680000d"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b46e7800001",
+    "type": 34,
+    "x": 65461.84765625,
+    "y": 51058.1328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b47cf00000c"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b46f5000000",
+    "type": 34,
+    "x": 65446.0234375,
+    "y": 51061.509765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b447f800007",
+      "54f11b45aa000008",
+      "54f11b450e800009",
+      "54f11b442d00000a",
+      "54f11b46b880000b"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b4783000003",
+    "type": 34,
+    "x": 65453.0703125,
+    "y": 51062.05859375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b441780000e"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "54f11b4790800006",
+    "type": 34,
+    "x": 65437.62890625,
+    "y": 51068.4765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f11b474f000011"
+    ],
+    "sectorX": 16,
+    "sectorY": 12
+  },
+  {
+    "uid": "4d1be7380a400795",
+    "type": 34,
+    "x": 82681.38671875,
+    "y": 11513.66796875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "weigh",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d1be73879001ff1",
+      "4d1be7380d801ff2",
+      "4d1be738bd001ff3",
+      "4d1be738c3401ff4"
+    ],
+    "sectorX": 20,
+    "sectorY": 2
+  },
+  {
+    "uid": "5ddb7fe01d80003a",
+    "type": 34,
+    "x": 84660.953125,
+    "y": 32943.490234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5ddb7fe29800043f",
+      "5ddb7fe2b0800440",
+      "5ddb7fe37a000441",
+      "5ddb7fe164800442",
+      "5ddb7fe3ad000443"
+    ],
+    "sectorX": 21,
+    "sectorY": 8
+  },
+  {
+    "uid": "5ddb7fe19b0000a2",
+    "type": 34,
+    "x": 84695.3984375,
+    "y": 32887.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "5ddb7fe0ed8004b4",
+      "5ddb7fe0f60004b5",
+      "5ddb7fe0158004b6",
+      "5ddb7fe1aa8004b7",
+      "5ddb7fe0eb8004b8"
+    ],
+    "sectorX": 21,
+    "sectorY": 8
+  },
+  {
+    "uid": "4d17a5b033c00038",
+    "type": 34,
+    "x": -17681.0390625,
+    "y": 74177.75,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17a5b02bc0018b"
+    ],
+    "sectorX": -5,
+    "sectorY": 18
+  },
+  {
+    "uid": "4d17a5b0ad000071",
+    "type": 34,
+    "x": -17690.328125,
+    "y": 74172.171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17a5b048c001c7"
+    ],
+    "sectorX": -5,
+    "sectorY": 18
+  },
+  {
+    "uid": "4d17b07046800144",
+    "type": 34,
+    "x": -16942.28125,
+    "y": 74592.21875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17b070fdc002a3"
+    ],
+    "sectorX": -5,
+    "sectorY": 18
+  },
+  {
+    "uid": "4d17b0709f400143",
+    "type": 34,
+    "x": -17009.9453125,
+    "y": 74552.4453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d17b070eb0002a2"
+    ],
+    "sectorX": -5,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45400a0000e0",
+    "type": 34,
+    "x": -20739.4296875,
+    "y": 72808.328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454017800205"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45400c0000ea",
+    "type": 34,
+    "x": -20714.9921875,
+    "y": 72843.671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540be00020f"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45400ec000ec",
+    "type": 34,
+    "x": -20737.77734375,
+    "y": 72857.1953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45409cc00211"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540188000d3",
+    "type": 34,
+    "x": -20786.87890625,
+    "y": 72815.8359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540934001f8"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540270000d2",
+    "type": 34,
+    "x": -20787.57421875,
+    "y": 72805.75,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540bd4001f7"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540284000e2",
+    "type": 34,
+    "x": -20722.41796875,
+    "y": 72814.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45403d800207"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45402b8000de",
+    "type": 34,
+    "x": -20759.73828125,
+    "y": 72850.59375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540d6000203"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540334000dc",
+    "type": 34,
+    "x": -20755.08984375,
+    "y": 72851.9375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454029c00201"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540344000e1",
+    "type": 34,
+    "x": -20735.671875,
+    "y": 72809.625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540edc00206"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45403a0000e3",
+    "type": 34,
+    "x": -20731.73046875,
+    "y": 72810.921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540c9400208"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45404500010f",
+    "type": 34,
+    "x": -20871.12109375,
+    "y": 72765.8046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45402c000235",
+      "529c4540a3000236",
+      "529c4540f6c00237",
+      "529c454013800238",
+      "529c454068c00239"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540494000e9",
+    "type": 34,
+    "x": -20741.60546875,
+    "y": 72856.09375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540e200020e"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540504000e6",
+    "type": 34,
+    "x": -20717.84375,
+    "y": 72816.0625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540c680020b"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c454050c000e4",
+    "type": 34,
+    "x": -20713.03515625,
+    "y": 72817.734375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454087800209"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540548000d5",
+    "type": 34,
+    "x": -20786.3984375,
+    "y": 72824.65625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540760001fa"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c454066c000ce",
+    "type": 34,
+    "x": -20787.953125,
+    "y": 72800.6640625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45406d4001ef"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45406c4000e5",
+    "type": 34,
+    "x": -20703.90234375,
+    "y": 72820.65625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454009c0020a"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540754000d6",
+    "type": 34,
+    "x": -20786.7734375,
+    "y": 72820.53125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45402b8001fb"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540894000df",
+    "type": 34,
+    "x": -20727.36328125,
+    "y": 72812.703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540c3000204"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45408b0000dd",
+    "type": 34,
+    "x": -20769.37890625,
+    "y": 72847.703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540c6000202"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540958000e7",
+    "type": 34,
+    "x": -20708.375,
+    "y": 72819.453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540acc0020c"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c45409b4000d7",
+    "type": 34,
+    "x": -20786.0859375,
+    "y": 72828.6328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45407c0001fc"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540a3c000f2",
+    "type": 34,
+    "x": -20705.92578125,
+    "y": 72839.5,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454055800217"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540bb0000db",
+    "type": 34,
+    "x": -20773.91796875,
+    "y": 72846.6953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c45406b800200"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540bd0000ef",
+    "type": 34,
+    "x": -20710.6640625,
+    "y": 72841.78125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540d3800214"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540bec000d1",
+    "type": 34,
+    "x": -20784.8671875,
+    "y": 72805.53515625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540068001f2",
+      "529c4540a68001f3",
+      "529c4540dfc001f4",
+      "529c4540f1c001f5",
+      "529c45405b0001f6"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540c40000d9",
+    "type": 34,
+    "x": -20750.0546875,
+    "y": 72853.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540678001fe"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540d28000d4",
+    "type": 34,
+    "x": -20787.20703125,
+    "y": 72810.5703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540c14001f9"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540da4000d8",
+    "type": 34,
+    "x": -20764.63671875,
+    "y": 72849.1875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540694001fd"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540df8000da",
+    "type": 34,
+    "x": -20745.61328125,
+    "y": 72854.9921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540dbc001ff"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540e84000d0",
+    "type": 34,
+    "x": -20788.22265625,
+    "y": 72795.703125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454030c001f1"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540ea4000cf",
+    "type": 34,
+    "x": -20788.87109375,
+    "y": 72791.109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c4540dc0001f0"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "529c4540f5c000ee",
+    "type": 34,
+    "x": -20692.54296875,
+    "y": 72832.9375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "529c454084800213"
+    ],
+    "sectorX": -6,
+    "sectorY": 18
+  },
+  {
+    "uid": "54f09b00c8800005",
+    "type": 34,
+    "x": -30395.078125,
+    "y": 68640.546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b017400000b"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f09b0109800003",
+    "type": 34,
+    "x": -30383.19921875,
+    "y": 68628.765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b002f000009"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f09b024c000000",
+    "type": 34,
+    "x": -30390.2265625,
+    "y": 68635.7890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b004f800006"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f09b0277000002",
+    "type": 34,
+    "x": -30379.63671875,
+    "y": 68625.3125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b0229000008"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f09b0320000001",
+    "type": 34,
+    "x": -30376.5859375,
+    "y": 68621.8203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b038d000007"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f09b032b000004",
+    "type": 34,
+    "x": -30386.81640625,
+    "y": 68632.3671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f09b018e00000a"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "54f0a68675800000",
+    "type": 34,
+    "x": -30390.41015625,
+    "y": 68631.26953125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "54f0a68501800001",
+      "54f0a686f4000002",
+      "54f0a6853c000003",
+      "54f0a6876b800004",
+      "54f0a68684000005"
+    ],
+    "sectorX": -8,
+    "sectorY": 17
+  },
+  {
+    "uid": "3182b2d0bcc00002",
+    "type": 34,
+    "x": -31317.12890625,
+    "y": 73865.328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "pay_toll",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "3182b2d01f000006"
+    ],
+    "sectorX": -8,
+    "sectorY": 18
+  },
+  {
+    "uid": "2e2a146c42400000",
+    "type": 34,
+    "x": -35550.599609375,
+    "y": 69203.2890625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2e2a146cef400001",
+      "2e2a146ce5c00002",
+      "2e2a146c76800003",
+      "2e2a146ca3800004",
+      "2e2a146cc0800005"
+    ],
+    "sectorX": -9,
+    "sectorY": 17
+  },
+  {
+    "uid": "4baf8a1c26400047",
+    "type": 34,
+    "x": -35557.63671875,
+    "y": 69208.3671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4baf8a1c970000cc"
+    ],
+    "sectorX": -9,
+    "sectorY": 17
+  },
+  {
+    "uid": "4baf8a1c8e800048",
+    "type": 34,
+    "x": -35547.84375,
+    "y": 69212.984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4baf8a1ca04000cd"
+    ],
+    "sectorX": -9,
+    "sectorY": 17
+  },
+  {
+    "uid": "2b8e11d4ffc00000",
+    "type": 34,
+    "x": -33260.998046875,
+    "y": 72669.03125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2b8e11d41c800001",
+      "2b8e11d4efc00002",
+      "2b8e11d499c00003",
+      "2b8e11d45a800004",
+      "2b8e11d4a4c00005"
+    ],
+    "sectorX": -9,
+    "sectorY": 18
+  },
+  {
+    "uid": "48a3bd40da80061e",
+    "type": 34,
+    "x": -37958.048828125,
+    "y": 56891.912109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48a3bd40cc0033fc",
+      "48a3bd40ea4033fd",
+      "48a3bd40fa4033fe",
+      "48a3bd40034033ff",
+      "48a3bd40e2c03400"
+    ],
+    "sectorX": -10,
+    "sectorY": 14
+  },
+  {
+    "uid": "2e29d294d3c00000",
+    "type": 34,
+    "x": -36069.791015625,
+    "y": 69359.5234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2e29d294d6400001",
+      "2e29d29419400002",
+      "2e29d294bc800003",
+      "2e29d294f1400004",
+      "2e29d29419800005"
+    ],
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "4c3f04e0088000c6",
+    "type": 34,
+    "x": -46491.986328125,
+    "y": 73713.08203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c3f04e0ec0001ad",
+      "4c3f04e0c98001ae",
+      "4c3f04e0bd4001af",
+      "4c3f04e0f18001b0",
+      "4c3f04e0350001b1"
+    ],
+    "sectorX": -12,
+    "sectorY": 18
+  },
+  {
+    "uid": "4c3f04e050c000c7",
+    "type": 34,
+    "x": -46487.74609375,
+    "y": 73707.765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c3f04e0aec001b2",
+      "4c3f04e0f6c001b3",
+      "4c3f04e0224001b4",
+      "4c3f04e037c001b5",
+      "4c3f04e067c001b6"
+    ],
+    "sectorX": -12,
+    "sectorY": 18
+  },
+  {
+    "uid": "4c3f04e0780000c8",
+    "type": 34,
+    "x": -46415.103515625,
+    "y": 73747.5078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c3f04e0b6c001b7",
+      "4c3f04e08cc001b8",
+      "4c3f04e09cc001b9",
+      "4c3f04e0e7c001ba",
+      "4c3f04e088c001bb"
+    ],
+    "sectorX": -12,
+    "sectorY": 18
+  },
+  {
+    "uid": "4c3f04e09d8000c5",
+    "type": 34,
+    "x": -46505.0078125,
+    "y": 73721.796875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c3f04e0444001a8",
+      "4c3f04e05d4001a9",
+      "4c3f04e0a38001aa",
+      "4c3f04e02d4001ab",
+      "4c3f04e09f0001ac"
+    ],
+    "sectorX": -12,
+    "sectorY": 18
+  },
+  {
+    "uid": "4c3f04e0c14000c9",
+    "type": 34,
+    "x": -46464.314453125,
+    "y": 73754.0390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4c3f04e08c0001bc",
+      "4c3f04e00c4001bd",
+      "4c3f04e0974001be",
+      "4c3f04e0a50001bf",
+      "4c3f04e08d8001c0"
+    ],
+    "sectorX": -12,
+    "sectorY": 18
+  },
+  {
+    "uid": "4d44a9b462800093",
+    "type": 34,
+    "x": -50746.140625,
+    "y": 44640.390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d44a9b478800149"
+    ],
+    "sectorX": -13,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d44a9b4b3c00092",
+    "type": 34,
+    "x": -50660.8984375,
+    "y": 44651.29296875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d44a9b442800148"
+    ],
+    "sectorX": -13,
+    "sectorY": 11
+  },
+  {
+    "uid": "4dba8c14f1c00000",
+    "type": 34,
+    "x": -53047.19140625,
+    "y": 60061.123046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4dba8c148a400080",
+      "4dba8c14f9c00081",
+      "4dba8c144b400082",
+      "4dba8c147dc00083",
+      "4dba8c140a400084"
+    ],
+    "sectorX": -14,
+    "sectorY": 15
+  },
+  {
+    "uid": "4dba8e002d400000",
+    "type": 34,
+    "x": -52980.4453125,
+    "y": 60060.814453125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4dba8e009b800001",
+      "4dba8e00ad800002",
+      "4dba8e0003800003",
+      "4dba8e00de800004",
+      "4dba8e00cc400005"
+    ],
+    "sectorX": -14,
+    "sectorY": 15
+  },
+  {
+    "uid": "4d4498841fc0008d",
+    "type": 34,
+    "x": -56365.435546875,
+    "y": 44298.443359375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d4498841c000171",
+      "4d449884da400172",
+      "4d449884a2000173",
+      "4d449884d2800174",
+      "4d4498845e000175"
+    ],
+    "sectorX": -15,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d44988424400075",
+    "type": 34,
+    "x": -56326.193359375,
+    "y": 44325.013671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d44988447000152",
+      "4d449884c2800153",
+      "4d44988437c00154",
+      "4d449884d5800155",
+      "4d449884d9c00156"
+    ],
+    "sectorX": -15,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d44988425c00092",
+    "type": 34,
+    "x": -56366.138671875,
+    "y": 44305.2109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d4498845800017b",
+      "4d4498842700017c",
+      "4d449884b140017d",
+      "4d44988408c0017e",
+      "4d4498840740017f"
+    ],
+    "sectorX": -15,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d4498843e400044",
+    "type": 34,
+    "x": -56281.970703125,
+    "y": 44300.390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d4498848280011a",
+      "4d4498843e80011b",
+      "4d449884e600011c",
+      "4d449884f2c0011d",
+      "4d4498848d80011e"
+    ],
+    "sectorX": -15,
+    "sectorY": 11
+  },
+  {
+    "uid": "4d4498844900002a",
+    "type": 34,
+    "x": -56372.0078125,
+    "y": 44319.23046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d449884638000f8",
+      "4d449884dc8000f9",
+      "4d4498847d0000fa",
+      "4d449884c34000fb",
+      "4d449884290000fc"
+    ],
+    "sectorX": -15,
+    "sectorY": 11
+  },
+  {
+    "uid": "4af168781dc0000a",
+    "type": 34,
+    "x": -57589.37109375,
+    "y": 80848.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af1687853400018"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168785140000b",
+    "type": 34,
+    "x": -57589.955078125,
+    "y": 80847.11328125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af1687843800019",
+      "4af16878da80001a",
+      "4af16878ae00001b",
+      "4af16878ba40001c",
+      "4af1687813c0001d"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af1687856800009",
+    "type": 34,
+    "x": -57603.22265625,
+    "y": 80853.625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168787d400017"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168785b000008",
+    "type": 34,
+    "x": -57594.203125,
+    "y": 80850.3203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af16878f4c00016"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878a9000003",
+    "type": 34,
+    "x": -57575.27734375,
+    "y": 80844.171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af1687888400011"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878ae000005",
+    "type": 34,
+    "x": -57567.61328125,
+    "y": 80841.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168784b400013"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878b9000007",
+    "type": 34,
+    "x": -57579.80078125,
+    "y": 80845.46875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168780fc00015"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878e0c00006",
+    "type": 34,
+    "x": -57571.37890625,
+    "y": 80842.765625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af16878cd400014"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878e700000c",
+    "type": 34,
+    "x": -57598.9453125,
+    "y": 80851.84375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af16878de00001e"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af16878fdc00004",
+    "type": 34,
+    "x": -57584.8046875,
+    "y": 80847.109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af1687808400012"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e850800002",
+    "type": 34,
+    "x": -57589.28515625,
+    "y": 80861.71875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e8bfc0000b"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e852c00005",
+    "type": 34,
+    "x": -57575.78515625,
+    "y": 80855.390625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e8be00000e"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e897800007",
+    "type": 34,
+    "x": -57562.97265625,
+    "y": 80849.5234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e810000010"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e89ec00008",
+    "type": 34,
+    "x": -57560.19140625,
+    "y": 80847.078125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e831800011"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e8b1c00006",
+    "type": 34,
+    "x": -57566.66796875,
+    "y": 80851.375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e8b1c0000f"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e8c8000001",
+    "type": 34,
+    "x": -57584.76953125,
+    "y": 80859.671875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e89c40000a"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e8d3800003",
+    "type": 34,
+    "x": -57580.15625,
+    "y": 80857.484375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e82940000c"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e8f1400004",
+    "type": 34,
+    "x": -57571.03125,
+    "y": 80853.1875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e8e4c0000d"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "4af168e8fe000000",
+    "type": 34,
+    "x": -57593.3046875,
+    "y": 80864.015625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4af168e88e800009"
+    ],
+    "sectorX": -15,
+    "sectorY": 20
+  },
+  {
+    "uid": "2856462c4400051e",
+    "type": 34,
+    "x": -75246.734375,
+    "y": 111566.53125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2856462c2e800d59",
+      "2856462c77400d5a",
+      "2856462ca6000d5b",
+      "2856462c5a800d5c",
+      "2856462cef000d5d"
+    ],
+    "sectorX": -19,
+    "sectorY": 27
+  },
+  {
+    "uid": "2856462cc1800211",
+    "type": 34,
+    "x": -74927.046875,
+    "y": 111184.94921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2856462cadc00982",
+      "2856462c82c00983",
+      "2856462cc5000984",
+      "2856462c4ec00985",
+      "2856462ccc400986"
+    ],
+    "sectorX": -19,
+    "sectorY": 27
+  },
+  {
+    "uid": "2bbd80dc17c00000",
+    "type": 34,
+    "x": -82181.84375,
+    "y": 84358.48828125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2bbd80dcfec00001",
+      "2bbd80dc29000002",
+      "2bbd80dc95000003",
+      "2bbd80dcbfc00004",
+      "2bbd80dca4400005"
+    ],
+    "sectorX": -21,
+    "sectorY": 21
+  },
+  {
+    "uid": "2c25aa2881c00000",
+    "type": 34,
+    "x": -82369.140625,
+    "y": 84306.33203125,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2c25aa2803000001",
+      "2c25aa2876400002",
+      "2c25aa2870400003",
+      "2c25aa288e000004",
+      "2c25aa2846c00005"
+    ],
+    "sectorX": -21,
+    "sectorY": 21
+  },
+  {
+    "uid": "41095aec3e000088",
+    "type": 34,
+    "x": -92486.14453125,
+    "y": 84328.0546875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "slow_time",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "41095aecfc400157",
+      "41095aecea400158",
+      "41095aece1400159",
+      "41095aec50c0015a"
+    ],
+    "sectorX": -24,
+    "sectorY": 21
+  },
+  {
+    "uid": "48f68664008000c5",
+    "type": 34,
+    "x": -98030.8984375,
+    "y": 134327.65625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48f68664dd0001b1",
+      "48f68664120001b2",
+      "48f68664584001b3",
+      "48f68664524001b4",
+      "48f6866479c001b5"
+    ],
+    "sectorX": -25,
+    "sectorY": 33
+  },
+  {
+    "uid": "48f686643f0000c3",
+    "type": 34,
+    "x": -97954.2265625,
+    "y": 134291.921875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48f68664b9c001a7",
+      "48f68664000001a8",
+      "48f68664614001a9",
+      "48f686648bc001aa",
+      "48f68664e74001ab"
+    ],
+    "sectorX": -25,
+    "sectorY": 33
+  },
+  {
+    "uid": "48f68664520000c4",
+    "type": 34,
+    "x": -97952.98828125,
+    "y": 134298.6171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48f68664bac001ac",
+      "48f6866425c001ad",
+      "48f68664a48001ae",
+      "48f68664e38001af",
+      "48f6866432c001b0"
+    ],
+    "sectorX": -25,
+    "sectorY": 33
+  },
+  {
+    "uid": "48f686645e0000c6",
+    "type": 34,
+    "x": -98003.37109375,
+    "y": 134286.046875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48f68664f8c001b6",
+      "48f6866416c001b7",
+      "48f68664954001b8",
+      "48f68664350001b9",
+      "48f68664158001ba"
+    ],
+    "sectorX": -25,
+    "sectorY": 33
+  },
+  {
+    "uid": "48f68664e14000c2",
+    "type": 34,
+    "x": -97952.671875,
+    "y": 134277.0234375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "48f68664c58001a2",
+      "48f68664d38001a3",
+      "48f68664fe8001a4",
+      "48f68664c58001a5",
+      "48f68664ac4001a6"
+    ],
+    "sectorX": -25,
+    "sectorY": 33
+  },
+  {
+    "uid": "285667786cc00a88",
+    "type": 34,
+    "x": -99159.21484375,
+    "y": 136726.2109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "28566778b0c01851",
+      "285667782e401852",
+      "2856677852001853",
+      "285667782cc01854"
+    ],
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "4d2718ec2540007f",
+    "type": 34,
+    "x": -111490.2421875,
+    "y": 143926.6875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d2718ec6580011a"
+    ],
+    "sectorX": -28,
+    "sectorY": 35
+  },
+  {
+    "uid": "4d2718ec27000075",
+    "type": 34,
+    "x": -111525.0625,
+    "y": 143942.0625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d2718ec15c00110"
+    ],
+    "sectorX": -28,
+    "sectorY": 35
+  },
+  {
+    "uid": "4d2718ec51000083",
+    "type": 34,
+    "x": -111515.828125,
+    "y": 143938.140625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d2718ec8d80011e"
+    ],
+    "sectorX": -28,
+    "sectorY": 35
+  },
+  {
+    "uid": "4d2718ec8e800082",
+    "type": 34,
+    "x": -111506.1875,
+    "y": 143933.984375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d2718ec8680011d"
+    ],
+    "sectorX": -28,
+    "sectorY": 35
+  },
+  {
+    "uid": "4d2718ecaac00086",
+    "type": 34,
+    "x": -111429.03125,
+    "y": 143913.15625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "4d2718ecd3800122"
+    ],
+    "sectorX": -28,
+    "sectorY": 35
+  },
+  {
+    "uid": "45c209bc84400000",
+    "type": 34,
+    "x": -118531.79296875,
+    "y": 147127.6171875,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "45c209bc08400001",
+      "45c209bc1bc00002",
+      "45c209bc8c800003",
+      "45c209bc01c00004",
+      "45c209bce8c00005"
+    ],
+    "sectorX": -30,
+    "sectorY": 36
+  },
+  {
+    "uid": "45c209f0b4c00000",
+    "type": 34,
+    "x": -118528.78125,
+    "y": 147120.90625,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "45c209f0f2c00001",
+      "45c209f0f9000002",
+      "45c209f056000003",
+      "45c209f04f800004",
+      "45c209f061400005"
+    ],
+    "sectorX": -30,
+    "sectorY": 36
+  },
+  {
+    "uid": "2fa5cad414000997",
+    "type": 34,
+    "x": -126901.7265625,
+    "y": 137082.109375,
+    "dlcGuard": 0,
+    "actions": [
+      [
+        "hud_parking",
+        []
+      ]
+    ],
+    "nodeUids": [
+      "2fa5cad489001483",
+      "2fa5cad4a3801484",
+      "2fa5cad47a801485",
+      "2fa5cad40c401486",
+      "2fa5cad487801487",
+      "2fa5cad43a401488",
+      "2fa5cad41d001489"
+    ],
+    "sectorX": -32,
+    "sectorY": 34
+  }
+]

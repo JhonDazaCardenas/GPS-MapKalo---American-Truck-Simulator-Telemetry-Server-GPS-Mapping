@@ -1,0 +1,4277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24788.3828125,
+                    -65755.1796875
+                ]
+            },
+            "properties": {
+                "name": "Autodromo de tocancipa",
+                "token": "barstow",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49650.421875,
+                    -69143.109375
+                ]
+            },
+            "properties": {
+                "name": "Cartago",
+                "token": "fresno",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5366.6875,
+                    -61359.07421875
+                ]
+            },
+            "properties": {
+                "name": "SASAIMA",
+                "token": "alamosa",
+                "population": 0,
+                "countryToken": "colorado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45655.9375,
+                    -28647.34375
+                ]
+            },
+            "properties": {
+                "name": "SantaFe de Antioquia",
+                "token": "fort_collins",
+                "population": 0,
+                "countryToken": "colorado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73201.28125,
+                    2386.9999389648438
+                ]
+            },
+            "properties": {
+                "name": "Apartadó",
+                "token": "bozeman",
+                "population": 0,
+                "countryToken": "montana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63479.15234375,
+                    -47752.91796875
+                ]
+            },
+            "properties": {
+                "name": "Sogamoso",
+                "token": "hobbs",
+                "population": 0,
+                "countryToken": "new_mexico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100799.03125,
+                    -19426.8671875
+                ]
+            },
+            "properties": {
+                "name": "Arauca",
+                "token": "santa_fe",
+                "population": 0,
+                "countryToken": "new_mexico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51676.1640625,
+                    -23931.23046875
+                ]
+            },
+            "properties": {
+                "name": "Cañasgordas",
+                "token": "cody",
+                "population": 0,
+                "countryToken": "wyoming"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36539.7578125,
+                    -40846.0390625
+                ]
+            },
+            "properties": {
+                "name": "JAVIER HERNANDEZ Y FMLIA",
+                "token": "acaponeta",
+                "population": 0,
+                "countryToken": "nayarit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26888.52734375,
+                    -41977.5703125
+                ]
+            },
+            "properties": {
+                "name": "Museo aeronautico Shamu",
+                "token": "aero_shamu",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39139.44921875,
+                    2313.1718139648438
+                ]
+            },
+            "properties": {
+                "name": "Aguachica",
+                "token": "ag_chica",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35597.72265625,
+                    -69472.6875
+                ]
+            },
+            "properties": {
+                "name": "Salento Alcort",
+                "token": "alcort2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26744.2578125,
+                    -56983.41015625
+                ]
+            },
+            "properties": {
+                "name": "Alto de letras",
+                "token": "alt_letras",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48458.0,
+                    -55906.28125
+                ]
+            },
+            "properties": {
+                "name": "Andes Antioquia",
+                "token": "andes_ant",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39182.28125,
+                    -71255.9375
+                ]
+            },
+            "properties": {
+                "name": "Armenia",
+                "token": "armenia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12220.0078125,
+                    -66454.296875
+                ]
+            },
+            "properties": {
+                "name": "Armero",
+                "token": "armero",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54712.76171875,
+                    -30923.13671875
+                ]
+            },
+            "properties": {
+                "name": "Autodromo las Cabras",
+                "token": "auto_cabras",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26682.734375,
+                    -35834.18359375
+                ]
+            },
+            "properties": {
+                "name": "Barbosa",
+                "token": "barbosa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29243.02734375,
+                    -21933.8203125
+                ]
+            },
+            "properties": {
+                "name": "Barrancabermeja",
+                "token": "barranbmeja",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10012.94921875,
+                    55482.05859375
+                ]
+            },
+            "properties": {
+                "name": "Barranquilla",
+                "token": "barranquilla",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45808.01953125,
+                    1561.33203125
+                ]
+            },
+            "properties": {
+                "name": "Bodegas azucareras de la torre",
+                "token": "bodgabi",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21868.203125,
+                    -68753.125
+                ]
+            },
+            "properties": {
+                "name": "Bogota",
+                "token": "bogota",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26505.46875,
+                    34221.9296875
+                ]
+            },
+            "properties": {
+                "name": "Bosconia",
+                "token": "bosconia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21745.78125,
+                    -70653.0546875
+                ]
+            },
+            "properties": {
+                "name": "SHAMU CENTRAL CAPITAL",
+                "token": "boycona",
+                "population": 0,
+                "countryToken": "chihuah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52969.6875,
+                    -20449.13671875
+                ]
+            },
+            "properties": {
+                "name": "Bucaramanga",
+                "token": "bucaramanga",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92301.1328125,
+                    -84366.3828125
+                ]
+            },
+            "properties": {
+                "name": "Buenaventura",
+                "token": "buenaventura",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55418.98828125,
+                    -83044.78125
+                ]
+            },
+            "properties": {
+                "name": "Buga",
+                "token": "bugga",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38558.48046875,
+                    -72602.734375
+                ]
+            },
+            "properties": {
+                "name": "Calarcá",
+                "token": "calarca",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70310.5,
+                    -94079.828125
+                ]
+            },
+            "properties": {
+                "name": "Cali",
+                "token": "cali",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23670.34765625,
+                    -68061.046875
+                ]
+            },
+            "properties": {
+                "name": "Shamu central capital",
+                "token": "capt_shamu",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33024.18359375,
+                    28129.25390625
+                ]
+            },
+            "properties": {
+                "name": "CARBOCOL carbones de colombia",
+                "token": "carbocol",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30882.1484375,
+                    43958.953125
+                ]
+            },
+            "properties": {
+                "name": "Cartagena",
+                "token": "cartagena",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35850.26953125,
+                    -47707.48046875
+                ]
+            },
+            "properties": {
+                "name": "La Pintada",
+                "token": "cd_juarez",
+                "population": 0,
+                "countryToken": "chihuah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3358.2265625,
+                    -44309.6328125
+                ]
+            },
+            "properties": {
+                "name": "Centro Vacacional Shamu",
+                "token": "cent_vshamu",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73070.3984375,
+                    -342.58203125
+                ]
+            },
+            "properties": {
+                "name": "Chigorodó",
+                "token": "chigorodo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34283.37109375,
+                    -62509.77734375
+                ]
+            },
+            "properties": {
+                "name": "Chinchina",
+                "token": "chinchina",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    301.2265625,
+                    22856.046875
+                ]
+            },
+            "properties": {
+                "name": "Cicuco",
+                "token": "cicuco",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3078.14453125,
+                    -32417.58984375
+                ]
+            },
+            "properties": {
+                "name": "Cisneros",
+                "token": "cisneros",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39241.80078125,
+                    23778.5
+                ]
+            },
+            "properties": {
+                "name": "Cobeñas",
+                "token": "cobenas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23687.67578125,
+                    -67197.078125
+                ]
+            },
+            "properties": {
+                "name": "Colombia cargo company",
+                "token": "colcarco",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53967.77734375,
+                    -18765.78515625
+                ]
+            },
+            "properties": {
+                "name": "Colombia cargo company Bucaramnga",
+                "token": "colcarco2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92316.734375,
+                    -83709.265625
+                ]
+            },
+            "properties": {
+                "name": "Colombia Cargo company Buenaventura",
+                "token": "colcarco3",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84137.171875,
+                    -14369.47265625
+                ]
+            },
+            "properties": {
+                "name": "Finca de Fbcrazy",
+                "token": "crazy",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80751.0859375,
+                    -9460.07421875
+                ]
+            },
+            "properties": {
+                "name": "Cucuta",
+                "token": "cucuta",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10733.37109375,
+                    -76147.5625
+                ]
+            },
+            "properties": {
+                "name": "Fusagasuga",
+                "token": "cuencame",
+                "population": 0,
+                "countryToken": "durango"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14226.61328125,
+                    -43937.23828125
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Curtimbres",
+                "token": "curtimbre",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62128.171875,
+                    -15192.11328125
+                ]
+            },
+            "properties": {
+                "name": "Dabeiba",
+                "token": "dabeiba",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67655.828125,
+                    -82047.890625
+                ]
+            },
+            "properties": {
+                "name": "Finca el Diamante",
+                "token": "diamante",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17730.640625,
+                    -64996.921875
+                ]
+            },
+            "properties": {
+                "name": "Domat S.A la Punta Cundi",
+                "token": "domat_sa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37988.57421875,
+                    -65479.841796875
+                ]
+            },
+            "properties": {
+                "name": "Dosquebradas",
+                "token": "dosqbradas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61518.68359375,
+                    -46138.8671875
+                ]
+            },
+            "properties": {
+                "name": "Duitama",
+                "token": "duitama",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28229.0859375,
+                    15118.625
+                ]
+            },
+            "properties": {
+                "name": "El banco",
+                "token": "elbanco",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48557.046875,
+                    -89108.953125
+                ]
+            },
+            "properties": {
+                "name": "El llano",
+                "token": "elllano",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33431.6171875,
+                    -36086.3828125
+                ]
+            },
+            "properties": {
+                "name": "Indusrtia el penko",
+                "token": "elpenko",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36792.46875,
+                    -37270.8125
+                ]
+            },
+            "properties": {
+                "name": "Escondite del Shamu Medellín",
+                "token": "escon_shamu",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.96875,
+                    -44579.30859375
+                ]
+            },
+            "properties": {
+                "name": "HACIENDA ESTRELLA DORADA",
+                "token": "estrella",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42882.2421875,
+                    -64928.0390625
+                ]
+            },
+            "properties": {
+                "name": "Finca J&S",
+                "token": "finca_js",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39145.17578125,
+                    -122446.09375
+                ]
+            },
+            "properties": {
+                "name": "Florencia Caquetá",
+                "token": "florencia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14210.9140625,
+                    -58996.3125
+                ]
+            },
+            "properties": {
+                "name": "Fresno Tolima",
+                "token": "fresnoo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38554.4296875,
+                    -80999.578125
+                ]
+            },
+            "properties": {
+                "name": "Finca andresito007",
+                "token": "f_adre007",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88627.609375,
+                    -58573.3046875
+                ]
+            },
+            "properties": {
+                "name": "Finca San Miguel de Don Bukisaurio",
+                "token": "f_bukisau",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59608.76171875,
+                    -110083.203125
+                ]
+            },
+            "properties": {
+                "name": "Finca Camilo rutas",
+                "token": "f_camirutas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65678.125,
+                    -51085.58203125
+                ]
+            },
+            "properties": {
+                "name": "EMBAJADA DE GUATEMALA",
+                "token": "f_guatema",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34078.9296875,
+                    -62875.48046875
+                ]
+            },
+            "properties": {
+                "name": "Finca Ines",
+                "token": "f_ines",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31588.015625,
+                    -41593.3984375
+                ]
+            },
+            "properties": {
+                "name": "Finca de Jorjolio",
+                "token": "f_jorjolio",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37137.77734375,
+                    -41927.97265625
+                ]
+            },
+            "properties": {
+                "name": "Finca la Florida",
+                "token": "f_laflorida",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34262.55078125,
+                    -32137.59375
+                ]
+            },
+            "properties": {
+                "name": "finca la Manuela",
+                "token": "f_lamanuela",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47557.3359375,
+                    -41499.0
+                ]
+            },
+            "properties": {
+                "name": "Finca los Ahijados",
+                "token": "f_losahijad",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11151.0546875,
+                    -57100.8515625
+                ]
+            },
+            "properties": {
+                "name": "Finca Oro Verde",
+                "token": "f_oroverde",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63750.26171875,
+                    -50542.40625
+                ]
+            },
+            "properties": {
+                "name": "finca la samara",
+                "token": "f_samara",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57370.3828125,
+                    -36605.05078125
+                ]
+            },
+            "properties": {
+                "name": "Finca Santanderes",
+                "token": "f_standeres",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49882.02734375,
+                    -97368.359375
+                ]
+            },
+            "properties": {
+                "name": "Finca Villa Elena",
+                "token": "f_vllelena",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54811.36328125,
+                    -43257.9921875
+                ]
+            },
+            "properties": {
+                "name": "Gambita",
+                "token": "gambita",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5261.4375,
+                    -74888.28125
+                ]
+            },
+            "properties": {
+                "name": "Girardot",
+                "token": "girardot",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23196.98828125,
+                    -76085.6640625
+                ]
+            },
+            "properties": {
+                "name": "Finca Gonz Cast",
+                "token": "goncast",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36642.7578125,
+                    -90465.109375
+                ]
+            },
+            "properties": {
+                "name": "Granada",
+                "token": "granada",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19601.60546875,
+                    -37087.5546875
+                ]
+            },
+            "properties": {
+                "name": "Guatapé",
+                "token": "guatape",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48363.5390625,
+                    -42745.1640625
+                ]
+            },
+            "properties": {
+                "name": "Guepsa",
+                "token": "guepsa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30338.53515625,
+                    -68660.453125
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Cafetera AlcortGamer",
+                "token": "hacafealcort",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33505.05078125,
+                    -69060.5546875
+                ]
+            },
+            "properties": {
+                "name": "Hacienda mi Cielito",
+                "token": "h_cielito",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70150.34375,
+                    -46669.796875
+                ]
+            },
+            "properties": {
+                "name": "Hacienda el Faraón",
+                "token": "h_faraon",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37966.08203125,
+                    -71134.59375
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Familia Sánchez",
+                "token": "h_fmlsanchez",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18623.0078125,
+                    -33880.7421875
+                ]
+            },
+            "properties": {
+                "name": "Hacienda la Isabella",
+                "token": "h_laisabella",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26604.50390625,
+                    -13100.640625
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Maria Roque",
+                "token": "h_mariaroque",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20602.2421875,
+                    -72252.484375
+                ]
+            },
+            "properties": {
+                "name": "Ibague",
+                "token": "ibague",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54040.4453125,
+                    -20589.9921875
+                ]
+            },
+            "properties": {
+                "name": "Icoharinas Bucaramanga",
+                "token": "icoharinas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20561.07421875,
+                    -70603.578125
+                ]
+            },
+            "properties": {
+                "name": "Industria Barón cervecero",
+                "token": "indbcerve",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22398.18359375,
+                    -38335.07421875
+                ]
+            },
+            "properties": {
+                "name": "Centro industrial JJ",
+                "token": "industjj",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26863.72265625,
+                    32545.0517578125
+                ]
+            },
+            "properties": {
+                "name": "Industria Cañera de la Torre",
+                "token": "ingabino",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70253.703125,
+                    -93118.953125
+                ]
+            },
+            "properties": {
+                "name": "Ingenio Ospina",
+                "token": "ingospina",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43512.1796875,
+                    14731.26171875
+                ]
+            },
+            "properties": {
+                "name": "Ingenio Ospina 2",
+                "token": "ingospina2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48260.203125,
+                    217.765625
+                ]
+            },
+            "properties": {
+                "name": "ingenio el Paisa",
+                "token": "ingpaisa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51823.94921875,
+                    -71368.2734375
+                ]
+            },
+            "properties": {
+                "name": "ingshamu",
+                "token": "ingshamu",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44644.4375,
+                    -7887.1875
+                ]
+            },
+            "properties": {
+                "name": "ingshamu2",
+                "token": "ingshamu2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56512.25390625,
+                    -107968.125
+                ]
+            },
+            "properties": {
+                "name": "Inza",
+                "token": "inza",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115446.28125,
+                    -146139.578125
+                ]
+            },
+            "properties": {
+                "name": "Ipiales",
+                "token": "ipiales",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19142.62890625,
+                    67964.40625
+                ]
+            },
+            "properties": {
+                "name": "Isla BorgiaSango",
+                "token": "islaborgia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74581.4296875,
+                    -56755.07421875
+                ]
+            },
+            "properties": {
+                "name": "Istmina",
+                "token": "istmina",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34817.40625,
+                    -73203.75
+                ]
+            },
+            "properties": {
+                "name": "Jarocho Trucks",
+                "token": "jarochotks",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4856.40234375,
+                    -59571.26171875
+                ]
+            },
+            "properties": {
+                "name": "HONDA",
+                "token": "jerez",
+                "population": 0,
+                "countryToken": "zacatecas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42854.87890625,
+                    -52359.4453125
+                ]
+            },
+            "properties": {
+                "name": "Jericó Antioquia",
+                "token": "jerico_ant",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28811.2890625,
+                    -73033.1796875
+                ]
+            },
+            "properties": {
+                "name": "Cajamarca",
+                "token": "jimenez",
+                "population": 0,
+                "countryToken": "chihuah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67351.515625,
+                    -82465.3515625
+                ]
+            },
+            "properties": {
+                "name": "Lago Calima",
+                "token": "lago_calima",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64144.09375,
+                    -50063.65234375
+                ]
+            },
+            "properties": {
+                "name": "Laguna de Tota",
+                "token": "lagutota",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86532.2578125,
+                    -147104.171875
+                ]
+            },
+            "properties": {
+                "name": "La hormiga",
+                "token": "la_hormiga",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47195.25,
+                    -111507.421875
+                ]
+            },
+            "properties": {
+                "name": "La plata",
+                "token": "la_plata",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9473.1171875,
+                    -97606.875
+                ]
+            },
+            "properties": {
+                "name": "La uribe",
+                "token": "la_uribe",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32608.1435546875,
+                    14446.39453125
+                ]
+            },
+            "properties": {
+                "name": "La Ye",
+                "token": "la_ye",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38082.21875,
+                    -72846.3515625
+                ]
+            },
+            "properties": {
+                "name": "Letras y Logos S.A",
+                "token": "letra_logo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10463.52734375,
+                    -76852.1953125
+                ]
+            },
+            "properties": {
+                "name": "los pipones de OscarvaGp",
+                "token": "lospipones",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46874.06640625,
+                    68604.0234375
+                ]
+            },
+            "properties": {
+                "name": "Providencia",
+                "token": "los_mochis",
+                "population": 0,
+                "countryToken": "sinaloa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30664.38671875,
+                    -43074.21484375
+                ]
+            },
+            "properties": {
+                "name": "Maderas de Jorjolio el Paisa",
+                "token": "madejorjo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15719.49609375,
+                    -82184.8125
+                ]
+            },
+            "properties": {
+                "name": "Green wood hill colombia maderas",
+                "token": "maderasguamo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3146.109375,
+                    21577.71484375
+                ]
+            },
+            "properties": {
+                "name": "Magangue",
+                "token": "magangue",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31636.71484375,
+                    -59387.78515625
+                ]
+            },
+            "properties": {
+                "name": "Manizales",
+                "token": "manizales",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39235.375,
+                    22713.23828125
+                ]
+            },
+            "properties": {
+                "name": "Finca la Maquina",
+                "token": "maqui",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63347.265625,
+                    -111462.796875
+                ]
+            },
+            "properties": {
+                "name": "las Margaritas",
+                "token": "margaritas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9906.80078125,
+                    -58735.34765625
+                ]
+            },
+            "properties": {
+                "name": "Mariquita",
+                "token": "mariquita",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36761.74609375,
+                    -50488.0390625
+                ]
+            },
+            "properties": {
+                "name": "Minas BLAZE GOLD COMPANY",
+                "token": "marmat",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53760.4921875,
+                    -14292.45703125
+                ]
+            },
+            "properties": {
+                "name": "Matanza JRM",
+                "token": "matanza",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35164.62890625,
+                    -38784.41796875
+                ]
+            },
+            "properties": {
+                "name": "Medellin",
+                "token": "medellin",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.91407012939453,
+                    -78279.5546875
+                ]
+            },
+            "properties": {
+                "name": "Melgar",
+                "token": "melgar",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11973.359375,
+                    -53693.765625
+                ]
+            },
+            "properties": {
+                "name": "Minas de diamante y zafiro de Muzo",
+                "token": "minas_muzo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75660.0546875,
+                    -133787.453125
+                ]
+            },
+            "properties": {
+                "name": "Mocoa",
+                "token": "mocoa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10632.51953125,
+                    19900.34765625
+                ]
+            },
+            "properties": {
+                "name": "Mompóx",
+                "token": "monpos",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25157.28125,
+                    -69371.625
+                ]
+            },
+            "properties": {
+                "name": "Monserrate",
+                "token": "monserrate",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47106.8515625,
+                    11223.94921875
+                ]
+            },
+            "properties": {
+                "name": "Monteria",
+                "token": "monteria",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68450.0625,
+                    -6142.90234375
+                ]
+            },
+            "properties": {
+                "name": "Mutatá",
+                "token": "mutata",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9442.0234375,
+                    -52328.65625
+                ]
+            },
+            "properties": {
+                "name": "Muzo",
+                "token": "muzo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19878.37890625,
+                    -74384.0078125
+                ]
+            },
+            "properties": {
+                "name": "M&S eventos y logística",
+                "token": "myslogist",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23330.421875,
+                    -103099.0625
+                ]
+            },
+            "properties": {
+                "name": "Neiva",
+                "token": "neiva",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26890.77734375,
+                    -58302.390625
+                ]
+            },
+            "properties": {
+                "name": "Nevado del Ruiz",
+                "token": "nev_ruiz",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -810.27734375,
+                    -52849.51953125
+                ]
+            },
+            "properties": {
+                "name": "La Dorada",
+                "token": "nvo_casas",
+                "population": 0,
+                "countryToken": "chihuah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118079.96875,
+                    -147088.140625
+                ]
+            },
+            "properties": {
+                "name": "Oasis MexCol",
+                "token": "oasimexcol",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46953.15234375,
+                    -1096.4687194824219
+                ]
+            },
+            "properties": {
+                "name": "Ocaña",
+                "token": "ocana",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -37842.28515625,
+                    -56861.3125
+                ]
+            },
+            "properties": {
+                "name": "Irra",
+                "token": "ojinaga",
+                "population": 0,
+                "countryToken": "chihuah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52978.16015625,
+                    -120248.296875
+                ]
+            },
+            "properties": {
+                "name": "Oparapa",
+                "token": "oporapa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2783.41796875,
+                    -44883.23046875
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Osfersango",
+                "token": "osfer",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62502.83984375,
+                    -92467.359375
+                ]
+            },
+            "properties": {
+                "name": "Palmira",
+                "token": "palmira",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73222.78125,
+                    -15302.8125
+                ]
+            },
+            "properties": {
+                "name": "Pamplona",
+                "token": "pamplona",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99058.3984375,
+                    -136571.109375
+                ]
+            },
+            "properties": {
+                "name": "Pasto",
+                "token": "pasto",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39545.453125,
+                    -65351.625
+                ]
+            },
+            "properties": {
+                "name": "Pereira",
+                "token": "pereira",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52180.78125,
+                    -51034.78515625
+                ]
+            },
+            "properties": {
+                "name": "Tunja",
+                "token": "pinos",
+                "population": 0,
+                "countryToken": "zacatecas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52865.94140625,
+                    -123852.453125
+                ]
+            },
+            "properties": {
+                "name": "Pitalito",
+                "token": "pitalito",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31359.24609375,
+                    4010.4765625
+                ]
+            },
+            "properties": {
+                "name": "Planeta rica",
+                "token": "planetarica",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24024.9296875,
+                    -69347.875
+                ]
+            },
+            "properties": {
+                "name": "Plaza de Bolivar Bogotá",
+                "token": "plz_bolivar",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75064.359375,
+                    -111276.515625
+                ]
+            },
+            "properties": {
+                "name": "Popayan",
+                "token": "popayan",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    485.6484680175781,
+                    -52348.22265625
+                ]
+            },
+            "properties": {
+                "name": "Base militar PuertoSalgar",
+                "token": "psalgar",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22598.78515625,
+                    -32392.84765625
+                ]
+            },
+            "properties": {
+                "name": "Puerto Araujo",
+                "token": "ptoaraujo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2140.4765625,
+                    -42048.1875
+                ]
+            },
+            "properties": {
+                "name": "Puerto Boyaca",
+                "token": "ptoboyaca",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1334.3359680175781,
+                    -45356.50390625
+                ]
+            },
+            "properties": {
+                "name": "Puerto triunfo",
+                "token": "ptotriunfo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    837.2656555175781,
+                    -56551.3359375
+                ]
+            },
+            "properties": {
+                "name": "Puerto Vargas",
+                "token": "ptovargas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25311.33203125,
+                    -12865.54296875
+                ]
+            },
+            "properties": {
+                "name": "Puerto Antioquia",
+                "token": "pto_antioq",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142464.5,
+                    -38827.65234375
+                ]
+            },
+            "properties": {
+                "name": "Puerto Carreno",
+                "token": "pto_carreno",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50950.48828125,
+                    -80838.921875
+                ]
+            },
+            "properties": {
+                "name": "Puerto Gaitan",
+                "token": "puetog",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26328.59375,
+                    -17287.078125
+                ]
+            },
+            "properties": {
+                "name": "Puerto Valdivia",
+                "token": "p_valdivia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74183.3671875,
+                    -48562.625
+                ]
+            },
+            "properties": {
+                "name": "Quibdo",
+                "token": "quibdo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41173.92578125,
+                    -58188.796875
+                ]
+            },
+            "properties": {
+                "name": "Quinchia",
+                "token": "quinchia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33876.65625,
+                    62530.2421875
+                ]
+            },
+            "properties": {
+                "name": "Rioacha",
+                "token": "rioacha",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22292.3359375,
+                    -76635.796875
+                ]
+            },
+            "properties": {
+                "name": "Rovira",
+                "token": "rovira",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27430.99609375,
+                    19735.58984375
+                ]
+            },
+            "properties": {
+                "name": "Sampues",
+                "token": "sampues",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49430.48828125,
+                    60814.98046875
+                ]
+            },
+            "properties": {
+                "name": "San Andres islas",
+                "token": "sandresislas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15789.94580078125,
+                    57199.265625
+                ]
+            },
+            "properties": {
+                "name": "Santa Marta",
+                "token": "santamarta",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34658.62890625,
+                    -43923.8125
+                ]
+            },
+            "properties": {
+                "name": "POLLO GAMER 46",
+                "token": "santiagopap",
+                "population": 0,
+                "countryToken": "durango"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115109.703125,
+                    -147068.78125
+                ]
+            },
+            "properties": {
+                "name": "Santuario de las lajas",
+                "token": "sant_lajas",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28598.41796875,
+                    -113306.9765625
+                ]
+            },
+            "properties": {
+                "name": "San Vicente del Caguan",
+                "token": "sanvi_caguan",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47950.8359375,
+                    -10763.34765625
+                ]
+            },
+            "properties": {
+                "name": "San Alberto",
+                "token": "san_alberto",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55948.18359375,
+                    -38899.75
+                ]
+            },
+            "properties": {
+                "name": "San Gil",
+                "token": "san_gil",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33407.0,
+                    -32527.0
+                ]
+            },
+            "properties": {
+                "name": "San pedro",
+                "token": "san_pedro",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21294.82421875,
+                    -70765.0078125
+                ]
+            },
+            "properties": {
+                "name": "SCS ingenieria",
+                "token": "scsingenie",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47227.37109375,
+                    -528.76953125
+                ]
+            },
+            "properties": {
+                "name": "Finca las Rocas",
+                "token": "sergiourqui",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24502.38671875,
+                    -69950.1328125
+                ]
+            },
+            "properties": {
+                "name": "Serro de Guadalupe",
+                "token": "serro_guada",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -36154.703125,
+                    -37051.09375
+                ]
+            },
+            "properties": {
+                "name": "Shamu S.A Medellín",
+                "token": "shamu_medell",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30710.53125,
+                    43155.8984375
+                ]
+            },
+            "properties": {
+                "name": "SHAMU HOTEL AND RESORT",
+                "token": "shamu_resort",
+                "population": 0,
+                "countryToken": "new_mexico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13661.4609375,
+                    53459.62890625
+                ]
+            },
+            "properties": {
+                "name": "Shamu S.A Santa Marta",
+                "token": "shamu_santm",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35568.23046875,
+                    59236.234375
+                ]
+            },
+            "properties": {
+                "name": "Sierra Nevada de Santa Marta",
+                "token": "sierran",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27656.546875,
+                    21869.7890625
+                ]
+            },
+            "properties": {
+                "name": "Sincelejo",
+                "token": "sincelejo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60481.43359375,
+                    -102275.6875
+                ]
+            },
+            "properties": {
+                "name": "San Jose del Guaviare",
+                "token": "sjguaviare",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33320.17578125,
+                    -73391.796875
+                ]
+            },
+            "properties": {
+                "name": "solo alerta",
+                "token": "soloalerta",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61262.09375,
+                    -34798.0390625
+                ]
+            },
+            "properties": {
+                "name": "Solucargo SanGil",
+                "token": "solucargo1",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38458.90625,
+                    -71481.6484375
+                ]
+            },
+            "properties": {
+                "name": "Solucargo2",
+                "token": "solucargo2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39164.8984375,
+                    -81399.546875
+                ]
+            },
+            "properties": {
+                "name": "Surtimax recreo",
+                "token": "surtimax",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11519.9140625,
+                    -77285.015625
+                ]
+            },
+            "properties": {
+                "name": "Thelion Tatto",
+                "token": "telio_tato",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32906.44921875,
+                    -64756.7421875
+                ]
+            },
+            "properties": {
+                "name": "termales de santa rosa",
+                "token": "termales",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -922.94140625,
+                    -78023.078125
+                ]
+            },
+            "properties": {
+                "name": "Fuerte militar Tolemaida",
+                "token": "tolemaida",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70883.3359375,
+                    -111047.171875
+                ]
+            },
+            "properties": {
+                "name": "Totoró",
+                "token": "totoro",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -35307.28125,
+                    -39536.37109375
+                ]
+            },
+            "properties": {
+                "name": "Transporte Betancur Jaramillo",
+                "token": "transbetjara",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55485.58984375,
+                    -21738.421875
+                ]
+            },
+            "properties": {
+                "name": "Trans Truper 86",
+                "token": "truper86",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60457.75,
+                    -79208.859375
+                ]
+            },
+            "properties": {
+                "name": "Tulua",
+                "token": "tulua",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126052.1875,
+                    -139306.046875
+                ]
+            },
+            "properties": {
+                "name": "Tumaco",
+                "token": "tumaco",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77707.921875,
+                    6601.9453125
+                ]
+            },
+            "properties": {
+                "name": "turbo",
+                "token": "turbo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59097.80078125,
+                    -17967.828125
+                ]
+            },
+            "properties": {
+                "name": "Uramita",
+                "token": "uramita",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53581.97265625,
+                    -32162.796875
+                ]
+            },
+            "properties": {
+                "name": "Urrao",
+                "token": "urrao",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45872.140625,
+                    42286.06640625
+                ]
+            },
+            "properties": {
+                "name": "Valledupar",
+                "token": "valledupar",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46911.4765625,
+                    -27993.0078125
+                ]
+            },
+            "properties": {
+                "name": "Finca Villa Ines",
+                "token": "villaines",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83631.7265625,
+                    -12017.93359375
+                ]
+            },
+            "properties": {
+                "name": "Villa del Rosario",
+                "token": "villarosario",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38026.3671875,
+                    -82037.484375
+                ]
+            },
+            "properties": {
+                "name": "Villavicencio",
+                "token": "villavicenc",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49196.42578125,
+                    -89396.8984375
+                ]
+            },
+            "properties": {
+                "name": "Hacienda Wacax",
+                "token": "wacax",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4810.75,
+                    -37845.5546875
+                ]
+            },
+            "properties": {
+                "name": "HACIENDA WORLD LOGISTICS",
+                "token": "world_log",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28489.51953125,
+                    -24019.07421875
+                ]
+            },
+            "properties": {
+                "name": "Yarumal",
+                "token": "yarumal",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64682.796875,
+                    -47393.25390625
+                ]
+            },
+            "properties": {
+                "name": "Finca Yeison",
+                "token": "yeiso",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71494.078125,
+                    -46682.7265625
+                ]
+            },
+            "properties": {
+                "name": "Yopal",
+                "token": "yopal",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12777.22265625,
+                    -85135.78125
+                ]
+            },
+            "properties": {
+                "name": "Guamo",
+                "token": "zacatecas",
+                "population": 0,
+                "countryToken": "zacatecas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25027.609375,
+                    -61884.03515625
+                ]
+            },
+            "properties": {
+                "name": "Zipaquirá",
+                "token": "zipaquira",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21510.39453125,
+                    -70314.078125
+                ]
+            },
+            "properties": {
+                "name": "Zona Franca Bogota Shamu",
+                "token": "znfranca",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62034.10546875,
+                    -79865.96875
+                ]
+            },
+            "properties": {
+                "name": "Rancho 5H",
+                "token": "5h",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45389.6796875,
+                    -57934.4453125
+                ]
+            },
+            "properties": {
+                "name": "Anserma",
+                "token": "anserma",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22321.3515625,
+                    4861.640625
+                ]
+            },
+            "properties": {
+                "name": "Ayapel",
+                "token": "ayapel",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28638.71875,
+                    -51339.078125
+                ]
+            },
+            "properties": {
+                "name": "Carmen de Carupa",
+                "token": "ca_carupa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41509.31640625,
+                    -26193.82421875
+                ]
+            },
+            "properties": {
+                "name": "Finca Cacotruck",
+                "token": "cacotruck",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33587.66796875,
+                    -37266.06640625
+                ]
+            },
+            "properties": {
+                "name": "Colombian Trucking Company",
+                "token": "col_trukcomp",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26941.37890625,
+                    44009.16796875
+                ]
+            },
+            "properties": {
+                "name": "Finca coovicol",
+                "token": "coovicol",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43380.0078125,
+                    -56695.8203125
+                ]
+            },
+            "properties": {
+                "name": "Empresa World Logistics",
+                "token": "empr_worl",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67354.296875,
+                    -93748.421875
+                ]
+            },
+            "properties": {
+                "name": "Finca Neyfer Col",
+                "token": "f_alvarado",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8255.961181640625,
+                    -56621.90625
+                ]
+            },
+            "properties": {
+                "name": "Finca Andres Campos",
+                "token": "f_andrcampo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11131.2890625,
+                    -44878.0546875
+                ]
+            },
+            "properties": {
+                "name": "Motel Mario Argueta 69",
+                "token": "f_argueta",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -30801.96875,
+                    -20838.671875
+                ]
+            },
+            "properties": {
+                "name": "finca Camilo rutas 1",
+                "token": "f_camiruta1",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26395.3828125,
+                    -19415.61328125
+                ]
+            },
+            "properties": {
+                "name": "Finca Don Gabo",
+                "token": "f_dongabo",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5524.19140625,
+                    -67476.59375
+                ]
+            },
+            "properties": {
+                "name": "Finca Francisco Castro",
+                "token": "f_francastro",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55104.26171875,
+                    -26926.43359375
+                ]
+            },
+            "properties": {
+                "name": "Finca de Kalimocho",
+                "token": "f_kalimocho",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31566.1484375,
+                    -46971.24609375
+                ]
+            },
+            "properties": {
+                "name": "Finca Kanetrucker",
+                "token": "f_kane",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39249.94921875,
+                    -46980.37109375
+                ]
+            },
+            "properties": {
+                "name": "Finca la Botero",
+                "token": "f_labotero",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57376.7890625,
+                    -76584.4453125
+                ]
+            },
+            "properties": {
+                "name": "Finca Maria Garcia",
+                "token": "f_magarcia",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29109.57421875,
+                    -52459.75390625
+                ]
+            },
+            "properties": {
+                "name": "Finca Martínez",
+                "token": "f_martinez",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96647.0390625,
+                    -10770.1640625
+                ]
+            },
+            "properties": {
+                "name": "Finca de Mauro",
+                "token": "f_mauro",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72372.328125,
+                    -96366.109375
+                ]
+            },
+            "properties": {
+                "name": "Finca Miguel Truck",
+                "token": "f_migueltru",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89141.34375,
+                    -129521.328125
+                ]
+            },
+            "properties": {
+                "name": "Finca mi mona linda",
+                "token": "f_monalinda",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21675.2890625,
+                    -102941.359375
+                ]
+            },
+            "properties": {
+                "name": "Finca Venus del Blacon",
+                "token": "f_venublaco",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9701.5703125,
+                    -64568.80078125
+                ]
+            },
+            "properties": {
+                "name": "Facatativa",
+                "token": "facatativa",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50939.7890625,
+                    -81383.453125
+                ]
+            },
+            "properties": {
+                "name": "Genova",
+                "token": "genova",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24216.55859375,
+                    -20827.66015625
+                ]
+            },
+            "properties": {
+                "name": "Gonzalez Ranch",
+                "token": "go_ranch",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33117.71875,
+                    -81405.4375
+                ]
+            },
+            "properties": {
+                "name": "G&B LOGISTIC COLOMBIA",
+                "token": "gyblogcolomb",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32701.8515625,
+                    -18155.640625
+                ]
+            },
+            "properties": {
+                "name": "Hacienda las Cabras",
+                "token": "h_cabras",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57148.11328125,
+                    328.16015625
+                ]
+            },
+            "properties": {
+                "name": "Hidroeléctrica Urrá",
+                "token": "hidro_urra",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20658.609375,
+                    -70957.9296875
+                ]
+            },
+            "properties": {
+                "name": "Icoharinas Bogota",
+                "token": "icoharinas2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45042.7421875,
+                    -55721.06640625
+                ]
+            },
+            "properties": {
+                "name": "Jardin Antioquia",
+                "token": "jardin_ant",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20925.41015625,
+                    -67201.40625
+                ]
+            },
+            "properties": {
+                "name": "Kanetruckers Logistics",
+                "token": "kanetrubog",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5695.14453125,
+                    -57171.74609375
+                ]
+            },
+            "properties": {
+                "name": "La Peña Cundinamarca",
+                "token": "lapena_cundi",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22007.91796875,
+                    -2523.8125
+                ]
+            },
+            "properties": {
+                "name": "Luis las Cabras",
+                "token": "lui_cabras",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81245.5625,
+                    -52521.703125
+                ]
+            },
+            "properties": {
+                "name": "San Judas Tadeo",
+                "token": "maderasbuki1",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83953.7421875,
+                    -35953.28515625
+                ]
+            },
+            "properties": {
+                "name": "Pipiles",
+                "token": "maderasbuki2",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86915.7421875,
+                    -18962.375
+                ]
+            },
+            "properties": {
+                "name": "Hualama",
+                "token": "maderasbuki3",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20204.10546875,
+                    -57259.6875
+                ]
+            },
+            "properties": {
+                "name": "Manzanares",
+                "token": "manzanares",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -26550.10546875,
+                    -41508.36328125
+                ]
+            },
+            "properties": {
+                "name": "Mosky Aviation",
+                "token": "mosky_avio",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20722.23828125,
+                    -53586.86328125
+                ]
+            },
+            "properties": {
+                "name": "Pensilvania",
+                "token": "pensilvania",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49404.8984375,
+                    -88918.328125
+                ]
+            },
+            "properties": {
+                "name": "Rancho de Alvaretto",
+                "token": "r_alvaretto",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43076.171875,
+                    -54742.796875
+                ]
+            },
+            "properties": {
+                "name": "Riosucio",
+                "token": "riosucio",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -34254.046875,
+                    -45311.56640625
+                ]
+            },
+            "properties": {
+                "name": "Santa Barbara",
+                "token": "sant_barb",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54714.15625,
+                    -54.9375
+                ]
+            },
+            "properties": {
+                "name": "Tierralta Cordoba",
+                "token": "tierralta",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33790.12890625,
+                    -54295.74609375
+                ]
+            },
+            "properties": {
+                "name": "Ubaté",
+                "token": "ubate",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50917.1015625,
+                    -124596.046875
+                ]
+            },
+            "properties": {
+                "name": "Volcan de XTRINK",
+                "token": "volcan",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52597.09375,
+                    53962.8515625
+                ]
+            },
+            "properties": {
+                "name": "Maicao",
+                "token": "maicao",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32716.453125,
+                    -53560.91796875
+                ]
+            },
+            "properties": {
+                "name": "Finca de Kelvin",
+                "token": "kelvin",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31209.03515625,
+                    -53519.1484375
+                ]
+            },
+            "properties": {
+                "name": "Finca de Knuñez",
+                "token": "knunez",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31001.31640625,
+                    -55881.4765625
+                ]
+            },
+            "properties": {
+                "name": "Finca de Luigplay",
+                "token": "luigplay",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32795.0283203125,
+                    -55258.609375
+                ]
+            },
+            "properties": {
+                "name": "Finca de Albert_rge",
+                "token": "albertrge",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -33091.5234375,
+                    -56768.98046875
+                ]
+            },
+            "properties": {
+                "name": "Finca de Chris",
+                "token": "chris",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -32963.4384765625,
+                    -57462.6796875
+                ]
+            },
+            "properties": {
+                "name": "Finca de Alpiste",
+                "token": "alpiste",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31710.30078125,
+                    -52323.08984375
+                ]
+            },
+            "properties": {
+                "name": "Finca de Orejag",
+                "token": "orejag",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28380.1015625,
+                    -52816.76171875
+                ]
+            },
+            "properties": {
+                "name": "Finca de Juan Ramon CT",
+                "token": "juanramon",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21444.76171875,
+                    -41920.53125
+                ]
+            },
+            "properties": {
+                "name": "Hacienda la Elite",
+                "token": "laelite",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38044.18359375,
+                    -123884.578125
+                ]
+            },
+            "properties": {
+                "name": "La finca de Falex",
+                "token": "f_falex",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31593.12109375,
+                    -29794.796875
+                ]
+            },
+            "properties": {
+                "name": "Finca de Baronety",
+                "token": "f_baronety",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20083.11328125,
+                    -46994.7890625
+                ]
+            },
+            "properties": {
+                "name": "Fonda de Arkamax",
+                "token": "fonda_elite",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67487.859375,
+                    1068.09375
+                ]
+            },
+            "properties": {
+                "name": "Finca FULLtech",
+                "token": "f_fulltech",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22857.58203125,
+                    -57642.50390625
+                ]
+            },
+            "properties": {
+                "name": "La finca de Alexis Miranda",
+                "token": "f_alexis",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29271.84375,
+                    44970.42578125
+                ]
+            },
+            "properties": {
+                "name": "La Cabaña del KOFLA",
+                "token": "c_kofla",
+                "population": 0,
+                "countryToken": "california"
+            }
+        }
+    ]
+}

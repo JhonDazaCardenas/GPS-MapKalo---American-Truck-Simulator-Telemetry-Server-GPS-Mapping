@@ -1,0 +1,644 @@
+[
+  {
+    "token": "arizona",
+    "name": "Arizona ko",
+    "id": 3,
+    "x": -72000,
+    "y": 22000,
+    "code": "AZ",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "arkansas",
+    "name": "",
+    "id": 19,
+    "x": 17000,
+    "y": 20000,
+    "code": "AR",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "california",
+    "name": "",
+    "id": 1,
+    "x": -100000,
+    "y": 4000,
+    "code": "CA",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 55
+      }
+    }
+  },
+  {
+    "token": "colorado",
+    "name": "",
+    "id": 7,
+    "x": -43000,
+    "y": -2000,
+    "code": "CO",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 35
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "idaho",
+    "name": "",
+    "id": 13,
+    "x": -76000,
+    "y": -41000,
+    "code": "ID",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "iowa",
+    "name": "Iowa",
+    "id": 21,
+    "x": 10000,
+    "y": -17000,
+    "code": "IA",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "kansas",
+    "name": "",
+    "id": 17,
+    "x": -10000,
+    "y": 3000,
+    "code": "KS",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "louisiana",
+    "name": "Louisiana",
+    "id": 22,
+    "x": 18000,
+    "y": 45500,
+    "code": "LA",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 75,
+        "urbanLimit": 60
+      }
+    }
+  },
+  {
+    "token": "missouri",
+    "name": "",
+    "id": 26,
+    "x": 15000,
+    "y": 4000,
+    "code": "MO",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 65,
+        "urbanLimit": 40
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 40
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 60
+      }
+    }
+  },
+  {
+    "token": "montana",
+    "name": "",
+    "id": 27,
+    "x": -52000,
+    "y": -48000,
+    "code": "MT",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 35
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "nebraska",
+    "name": "",
+    "id": 18,
+    "x": -15000,
+    "y": -15000,
+    "code": "NE",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "nevada",
+    "name": "",
+    "id": 2,
+    "x": -90000,
+    "y": -14000,
+    "code": "NV",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "new_mexico",
+    "name": "",
+    "id": 31,
+    "x": -45000,
+    "y": 24000,
+    "code": "NM",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 35
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 75
+      }
+    }
+  },
+  {
+    "token": "oklahoma",
+    "name": "",
+    "id": 36,
+    "x": -6000,
+    "y": 17000,
+    "code": "OK",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 35
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 80,
+        "urbanLimit": 35
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 80,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "oregon",
+    "name": "",
+    "id": 37,
+    "x": -97000,
+    "y": -42000,
+    "code": "OR",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 25
+      },
+      "freeway": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 60
+      }
+    }
+  },
+  {
+    "token": "texas",
+    "name": "",
+    "id": 43,
+    "x": -15000,
+    "y": 44000,
+    "code": "TX",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 80,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "utah",
+    "name": "",
+    "id": 44,
+    "x": -67000,
+    "y": -9000,
+    "code": "UT",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 70
+      }
+    }
+  },
+  {
+    "token": "washington",
+    "name": "",
+    "id": 47,
+    "x": -93000,
+    "y": -62500,
+    "code": "WA",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 60
+      }
+    }
+  },
+  {
+    "token": "wyoming",
+    "name": "",
+    "id": 50,
+    "x": -47500,
+    "y": -25000,
+    "code": "WY",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
+    "token": "chihuahua",
+    "name": "",
+    "id": 104,
+    "x": -51000,
+    "y": 54000,
+    "code": "CHIH.MX",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 55
+      }
+    }
+  },
+  {
+    "token": "nayarit",
+    "name": "",
+    "id": 107,
+    "x": -48000,
+    "y": 96000,
+    "code": "NAY.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "zacatecas",
+    "name": "",
+    "id": 105,
+    "x": -37000,
+    "y": 87000,
+    "code": "ZAC.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "aguasca",
+    "name": "",
+    "id": 106,
+    "x": -34500,
+    "y": 96500,
+    "code": "AGS.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "sanluis",
+    "name": "",
+    "id": 108,
+    "x": -22287.25,
+    "y": 97000,
+    "code": "SLP.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "sinaloa",
+    "name": "",
+    "id": 102,
+    "x": -61000,
+    "y": 74000,
+    "code": "SIN.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "bajacalifo",
+    "name": "",
+    "id": 100,
+    "x": -95000,
+    "y": 38000,
+    "code": "BCN.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "bajacalisu",
+    "name": "",
+    "id": 99,
+    "x": -80000,
+    "y": 65000,
+    "code": "BCS.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "durango",
+    "name": "",
+    "id": 103,
+    "x": -46000,
+    "y": 79000,
+    "code": "DGO.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "chihuah",
+    "name": "",
+    "id": 104,
+    "x": -51000,
+    "y": 54000,
+    "code": "CHIH.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "coahuil",
+    "name": "",
+    "id": 110,
+    "x": -31000,
+    "y": 66000,
+    "code": "COAH.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "colima",
+    "name": "",
+    "id": 111,
+    "x": -44000,
+    "y": 112500,
+    "code": "COL.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "jalisco",
+    "name": "",
+    "id": 109,
+    "x": -41000,
+    "y": 105000,
+    "code": "JAL.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "sonora",
+    "name": "",
+    "id": 101,
+    "x": -71000,
+    "y": 47000,
+    "code": "SON.MX",
+    "truckSpeedLimits": {}
+  },
+  {
+    "token": "wtexas",
+    "name": "",
+    "id": 51,
+    "x": -14700,
+    "y": 42100,
+    "code": "TX",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 55,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 60
+      }
+    }
+  }
+]

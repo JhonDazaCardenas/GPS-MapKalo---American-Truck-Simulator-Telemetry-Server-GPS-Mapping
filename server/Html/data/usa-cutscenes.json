@@ -1,0 +1,94 @@
+[
+  {
+    "uid": "55dec1db5880014a",
+    "type": 46,
+    "x": -30391.0234375,
+    "y": -44768.671875,
+    "dlcGuard": 0,
+    "flags": 0,
+    "tags": [],
+    "nodeUid": "55dec1da610003fd",
+    "actionStringParams": [
+      "create",
+      "viewpoint",
+      "shot1c 1.2 1.2 | shot2c 1.2 1.2 | shot3c 1.2 1.2  | shot4c 1.2 1.2 | shot5c 1.2 1.2",
+      "actions",
+      "ui_create 0.0 \"ui\" \"/ui/viewpoint_cutscene.sii\"",
+      "ui_value 0.0 \"ui\" \"@@wa_cut_seaport@@\"",
+      "ui_show 1.0 \"ui\"",
+      "ui_hide 10.0 \"ui\"",
+      "play_once"
+    ],
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "45fbfbe4bc400001",
+    "type": 46,
+    "x": -38915.921875,
+    "y": 65491.734375,
+    "dlcGuard": 0,
+    "flags": 0,
+    "tags": [],
+    "nodeUid": "45fbfbe4f8c00000",
+    "actionStringParams": [
+      "create",
+      "viewpoint",
+      "shot1 0.5 0.5 | shot2 0.5 0.5 | shot3 0.5 0.5",
+      "actions",
+      "ui_create 0.0 \"ui\" \"/ui/viewpoint_cutscene.sii\"",
+      "ui_value 0.0 \"ui\" \"@@VIADUCTO, CESAR, GAVIRIA, TRUJILLO, 1997@@\"",
+      "ui_show 1.0 \"ui\"",
+      "ui_hide 5.0 \"ui\"",
+      "play_once"
+    ],
+    "sectorX": -10,
+    "sectorY": 16
+  },
+  {
+    "uid": "4630c034f3c00000",
+    "type": 46,
+    "x": -55961.47265625,
+    "y": 108204.0234375,
+    "dlcGuard": 0,
+    "flags": 0,
+    "tags": [],
+    "nodeUid": "4630c034d4c00004",
+    "actionStringParams": [
+      "create",
+      "viewpoint",
+      "shot1 0.5 0.5 | shot2 0.5 0.5 | shot3 0.5 0.5",
+      "actions",
+      "ui_create 0.0 \"ui\" \"/ui/viewpoint_cutscene.sii\"",
+      "ui_value 0.0 \"ui\" \"@@RIO,PAEZ,ARENERO,JJ@@\"",
+      "ui_show 1.0 \"ui\"",
+      "ui_hide 5.0 \"ui\"",
+      "play_once"
+    ],
+    "sectorX": -14,
+    "sectorY": 27
+  },
+  {
+    "uid": "55dec71f8300014a",
+    "type": 46,
+    "x": -126637.453125,
+    "y": 139689.90625,
+    "dlcGuard": 0,
+    "flags": 0,
+    "tags": [],
+    "nodeUid": "55dec71e768003fd",
+    "actionStringParams": [
+      "create",
+      "viewpoint",
+      "shot1c 1.2 1.2 | shot2c 1.2 1.2 | shot3c 1.2 1.2  | shot4c 1.2 1.2 | shot5c 1.2 1.2",
+      "actions",
+      "ui_create 0.0 \"ui\" \"/ui/viewpoint_cutscene.sii\"",
+      "ui_value 0.0 \"ui\" \"@@wa_cut_seaport@@\"",
+      "ui_show 1.0 \"ui\"",
+      "ui_hide 10.0 \"ui\"",
+      "play_once"
+    ],
+    "sectorX": -32,
+    "sectorY": 34
+  }
+]

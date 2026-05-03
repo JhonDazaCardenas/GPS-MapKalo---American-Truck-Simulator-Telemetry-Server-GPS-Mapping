@@ -1,0 +1,26 @@
+{
+    "name": "funbit.ets.telemetry.mobile",
+    "version": "1.0.0",
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-camera": {},
+            "cordova-plugin-android-permissions": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-insomnia": {},
+            "cordova-plugin-tts": {},
+            "@moodlehq/cordova-plugin-qrscanner": {}
+        },
+        "platforms": [
+            "android"
+        ]
+    },
+    "devDependencies": {
+        "@moodlehq/cordova-plugin-qrscanner": "^3.0.1-moodle.6",
+        "cordova-android": "^14.0.0",
+        "cordova-plugin-android-permissions": "^1.1.5",
+        "cordova-plugin-camera": "^8.0.0",
+        "cordova-plugin-device": "^3.0.0",
+        "cordova-plugin-insomnia": "^4.3.0",
+        "cordova-plugin-tts": "^0.2.3"
+    }
+}

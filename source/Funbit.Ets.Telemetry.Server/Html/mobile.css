@@ -1,0 +1,470 @@
+/* ============================================
+   ESTILOS MÓVIL - GPS MapKalo
+   DevZeros S.A.S - Optimizado para conducción
+   ============================================ */
+
+/* VIEWPORT MÓVIL */
+@media (max-width: 768px) {
+
+    /* CONTENEDOR PRINCIPAL DEL UI */
+    #ui-overlay {
+        top: auto !important;
+        bottom: 10px !important;
+        left: 50% !important;
+        right: auto !important;
+        transform: translateX(-50%) !important;
+        width: calc(100vw - 24px) !important;
+        max-width: 340px !important;
+        z-index: 1000 !important;
+        pointer-events: none !important;
+    }
+
+    .job-card {
+        background: rgba(20, 20, 30, 0.98) !important;
+        backdrop-filter: blur(20px) !important;
+        padding: 12px !important;
+        border-radius: 16px !important;
+        border-left: none !important;
+        border-top: 3px solid #8B5CF6 !important;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4) !important;
+        pointer-events: all !important;
+    }
+
+    /* HEADER - VELOCIDAD Y COMBUSTIBLE */
+    #header-mini {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        gap: 10px !important;
+        padding-bottom: 10px !important;
+        margin-bottom: 8px !important;
+        border-bottom: 1px solid rgba(139, 92, 246, 0.15) !important;
+    }
+
+    #ui-speed {
+        font-size: 44px !important;
+        font-weight: 900 !important;
+        line-height: 1 !important;
+        color: white !important;
+        font-family: 'Monaco', 'Courier New', monospace !important;
+        text-shadow: 0 0 15px rgba(139, 92, 246, 0.6) !important;
+        letter-spacing: 2px !important;
+    }
+
+    #ui-speed + span {
+        font-size: 14px !important;
+        color: #8B5CF6 !important;
+        font-weight: 700 !important;
+    }
+
+    #ui-fuel-percent {
+        font-size: 26px !important;
+        font-weight: 900 !important;
+        color: #00f2ff !important;
+        font-family: monospace !important;
+    }
+
+    .fuel-icon {
+        width: 44px !important;
+        height: 44px !important;
+    }
+
+    /* INFO ROWS - MÁS GRANDES Y LEGIBLES */
+    .info-row {
+        background: rgba(255, 255, 255, 0.95) !important;
+        padding: 8px 10px !important;
+        border-radius: 10px !important;
+        margin-bottom: 6px !important;
+        border: 1px solid rgba(139, 92, 246, 0.25) !important;
+    }
+
+    .info-row .label {
+        font-size: 11px !important;
+        color: #666 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1.5px !important;
+        font-weight: 700 !important;
+        margin-bottom: 4px !important;
+        display: block !important;
+    }
+
+    .info-row .value {
+        font-size: 16px !important;
+        color: #1a1a2e !important;
+        font-weight: 700 !important;
+    }
+
+    #ui-cargo {
+        font-size: 16px !important;
+        color: #8B5CF6 !important;
+        font-weight: 700 !important;
+    }
+
+    #ui-source, #ui-dest {
+        font-size: 15px !important;
+        font-weight: 600 !important;
+        color: #8B5CF6 !important;
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 2px !important;
+    }
+
+    #ui-source .route-city, #ui-dest .route-city {
+        font-size: 15px !important;
+        font-weight: 700 !important;
+        color: #8B5CF6 !important;
+    }
+
+    #ui-source .route-company, #ui-dest .route-company {
+        font-size: 10px !important;
+        font-weight: 500 !important;
+        color: #666 !important;
+    }
+
+    /* ESTADÍSTICAS GRID - MÁS GRANDES */
+    .stats-grid {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr 1fr !important;
+        gap: 6px !important;
+        margin: 10px 0 !important;
+    }
+
+    .stat-item {
+        background: rgba(255, 255, 255, 0.95) !important;
+        padding: 6px 4px !important;
+        border-radius: 10px !important;
+        text-align: center !important;
+        border: 1px solid rgba(139, 92, 246, 0.25) !important;
+    }
+
+    .stat-item .label {
+        font-size: 10px !important;
+        color: #666 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        margin-bottom: 5px !important;
+        display: block !important;
+    }
+
+    .stat-item .value {
+        font-size: 18px !important;
+        color: #8B5CF6 !important;
+        font-weight: bold !important;
+        font-family: monospace !important;
+    }
+
+    .stat-item:first-child .value {
+        color: #FFD700 !important;
+        font-size: 20px !important;
+    }
+
+    .stat-item:last-child .value {
+        color: #4CAF50 !important;
+        font-size: 18px !important;
+    }
+
+    /* BOTONES */
+    #toggle-follow {
+        width: 100% !important;
+        padding: 16px !important;
+        margin: 12px 0 8px !important;
+        background: linear-gradient(135deg, #8B5CF6, #7c3aed) !important;
+        border: none !important;
+        color: white !important;
+        font-size: 15px !important;
+        font-weight: 700 !important;
+        border-radius: 50px !important;
+        cursor: pointer !important;
+        box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4) !important;
+    }/* Por defecto minimizado en móvil */
+    @media (max-width: 768px) {
+        #extra-content { display: none; }
+    }
+
+    /* BOTONES DE BÚSQUEDA Y MODO OSCURO - MÁS GRANDES */
+    #search-btn, #toggle-voice, #toggle-darkmode, #toggle-pois, #toggle-companies {
+        width: 56px !important;
+        height: 56px !important;
+        font-size: 26px !important;
+        border-radius: 50% !important;
+        background: rgba(255, 255, 255, 0.95) !important;
+        backdrop-filter: blur(10px) !important;
+        border: 2px solid #8B5CF6 !important;
+        color: #8B5CF6 !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        cursor: pointer !important;
+        transition: all 0.2s ease !important;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important;
+    }
+
+    #search-btn:active, #toggle-voice:active, #toggle-darkmode:active, #toggle-pois:active {
+        transform: scale(0.95) !important;
+        background: #8B5CF6 !important;
+        color: white !important;
+    }
+
+    #toggle-darkmode.dark-active {
+        background: #8B5CF6 !important;
+        color: white !important;
+        border-color: #666 !important;
+    }
+
+    /* INDICADOR DE VOZ EN MÓVIL - LEGIBLE */
+    #voice-indicator {
+        top: 12px !important;
+        bottom: auto !important;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+        padding: 10px 16px !important;
+        gap: 10px !important;
+        z-index: 1002 !important;
+    }
+
+    #voice-indicator span {
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        color: #FFFFFF !important;
+    }
+
+    .voice-dot {
+        width: 10px !important;
+        height: 10px !important;
+    }
+
+    /* NOTIFICACIÓN DE VOZ EN MÓVIL */
+    .voice-notification {
+        top: 50px !important;
+        bottom: auto !important;
+        left: 50% !important;
+        right: auto !important;
+        transform: translateX(-50%) !important;
+        max-width: 320px !important;
+        width: auto !important;
+        padding: 10px 16px !important;
+        white-space: nowrap !important;
+    }
+
+    .voice-notification span {
+        font-size: 13px !important;
+    }
+
+    /* PANEL DE EMPRESAS - MÁS LEGIBLE */
+    #companies-panel {
+        width: 340px !important;
+        max-width: calc(100vw - 30px) !important;
+        border-radius: 20px !important;
+    }
+
+    .company-item {
+        padding: 16px !important;
+        margin-bottom: 10px !important;
+        font-size: 15px !important;
+        border-radius: 14px !important;
+    }
+
+    .company-name {
+        font-size: 15px !important;
+        font-weight: 700 !important;
+        margin-bottom: 5px !important;
+    }
+
+    .company-city {
+        font-size: 12px !important;
+        color: #aaa !important;
+    }
+
+    /* ETIQUETAS DEL MAPA - MÁS GRANDES */
+    .etiqueta-mapa {
+        font-size: 12px !important;
+        padding: 5px 12px !important;
+        border-radius: 20px !important;
+        background: rgba(0, 0, 0, 0.85) !important;
+        font-weight: 700 !important;
+        white-space: nowrap !important;
+    }
+
+    /* PANEL DE BÚSQUEDA EN MÓVIL */
+    #search-panel {
+        top: 12px !important;
+        bottom: auto !important;
+        right: 12px !important;
+    }
+
+    #search-container {
+        top: 70px !important;
+        bottom: auto !important;
+        right: 0 !important;
+    }
+
+    #companies-panel {
+        top: 70px !important;
+        bottom: auto !important;
+        right: 12px !important;
+    }
+}
+
+/* DISPOSITIVOS MUY PEQUEÑOS */
+@media (max-width: 380px) {
+    #ui-overlay {
+        width: calc(100vw - 30px) !important;
+        max-width: 320px !important;
+    }
+
+    #ui-speed {
+        font-size: 46px !important;
+    }
+
+    .stat-item .value {
+        font-size: 15px !important;
+    }
+
+    #search-btn, #toggle-voice, #toggle-darkmode, #toggle-pois, #toggle-companies {
+        width: 48px !important;
+        height: 48px !important;
+        font-size: 22px !important;
+    }
+}
+
+/* ORIENTACIÓN HORIZONTAL */
+@media (orientation: landscape) and (max-height: 500px) {
+    #ui-overlay {
+        max-height: 85vh !important;
+        overflow-y: auto !important;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr !important;
+    }
+
+    .info-row {
+        padding: 6px 10px !important;
+    }
+}
+
+/* MODO OSCURO EN MÓVIL - Estilo Google Maps */
+body.dark-mode .etiqueta-mapa {
+    background: rgba(26, 31, 46, 0.85) !important;
+    color: #e2e8f0 !important;
+    border-color: transparent !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.8) !important;
+}
+
+body.dark-mode #search-btn,
+body.dark-mode #toggle-voice,
+body.dark-mode #toggle-darkmode,
+body.dark-mode #toggle-pois {
+    background: rgba(26, 31, 46, 0.95) !important;
+    border-color: #4a5568 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode #toggle-darkmode.dark-active {
+    background: #4a5568 !important;
+    color: #fff !important;
+}
+
+body.dark-mode .job-card {
+    background: rgba(30, 41, 59, 0.95) !important;
+    border-top-color: #38bdf8 !important;
+}
+
+body.dark-mode #ui-speed {
+    color: #38bdf8 !important;
+    text-shadow: 0 0 10px rgba(56, 189, 248, 0.4) !important;
+}
+
+body.dark-mode #ui-speed + span {
+    color: #38bdf8 !important;
+}
+
+body.dark-mode .info-row,
+body.dark-mode .stat-item {
+    background: rgba(30, 41, 59, 0.95) !important;
+    border-color: rgba(74, 85, 104, 0.5) !important;
+}
+
+body.dark-mode .info-row .label,
+body.dark-mode .stat-item .label {
+    color: #94a3b8 !important;
+}
+
+body.dark-mode .info-row .value,
+body.dark-mode .stat-item .value,
+body.dark-mode #ui-cargo,
+body.dark-mode .route-city {
+    color: #38bdf8 !important;
+}
+
+body.dark-mode .route-company {
+    color: #94a3b8 !important;
+}
+
+body.dark-mode #toggle-follow {
+    background: linear-gradient(135deg, #3b82f6, #2563eb) !important;
+}
+
+body.dark-mode #voice-indicator {
+    background: rgba(30, 41, 59, 0.98) !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode #voice-indicator span {
+    color: #ffffff !important;
+}
+
+body.dark-mode #voice-indicator.speaking {
+    background: rgba(30, 41, 59, 0.98) !important;
+}
+
+body.dark-mode #voice-indicator.speaking span {
+    color: #38bdf8 !important;
+}
+
+body.dark-mode .voice-notification {
+    background: rgba(30, 41, 59, 0.98) !important;
+    border-left-color: #3b82f6 !important;
+}
+
+body.dark-mode .voice-notification span {
+    color: #ffffff !important;
+}
+
+body.dark-mode #voice-indicator span {
+    color: #FFFFFF !important;
+}
+
+body.dark-mode #voice-indicator.speaking {
+    background: rgba(20, 20, 40, 0.98) !important;
+}
+
+body.dark-mode #voice-indicator.speaking span {
+    color: #00f2ff !important;
+}
+
+body.dark-mode .voice-notification {
+    background: rgba(20, 20, 30, 0.98) !important;
+    border-left-color: #8B5CF6 !important;
+}
+/* Evitar desplazamiento de la página */
+body, html {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}

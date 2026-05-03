@@ -1,0 +1,7436 @@
+[
+  {
+    "token": "barstow",
+    "name": "Autodromo de tocancipa",
+    "countryToken": "california",
+    "population": 0,
+    "x": 24788.3828125,
+    "y": 65755.1796875,
+    "areas": [
+      {
+        "uid": "421b650054c00001",
+        "type": 12,
+        "x": 24788.3828125,
+        "y": 65755.1796875,
+        "token": "barstow",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 6,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "fresno",
+    "name": "Cartago",
+    "countryToken": "california",
+    "population": 0,
+    "x": -49650.421875,
+    "y": 69143.109375,
+    "areas": [
+      {
+        "uid": "3bf42af8be800001",
+        "type": 12,
+        "x": -49650.421875,
+        "y": 69143.109375,
+        "token": "fresno",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -13,
+        "sectorY": 17
+      },
+      {
+        "uid": "4912c35ce9800000",
+        "type": 12,
+        "x": -51825.0234375,
+        "y": 70208.75,
+        "token": "fresno",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -13,
+        "sectorY": 17
+      },
+      {
+        "uid": "58daf4d69f800000",
+        "type": 12,
+        "x": -51743.30859375,
+        "y": 70017.6875,
+        "token": "fresno",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -13,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "alamosa",
+    "name": "SASAIMA",
+    "countryToken": "colorado",
+    "population": 0,
+    "x": 5366.6875,
+    "y": 61359.07421875,
+    "areas": [
+      {
+        "uid": "3d2089dc11000001",
+        "type": 12,
+        "x": 5366.6875,
+        "y": 61359.07421875,
+        "token": "alamosa",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 1,
+        "sectorY": 15
+      }
+    ]
+  },
+  {
+    "token": "fort_collins",
+    "name": "SantaFe de Antioquia",
+    "countryToken": "colorado",
+    "population": 0,
+    "x": -45655.9375,
+    "y": 28647.34375,
+    "areas": [
+      {
+        "uid": "4a3359ec65c00001",
+        "type": 12,
+        "x": -45655.9375,
+        "y": 28647.34375,
+        "token": "fort_collins",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -12,
+        "sectorY": 7
+      }
+    ]
+  },
+  {
+    "token": "bozeman",
+    "name": "Apartadó",
+    "countryToken": "montana",
+    "population": 0,
+    "x": -73201.28125,
+    "y": -2386.9999389648438,
+    "areas": [
+      {
+        "uid": "4a651570bd800000",
+        "type": 12,
+        "x": -73201.28125,
+        "y": -2386.9999389648438,
+        "token": "bozeman",
+        "hidden": false,
+        "width": 600,
+        "height": 850,
+        "sectorX": -19,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "hobbs",
+    "name": "Sogamoso",
+    "countryToken": "new_mexico",
+    "population": 0,
+    "x": 63479.15234375,
+    "y": 47752.91796875,
+    "areas": [
+      {
+        "uid": "427c648875000001",
+        "type": 12,
+        "x": 63479.15234375,
+        "y": 47752.91796875,
+        "token": "hobbs",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 15,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "santa_fe",
+    "name": "Arauca",
+    "countryToken": "new_mexico",
+    "population": 0,
+    "x": 100799.03125,
+    "y": 19426.8671875,
+    "areas": [
+      {
+        "uid": "5b3c7df8c1800000",
+        "type": 12,
+        "x": 100799.03125,
+        "y": 19426.8671875,
+        "token": "santa_fe",
+        "hidden": false,
+        "width": 1500,
+        "height": 1350,
+        "sectorX": 25,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "cody",
+    "name": "Cañasgordas",
+    "countryToken": "wyoming",
+    "population": 0,
+    "x": -51676.1640625,
+    "y": 23931.23046875,
+    "areas": [
+      {
+        "uid": "4a3d3d74d0c00137",
+        "type": 12,
+        "x": -51676.1640625,
+        "y": 23931.23046875,
+        "token": "cody",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -13,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "acaponeta",
+    "name": "JAVIER HERNANDEZ Y FMLIA",
+    "countryToken": "nayarit",
+    "population": 0,
+    "x": -36539.7578125,
+    "y": 40846.0390625,
+    "areas": [
+      {
+        "uid": "3d30cfe037400001",
+        "type": 12,
+        "x": -36539.7578125,
+        "y": 40846.0390625,
+        "token": "acaponeta",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -10,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "aero_shamu",
+    "name": "Museo aeronautico Shamu",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26888.52734375,
+    "y": 41977.5703125,
+    "areas": [
+      {
+        "uid": "47816c3429c00001",
+        "type": 12,
+        "x": -26888.52734375,
+        "y": 41977.5703125,
+        "token": "aero_shamu",
+        "hidden": false,
+        "width": 1046.4561767578125,
+        "height": 642.59912109375,
+        "sectorX": -7,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "ag_chica",
+    "name": "Aguachica",
+    "countryToken": "california",
+    "population": 0,
+    "x": 39139.44921875,
+    "y": -2313.1718139648438,
+    "areas": [
+      {
+        "uid": "48f8adf4fb800004",
+        "type": 12,
+        "x": 39139.44921875,
+        "y": -2313.1718139648438,
+        "token": "ag_chica",
+        "hidden": false,
+        "width": 1289.0181884765625,
+        "height": 1618.945556640625,
+        "sectorX": 9,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "alcort2",
+    "name": "Salento Alcort",
+    "countryToken": "california",
+    "population": 0,
+    "x": -35597.72265625,
+    "y": 69472.6875,
+    "areas": [
+      {
+        "uid": "55c833a645000000",
+        "type": 12,
+        "x": -35597.72265625,
+        "y": 69472.6875,
+        "token": "alcort2",
+        "hidden": false,
+        "width": 350,
+        "height": 250,
+        "sectorX": -9,
+        "sectorY": 17
+      },
+      {
+        "uid": "55c832e081800001",
+        "type": 12,
+        "x": -36206.9609375,
+        "y": 69821.3125,
+        "token": "alcort2",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "alt_letras",
+    "name": "Alto de letras",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26744.2578125,
+    "y": 56983.41015625,
+    "areas": [
+      {
+        "uid": "39d95800704002ab",
+        "type": 12,
+        "x": -26744.2578125,
+        "y": 56983.41015625,
+        "token": "alt_letras",
+        "hidden": false,
+        "width": 497.3896179199219,
+        "height": 477.27886962890625,
+        "sectorX": -7,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "andes_ant",
+    "name": "Andes Antioquia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -48458,
+    "y": 55906.28125,
+    "areas": [
+      {
+        "uid": "58ddacb67e000000",
+        "type": 12,
+        "x": -47325.9921875,
+        "y": 56268.7734375,
+        "token": "andes_ant",
+        "hidden": true,
+        "width": 700,
+        "height": 700,
+        "sectorX": -12,
+        "sectorY": 14
+      },
+      {
+        "uid": "464b77101a400001",
+        "type": 12,
+        "x": -48458,
+        "y": 55906.28125,
+        "token": "andes_ant",
+        "hidden": false,
+        "width": 700,
+        "height": 700,
+        "sectorX": -13,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "armenia",
+    "name": "Armenia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39182.28125,
+    "y": 71255.9375,
+    "areas": [
+      {
+        "uid": "2862d9cc9380039f",
+        "type": 12,
+        "x": -39182.28125,
+        "y": 71255.9375,
+        "token": "armenia",
+        "hidden": false,
+        "width": 550,
+        "height": 516.3663940429688,
+        "sectorX": -10,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "armero",
+    "name": "Armero",
+    "countryToken": "california",
+    "population": 0,
+    "x": -12220.0078125,
+    "y": 66454.296875,
+    "areas": [
+      {
+        "uid": "513139c070400000",
+        "type": 12,
+        "x": -11730.83203125,
+        "y": 66545.21875,
+        "token": "armero",
+        "hidden": true,
+        "width": 264.3708190917969,
+        "height": 323.77874755859375,
+        "sectorX": -3,
+        "sectorY": 16
+      },
+      {
+        "uid": "5131397c92400001",
+        "type": 12,
+        "x": -12220.0078125,
+        "y": 66454.296875,
+        "token": "armero",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": -4,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "auto_cabras",
+    "name": "Autodromo las Cabras",
+    "countryToken": "california",
+    "population": 0,
+    "x": -54712.76171875,
+    "y": 30923.13671875,
+    "areas": [
+      {
+        "uid": "53c209549c000001",
+        "type": 12,
+        "x": -54712.76171875,
+        "y": 30923.13671875,
+        "token": "auto_cabras",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": -14,
+        "sectorY": 7
+      }
+    ]
+  },
+  {
+    "token": "barbosa",
+    "name": "Barbosa",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26682.734375,
+    "y": 35834.18359375,
+    "areas": [
+      {
+        "uid": "35cb4dec7ec00001",
+        "type": 12,
+        "x": -26682.734375,
+        "y": 35834.18359375,
+        "token": "barbosa",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -7,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "barranbmeja",
+    "name": "Barrancabermeja",
+    "countryToken": "california",
+    "population": 0,
+    "x": 29243.02734375,
+    "y": 21933.8203125,
+    "areas": [
+      {
+        "uid": "488a175811c00183",
+        "type": 12,
+        "x": 29243.02734375,
+        "y": 21933.8203125,
+        "token": "barranbmeja",
+        "hidden": false,
+        "width": 500,
+        "height": 1200,
+        "sectorX": 7,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "barranquilla",
+    "name": "Barranquilla",
+    "countryToken": "california",
+    "population": 0,
+    "x": -10012.94921875,
+    "y": -55482.05859375,
+    "areas": [
+      {
+        "uid": "484540848440027b",
+        "type": 12,
+        "x": -10012.94921875,
+        "y": -55482.05859375,
+        "token": "barranquilla",
+        "hidden": false,
+        "width": 1000,
+        "height": 1400,
+        "sectorX": -3,
+        "sectorY": -14
+      },
+      {
+        "uid": "58de0a8c42800000",
+        "type": 12,
+        "x": -9063.0625,
+        "y": -55107.08203125,
+        "token": "barranquilla",
+        "hidden": true,
+        "width": 1000,
+        "height": 1400,
+        "sectorX": -3,
+        "sectorY": -14
+      },
+      {
+        "uid": "6286fb6f25800000",
+        "type": 12,
+        "x": -9018.62109375,
+        "y": -54425.109375,
+        "token": "barranquilla",
+        "hidden": true,
+        "width": 1000,
+        "height": 1400,
+        "sectorX": -3,
+        "sectorY": -14
+      }
+    ]
+  },
+  {
+    "token": "bodgabi",
+    "name": "Bodegas azucareras de la torre",
+    "countryToken": "california",
+    "population": 0,
+    "x": 45808.01953125,
+    "y": -1561.33203125,
+    "areas": [
+      {
+        "uid": "4c44819c07000001",
+        "type": 12,
+        "x": 45808.01953125,
+        "y": -1561.33203125,
+        "token": "bodgabi",
+        "hidden": false,
+        "width": 588.0034790039062,
+        "height": 543.6500854492188,
+        "sectorX": 11,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "bogota",
+    "name": "Bogota",
+    "countryToken": "california",
+    "population": 0,
+    "x": 21868.203125,
+    "y": 68753.125,
+    "areas": [
+      {
+        "uid": "509633c87d000000",
+        "type": 12,
+        "x": 22052.2578125,
+        "y": 66791.71875,
+        "token": "bogota",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 5,
+        "sectorY": 16
+      },
+      {
+        "uid": "509634dca9000000",
+        "type": 12,
+        "x": 21915.734375,
+        "y": 67288.53125,
+        "token": "bogota",
+        "hidden": true,
+        "width": 549.037841796875,
+        "height": 377.3481140136719,
+        "sectorX": 5,
+        "sectorY": 16
+      },
+      {
+        "uid": "285881b469800001",
+        "type": 12,
+        "x": 21539.68359375,
+        "y": 70804.875,
+        "token": "bogota",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "2858834c11c00000",
+        "type": 12,
+        "x": 20958.53515625,
+        "y": 70545.578125,
+        "token": "bogota",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "285a5f4c80800001",
+        "type": 12,
+        "x": 21868.203125,
+        "y": 68753.125,
+        "token": "bogota",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "62870dfedc000001",
+        "type": 12,
+        "x": 20142.65625,
+        "y": 70263.484375,
+        "token": "bogota",
+        "hidden": false,
+        "width": 218.07266235351562,
+        "height": 100,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "4d404220df400001",
+        "type": 12,
+        "x": 24240.5546875,
+        "y": 68236.375,
+        "token": "bogota",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "bosconia",
+    "name": "Bosconia",
+    "countryToken": "california",
+    "population": 0,
+    "x": 26505.46875,
+    "y": -34221.9296875,
+    "areas": [
+      {
+        "uid": "406233c8c0400000",
+        "type": 12,
+        "x": 26505.46875,
+        "y": -34221.9296875,
+        "token": "bosconia",
+        "hidden": false,
+        "width": 1726.1151123046875,
+        "height": 781.2356567382812,
+        "sectorX": 6,
+        "sectorY": -9
+      }
+    ]
+  },
+  {
+    "token": "boycona",
+    "name": "SHAMU CENTRAL CAPITAL",
+    "countryToken": "chihuah",
+    "population": 0,
+    "x": 21745.78125,
+    "y": 70653.0546875,
+    "areas": [
+      {
+        "uid": "40321af4b2000001",
+        "type": 12,
+        "x": 21745.78125,
+        "y": 70653.0546875,
+        "token": "boycona",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": 5,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "bucaramanga",
+    "name": "Bucaramanga",
+    "countryToken": "california",
+    "population": 0,
+    "x": 52969.6875,
+    "y": 20449.13671875,
+    "areas": [
+      {
+        "uid": "488a0c644f8001ad",
+        "type": 12,
+        "x": 53802.71484375,
+        "y": 18994.640625,
+        "token": "bucaramanga",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 13,
+        "sectorY": 4
+      },
+      {
+        "uid": "488a0c6422c006ff",
+        "type": 12,
+        "x": 52937.0859375,
+        "y": 21052.24609375,
+        "token": "bucaramanga",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 13,
+        "sectorY": 5
+      },
+      {
+        "uid": "488a0c642a000511",
+        "type": 12,
+        "x": 52969.6875,
+        "y": 20449.13671875,
+        "token": "bucaramanga",
+        "hidden": false,
+        "width": 1500,
+        "height": 1200,
+        "sectorX": 13,
+        "sectorY": 5
+      },
+      {
+        "uid": "488a0c645f400885",
+        "type": 12,
+        "x": 53721.8125,
+        "y": 20458.08203125,
+        "token": "bucaramanga",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 13,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "buenaventura",
+    "name": "Buenaventura",
+    "countryToken": "california",
+    "population": 0,
+    "x": -92301.1328125,
+    "y": 84366.3828125,
+    "areas": [
+      {
+        "uid": "6286fed88b800000",
+        "type": 12,
+        "x": -91985.0625,
+        "y": 84243.78125,
+        "token": "buenaventura",
+        "hidden": true,
+        "width": 239.92416381835938,
+        "height": 270.5995788574219,
+        "sectorX": -23,
+        "sectorY": 21
+      },
+      {
+        "uid": "2866c5d405c0013a",
+        "type": 12,
+        "x": -92301.1328125,
+        "y": 84366.3828125,
+        "token": "buenaventura",
+        "hidden": false,
+        "width": 400,
+        "height": 700,
+        "sectorX": -24,
+        "sectorY": 21
+      }
+    ]
+  },
+  {
+    "token": "bugga",
+    "name": "Buga",
+    "countryToken": "california",
+    "population": 0,
+    "x": -55418.98828125,
+    "y": 83044.78125,
+    "areas": [
+      {
+        "uid": "4db914f86dc00001",
+        "type": 12,
+        "x": -55418.98828125,
+        "y": 83044.78125,
+        "token": "bugga",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": -14,
+        "sectorY": 20
+      },
+      {
+        "uid": "58daff9854000000",
+        "type": 12,
+        "x": -55496.234375,
+        "y": 82694.75,
+        "token": "bugga",
+        "hidden": true,
+        "width": 400,
+        "height": 410,
+        "sectorX": -14,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "calarca",
+    "name": "Calarcá",
+    "countryToken": "california",
+    "population": 0,
+    "x": -38558.48046875,
+    "y": 72602.734375,
+    "areas": [
+      {
+        "uid": "3dbd8b94cc000000",
+        "type": 12,
+        "x": -38558.48046875,
+        "y": 72602.734375,
+        "token": "calarca",
+        "hidden": false,
+        "width": 242.327880859375,
+        "height": 259.47344970703125,
+        "sectorX": -10,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "cali",
+    "name": "Cali",
+    "countryToken": "california",
+    "population": 0,
+    "x": -70310.5,
+    "y": 94079.828125,
+    "areas": [
+      {
+        "uid": "28560acc3240131a",
+        "type": 12,
+        "x": -70310.5,
+        "y": 94079.828125,
+        "token": "cali",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -18,
+        "sectorY": 23
+      },
+      {
+        "uid": "28560accfd00131d",
+        "type": 12,
+        "x": -69953.09375,
+        "y": 94512.375,
+        "token": "cali",
+        "hidden": true,
+        "width": 900,
+        "height": 900,
+        "sectorX": -18,
+        "sectorY": 23
+      },
+      {
+        "uid": "4d414af4c6800040",
+        "type": 12,
+        "x": -68876.9375,
+        "y": 94488.046875,
+        "token": "cali",
+        "hidden": true,
+        "width": 68.015625,
+        "height": 306.7578125,
+        "sectorX": -18,
+        "sectorY": 23
+      },
+      {
+        "uid": "58db072566800000",
+        "type": 12,
+        "x": -70647.171875,
+        "y": 93963.796875,
+        "token": "cali",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -18,
+        "sectorY": 23
+      },
+      {
+        "uid": "58db07ba6c800000",
+        "type": 12,
+        "x": -69163.5703125,
+        "y": 94694.9296875,
+        "token": "cali",
+        "hidden": true,
+        "width": 680,
+        "height": 550,
+        "sectorX": -18,
+        "sectorY": 23
+      }
+    ]
+  },
+  {
+    "token": "capt_shamu",
+    "name": "Shamu central capital",
+    "countryToken": "california",
+    "population": 0,
+    "x": 23670.34765625,
+    "y": 68061.046875,
+    "areas": [
+      {
+        "uid": "4046264ce5800001",
+        "type": 12,
+        "x": 23670.34765625,
+        "y": 68061.046875,
+        "token": "capt_shamu",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "50a7d2ec36c00000",
+        "type": 12,
+        "x": 23609.6953125,
+        "y": 68187,
+        "token": "capt_shamu",
+        "hidden": true,
+        "width": 250,
+        "height": 250,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "58daf20a81000000",
+        "type": 12,
+        "x": 23678.546875,
+        "y": 68407.203125,
+        "token": "capt_shamu",
+        "hidden": true,
+        "width": 150,
+        "height": 150,
+        "sectorX": 5,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "carbocol",
+    "name": "CARBOCOL carbones de colombia",
+    "countryToken": "california",
+    "population": 0,
+    "x": 33024.18359375,
+    "y": -28129.25390625,
+    "areas": [
+      {
+        "uid": "51c2a2b01f800000",
+        "type": 12,
+        "x": 33235.4296875,
+        "y": -27719.34765625,
+        "token": "carbocol",
+        "hidden": true,
+        "width": 977.7722778320312,
+        "height": 659.2333984375,
+        "sectorX": 8,
+        "sectorY": -7
+      },
+      {
+        "uid": "51c2a25c3d000001",
+        "type": 12,
+        "x": 33024.18359375,
+        "y": -28129.25390625,
+        "token": "carbocol",
+        "hidden": false,
+        "width": 800,
+        "height": 800,
+        "sectorX": 8,
+        "sectorY": -8
+      }
+    ]
+  },
+  {
+    "token": "cartagena",
+    "name": "Cartagena",
+    "countryToken": "california",
+    "population": 0,
+    "x": -30882.1484375,
+    "y": -43958.953125,
+    "areas": [
+      {
+        "uid": "2855e5b48100069b",
+        "type": 12,
+        "x": -30592.75390625,
+        "y": -44025.8125,
+        "token": "cartagena",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -8,
+        "sectorY": -12
+      },
+      {
+        "uid": "2855e5b4de000699",
+        "type": 12,
+        "x": -30130.328125,
+        "y": -44359.578125,
+        "token": "cartagena",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -8,
+        "sectorY": -12
+      },
+      {
+        "uid": "4d415b24b1400079",
+        "type": 12,
+        "x": -28284.40234375,
+        "y": -45401.03125,
+        "token": "cartagena",
+        "hidden": true,
+        "width": 200,
+        "height": 306.7578125,
+        "sectorX": -8,
+        "sectorY": -12
+      },
+      {
+        "uid": "58de098d4c800000",
+        "type": 12,
+        "x": -30482.203125,
+        "y": -44628.69921875,
+        "token": "cartagena",
+        "hidden": true,
+        "width": 407.3516540527344,
+        "height": 689.9752807617188,
+        "sectorX": -8,
+        "sectorY": -12
+      },
+      {
+        "uid": "2855e5b406800696",
+        "type": 12,
+        "x": -30952.4609375,
+        "y": -43734.296875,
+        "token": "cartagena",
+        "hidden": true,
+        "width": 600,
+        "height": 800,
+        "sectorX": -8,
+        "sectorY": -11
+      },
+      {
+        "uid": "2855e5b4ee800695",
+        "type": 12,
+        "x": -30882.1484375,
+        "y": -43958.953125,
+        "token": "cartagena",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -8,
+        "sectorY": -11
+      }
+    ]
+  },
+  {
+    "token": "cd_juarez",
+    "name": "La Pintada",
+    "countryToken": "chihuah",
+    "population": 0,
+    "x": -35850.26953125,
+    "y": 47707.48046875,
+    "areas": [
+      {
+        "uid": "2370cd108f400001",
+        "type": 12,
+        "x": -35850.26953125,
+        "y": 47707.48046875,
+        "token": "cd_juarez",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -9,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "cent_vshamu",
+    "name": "Centro Vacacional Shamu",
+    "countryToken": "california",
+    "population": 0,
+    "x": -3358.2265625,
+    "y": 44309.6328125,
+    "areas": [
+      {
+        "uid": "415250b02f000001",
+        "type": 12,
+        "x": -3358.2265625,
+        "y": 44309.6328125,
+        "token": "cent_vshamu",
+        "hidden": false,
+        "width": 396.4720458984375,
+        "height": 416.59716796875,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "4152511ceb800000",
+        "type": 12,
+        "x": -3945.0703125,
+        "y": 44136.19921875,
+        "token": "cent_vshamu",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -1,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "chigorodo",
+    "name": "Chigorodó",
+    "countryToken": "california",
+    "population": 0,
+    "x": -73070.3984375,
+    "y": 342.58203125,
+    "areas": [
+      {
+        "uid": "4a6ec63cbc400001",
+        "type": 12,
+        "x": -73070.3984375,
+        "y": 342.58203125,
+        "token": "chigorodo",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -19,
+        "sectorY": 0
+      }
+    ]
+  },
+  {
+    "token": "chinchina",
+    "name": "Chinchina",
+    "countryToken": "california",
+    "population": 0,
+    "x": -34283.37109375,
+    "y": 62509.77734375,
+    "areas": [
+      {
+        "uid": "36452894db400001",
+        "type": 12,
+        "x": -34283.37109375,
+        "y": 62509.77734375,
+        "token": "chinchina",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -9,
+        "sectorY": 15
+      }
+    ]
+  },
+  {
+    "token": "cicuco",
+    "name": "Cicuco",
+    "countryToken": "california",
+    "population": 0,
+    "x": 301.2265625,
+    "y": -22856.046875,
+    "areas": [
+      {
+        "uid": "45ed02cc43000cee",
+        "type": 12,
+        "x": 301.2265625,
+        "y": -22856.046875,
+        "token": "cicuco",
+        "hidden": false,
+        "width": 300.49810791015625,
+        "height": 343.6905517578125,
+        "sectorX": 0,
+        "sectorY": -6
+      }
+    ]
+  },
+  {
+    "token": "cisneros",
+    "name": "Cisneros",
+    "countryToken": "california",
+    "population": 0,
+    "x": -3078.14453125,
+    "y": 32417.58984375,
+    "areas": [
+      {
+        "uid": "52fbdc802d400001",
+        "type": 12,
+        "x": -3078.14453125,
+        "y": 32417.58984375,
+        "token": "cisneros",
+        "hidden": false,
+        "width": 601.412109375,
+        "height": 875.4310302734375,
+        "sectorX": -1,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "cobenas",
+    "name": "Cobeñas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39241.80078125,
+    "y": -23778.5,
+    "areas": [
+      {
+        "uid": "460b6a182a801265",
+        "type": 12,
+        "x": -39241.80078125,
+        "y": -23778.5,
+        "token": "cobenas",
+        "hidden": false,
+        "width": 599.99951171875,
+        "height": 1198.920654296875,
+        "sectorX": -10,
+        "sectorY": -6
+      }
+    ]
+  },
+  {
+    "token": "colcarco",
+    "name": "Colombia cargo company",
+    "countryToken": "california",
+    "population": 0,
+    "x": 23687.67578125,
+    "y": 67197.078125,
+    "areas": [
+      {
+        "uid": "3625d2a4e1800001",
+        "type": 12,
+        "x": 23687.67578125,
+        "y": 67197.078125,
+        "token": "colcarco",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": 5,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "colcarco2",
+    "name": "Colombia cargo company Bucaramnga",
+    "countryToken": "california",
+    "population": 0,
+    "x": 53967.77734375,
+    "y": 18765.78515625,
+    "areas": [
+      {
+        "uid": "488a0c649e4001a9",
+        "type": 12,
+        "x": 53967.77734375,
+        "y": 18765.78515625,
+        "token": "colcarco2",
+        "hidden": false,
+        "width": 298.7783203125,
+        "height": 163.697265625,
+        "sectorX": 13,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "colcarco3",
+    "name": "Colombia Cargo company Buenaventura",
+    "countryToken": "california",
+    "population": 0,
+    "x": -92316.734375,
+    "y": 83709.265625,
+    "areas": [
+      {
+        "uid": "365469cce6400001",
+        "type": 12,
+        "x": -92316.734375,
+        "y": 83709.265625,
+        "token": "colcarco3",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": -24,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "crazy",
+    "name": "Finca de Fbcrazy",
+    "countryToken": "california",
+    "population": 0,
+    "x": 84137.171875,
+    "y": 14369.47265625,
+    "areas": [
+      {
+        "uid": "4d1be7386ec0153b",
+        "type": 12,
+        "x": 84137.171875,
+        "y": 14369.47265625,
+        "token": "crazy",
+        "hidden": false,
+        "width": 566.7077026367188,
+        "height": 538.6001586914062,
+        "sectorX": 21,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "cucuta",
+    "name": "Cucuta",
+    "countryToken": "california",
+    "population": 0,
+    "x": 80751.0859375,
+    "y": 9460.07421875,
+    "areas": [
+      {
+        "uid": "488a381c0e8004b9",
+        "type": 12,
+        "x": 80751.0859375,
+        "y": 9460.07421875,
+        "token": "cucuta",
+        "hidden": false,
+        "width": 2190.826171875,
+        "height": 1230.460205078125,
+        "sectorX": 20,
+        "sectorY": 2
+      },
+      {
+        "uid": "4d416f10b6c00095",
+        "type": 12,
+        "x": 83239.71875,
+        "y": 10392.6796875,
+        "token": "cucuta",
+        "hidden": true,
+        "width": 318.2109375,
+        "height": 200,
+        "sectorX": 20,
+        "sectorY": 2
+      }
+    ]
+  },
+  {
+    "token": "cuencame",
+    "name": "Fusagasuga",
+    "countryToken": "durango",
+    "population": 0,
+    "x": 10733.37109375,
+    "y": 76147.5625,
+    "areas": [
+      {
+        "uid": "2855ddd42440185a",
+        "type": 12,
+        "x": 10733.37109375,
+        "y": 76147.5625,
+        "token": "cuencame",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": 2,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "curtimbre",
+    "name": "Hacienda Curtimbres",
+    "countryToken": "california",
+    "population": 0,
+    "x": -14226.61328125,
+    "y": 43937.23828125,
+    "areas": [
+      {
+        "uid": "4d07e28068800001",
+        "type": 12,
+        "x": -14226.61328125,
+        "y": 43937.23828125,
+        "token": "curtimbre",
+        "hidden": false,
+        "width": 350,
+        "height": 350,
+        "sectorX": -4,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "dabeiba",
+    "name": "Dabeiba",
+    "countryToken": "california",
+    "population": 0,
+    "x": -62128.171875,
+    "y": 15192.11328125,
+    "areas": [
+      {
+        "uid": "4d806ee4c8000001",
+        "type": 12,
+        "x": -62128.171875,
+        "y": 15192.11328125,
+        "token": "dabeiba",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -16,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "diamante",
+    "name": "Finca el Diamante",
+    "countryToken": "california",
+    "population": 0,
+    "x": -67655.828125,
+    "y": 82047.890625,
+    "areas": [
+      {
+        "uid": "4e919b5418400001",
+        "type": 12,
+        "x": -67655.828125,
+        "y": 82047.890625,
+        "token": "diamante",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": -17,
+        "sectorY": 20
+      },
+      {
+        "uid": "4e919bc445000000",
+        "type": 12,
+        "x": -67500.859375,
+        "y": 82013.609375,
+        "token": "diamante",
+        "hidden": true,
+        "width": 120,
+        "height": 120,
+        "sectorX": -17,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "domat_sa",
+    "name": "Domat S.A la Punta Cundi",
+    "countryToken": "california",
+    "population": 0,
+    "x": 17730.640625,
+    "y": 64996.921875,
+    "areas": [
+      {
+        "uid": "3659d58431000001",
+        "type": 12,
+        "x": 17730.640625,
+        "y": 64996.921875,
+        "token": "domat_sa",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": 4,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "dosqbradas",
+    "name": "Dosquebradas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -37988.57421875,
+    "y": 65479.841796875,
+    "areas": [
+      {
+        "uid": "35a539dc86400001",
+        "type": 12,
+        "x": -37988.57421875,
+        "y": 65479.841796875,
+        "token": "dosqbradas",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": -10,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "duitama",
+    "name": "Duitama",
+    "countryToken": "california",
+    "population": 0,
+    "x": 61518.68359375,
+    "y": 46138.8671875,
+    "areas": [
+      {
+        "uid": "285cb688d1000909",
+        "type": 12,
+        "x": 61518.68359375,
+        "y": 46138.8671875,
+        "token": "duitama",
+        "hidden": false,
+        "width": 425.7021179199219,
+        "height": 1232.6014404296875,
+        "sectorX": 15,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "elbanco",
+    "name": "El banco",
+    "countryToken": "california",
+    "population": 0,
+    "x": 28229.0859375,
+    "y": -15118.625,
+    "areas": [
+      {
+        "uid": "45ed02cc3540047c",
+        "type": 12,
+        "x": 28229.0859375,
+        "y": -15118.625,
+        "token": "elbanco",
+        "hidden": false,
+        "width": 509.10308837890625,
+        "height": 576.2905883789062,
+        "sectorX": 7,
+        "sectorY": -4
+      }
+    ]
+  },
+  {
+    "token": "elllano",
+    "name": "El llano",
+    "countryToken": "california",
+    "population": 0,
+    "x": 48557.046875,
+    "y": 89108.953125,
+    "areas": [
+      {
+        "uid": "4f959c84cfc00001",
+        "type": 12,
+        "x": 48850.59765625,
+        "y": 89103.3359375,
+        "token": "elllano",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 12,
+        "sectorY": 22
+      },
+      {
+        "uid": "4fefac90b5c00000",
+        "type": 12,
+        "x": 48557.046875,
+        "y": 89108.953125,
+        "token": "elllano",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 12,
+        "sectorY": 22
+      }
+    ]
+  },
+  {
+    "token": "elpenko",
+    "name": "Indusrtia el penko",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33431.6171875,
+    "y": 36086.3828125,
+    "areas": [
+      {
+        "uid": "363e8d44d4400001",
+        "type": 12,
+        "x": -33431.6171875,
+        "y": 36086.3828125,
+        "token": "elpenko",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -9,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "escon_shamu",
+    "name": "Escondite del Shamu Medellín",
+    "countryToken": "california",
+    "population": 0,
+    "x": -36792.46875,
+    "y": 37270.8125,
+    "areas": [
+      {
+        "uid": "537a85d041000160",
+        "type": 12,
+        "x": -37195.51171875,
+        "y": 37384.66796875,
+        "token": "escon_shamu",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": 9
+      },
+      {
+        "uid": "537a85d0edc002b5",
+        "type": 12,
+        "x": -36792.46875,
+        "y": 37270.8125,
+        "token": "escon_shamu",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "estrella",
+    "name": "HACIENDA ESTRELLA DORADA",
+    "countryToken": "california",
+    "population": 0,
+    "x": -97.96875,
+    "y": 44579.30859375,
+    "areas": [
+      {
+        "uid": "58dd9812c1000000",
+        "type": 12,
+        "x": 93.25,
+        "y": 44692.9765625,
+        "token": "estrella",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 0,
+        "sectorY": 11
+      },
+      {
+        "uid": "4f3c6ec829c00001",
+        "type": 12,
+        "x": -79.71484375,
+        "y": 45127.734375,
+        "token": "estrella",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "4f3c6f2cf5400000",
+        "type": 12,
+        "x": -432.25,
+        "y": 44729.0859375,
+        "token": "estrella",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "4f3c6f581a800000",
+        "type": 12,
+        "x": -97.96875,
+        "y": 44579.30859375,
+        "token": "estrella",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "58dd981e0c000000",
+        "type": 12,
+        "x": -631.5234375,
+        "y": 44398.84375,
+        "token": "estrella",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "58dd988bc8800000",
+        "type": 12,
+        "x": -284.02734375,
+        "y": 44959.0390625,
+        "token": "estrella",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -1,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "finca_js",
+    "name": "Finca J&S",
+    "countryToken": "california",
+    "population": 0,
+    "x": -42882.2421875,
+    "y": 64928.0390625,
+    "areas": [
+      {
+        "uid": "4c0e096c91800001",
+        "type": 12,
+        "x": -42882.2421875,
+        "y": 64928.0390625,
+        "token": "finca_js",
+        "hidden": false,
+        "width": 600,
+        "height": 800,
+        "sectorX": -11,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "florencia",
+    "name": "Florencia Caquetá",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39145.17578125,
+    "y": 122446.09375,
+    "areas": [
+      {
+        "uid": "61c696e796800206",
+        "type": 12,
+        "x": -39145.17578125,
+        "y": 122446.09375,
+        "token": "florencia",
+        "hidden": false,
+        "width": 600,
+        "height": 500,
+        "sectorX": -10,
+        "sectorY": 30
+      }
+    ]
+  },
+  {
+    "token": "fresnoo",
+    "name": "Fresno Tolima",
+    "countryToken": "california",
+    "population": 0,
+    "x": -14210.9140625,
+    "y": 58996.3125,
+    "areas": [
+      {
+        "uid": "33b0958c3e000001",
+        "type": 12,
+        "x": -14210.9140625,
+        "y": 58996.3125,
+        "token": "fresnoo",
+        "hidden": false,
+        "width": 488.0689392089844,
+        "height": 350.3022155761719,
+        "sectorX": -4,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "f_adre007",
+    "name": "Finca andresito007",
+    "countryToken": "california",
+    "population": 0,
+    "x": 38554.4296875,
+    "y": 80999.578125,
+    "areas": [
+      {
+        "uid": "47c17fe008c00346",
+        "type": 12,
+        "x": 38554.4296875,
+        "y": 80999.578125,
+        "token": "f_adre007",
+        "hidden": false,
+        "width": 319.65069580078125,
+        "height": 232.91714477539062,
+        "sectorX": 9,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "f_bukisau",
+    "name": "Finca San Miguel de Don Bukisaurio",
+    "countryToken": "california",
+    "population": 0,
+    "x": 88627.609375,
+    "y": 58573.3046875,
+    "areas": [
+      {
+        "uid": "56126680ec800001",
+        "type": 12,
+        "x": 88627.609375,
+        "y": 58573.3046875,
+        "token": "f_bukisau",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": 22,
+        "sectorY": 14
+      },
+      {
+        "uid": "561266f762000000",
+        "type": 12,
+        "x": 88705.6875,
+        "y": 58336.75390625,
+        "token": "f_bukisau",
+        "hidden": true,
+        "width": 845.5322265625,
+        "height": 1085.707275390625,
+        "sectorX": 22,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "f_camirutas",
+    "name": "Finca Camilo rutas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -59608.76171875,
+    "y": 110083.203125,
+    "areas": [
+      {
+        "uid": "47298db4bd800001",
+        "type": 12,
+        "x": -59608.76171875,
+        "y": 110083.203125,
+        "token": "f_camirutas",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -15,
+        "sectorY": 27
+      },
+      {
+        "uid": "58db2bea76800000",
+        "type": 12,
+        "x": -59438.25390625,
+        "y": 109828.75,
+        "token": "f_camirutas",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -15,
+        "sectorY": 27
+      }
+    ]
+  },
+  {
+    "token": "f_guatema",
+    "name": "EMBAJADA DE GUATEMALA",
+    "countryToken": "california",
+    "population": 0,
+    "x": 65678.125,
+    "y": 51085.58203125,
+    "areas": [
+      {
+        "uid": "54f103174b800001",
+        "type": 12,
+        "x": 65438.53125,
+        "y": 51106.83203125,
+        "token": "f_guatema",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 16,
+        "sectorY": 12
+      },
+      {
+        "uid": "54f10cdc18000000",
+        "type": 12,
+        "x": 65678.125,
+        "y": 51085.58203125,
+        "token": "f_guatema",
+        "hidden": false,
+        "width": 621.4852294921875,
+        "height": 289.8556823730469,
+        "sectorX": 16,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "f_ines",
+    "name": "Finca Ines",
+    "countryToken": "california",
+    "population": 0,
+    "x": -34078.9296875,
+    "y": 62875.48046875,
+    "areas": [
+      {
+        "uid": "3d9a3de01e800001",
+        "type": 12,
+        "x": -34078.9296875,
+        "y": 62875.48046875,
+        "token": "f_ines",
+        "hidden": false,
+        "width": 150,
+        "height": 150,
+        "sectorX": -9,
+        "sectorY": 15
+      }
+    ]
+  },
+  {
+    "token": "f_jorjolio",
+    "name": "Finca de Jorjolio",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31588.015625,
+    "y": 41593.3984375,
+    "areas": [
+      {
+        "uid": "428ec0a8ce800036",
+        "type": 12,
+        "x": -31588.015625,
+        "y": 41593.3984375,
+        "token": "f_jorjolio",
+        "hidden": false,
+        "width": 491.0057373046875,
+        "height": 549.1453247070312,
+        "sectorX": -8,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "f_laflorida",
+    "name": "Finca la Florida",
+    "countryToken": "california",
+    "population": 0,
+    "x": -37137.77734375,
+    "y": 41927.97265625,
+    "areas": [
+      {
+        "uid": "402d46f467000001",
+        "type": 12,
+        "x": -37137.77734375,
+        "y": 41927.97265625,
+        "token": "f_laflorida",
+        "hidden": false,
+        "width": 454.357177734375,
+        "height": 323.4269714355469,
+        "sectorX": -10,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "f_lamanuela",
+    "name": "finca la Manuela",
+    "countryToken": "california",
+    "population": 0,
+    "x": -34262.55078125,
+    "y": 32137.59375,
+    "areas": [
+      {
+        "uid": "44c070fcb8000001",
+        "type": 12,
+        "x": -34262.55078125,
+        "y": 32137.59375,
+        "token": "f_lamanuela",
+        "hidden": false,
+        "width": 200,
+        "height": 726.1461791992188,
+        "sectorX": -9,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "f_losahijad",
+    "name": "Finca los Ahijados",
+    "countryToken": "california",
+    "population": 0,
+    "x": 47557.3359375,
+    "y": 41499,
+    "areas": [
+      {
+        "uid": "4f6be62c9e400001",
+        "type": 12,
+        "x": 47749.66796875,
+        "y": 41758.55078125,
+        "token": "f_losahijad",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 11,
+        "sectorY": 10
+      },
+      {
+        "uid": "50b0820857c00000",
+        "type": 12,
+        "x": 47557.3359375,
+        "y": 41499,
+        "token": "f_losahijad",
+        "hidden": false,
+        "width": 613.2240600585938,
+        "height": 476.4590759277344,
+        "sectorX": 11,
+        "sectorY": 10
+      },
+      {
+        "uid": "50b0821000400000",
+        "type": 12,
+        "x": 47408.18359375,
+        "y": 41596.00390625,
+        "token": "f_losahijad",
+        "hidden": true,
+        "width": 358.4031982421875,
+        "height": 360.5944519042969,
+        "sectorX": 11,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "f_oroverde",
+    "name": "Finca Oro Verde",
+    "countryToken": "california",
+    "population": 0,
+    "x": -11151.0546875,
+    "y": 57100.8515625,
+    "areas": [
+      {
+        "uid": "49d9ecf838400a49",
+        "type": 12,
+        "x": -11151.0546875,
+        "y": 57100.8515625,
+        "token": "f_oroverde",
+        "hidden": false,
+        "width": 564.092529296875,
+        "height": 392.45074462890625,
+        "sectorX": -3,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "f_samara",
+    "name": "finca la samara",
+    "countryToken": "california",
+    "population": 0,
+    "x": 63750.26171875,
+    "y": 50542.40625,
+    "areas": [
+      {
+        "uid": "58de3caea0000000",
+        "type": 12,
+        "x": 63750.26171875,
+        "y": 50542.40625,
+        "token": "f_samara",
+        "hidden": false,
+        "width": 334.0967102050781,
+        "height": 200,
+        "sectorX": 15,
+        "sectorY": 12
+      },
+      {
+        "uid": "42b3fd8097800001",
+        "type": 12,
+        "x": 64085.34765625,
+        "y": 50430.72265625,
+        "token": "f_samara",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 16,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "f_standeres",
+    "name": "Finca Santanderes",
+    "countryToken": "california",
+    "population": 0,
+    "x": 57370.3828125,
+    "y": 36605.05078125,
+    "areas": [
+      {
+        "uid": "50ff7e78ad400001",
+        "type": 12,
+        "x": 57370.3828125,
+        "y": 36605.05078125,
+        "token": "f_standeres",
+        "hidden": false,
+        "width": 602.1551513671875,
+        "height": 300,
+        "sectorX": 14,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "f_vllelena",
+    "name": "Finca Villa Elena",
+    "countryToken": "california",
+    "population": 0,
+    "x": 49882.02734375,
+    "y": 97368.359375,
+    "areas": [
+      {
+        "uid": "429ae15027000001",
+        "type": 12,
+        "x": 49882.02734375,
+        "y": 97368.359375,
+        "token": "f_vllelena",
+        "hidden": false,
+        "width": 1535.9110107421875,
+        "height": 532.0519409179688,
+        "sectorX": 12,
+        "sectorY": 24
+      }
+    ]
+  },
+  {
+    "token": "gambita",
+    "name": "Gambita",
+    "countryToken": "california",
+    "population": 0,
+    "x": 54811.36328125,
+    "y": 43257.9921875,
+    "areas": [
+      {
+        "uid": "452c232cf8c00001",
+        "type": 12,
+        "x": 54811.36328125,
+        "y": 43257.9921875,
+        "token": "gambita",
+        "hidden": false,
+        "width": 1564.8665771484375,
+        "height": 706.6334838867188,
+        "sectorX": 13,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "girardot",
+    "name": "Girardot",
+    "countryToken": "california",
+    "population": 0,
+    "x": -5261.4375,
+    "y": 74888.28125,
+    "areas": [
+      {
+        "uid": "2862afb4c9c00782",
+        "type": 12,
+        "x": -5261.4375,
+        "y": 74888.28125,
+        "token": "girardot",
+        "hidden": false,
+        "width": 819.84375,
+        "height": 1109.21875,
+        "sectorX": -2,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "goncast",
+    "name": "Finca Gonz Cast",
+    "countryToken": "california",
+    "population": 0,
+    "x": -23196.98828125,
+    "y": 76085.6640625,
+    "areas": [
+      {
+        "uid": "4d8e93d8f6800001",
+        "type": 12,
+        "x": -23196.98828125,
+        "y": 76085.6640625,
+        "token": "goncast",
+        "hidden": false,
+        "width": 730.0677490234375,
+        "height": 400,
+        "sectorX": -6,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "granada",
+    "name": "Granada",
+    "countryToken": "california",
+    "population": 0,
+    "x": 36642.7578125,
+    "y": 90465.109375,
+    "areas": [
+      {
+        "uid": "475b5b8c94c00000",
+        "type": 12,
+        "x": 36642.7578125,
+        "y": 90465.109375,
+        "token": "granada",
+        "hidden": false,
+        "width": 864.310546875,
+        "height": 657.3147583007812,
+        "sectorX": 9,
+        "sectorY": 22
+      }
+    ]
+  },
+  {
+    "token": "guatape",
+    "name": "Guatapé",
+    "countryToken": "california",
+    "population": 0,
+    "x": -19601.60546875,
+    "y": 37087.5546875,
+    "areas": [
+      {
+        "uid": "430582a836c00001",
+        "type": 12,
+        "x": -19601.60546875,
+        "y": 37087.5546875,
+        "token": "guatape",
+        "hidden": false,
+        "width": 367.6459045410156,
+        "height": 541.0734252929688,
+        "sectorX": -5,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "guepsa",
+    "name": "Guepsa",
+    "countryToken": "california",
+    "population": 0,
+    "x": 48363.5390625,
+    "y": 42745.1640625,
+    "areas": [
+      {
+        "uid": "4446a0348d000001",
+        "type": 12,
+        "x": 48363.5390625,
+        "y": 42745.1640625,
+        "token": "guepsa",
+        "hidden": false,
+        "width": 871.5233154296875,
+        "height": 913.1276245117188,
+        "sectorX": 12,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "hacafealcort",
+    "name": "Hacienda Cafetera AlcortGamer",
+    "countryToken": "california",
+    "population": 0,
+    "x": -30338.53515625,
+    "y": 68660.453125,
+    "areas": [
+      {
+        "uid": "54e079d80e0002f4",
+        "type": 12,
+        "x": -30338.53515625,
+        "y": 68660.453125,
+        "token": "hacafealcort",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -8,
+        "sectorY": 17
+      },
+      {
+        "uid": "54e079d91e8002f3",
+        "type": 12,
+        "x": -30191.265625,
+        "y": 68427.703125,
+        "token": "hacafealcort",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -8,
+        "sectorY": 17
+      },
+      {
+        "uid": "54e079d9650002f5",
+        "type": 12,
+        "x": -30564.1015625,
+        "y": 68826.359375,
+        "token": "hacafealcort",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -8,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "h_cielito",
+    "name": "Hacienda mi Cielito",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33505.05078125,
+    "y": 69060.5546875,
+    "areas": [
+      {
+        "uid": "463ec030fb400004",
+        "type": 12,
+        "x": -33505.05078125,
+        "y": 69060.5546875,
+        "token": "h_cielito",
+        "hidden": false,
+        "width": 724.0015869140625,
+        "height": 515.2880859375,
+        "sectorX": -9,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "h_faraon",
+    "name": "Hacienda el Faraón",
+    "countryToken": "california",
+    "population": 0,
+    "x": -70150.34375,
+    "y": 46669.796875,
+    "areas": [
+      {
+        "uid": "42860528f4000001",
+        "type": 12,
+        "x": -70150.34375,
+        "y": 46669.796875,
+        "token": "h_faraon",
+        "hidden": false,
+        "width": 364.8786315917969,
+        "height": 786.6356201171875,
+        "sectorX": -18,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "h_fmlsanchez",
+    "name": "Hacienda Familia Sánchez",
+    "countryToken": "california",
+    "population": 0,
+    "x": -37966.08203125,
+    "y": 71134.59375,
+    "areas": [
+      {
+        "uid": "367292206a400001",
+        "type": 12,
+        "x": -37966.08203125,
+        "y": 71134.59375,
+        "token": "h_fmlsanchez",
+        "hidden": false,
+        "width": 295.41278076171875,
+        "height": 238.1104736328125,
+        "sectorX": -10,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "h_laisabella",
+    "name": "Hacienda la Isabella",
+    "countryToken": "california",
+    "population": 0,
+    "x": -18623.0078125,
+    "y": 33880.7421875,
+    "areas": [
+      {
+        "uid": "52e3e304c98007ea",
+        "type": 12,
+        "x": -18623.0078125,
+        "y": 33880.7421875,
+        "token": "h_laisabella",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": -5,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "h_mariaroque",
+    "name": "Hacienda Maria Roque",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26604.50390625,
+    "y": 13100.640625,
+    "areas": [
+      {
+        "uid": "363d7014cb400001",
+        "type": 12,
+        "x": -26604.50390625,
+        "y": 13100.640625,
+        "token": "h_mariaroque",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -7,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "ibague",
+    "name": "Ibague",
+    "countryToken": "california",
+    "population": 0,
+    "x": -20602.2421875,
+    "y": 72252.484375,
+    "areas": [
+      {
+        "uid": "47f60ed05a40002b",
+        "type": 12,
+        "x": -20602.2421875,
+        "y": 72252.484375,
+        "token": "ibague",
+        "hidden": false,
+        "width": 330.765625,
+        "height": 554.5703125,
+        "sectorX": -6,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "icoharinas",
+    "name": "Icoharinas Bucaramanga",
+    "countryToken": "california",
+    "population": 0,
+    "x": 54040.4453125,
+    "y": 20589.9921875,
+    "areas": [
+      {
+        "uid": "488a0c648a400815",
+        "type": 12,
+        "x": 54040.4453125,
+        "y": 20589.9921875,
+        "token": "icoharinas",
+        "hidden": false,
+        "width": 392.153076171875,
+        "height": 292.15228271484375,
+        "sectorX": 13,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "indbcerve",
+    "name": "Industria Barón cervecero",
+    "countryToken": "california",
+    "population": 0,
+    "x": -20561.07421875,
+    "y": 70603.578125,
+    "areas": [
+      {
+        "uid": "37b934d0f780045c",
+        "type": 12,
+        "x": -20561.07421875,
+        "y": 70603.578125,
+        "token": "indbcerve",
+        "hidden": false,
+        "width": 500.7594299316406,
+        "height": 290.0075378417969,
+        "sectorX": -6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "industjj",
+    "name": "Centro industrial JJ",
+    "countryToken": "california",
+    "population": 0,
+    "x": -22398.18359375,
+    "y": 38335.07421875,
+    "areas": [
+      {
+        "uid": "4388c7a8a4800001",
+        "type": 12,
+        "x": -22398.18359375,
+        "y": 38335.07421875,
+        "token": "industjj",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -6,
+        "sectorY": 9
+      },
+      {
+        "uid": "58dd9b6d5f800000",
+        "type": 12,
+        "x": -22465.7109375,
+        "y": 38906.125,
+        "token": "industjj",
+        "hidden": true,
+        "width": 974.1891479492188,
+        "height": 790.3501586914062,
+        "sectorX": -6,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "ingabino",
+    "name": "Industria Cañera de la Torre",
+    "countryToken": "california",
+    "population": 0,
+    "x": 26863.72265625,
+    "y": -32545.0517578125,
+    "areas": [
+      {
+        "uid": "4bdb4d405ac00033",
+        "type": 12,
+        "x": 26863.72265625,
+        "y": -32545.0517578125,
+        "token": "ingabino",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": 6,
+        "sectorY": -9
+      }
+    ]
+  },
+  {
+    "token": "ingospina",
+    "name": "Ingenio Ospina",
+    "countryToken": "california",
+    "population": 0,
+    "x": -70253.703125,
+    "y": 93118.953125,
+    "areas": [
+      {
+        "uid": "4c08689000000035",
+        "type": 12,
+        "x": -70253.703125,
+        "y": 93118.953125,
+        "token": "ingospina",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -18,
+        "sectorY": 23
+      },
+      {
+        "uid": "4c086e383ec00000",
+        "type": 12,
+        "x": -69904.296875,
+        "y": 92810.78125,
+        "token": "ingospina",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -18,
+        "sectorY": 23
+      }
+    ]
+  },
+  {
+    "token": "ingospina2",
+    "name": "Ingenio Ospina 2",
+    "countryToken": "california",
+    "population": 0,
+    "x": 43512.1796875,
+    "y": -14731.26171875,
+    "areas": [
+      {
+        "uid": "4c09e7d45d800001",
+        "type": 12,
+        "x": 43512.1796875,
+        "y": -14731.26171875,
+        "token": "ingospina2",
+        "hidden": false,
+        "width": 381.5208740234375,
+        "height": 300,
+        "sectorX": 10,
+        "sectorY": -4
+      },
+      {
+        "uid": "4c09e818f4800000",
+        "type": 12,
+        "x": 42598.125,
+        "y": -14695.00390625,
+        "token": "ingospina2",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": 10,
+        "sectorY": -4
+      }
+    ]
+  },
+  {
+    "token": "ingpaisa",
+    "name": "ingenio el Paisa",
+    "countryToken": "california",
+    "population": 0,
+    "x": 48260.203125,
+    "y": -217.765625,
+    "areas": [
+      {
+        "uid": "4be6507c97c00001",
+        "type": 12,
+        "x": 48260.203125,
+        "y": -217.765625,
+        "token": "ingpaisa",
+        "hidden": false,
+        "width": 396.22406005859375,
+        "height": 638.2095947265625,
+        "sectorX": 12,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "ingshamu",
+    "name": "ingshamu",
+    "countryToken": "california",
+    "population": 0,
+    "x": -51823.94921875,
+    "y": 71368.2734375,
+    "areas": [
+      {
+        "uid": "4bc0ecb04b400001",
+        "type": 12,
+        "x": -51823.94921875,
+        "y": 71368.2734375,
+        "token": "ingshamu",
+        "hidden": false,
+        "width": 600,
+        "height": 600,
+        "sectorX": -13,
+        "sectorY": 17
+      },
+      {
+        "uid": "4c08f280e3400000",
+        "type": 12,
+        "x": -52144.07421875,
+        "y": 70900.78125,
+        "token": "ingshamu",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -14,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "ingshamu2",
+    "name": "ingshamu2",
+    "countryToken": "california",
+    "population": 0,
+    "x": 44644.4375,
+    "y": 7887.1875,
+    "areas": [
+      {
+        "uid": "4bdb40ac3c4000e4",
+        "type": 12,
+        "x": 44644.4375,
+        "y": 7887.1875,
+        "token": "ingshamu2",
+        "hidden": false,
+        "width": 600,
+        "height": 600,
+        "sectorX": 11,
+        "sectorY": 1
+      }
+    ]
+  },
+  {
+    "token": "inza",
+    "name": "Inza",
+    "countryToken": "california",
+    "population": 0,
+    "x": -56512.25390625,
+    "y": 107968.125,
+    "areas": [
+      {
+        "uid": "4629ca408a400001",
+        "type": 12,
+        "x": -56512.25390625,
+        "y": 107968.125,
+        "token": "inza",
+        "hidden": false,
+        "width": 280.8102111816406,
+        "height": 248.0634765625,
+        "sectorX": -15,
+        "sectorY": 26
+      }
+    ]
+  },
+  {
+    "token": "ipiales",
+    "name": "Ipiales",
+    "countryToken": "california",
+    "population": 0,
+    "x": -115446.28125,
+    "y": 146139.578125,
+    "areas": [
+      {
+        "uid": "2858c84050003166",
+        "type": 12,
+        "x": -115446.28125,
+        "y": 146139.578125,
+        "token": "ipiales",
+        "hidden": false,
+        "width": 600,
+        "height": 400,
+        "sectorX": -29,
+        "sectorY": 36
+      },
+      {
+        "uid": "58db0cc493000000",
+        "type": 12,
+        "x": -115304.765625,
+        "y": 145527.90625,
+        "token": "ipiales",
+        "hidden": true,
+        "width": 600,
+        "height": 400,
+        "sectorX": -29,
+        "sectorY": 36
+      },
+      {
+        "uid": "58db0d57ec000000",
+        "type": 12,
+        "x": -115813.3984375,
+        "y": 146321.71875,
+        "token": "ipiales",
+        "hidden": true,
+        "width": 600,
+        "height": 400,
+        "sectorX": -29,
+        "sectorY": 36
+      }
+    ]
+  },
+  {
+    "token": "islaborgia",
+    "name": "Isla BorgiaSango",
+    "countryToken": "california",
+    "population": 0,
+    "x": 19142.62890625,
+    "y": -67964.40625,
+    "areas": [
+      {
+        "uid": "50f6a7243f400001",
+        "type": 12,
+        "x": 19142.62890625,
+        "y": -67964.40625,
+        "token": "islaborgia",
+        "hidden": false,
+        "width": 1250.8692626953125,
+        "height": 500,
+        "sectorX": 4,
+        "sectorY": -17
+      }
+    ]
+  },
+  {
+    "token": "istmina",
+    "name": "Istmina",
+    "countryToken": "california",
+    "population": 0,
+    "x": -74581.4296875,
+    "y": 56755.07421875,
+    "areas": [
+      {
+        "uid": "4db8f1e8ac000001",
+        "type": 12,
+        "x": -74581.4296875,
+        "y": 56755.07421875,
+        "token": "istmina",
+        "hidden": false,
+        "width": 1323.5631103515625,
+        "height": 401.5622253417969,
+        "sectorX": -19,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "jarochotks",
+    "name": "Jarocho Trucks",
+    "countryToken": "california",
+    "population": 0,
+    "x": -34817.40625,
+    "y": 73203.75,
+    "areas": [
+      {
+        "uid": "46cf96acab000001",
+        "type": 12,
+        "x": -34817.40625,
+        "y": 73203.75,
+        "token": "jarochotks",
+        "hidden": false,
+        "width": 548.3372802734375,
+        "height": 412.0877990722656,
+        "sectorX": -9,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "jerez",
+    "name": "HONDA",
+    "countryToken": "zacatecas",
+    "population": 0,
+    "x": -4856.40234375,
+    "y": 59571.26171875,
+    "areas": [
+      {
+        "uid": "28587c0c9e800c0a",
+        "type": 12,
+        "x": -5111.73046875,
+        "y": 59609.984375,
+        "token": "jerez",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -2,
+        "sectorY": 14
+      },
+      {
+        "uid": "28587c0cdcc00c0d",
+        "type": 12,
+        "x": -4856.40234375,
+        "y": 59571.26171875,
+        "token": "jerez",
+        "hidden": false,
+        "width": 750,
+        "height": 750,
+        "sectorX": -2,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "jerico_ant",
+    "name": "Jericó Antioquia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -42854.87890625,
+    "y": 52359.4453125,
+    "areas": [
+      {
+        "uid": "459afc1ca9400001",
+        "type": 12,
+        "x": -42854.87890625,
+        "y": 52359.4453125,
+        "token": "jerico_ant",
+        "hidden": false,
+        "width": 500,
+        "height": 400,
+        "sectorX": -11,
+        "sectorY": 13
+      },
+      {
+        "uid": "509b7a4812000000",
+        "type": 12,
+        "x": -43288.109375,
+        "y": 52591.19921875,
+        "token": "jerico_ant",
+        "hidden": true,
+        "width": 500,
+        "height": 400,
+        "sectorX": -11,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "jimenez",
+    "name": "Cajamarca",
+    "countryToken": "chihuah",
+    "population": 0,
+    "x": -28811.2890625,
+    "y": 73033.1796875,
+    "areas": [
+      {
+        "uid": "2a5c4794a3000001",
+        "type": 12,
+        "x": -28811.2890625,
+        "y": 73033.1796875,
+        "token": "jimenez",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -8,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "lago_calima",
+    "name": "Lago Calima",
+    "countryToken": "california",
+    "population": 0,
+    "x": -67351.515625,
+    "y": 82465.3515625,
+    "areas": [
+      {
+        "uid": "4e911d08dfc00000",
+        "type": 12,
+        "x": -67351.515625,
+        "y": 82465.3515625,
+        "token": "lago_calima",
+        "hidden": false,
+        "width": 120,
+        "height": 120,
+        "sectorX": -17,
+        "sectorY": 20
+      },
+      {
+        "uid": "2b9438dcc4800001",
+        "type": 12,
+        "x": -68097.078125,
+        "y": 82193.890625,
+        "token": "lago_calima",
+        "hidden": true,
+        "width": 120,
+        "height": 120,
+        "sectorX": -18,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "lagutota",
+    "name": "Laguna de Tota",
+    "countryToken": "california",
+    "population": 0,
+    "x": 64144.09375,
+    "y": 50063.65234375,
+    "areas": [
+      {
+        "uid": "427c8d48ac000001",
+        "type": 12,
+        "x": 64144.09375,
+        "y": 50063.65234375,
+        "token": "lagutota",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": 16,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "la_hormiga",
+    "name": "La hormiga",
+    "countryToken": "california",
+    "population": 0,
+    "x": -86532.2578125,
+    "y": 147104.171875,
+    "areas": [
+      {
+        "uid": "47b74d386ac00000",
+        "type": 12,
+        "x": -86532.2578125,
+        "y": 147104.171875,
+        "token": "la_hormiga",
+        "hidden": false,
+        "width": 700,
+        "height": 800,
+        "sectorX": -22,
+        "sectorY": 36
+      },
+      {
+        "uid": "58db119e04800000",
+        "type": 12,
+        "x": -86917.5859375,
+        "y": 146527.921875,
+        "token": "la_hormiga",
+        "hidden": true,
+        "width": 700,
+        "height": 800,
+        "sectorX": -22,
+        "sectorY": 36
+      }
+    ]
+  },
+  {
+    "token": "la_plata",
+    "name": "La plata",
+    "countryToken": "california",
+    "population": 0,
+    "x": -47195.25,
+    "y": 111507.421875,
+    "areas": [
+      {
+        "uid": "58db18ab3b000000",
+        "type": 12,
+        "x": -47195.25,
+        "y": 111507.421875,
+        "token": "la_plata",
+        "hidden": false,
+        "width": 719.5484619140625,
+        "height": 500.0001220703125,
+        "sectorX": -12,
+        "sectorY": 27
+      },
+      {
+        "uid": "2862befcd7000c06",
+        "type": 12,
+        "x": -46078.3984375,
+        "y": 112408.296875,
+        "token": "la_plata",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -12,
+        "sectorY": 28
+      },
+      {
+        "uid": "47bc1b589a800000",
+        "type": 12,
+        "x": -46645.99609375,
+        "y": 112244.4375,
+        "token": "la_plata",
+        "hidden": false,
+        "width": 861.2630615234375,
+        "height": 759.0677490234375,
+        "sectorX": -12,
+        "sectorY": 28
+      }
+    ]
+  },
+  {
+    "token": "la_uribe",
+    "name": "La uribe",
+    "countryToken": "california",
+    "population": 0,
+    "x": 9473.1171875,
+    "y": 97606.875,
+    "areas": [
+      {
+        "uid": "442f7be47e800000",
+        "type": 12,
+        "x": 9473.1171875,
+        "y": 97606.875,
+        "token": "la_uribe",
+        "hidden": false,
+        "width": 500,
+        "height": 250,
+        "sectorX": 2,
+        "sectorY": 24
+      }
+    ]
+  },
+  {
+    "token": "la_ye",
+    "name": "La Ye",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32608.1435546875,
+    "y": -14446.39453125,
+    "areas": [
+      {
+        "uid": "42cdc4a089800001",
+        "type": 12,
+        "x": -32608.1435546875,
+        "y": -14446.39453125,
+        "token": "la_ye",
+        "hidden": false,
+        "width": 987.5255126953125,
+        "height": 1070.9739990234375,
+        "sectorX": -9,
+        "sectorY": -4
+      }
+    ]
+  },
+  {
+    "token": "letra_logo",
+    "name": "Letras y Logos S.A",
+    "countryToken": "california",
+    "population": 0,
+    "x": -38082.21875,
+    "y": 72846.3515625,
+    "areas": [
+      {
+        "uid": "3990cd3481800058",
+        "type": 12,
+        "x": -38082.21875,
+        "y": 72846.3515625,
+        "token": "letra_logo",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -10,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "lospipones",
+    "name": "los pipones de OscarvaGp",
+    "countryToken": "california",
+    "population": 0,
+    "x": 10463.52734375,
+    "y": 76852.1953125,
+    "areas": [
+      {
+        "uid": "4c0a8a2054400001",
+        "type": 12,
+        "x": 10463.52734375,
+        "y": 76852.1953125,
+        "token": "lospipones",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": 2,
+        "sectorY": 19
+      },
+      {
+        "uid": "4c0d5bb46dc00000",
+        "type": 12,
+        "x": 10116.53515625,
+        "y": 77046.75,
+        "token": "lospipones",
+        "hidden": true,
+        "width": 500,
+        "height": 500,
+        "sectorX": 2,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "los_mochis",
+    "name": "Providencia",
+    "countryToken": "sinaloa",
+    "population": 0,
+    "x": -46874.06640625,
+    "y": -68604.0234375,
+    "areas": [
+      {
+        "uid": "285d68b469c000e1",
+        "type": 12,
+        "x": -46874.06640625,
+        "y": -68604.0234375,
+        "token": "los_mochis",
+        "hidden": false,
+        "width": 550,
+        "height": 550,
+        "sectorX": -12,
+        "sectorY": -18
+      },
+      {
+        "uid": "28629580be00004e",
+        "type": 12,
+        "x": -47426.9765625,
+        "y": -68626.21875,
+        "token": "los_mochis",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -12,
+        "sectorY": -18
+      }
+    ]
+  },
+  {
+    "token": "madejorjo",
+    "name": "Maderas de Jorjolio el Paisa",
+    "countryToken": "california",
+    "population": 0,
+    "x": -30664.38671875,
+    "y": 43074.21484375,
+    "areas": [
+      {
+        "uid": "5358357869000105",
+        "type": 12,
+        "x": -30664.38671875,
+        "y": 43074.21484375,
+        "token": "madejorjo",
+        "hidden": false,
+        "width": 1055.004638671875,
+        "height": 524.9270629882812,
+        "sectorX": -8,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "maderasguamo",
+    "name": "Green wood hill colombia maderas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -15719.49609375,
+    "y": 82184.8125,
+    "areas": [
+      {
+        "uid": "367486c461000001",
+        "type": 12,
+        "x": -15719.49609375,
+        "y": 82184.8125,
+        "token": "maderasguamo",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -4,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "magangue",
+    "name": "Magangue",
+    "countryToken": "california",
+    "population": 0,
+    "x": -3146.109375,
+    "y": -21577.71484375,
+    "areas": [
+      {
+        "uid": "45ed02cc20c00f1c",
+        "type": 12,
+        "x": -3146.109375,
+        "y": -21577.71484375,
+        "token": "magangue",
+        "hidden": false,
+        "width": 600,
+        "height": 850,
+        "sectorX": -1,
+        "sectorY": -6
+      }
+    ]
+  },
+  {
+    "token": "manizales",
+    "name": "Manizales",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31636.71484375,
+    "y": 59387.78515625,
+    "areas": [
+      {
+        "uid": "285897d8d2c009d6",
+        "type": 12,
+        "x": -31636.71484375,
+        "y": 59387.78515625,
+        "token": "manizales",
+        "hidden": false,
+        "width": 400,
+        "height": 500,
+        "sectorX": -8,
+        "sectorY": 14
+      },
+      {
+        "uid": "509b521c06c00000",
+        "type": 12,
+        "x": -31577.6015625,
+        "y": 59958.23046875,
+        "token": "manizales",
+        "hidden": true,
+        "width": 400,
+        "height": 500,
+        "sectorX": -8,
+        "sectorY": 14
+      },
+      {
+        "uid": "58dd93d215800000",
+        "type": 12,
+        "x": -30932.36328125,
+        "y": 59274.28515625,
+        "token": "manizales",
+        "hidden": true,
+        "width": 400,
+        "height": 500,
+        "sectorX": -8,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "maqui",
+    "name": "Finca la Maquina",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39235.375,
+    "y": -22713.23828125,
+    "areas": [
+      {
+        "uid": "4f49e4cc9a000001",
+        "type": 12,
+        "x": -39235.375,
+        "y": -22713.23828125,
+        "token": "maqui",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": -6
+      },
+      {
+        "uid": "4f49e520b6400000",
+        "type": 12,
+        "x": -38913.77734375,
+        "y": -22528.17578125,
+        "token": "maqui",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": -6
+      },
+      {
+        "uid": "4f49e5403dc00000",
+        "type": 12,
+        "x": -39437.4140625,
+        "y": -22342.8359375,
+        "token": "maqui",
+        "hidden": true,
+        "width": 420.4017639160156,
+        "height": 300.03460693359375,
+        "sectorX": -10,
+        "sectorY": -6
+      }
+    ]
+  },
+  {
+    "token": "margaritas",
+    "name": "las Margaritas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -63347.265625,
+    "y": 111462.796875,
+    "areas": [
+      {
+        "uid": "4629c93016000001",
+        "type": 12,
+        "x": -63347.265625,
+        "y": 111462.796875,
+        "token": "margaritas",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -16,
+        "sectorY": 27
+      }
+    ]
+  },
+  {
+    "token": "mariquita",
+    "name": "Mariquita",
+    "countryToken": "california",
+    "population": 0,
+    "x": -9906.80078125,
+    "y": 58735.34765625,
+    "areas": [
+      {
+        "uid": "5131389c08800001",
+        "type": 12,
+        "x": -9906.80078125,
+        "y": 58735.34765625,
+        "token": "mariquita",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -3,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "marmat",
+    "name": "Minas BLAZE GOLD COMPANY",
+    "countryToken": "california",
+    "population": 0,
+    "x": -36761.74609375,
+    "y": 50488.0390625,
+    "areas": [
+      {
+        "uid": "50732ce455800001",
+        "type": 12,
+        "x": -36761.74609375,
+        "y": 50488.0390625,
+        "token": "marmat",
+        "hidden": false,
+        "width": 610.8938598632812,
+        "height": 618.1719970703125,
+        "sectorX": -10,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "matanza",
+    "name": "Matanza JRM",
+    "countryToken": "california",
+    "population": 0,
+    "x": 53760.4921875,
+    "y": 14292.45703125,
+    "areas": [
+      {
+        "uid": "46b2d58801800001",
+        "type": 12,
+        "x": 53760.4921875,
+        "y": 14292.45703125,
+        "token": "matanza",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": 13,
+        "sectorY": 3
+      },
+      {
+        "uid": "58de2ce459800000",
+        "type": 12,
+        "x": 54411.46875,
+        "y": 13513.83984375,
+        "token": "matanza",
+        "hidden": false,
+        "width": 580.5221557617188,
+        "height": 540.4410400390625,
+        "sectorX": 13,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "medellin",
+    "name": "Medellin",
+    "countryToken": "california",
+    "population": 0,
+    "x": -35164.62890625,
+    "y": 38784.41796875,
+    "areas": [
+      {
+        "uid": "537a71041f800000",
+        "type": 12,
+        "x": -35164.62890625,
+        "y": 38784.41796875,
+        "token": "medellin",
+        "hidden": false,
+        "width": 1290.532470703125,
+        "height": 3062.615966796875,
+        "sectorX": -9,
+        "sectorY": 9
+      },
+      {
+        "uid": "537a7138ac800000",
+        "type": 12,
+        "x": -34354.31640625,
+        "y": 37834.57421875,
+        "token": "medellin",
+        "hidden": true,
+        "width": 800,
+        "height": 800,
+        "sectorX": -9,
+        "sectorY": 9
+      },
+      {
+        "uid": "537a718007800000",
+        "type": 12,
+        "x": -34916.3125,
+        "y": 37522.91796875,
+        "token": "medellin",
+        "hidden": true,
+        "width": 800,
+        "height": 800,
+        "sectorX": -9,
+        "sectorY": 9
+      },
+      {
+        "uid": "537a85d09380023a",
+        "type": 12,
+        "x": -37152.8984375,
+        "y": 37002.6015625,
+        "token": "medellin",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -10,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "melgar",
+    "name": "Melgar",
+    "countryToken": "california",
+    "population": 0,
+    "x": -58.91407012939453,
+    "y": 78279.5546875,
+    "areas": [
+      {
+        "uid": "4d66f55c2b800013",
+        "type": 12,
+        "x": -58.91407012939453,
+        "y": 78279.5546875,
+        "token": "melgar",
+        "hidden": false,
+        "width": 450,
+        "height": 450,
+        "sectorX": -1,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "minas_muzo",
+    "name": "Minas de diamante y zafiro de Muzo",
+    "countryToken": "california",
+    "population": 0,
+    "x": 11973.359375,
+    "y": 53693.765625,
+    "areas": [
+      {
+        "uid": "536a2a18268000dc",
+        "type": 12,
+        "x": 11973.359375,
+        "y": 53693.765625,
+        "token": "minas_muzo",
+        "hidden": false,
+        "width": 1353.9927978515625,
+        "height": 400,
+        "sectorX": 2,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "mocoa",
+    "name": "Mocoa",
+    "countryToken": "california",
+    "population": 0,
+    "x": -75660.0546875,
+    "y": 133787.453125,
+    "areas": [
+      {
+        "uid": "4aa91b90ac4001db",
+        "type": 12,
+        "x": -75660.0546875,
+        "y": 133787.453125,
+        "token": "mocoa",
+        "hidden": false,
+        "width": 800,
+        "height": 400,
+        "sectorX": -19,
+        "sectorY": 33
+      }
+    ]
+  },
+  {
+    "token": "monpos",
+    "name": "Mompóx",
+    "countryToken": "california",
+    "population": 0,
+    "x": 10632.51953125,
+    "y": -19900.34765625,
+    "areas": [
+      {
+        "uid": "45ed02cce3400967",
+        "type": 12,
+        "x": 10632.51953125,
+        "y": -19900.34765625,
+        "token": "monpos",
+        "hidden": false,
+        "width": 768.08935546875,
+        "height": 618.3838500976562,
+        "sectorX": 2,
+        "sectorY": -5
+      }
+    ]
+  },
+  {
+    "token": "monserrate",
+    "name": "Monserrate",
+    "countryToken": "california",
+    "population": 0,
+    "x": 25157.28125,
+    "y": 69371.625,
+    "areas": [
+      {
+        "uid": "54c6e959e6800001",
+        "type": 12,
+        "x": 25157.28125,
+        "y": 69371.625,
+        "token": "monserrate",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "monteria",
+    "name": "Monteria",
+    "countryToken": "california",
+    "population": 0,
+    "x": -47106.8515625,
+    "y": -11223.94921875,
+    "areas": [
+      {
+        "uid": "488a13a81c000514",
+        "type": 12,
+        "x": -47614.94140625,
+        "y": -10227.52734375,
+        "token": "monteria",
+        "hidden": true,
+        "width": 1346.43212890625,
+        "height": 2919.33056640625,
+        "sectorX": -12,
+        "sectorY": -3
+      },
+      {
+        "uid": "488a13a839c00513",
+        "type": 12,
+        "x": -47106.8515625,
+        "y": -11223.94921875,
+        "token": "monteria",
+        "hidden": false,
+        "width": 1000,
+        "height": 1000,
+        "sectorX": -12,
+        "sectorY": -3
+      }
+    ]
+  },
+  {
+    "token": "mutata",
+    "name": "Mutatá",
+    "countryToken": "california",
+    "population": 0,
+    "x": -68450.0625,
+    "y": 6142.90234375,
+    "areas": [
+      {
+        "uid": "4d7c90708a000001",
+        "type": 12,
+        "x": -68450.0625,
+        "y": 6142.90234375,
+        "token": "mutata",
+        "hidden": false,
+        "width": 600,
+        "height": 600,
+        "sectorX": -18,
+        "sectorY": 1
+      }
+    ]
+  },
+  {
+    "token": "muzo",
+    "name": "Muzo",
+    "countryToken": "california",
+    "population": 0,
+    "x": 9442.0234375,
+    "y": 52328.65625,
+    "areas": [
+      {
+        "uid": "5367faa496c000ff",
+        "type": 12,
+        "x": 9442.0234375,
+        "y": 52328.65625,
+        "token": "muzo",
+        "hidden": false,
+        "width": 485.3472595214844,
+        "height": 756.6542358398438,
+        "sectorX": 2,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "myslogist",
+    "name": "M&S eventos y logística",
+    "countryToken": "california",
+    "population": 0,
+    "x": -19878.37890625,
+    "y": 74384.0078125,
+    "areas": [
+      {
+        "uid": "4514773060c00001",
+        "type": 12,
+        "x": -19878.37890625,
+        "y": 74384.0078125,
+        "token": "myslogist",
+        "hidden": false,
+        "width": 523.5150756835938,
+        "height": 497.8874206542969,
+        "sectorX": -5,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "neiva",
+    "name": "Neiva",
+    "countryToken": "california",
+    "population": 0,
+    "x": -23330.421875,
+    "y": 103099.0625,
+    "areas": [
+      {
+        "uid": "285683b0d2400485",
+        "type": 12,
+        "x": -23330.421875,
+        "y": 103099.0625,
+        "token": "neiva",
+        "hidden": false,
+        "width": 450,
+        "height": 450,
+        "sectorX": -6,
+        "sectorY": 25
+      },
+      {
+        "uid": "285c6f583280001d",
+        "type": 12,
+        "x": -22359.875,
+        "y": 103199.1953125,
+        "token": "neiva",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -6,
+        "sectorY": 25
+      },
+      {
+        "uid": "47c4f1ec96400000",
+        "type": 12,
+        "x": -23844.4921875,
+        "y": 102536.0859375,
+        "token": "neiva",
+        "hidden": true,
+        "width": 2283.24755859375,
+        "height": 1050.0780029296875,
+        "sectorX": -6,
+        "sectorY": 25
+      }
+    ]
+  },
+  {
+    "token": "nev_ruiz",
+    "name": "Nevado del Ruiz",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26890.77734375,
+    "y": 58302.390625,
+    "areas": [
+      {
+        "uid": "39df5c34af800001",
+        "type": 12,
+        "x": -26890.77734375,
+        "y": 58302.390625,
+        "token": "nev_ruiz",
+        "hidden": false,
+        "width": 150,
+        "height": 150,
+        "sectorX": -7,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "nvo_casas",
+    "name": "La Dorada",
+    "countryToken": "chihuah",
+    "population": 0,
+    "x": -810.27734375,
+    "y": 52849.51953125,
+    "areas": [
+      {
+        "uid": "4d445f304d000000",
+        "type": 12,
+        "x": 620.23046875,
+        "y": 52395.2265625,
+        "token": "nvo_casas",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": 0,
+        "sectorY": 13
+      },
+      {
+        "uid": "84eda901d500001",
+        "type": 12,
+        "x": -810.27734375,
+        "y": 52849.51953125,
+        "token": "nvo_casas",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": -1,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "oasimexcol",
+    "name": "Oasis MexCol",
+    "countryToken": "california",
+    "population": 0,
+    "x": -118079.96875,
+    "y": 147088.140625,
+    "areas": [
+      {
+        "uid": "2858c840d0803173",
+        "type": 12,
+        "x": -118079.96875,
+        "y": 147088.140625,
+        "token": "oasimexcol",
+        "hidden": false,
+        "width": 850,
+        "height": 850,
+        "sectorX": -30,
+        "sectorY": 36
+      },
+      {
+        "uid": "58db0f2b82800000",
+        "type": 12,
+        "x": -117470.3125,
+        "y": 147339.265625,
+        "token": "oasimexcol",
+        "hidden": true,
+        "width": 850,
+        "height": 850,
+        "sectorX": -30,
+        "sectorY": 36
+      }
+    ]
+  },
+  {
+    "token": "ocana",
+    "name": "Ocaña",
+    "countryToken": "california",
+    "population": 0,
+    "x": 46953.15234375,
+    "y": 1096.4687194824219,
+    "areas": [
+      {
+        "uid": "4be64be0e1400001",
+        "type": 12,
+        "x": 46953.15234375,
+        "y": 1096.4687194824219,
+        "token": "ocana",
+        "hidden": false,
+        "width": 1017.6185913085938,
+        "height": 299.9997863769531,
+        "sectorX": 11,
+        "sectorY": 0
+      }
+    ]
+  },
+  {
+    "token": "ojinaga",
+    "name": "Irra",
+    "countryToken": "chihuah",
+    "population": 0,
+    "x": -37842.28515625,
+    "y": 56861.3125,
+    "areas": [
+      {
+        "uid": "48a3bd40aa000545",
+        "type": 12,
+        "x": -37842.28515625,
+        "y": 56861.3125,
+        "token": "ojinaga",
+        "hidden": false,
+        "width": 785.5498046875,
+        "height": 709.8818969726562,
+        "sectorX": -10,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "oporapa",
+    "name": "Oparapa",
+    "countryToken": "california",
+    "population": 0,
+    "x": -52978.16015625,
+    "y": 120248.296875,
+    "areas": [
+      {
+        "uid": "4558cf0ced800001",
+        "type": 12,
+        "x": -52978.16015625,
+        "y": 120248.296875,
+        "token": "oporapa",
+        "hidden": false,
+        "width": 450,
+        "height": 500,
+        "sectorX": -14,
+        "sectorY": 30
+      }
+    ]
+  },
+  {
+    "token": "osfer",
+    "name": "Hacienda Osfersango",
+    "countryToken": "california",
+    "population": 0,
+    "x": -2783.41796875,
+    "y": 44883.23046875,
+    "areas": [
+      {
+        "uid": "4db6476064400001",
+        "type": 12,
+        "x": -2695.1875,
+        "y": 45948.98828125,
+        "token": "osfer",
+        "hidden": true,
+        "width": 530.81640625,
+        "height": 974.5523071289062,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "4db647d484000000",
+        "type": 12,
+        "x": -2783.41796875,
+        "y": 44883.23046875,
+        "token": "osfer",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -1,
+        "sectorY": 11
+      },
+      {
+        "uid": "58dd9a79d1000000",
+        "type": 12,
+        "x": -2701.75390625,
+        "y": 46462.0546875,
+        "token": "osfer",
+        "hidden": true,
+        "width": 336.1641540527344,
+        "height": 319.9570617675781,
+        "sectorX": -1,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "palmira",
+    "name": "Palmira",
+    "countryToken": "california",
+    "population": 0,
+    "x": -62502.83984375,
+    "y": 92467.359375,
+    "areas": [
+      {
+        "uid": "28560bcced400917",
+        "type": 12,
+        "x": -62502.83984375,
+        "y": 92467.359375,
+        "token": "palmira",
+        "hidden": false,
+        "width": 650,
+        "height": 500,
+        "sectorX": -16,
+        "sectorY": 23
+      }
+    ]
+  },
+  {
+    "token": "pamplona",
+    "name": "Pamplona",
+    "countryToken": "california",
+    "population": 0,
+    "x": 73222.78125,
+    "y": 15302.8125,
+    "areas": [
+      {
+        "uid": "488a114cd4c001d4",
+        "type": 12,
+        "x": 73222.78125,
+        "y": 15302.8125,
+        "token": "pamplona",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": 18,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "pasto",
+    "name": "Pasto",
+    "countryToken": "california",
+    "population": 0,
+    "x": -99058.3984375,
+    "y": 136571.109375,
+    "areas": [
+      {
+        "uid": "47ac3428aec00001",
+        "type": 12,
+        "x": -99058.3984375,
+        "y": 136571.109375,
+        "token": "pasto",
+        "hidden": false,
+        "width": 1200,
+        "height": 850,
+        "sectorX": -25,
+        "sectorY": 34
+      },
+      {
+        "uid": "58db0aeb14000000",
+        "type": 12,
+        "x": -99975.46875,
+        "y": 136515.25,
+        "token": "pasto",
+        "hidden": false,
+        "width": 850,
+        "height": 850,
+        "sectorX": -25,
+        "sectorY": 34
+      }
+    ]
+  },
+  {
+    "token": "pereira",
+    "name": "Pereira",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39545.453125,
+    "y": 65351.625,
+    "areas": [
+      {
+        "uid": "2855da141ec009aa",
+        "type": 12,
+        "x": -39545.453125,
+        "y": 65351.625,
+        "token": "pereira",
+        "hidden": false,
+        "width": 2135.975830078125,
+        "height": 1500,
+        "sectorX": -10,
+        "sectorY": 16
+      },
+      {
+        "uid": "2855da149cc009a9",
+        "type": 12,
+        "x": -39063.1171875,
+        "y": 65285.810546875,
+        "token": "pereira",
+        "hidden": true,
+        "width": 300,
+        "height": 850,
+        "sectorX": -10,
+        "sectorY": 16
+      },
+      {
+        "uid": "58daead94f800000",
+        "type": 12,
+        "x": -39542.56640625,
+        "y": 64160.30859375,
+        "token": "pereira",
+        "hidden": true,
+        "width": 1500,
+        "height": 1500,
+        "sectorX": -10,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "pinos",
+    "name": "Tunja",
+    "countryToken": "zacatecas",
+    "population": 0,
+    "x": 52180.78125,
+    "y": 51034.78515625,
+    "areas": [
+      {
+        "uid": "50a7aae834400001",
+        "type": 12,
+        "x": 52180.78125,
+        "y": 51034.78515625,
+        "token": "pinos",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 13,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "pitalito",
+    "name": "Pitalito",
+    "countryToken": "california",
+    "population": 0,
+    "x": -52865.94140625,
+    "y": 123852.453125,
+    "areas": [
+      {
+        "uid": "47b77f6892000002",
+        "type": 12,
+        "x": -52865.94140625,
+        "y": 123852.453125,
+        "token": "pitalito",
+        "hidden": false,
+        "width": 1500,
+        "height": 800,
+        "sectorX": -14,
+        "sectorY": 30
+      }
+    ]
+  },
+  {
+    "token": "planetarica",
+    "name": "Planeta rica",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31359.24609375,
+    "y": -4010.4765625,
+    "areas": [
+      {
+        "uid": "3066273ce7c0026d",
+        "type": 12,
+        "x": -31790.05859375,
+        "y": -4114.2421875,
+        "token": "planetarica",
+        "hidden": true,
+        "width": 250,
+        "height": 250,
+        "sectorX": -8,
+        "sectorY": -2
+      },
+      {
+        "uid": "488a2b4010000000",
+        "type": 12,
+        "x": -31359.24609375,
+        "y": -4010.4765625,
+        "token": "planetarica",
+        "hidden": false,
+        "width": 532.7762451171875,
+        "height": 250,
+        "sectorX": -8,
+        "sectorY": -2
+      }
+    ]
+  },
+  {
+    "token": "plz_bolivar",
+    "name": "Plaza de Bolivar Bogotá",
+    "countryToken": "california",
+    "population": 0,
+    "x": 24024.9296875,
+    "y": 69347.875,
+    "areas": [
+      {
+        "uid": "555f7fda82000000",
+        "type": 12,
+        "x": 23848.91015625,
+        "y": 69011.4765625,
+        "token": "plz_bolivar",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "555f7f10b4800001",
+        "type": 12,
+        "x": 24131.66015625,
+        "y": 69078.4609375,
+        "token": "plz_bolivar",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 6,
+        "sectorY": 17
+      },
+      {
+        "uid": "555f7f5005000000",
+        "type": 12,
+        "x": 24024.9296875,
+        "y": 69347.875,
+        "token": "plz_bolivar",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 6,
+        "sectorY": 17
+      },
+      {
+        "uid": "555f7fad46800000",
+        "type": 12,
+        "x": 24271.84765625,
+        "y": 69332.6015625,
+        "token": "plz_bolivar",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "popayan",
+    "name": "Popayan",
+    "countryToken": "california",
+    "population": 0,
+    "x": -75064.359375,
+    "y": 111276.515625,
+    "areas": [
+      {
+        "uid": "2856462cbf00059b",
+        "type": 12,
+        "x": -75064.359375,
+        "y": 111276.515625,
+        "token": "popayan",
+        "hidden": false,
+        "width": 300,
+        "height": 500,
+        "sectorX": -19,
+        "sectorY": 27
+      },
+      {
+        "uid": "58db09a92c000000",
+        "type": 12,
+        "x": -75611.546875,
+        "y": 111627.015625,
+        "token": "popayan",
+        "hidden": false,
+        "width": 550,
+        "height": 850,
+        "sectorX": -19,
+        "sectorY": 27
+      }
+    ]
+  },
+  {
+    "token": "psalgar",
+    "name": "Base militar PuertoSalgar",
+    "countryToken": "california",
+    "population": 0,
+    "x": 485.6484680175781,
+    "y": 52348.22265625,
+    "areas": [
+      {
+        "uid": "4d4454a42d400085",
+        "type": 12,
+        "x": 485.6484680175781,
+        "y": 52348.22265625,
+        "token": "psalgar",
+        "hidden": false,
+        "width": 200,
+        "height": 100,
+        "sectorX": 0,
+        "sectorY": 13
+      },
+      {
+        "uid": "4d44629c13800000",
+        "type": 12,
+        "x": 426.46875,
+        "y": 52099.453125,
+        "token": "psalgar",
+        "hidden": true,
+        "width": 200,
+        "height": 100,
+        "sectorX": 0,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "ptoaraujo",
+    "name": "Puerto Araujo",
+    "countryToken": "california",
+    "population": 0,
+    "x": 22598.78515625,
+    "y": 32392.84765625,
+    "areas": [
+      {
+        "uid": "47e725c0db000015",
+        "type": 12,
+        "x": 22598.78515625,
+        "y": 32392.84765625,
+        "token": "ptoaraujo",
+        "hidden": false,
+        "width": 450,
+        "height": 450,
+        "sectorX": 5,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "ptoboyaca",
+    "name": "Puerto Boyaca",
+    "countryToken": "california",
+    "population": 0,
+    "x": 2140.4765625,
+    "y": 42048.1875,
+    "areas": [
+      {
+        "uid": "2862ed7c2a80027a",
+        "type": 12,
+        "x": 2140.4765625,
+        "y": 42048.1875,
+        "token": "ptoboyaca",
+        "hidden": false,
+        "width": 450,
+        "height": 700,
+        "sectorX": 0,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "ptotriunfo",
+    "name": "Puerto triunfo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -1334.3359680175781,
+    "y": 45356.50390625,
+    "areas": [
+      {
+        "uid": "47e74cd425800000",
+        "type": 12,
+        "x": -1334.3359680175781,
+        "y": 45356.50390625,
+        "token": "ptotriunfo",
+        "hidden": false,
+        "width": 1800,
+        "height": 700,
+        "sectorX": -1,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "ptovargas",
+    "name": "Puerto Vargas",
+    "countryToken": "california",
+    "population": 0,
+    "x": 837.2656555175781,
+    "y": 56551.3359375,
+    "areas": [
+      {
+        "uid": "47e944a801400001",
+        "type": 12,
+        "x": 837.2656555175781,
+        "y": 56551.3359375,
+        "token": "ptovargas",
+        "hidden": false,
+        "width": 1146.3079833984375,
+        "height": 491.275634765625,
+        "sectorX": 0,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "pto_antioq",
+    "name": "Puerto Antioquia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -25311.33203125,
+    "y": 12865.54296875,
+    "areas": [
+      {
+        "uid": "2857723ceb8022d0",
+        "type": 12,
+        "x": -25311.33203125,
+        "y": 12865.54296875,
+        "token": "pto_antioq",
+        "hidden": false,
+        "width": 600,
+        "height": 3000,
+        "sectorX": -7,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "pto_carreno",
+    "name": "Puerto Carreno",
+    "countryToken": "california",
+    "population": 0,
+    "x": 142464.5,
+    "y": 38827.65234375,
+    "areas": [
+      {
+        "uid": "51b4a6c893400070",
+        "type": 12,
+        "x": 142464.5,
+        "y": 38827.65234375,
+        "token": "pto_carreno",
+        "hidden": false,
+        "width": 800,
+        "height": 800,
+        "sectorX": 35,
+        "sectorY": 9
+      },
+      {
+        "uid": "58db335660000000",
+        "type": 12,
+        "x": 141864.4375,
+        "y": 38930.3671875,
+        "token": "pto_carreno",
+        "hidden": true,
+        "width": 800,
+        "height": 800,
+        "sectorX": 35,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "puetog",
+    "name": "Puerto Gaitan",
+    "countryToken": "california",
+    "population": 0,
+    "x": 50950.48828125,
+    "y": 80838.921875,
+    "areas": [
+      {
+        "uid": "4fdd90c06f800001",
+        "type": 12,
+        "x": 50950.48828125,
+        "y": 80838.921875,
+        "token": "puetog",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": 12,
+        "sectorY": 20
+      },
+      {
+        "uid": "4fde338c88400000",
+        "type": 12,
+        "x": 50310.515625,
+        "y": 81297.984375,
+        "token": "puetog",
+        "hidden": true,
+        "width": 500,
+        "height": 500,
+        "sectorX": 12,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "p_valdivia",
+    "name": "Puerto Valdivia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26328.59375,
+    "y": 17287.078125,
+    "areas": [
+      {
+        "uid": "2c05af0cb50001f9",
+        "type": 12,
+        "x": -26328.59375,
+        "y": 17287.078125,
+        "token": "p_valdivia",
+        "hidden": false,
+        "width": 800,
+        "height": 700,
+        "sectorX": -7,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "quibdo",
+    "name": "Quibdo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -74183.3671875,
+    "y": 48562.625,
+    "areas": [
+      {
+        "uid": "40db081c88000016",
+        "type": 12,
+        "x": -74183.3671875,
+        "y": 48562.625,
+        "token": "quibdo",
+        "hidden": false,
+        "width": 599.9996948242188,
+        "height": 726.7785034179688,
+        "sectorX": -19,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "quinchia",
+    "name": "Quinchia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -41173.92578125,
+    "y": 58188.796875,
+    "areas": [
+      {
+        "uid": "567f7f57d3000d0b",
+        "type": 12,
+        "x": -40022.05859375,
+        "y": 58102.921875,
+        "token": "quinchia",
+        "hidden": true,
+        "width": 100,
+        "height": 100,
+        "sectorX": -11,
+        "sectorY": 14
+      },
+      {
+        "uid": "567f7f57de000a8e",
+        "type": 12,
+        "x": -41173.92578125,
+        "y": 58188.796875,
+        "token": "quinchia",
+        "hidden": false,
+        "width": 903.3040161132812,
+        "height": 796.9348754882812,
+        "sectorX": -11,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "rioacha",
+    "name": "Rioacha",
+    "countryToken": "california",
+    "population": 0,
+    "x": 33876.65625,
+    "y": -62530.2421875,
+    "areas": [
+      {
+        "uid": "50f6a6c85b000000",
+        "type": 12,
+        "x": 22141.5390625,
+        "y": -62783.43359375,
+        "token": "rioacha",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": 5,
+        "sectorY": -16
+      },
+      {
+        "uid": "495b12b4b9800001",
+        "type": 12,
+        "x": 33876.65625,
+        "y": -62530.2421875,
+        "token": "rioacha",
+        "hidden": false,
+        "width": 2125.6728515625,
+        "height": 905.2344360351562,
+        "sectorX": 8,
+        "sectorY": -16
+      },
+      {
+        "uid": "4d41440c9fc00040",
+        "type": 12,
+        "x": 32961.71484375,
+        "y": -62478.75,
+        "token": "rioacha",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 8,
+        "sectorY": -16
+      }
+    ]
+  },
+  {
+    "token": "rovira",
+    "name": "Rovira",
+    "countryToken": "california",
+    "population": 0,
+    "x": -22292.3359375,
+    "y": 76635.796875,
+    "areas": [
+      {
+        "uid": "4d8ea2188e400001",
+        "type": 12,
+        "x": -22292.3359375,
+        "y": 76635.796875,
+        "token": "rovira",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -6,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "sampues",
+    "name": "Sampues",
+    "countryToken": "california",
+    "population": 0,
+    "x": -27430.99609375,
+    "y": -19735.58984375,
+    "areas": [
+      {
+        "uid": "488a1a18134009e8",
+        "type": 12,
+        "x": -27430.99609375,
+        "y": -19735.58984375,
+        "token": "sampues",
+        "hidden": false,
+        "width": 1612.44091796875,
+        "height": 394.448486328125,
+        "sectorX": -7,
+        "sectorY": -5
+      }
+    ]
+  },
+  {
+    "token": "sandresislas",
+    "name": "San Andres islas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -49430.48828125,
+    "y": -60814.98046875,
+    "areas": [
+      {
+        "uid": "28563278834012bb",
+        "type": 12,
+        "x": -49430.48828125,
+        "y": -60814.98046875,
+        "token": "sandresislas",
+        "hidden": false,
+        "width": 2000,
+        "height": 2000,
+        "sectorX": -13,
+        "sectorY": -16
+      }
+    ]
+  },
+  {
+    "token": "santamarta",
+    "name": "Santa Marta",
+    "countryToken": "california",
+    "population": 0,
+    "x": 15789.94580078125,
+    "y": -57199.265625,
+    "areas": [
+      {
+        "uid": "487a6930f9400000",
+        "type": 12,
+        "x": 15789.94580078125,
+        "y": -57199.265625,
+        "token": "santamarta",
+        "hidden": false,
+        "width": 1208.2169189453125,
+        "height": 3716.31591796875,
+        "sectorX": 3,
+        "sectorY": -15
+      },
+      {
+        "uid": "58de0b8826000000",
+        "type": 12,
+        "x": 15919.18359375,
+        "y": -58709.9375,
+        "token": "santamarta",
+        "hidden": true,
+        "width": 2106.659423828125,
+        "height": 3716.31591796875,
+        "sectorX": 3,
+        "sectorY": -15
+      },
+      {
+        "uid": "48787a20dbc00004",
+        "type": 12,
+        "x": 15309.20703125,
+        "y": -60466.171875,
+        "token": "santamarta",
+        "hidden": true,
+        "width": 800,
+        "height": 1782.70458984375,
+        "sectorX": 3,
+        "sectorY": -16
+      }
+    ]
+  },
+  {
+    "token": "santiagopap",
+    "name": "POLLO GAMER 46",
+    "countryToken": "durango",
+    "population": 0,
+    "x": -34658.62890625,
+    "y": 43923.8125,
+    "areas": [
+      {
+        "uid": "3669347471800001",
+        "type": 12,
+        "x": -34658.62890625,
+        "y": 43923.8125,
+        "token": "santiagopap",
+        "hidden": false,
+        "width": 308.5615539550781,
+        "height": 239.42832946777344,
+        "sectorX": -9,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "sant_lajas",
+    "name": "Santuario de las lajas",
+    "countryToken": "california",
+    "population": 0,
+    "x": -115109.703125,
+    "y": 147068.78125,
+    "areas": [
+      {
+        "uid": "449fc764ca400001",
+        "type": 12,
+        "x": -115109.703125,
+        "y": 147068.78125,
+        "token": "sant_lajas",
+        "hidden": false,
+        "width": 350,
+        "height": 200,
+        "sectorX": -29,
+        "sectorY": 36
+      }
+    ]
+  },
+  {
+    "token": "sanvi_caguan",
+    "name": "San Vicente del Caguan",
+    "countryToken": "california",
+    "population": 0,
+    "x": -28598.41796875,
+    "y": 113306.9765625,
+    "areas": [
+      {
+        "uid": "4d40a3d0e5000053",
+        "type": 12,
+        "x": -27854.11328125,
+        "y": 112316.15625,
+        "token": "sanvi_caguan",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -7,
+        "sectorY": 28
+      },
+      {
+        "uid": "47bc79646bc007ed",
+        "type": 12,
+        "x": -28598.41796875,
+        "y": 113306.9765625,
+        "token": "sanvi_caguan",
+        "hidden": false,
+        "width": 883.3317260742188,
+        "height": 701.8773193359375,
+        "sectorX": -8,
+        "sectorY": 28
+      }
+    ]
+  },
+  {
+    "token": "san_alberto",
+    "name": "San Alberto",
+    "countryToken": "california",
+    "population": 0,
+    "x": 47950.8359375,
+    "y": 10763.34765625,
+    "areas": [
+      {
+        "uid": "4984db0476000001",
+        "type": 12,
+        "x": 47950.8359375,
+        "y": 10763.34765625,
+        "token": "san_alberto",
+        "hidden": false,
+        "width": 485.45037841796875,
+        "height": 1805.099365234375,
+        "sectorX": 11,
+        "sectorY": 2
+      }
+    ]
+  },
+  {
+    "token": "san_gil",
+    "name": "San Gil",
+    "countryToken": "california",
+    "population": 0,
+    "x": 55948.18359375,
+    "y": 38899.75,
+    "areas": [
+      {
+        "uid": "356b58200c000000",
+        "type": 12,
+        "x": 55948.18359375,
+        "y": 38899.75,
+        "token": "san_gil",
+        "hidden": false,
+        "width": 832.8206176757812,
+        "height": 771.4183349609375,
+        "sectorX": 13,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "san_pedro",
+    "name": "San pedro",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33407,
+    "y": 32527,
+    "areas": [
+      {
+        "uid": "44b83ec8f5800205",
+        "type": 12,
+        "x": -33407,
+        "y": 32527,
+        "token": "san_pedro",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -9,
+        "sectorY": 8
+      },
+      {
+        "uid": "58de0549b5000000",
+        "type": 12,
+        "x": -32953.6015625,
+        "y": 32847.78515625,
+        "token": "san_pedro",
+        "hidden": true,
+        "width": 300,
+        "height": 339.6403503417969,
+        "sectorX": -9,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "scsingenie",
+    "name": "SCS ingenieria",
+    "countryToken": "california",
+    "population": 0,
+    "x": -21294.82421875,
+    "y": 70765.0078125,
+    "areas": [
+      {
+        "uid": "37b938cc424000a2",
+        "type": 12,
+        "x": -21294.82421875,
+        "y": 70765.0078125,
+        "token": "scsingenie",
+        "hidden": false,
+        "width": 290.1710205078125,
+        "height": 289.66571044921875,
+        "sectorX": -6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "sergiourqui",
+    "name": "Finca las Rocas",
+    "countryToken": "california",
+    "population": 0,
+    "x": 47227.37109375,
+    "y": 528.76953125,
+    "areas": [
+      {
+        "uid": "4cf60d2858c00001",
+        "type": 12,
+        "x": 47227.37109375,
+        "y": 528.76953125,
+        "token": "sergiourqui",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": 11,
+        "sectorY": 0
+      }
+    ]
+  },
+  {
+    "token": "serro_guada",
+    "name": "Serro de Guadalupe",
+    "countryToken": "california",
+    "population": 0,
+    "x": 24502.38671875,
+    "y": 69950.1328125,
+    "areas": [
+      {
+        "uid": "553f2eedc1800001",
+        "type": 12,
+        "x": 24502.38671875,
+        "y": 69950.1328125,
+        "token": "serro_guada",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 6,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "shamu_medell",
+    "name": "Shamu S.A Medellín",
+    "countryToken": "california",
+    "population": 0,
+    "x": -36154.703125,
+    "y": 37051.09375,
+    "areas": [
+      {
+        "uid": "537a90681ec00058",
+        "type": 12,
+        "x": -36154.703125,
+        "y": 37051.09375,
+        "token": "shamu_medell",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": -10,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "shamu_resort",
+    "name": "SHAMU HOTEL AND RESORT",
+    "countryToken": "new_mexico",
+    "population": 0,
+    "x": -30710.53125,
+    "y": -43155.8984375,
+    "areas": [
+      {
+        "uid": "42be84e8bec00001",
+        "type": 12,
+        "x": -30710.53125,
+        "y": -43155.8984375,
+        "token": "shamu_resort",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": -8,
+        "sectorY": -11
+      },
+      {
+        "uid": "58de0878c3000000",
+        "type": 12,
+        "x": -30526.91015625,
+        "y": -42914.4296875,
+        "token": "shamu_resort",
+        "hidden": true,
+        "width": 493.760986328125,
+        "height": 591.9148559570312,
+        "sectorX": -8,
+        "sectorY": -11
+      }
+    ]
+  },
+  {
+    "token": "shamu_santm",
+    "name": "Shamu S.A Santa Marta",
+    "countryToken": "california",
+    "population": 0,
+    "x": 13661.4609375,
+    "y": -53459.62890625,
+    "areas": [
+      {
+        "uid": "48a3e6a48a40078b",
+        "type": 12,
+        "x": 13661.4609375,
+        "y": -53459.62890625,
+        "token": "shamu_santm",
+        "hidden": false,
+        "width": 155,
+        "height": 222,
+        "sectorX": 3,
+        "sectorY": -14
+      },
+      {
+        "uid": "48a3e6a49000078a",
+        "type": 12,
+        "x": 12381.39453125,
+        "y": -53703.76171875,
+        "token": "shamu_santm",
+        "hidden": true,
+        "width": 155,
+        "height": 222,
+        "sectorX": 3,
+        "sectorY": -14
+      },
+      {
+        "uid": "51b5b8cca7800000",
+        "type": 12,
+        "x": 13596.1953125,
+        "y": -53294.28125,
+        "token": "shamu_santm",
+        "hidden": true,
+        "width": 155,
+        "height": 222,
+        "sectorX": 3,
+        "sectorY": -14
+      }
+    ]
+  },
+  {
+    "token": "sierran",
+    "name": "Sierra Nevada de Santa Marta",
+    "countryToken": "california",
+    "population": 0,
+    "x": 35568.23046875,
+    "y": -59236.234375,
+    "areas": [
+      {
+        "uid": "4d9970fc8f400001",
+        "type": 12,
+        "x": 35568.23046875,
+        "y": -59236.234375,
+        "token": "sierran",
+        "hidden": false,
+        "width": 504.611328125,
+        "height": 892.2855224609375,
+        "sectorX": 8,
+        "sectorY": -15
+      }
+    ]
+  },
+  {
+    "token": "sincelejo",
+    "name": "Sincelejo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -27656.546875,
+    "y": -21869.7890625,
+    "areas": [
+      {
+        "uid": "488a1a1850800584",
+        "type": 12,
+        "x": -27656.546875,
+        "y": -21869.7890625,
+        "token": "sincelejo",
+        "hidden": false,
+        "width": 1500,
+        "height": 1500,
+        "sectorX": -7,
+        "sectorY": -6
+      }
+    ]
+  },
+  {
+    "token": "sjguaviare",
+    "name": "San Jose del Guaviare",
+    "countryToken": "california",
+    "population": 0,
+    "x": 60481.43359375,
+    "y": 102275.6875,
+    "areas": [
+      {
+        "uid": "4d4098a0f5400031",
+        "type": 12,
+        "x": 59368.3984375,
+        "y": 102252.015625,
+        "token": "sjguaviare",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 14,
+        "sectorY": 25
+      },
+      {
+        "uid": "47c1d3a017000031",
+        "type": 12,
+        "x": 60481.43359375,
+        "y": 102275.6875,
+        "token": "sjguaviare",
+        "hidden": false,
+        "width": 1500,
+        "height": 1500,
+        "sectorX": 15,
+        "sectorY": 25
+      }
+    ]
+  },
+  {
+    "token": "soloalerta",
+    "name": "solo alerta",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33320.17578125,
+    "y": 73391.796875,
+    "areas": [
+      {
+        "uid": "61d06ab4f4000002",
+        "type": 12,
+        "x": -33320.17578125,
+        "y": 73391.796875,
+        "token": "soloalerta",
+        "hidden": false,
+        "width": 188.261962890625,
+        "height": 189.49114990234375,
+        "sectorX": -9,
+        "sectorY": 18
+      }
+    ]
+  },
+  {
+    "token": "solucargo1",
+    "name": "Solucargo SanGil",
+    "countryToken": "california",
+    "population": 0,
+    "x": 61262.09375,
+    "y": 34798.0390625,
+    "areas": [
+      {
+        "uid": "35aa9f249e800082",
+        "type": 12,
+        "x": 61262.09375,
+        "y": 34798.0390625,
+        "token": "solucargo1",
+        "hidden": false,
+        "width": 1131.5078125,
+        "height": 831.1285400390625,
+        "sectorX": 15,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "solucargo2",
+    "name": "Solucargo2",
+    "countryToken": "california",
+    "population": 0,
+    "x": -38458.90625,
+    "y": 71481.6484375,
+    "areas": [
+      {
+        "uid": "35ac9db88ec00001",
+        "type": 12,
+        "x": -38458.90625,
+        "y": 71481.6484375,
+        "token": "solucargo2",
+        "hidden": false,
+        "width": 302.818359375,
+        "height": 208.37338256835938,
+        "sectorX": -10,
+        "sectorY": 17
+      },
+      {
+        "uid": "58db24b51f000000",
+        "type": 12,
+        "x": -38627.36328125,
+        "y": 71602.390625,
+        "token": "solucargo2",
+        "hidden": true,
+        "width": 302.818359375,
+        "height": 208.37338256835938,
+        "sectorX": -10,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "surtimax",
+    "name": "Surtimax recreo",
+    "countryToken": "california",
+    "population": 0,
+    "x": 39164.8984375,
+    "y": 81399.546875,
+    "areas": [
+      {
+        "uid": "47c17fe071800347",
+        "type": 12,
+        "x": 39164.8984375,
+        "y": 81399.546875,
+        "token": "surtimax",
+        "hidden": false,
+        "width": 100,
+        "height": 100,
+        "sectorX": 9,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "telio_tato",
+    "name": "Thelion Tatto",
+    "countryToken": "california",
+    "population": 0,
+    "x": 11519.9140625,
+    "y": 77285.015625,
+    "areas": [
+      {
+        "uid": "3654b64057c00001",
+        "type": 12,
+        "x": 11519.9140625,
+        "y": 77285.015625,
+        "token": "telio_tato",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": 2,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "termales",
+    "name": "termales de santa rosa",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32906.44921875,
+    "y": 64756.7421875,
+    "areas": [
+      {
+        "uid": "463b39b8b8400001",
+        "type": 12,
+        "x": -32906.44921875,
+        "y": 64756.7421875,
+        "token": "termales",
+        "hidden": false,
+        "width": 237.75205993652344,
+        "height": 428.9418029785156,
+        "sectorX": -9,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "tolemaida",
+    "name": "Fuerte militar Tolemaida",
+    "countryToken": "california",
+    "population": 0,
+    "x": -922.94140625,
+    "y": 78023.078125,
+    "areas": [
+      {
+        "uid": "4d690cf06e000001",
+        "type": 12,
+        "x": -922.94140625,
+        "y": 78023.078125,
+        "token": "tolemaida",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -1,
+        "sectorY": 19
+      },
+      {
+        "uid": "4d690db0bb400000",
+        "type": 12,
+        "x": -897.265625,
+        "y": 77714.203125,
+        "token": "tolemaida",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -1,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "totoro",
+    "name": "Totoró",
+    "countryToken": "california",
+    "population": 0,
+    "x": -70883.3359375,
+    "y": 111047.171875,
+    "areas": [
+      {
+        "uid": "4629c6c41fc00001",
+        "type": 12,
+        "x": -70883.3359375,
+        "y": 111047.171875,
+        "token": "totoro",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -18,
+        "sectorY": 27
+      }
+    ]
+  },
+  {
+    "token": "transbetjara",
+    "name": "Transporte Betancur Jaramillo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -35307.28125,
+    "y": 39536.37109375,
+    "areas": [
+      {
+        "uid": "403cb7a404c00001",
+        "type": 12,
+        "x": -35307.28125,
+        "y": 39536.37109375,
+        "token": "transbetjara",
+        "hidden": false,
+        "width": 300,
+        "height": 100,
+        "sectorX": -9,
+        "sectorY": 9
+      },
+      {
+        "uid": "58dd9d8136000000",
+        "type": 12,
+        "x": -35446.75,
+        "y": 39545.83984375,
+        "token": "transbetjara",
+        "hidden": true,
+        "width": 300,
+        "height": 244.77793884277344,
+        "sectorX": -9,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "truper86",
+    "name": "Trans Truper 86",
+    "countryToken": "california",
+    "population": 0,
+    "x": 55485.58984375,
+    "y": 21738.421875,
+    "areas": [
+      {
+        "uid": "3677685cb6400001",
+        "type": 12,
+        "x": 55485.58984375,
+        "y": 21738.421875,
+        "token": "truper86",
+        "hidden": false,
+        "width": 391.1762390136719,
+        "height": 366.62078857421875,
+        "sectorX": 13,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "tulua",
+    "name": "Tulua",
+    "countryToken": "california",
+    "population": 0,
+    "x": -60457.75,
+    "y": 79208.859375,
+    "areas": [
+      {
+        "uid": "4ae8f41895000278",
+        "type": 12,
+        "x": -60457.75,
+        "y": 79208.859375,
+        "token": "tulua",
+        "hidden": false,
+        "width": 880,
+        "height": 500,
+        "sectorX": -16,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "tumaco",
+    "name": "Tumaco",
+    "countryToken": "california",
+    "population": 0,
+    "x": -126052.1875,
+    "y": 139306.046875,
+    "areas": [
+      {
+        "uid": "2fa5cad45a400995",
+        "type": 12,
+        "x": -127002.96875,
+        "y": 136890.40625,
+        "token": "tumaco",
+        "hidden": true,
+        "width": 150,
+        "height": 150,
+        "sectorX": -32,
+        "sectorY": 34
+      },
+      {
+        "uid": "2fa5cad47a4009b3",
+        "type": 12,
+        "x": -126052.1875,
+        "y": 139306.046875,
+        "token": "tumaco",
+        "hidden": false,
+        "width": 1500,
+        "height": 1500,
+        "sectorX": -32,
+        "sectorY": 34
+      },
+      {
+        "uid": "2fa5cad4824009b5",
+        "type": 12,
+        "x": -125830.015625,
+        "y": 138740.4375,
+        "token": "tumaco",
+        "hidden": true,
+        "width": 500,
+        "height": 200,
+        "sectorX": -32,
+        "sectorY": 34
+      },
+      {
+        "uid": "4d40b10042800013",
+        "type": 12,
+        "x": -125470.2109375,
+        "y": 138705.65625,
+        "token": "tumaco",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -32,
+        "sectorY": 34
+      }
+    ]
+  },
+  {
+    "token": "turbo",
+    "name": "turbo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -77707.921875,
+    "y": -6601.9453125,
+    "areas": [
+      {
+        "uid": "4a6508d0da4000ac",
+        "type": 12,
+        "x": -77707.921875,
+        "y": -6601.9453125,
+        "token": "turbo",
+        "hidden": false,
+        "width": 600,
+        "height": 850,
+        "sectorX": -20,
+        "sectorY": -2
+      },
+      {
+        "uid": "62870d1381800000",
+        "type": 12,
+        "x": -77511.25,
+        "y": -7357.859375,
+        "token": "turbo",
+        "hidden": true,
+        "width": 319.1956481933594,
+        "height": 303.8680725097656,
+        "sectorX": -20,
+        "sectorY": -2
+      }
+    ]
+  },
+  {
+    "token": "uramita",
+    "name": "Uramita",
+    "countryToken": "california",
+    "population": 0,
+    "x": -59097.80078125,
+    "y": 17967.828125,
+    "areas": [
+      {
+        "uid": "4a3e0ba869c00001",
+        "type": 12,
+        "x": -59097.80078125,
+        "y": 17967.828125,
+        "token": "uramita",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -15,
+        "sectorY": 4
+      },
+      {
+        "uid": "4a48f6d836c00000",
+        "type": 12,
+        "x": -59862.4921875,
+        "y": 17393.96875,
+        "token": "uramita",
+        "hidden": true,
+        "width": 50,
+        "height": 50,
+        "sectorX": -15,
+        "sectorY": 4
+      },
+      {
+        "uid": "4a58dfac7e000000",
+        "type": 12,
+        "x": -57520.390625,
+        "y": 19159.14453125,
+        "token": "uramita",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -15,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "urrao",
+    "name": "Urrao",
+    "countryToken": "california",
+    "population": 0,
+    "x": -53581.97265625,
+    "y": 32162.796875,
+    "areas": [
+      {
+        "uid": "51c9f3706b400001",
+        "type": 12,
+        "x": -53581.97265625,
+        "y": 32162.796875,
+        "token": "urrao",
+        "hidden": false,
+        "width": 641.5556640625,
+        "height": 1117.3262939453125,
+        "sectorX": -14,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "valledupar",
+    "name": "Valledupar",
+    "countryToken": "california",
+    "population": 0,
+    "x": 45872.140625,
+    "y": -42286.06640625,
+    "areas": [
+      {
+        "uid": "285d37109fc017dc",
+        "type": 12,
+        "x": 45872.140625,
+        "y": -42286.06640625,
+        "token": "valledupar",
+        "hidden": false,
+        "width": 1799.7381591796875,
+        "height": 770.904052734375,
+        "sectorX": 11,
+        "sectorY": -11
+      }
+    ]
+  },
+  {
+    "token": "villaines",
+    "name": "Finca Villa Ines",
+    "countryToken": "california",
+    "population": 0,
+    "x": -46911.4765625,
+    "y": 27993.0078125,
+    "areas": [
+      {
+        "uid": "4d212c04ba800001",
+        "type": 12,
+        "x": -46911.4765625,
+        "y": 27993.0078125,
+        "token": "villaines",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -12,
+        "sectorY": 6
+      },
+      {
+        "uid": "58ddffdcd2000000",
+        "type": 12,
+        "x": -46933.51171875,
+        "y": 28362.1640625,
+        "token": "villaines",
+        "hidden": true,
+        "width": 300,
+        "height": 300,
+        "sectorX": -12,
+        "sectorY": 7
+      }
+    ]
+  },
+  {
+    "token": "villarosario",
+    "name": "Villa del Rosario",
+    "countryToken": "california",
+    "population": 0,
+    "x": 83631.7265625,
+    "y": 12017.93359375,
+    "areas": [
+      {
+        "uid": "4d1be73869800eaf",
+        "type": 12,
+        "x": 83631.7265625,
+        "y": 12017.93359375,
+        "token": "villarosario",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": 20,
+        "sectorY": 3
+      }
+    ]
+  },
+  {
+    "token": "villavicenc",
+    "name": "Villavicencio",
+    "countryToken": "california",
+    "population": 0,
+    "x": 38026.3671875,
+    "y": 82037.484375,
+    "areas": [
+      {
+        "uid": "47c17fe00a800348",
+        "type": 12,
+        "x": 39115.4609375,
+        "y": 81842.4375,
+        "token": "villavicenc",
+        "hidden": true,
+        "width": 150,
+        "height": 150,
+        "sectorX": 9,
+        "sectorY": 20
+      },
+      {
+        "uid": "47c18244e4c00001",
+        "type": 12,
+        "x": 38026.3671875,
+        "y": 82037.484375,
+        "token": "villavicenc",
+        "hidden": false,
+        "width": 474.81951904296875,
+        "height": 539.0108032226562,
+        "sectorX": 9,
+        "sectorY": 20
+      },
+      {
+        "uid": "58db2fae10800000",
+        "type": 12,
+        "x": 38918.76953125,
+        "y": 83003.484375,
+        "token": "villavicenc",
+        "hidden": false,
+        "width": 474.81951904296875,
+        "height": 539.0108032226562,
+        "sectorX": 9,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "wacax",
+    "name": "Hacienda Wacax",
+    "countryToken": "california",
+    "population": 0,
+    "x": 49196.42578125,
+    "y": 89396.8984375,
+    "areas": [
+      {
+        "uid": "4fefabd83ac00001",
+        "type": 12,
+        "x": 49196.42578125,
+        "y": 89396.8984375,
+        "token": "wacax",
+        "hidden": false,
+        "width": 840.4688110351562,
+        "height": 339.8340148925781,
+        "sectorX": 12,
+        "sectorY": 22
+      },
+      {
+        "uid": "58db3122f7000000",
+        "type": 12,
+        "x": 49811.68359375,
+        "y": 89803.171875,
+        "token": "wacax",
+        "hidden": false,
+        "width": 350,
+        "height": 350,
+        "sectorX": 12,
+        "sectorY": 22
+      }
+    ]
+  },
+  {
+    "token": "world_log",
+    "name": "HACIENDA WORLD LOGISTICS",
+    "countryToken": "california",
+    "population": 0,
+    "x": 4810.75,
+    "y": 37845.5546875,
+    "areas": [
+      {
+        "uid": "56365688a580055e",
+        "type": 12,
+        "x": 4849.6484375,
+        "y": 37107.27734375,
+        "token": "world_log",
+        "hidden": true,
+        "width": 700,
+        "height": 700,
+        "sectorX": 1,
+        "sectorY": 9
+      },
+      {
+        "uid": "56365689a2000562",
+        "type": 12,
+        "x": 4810.75,
+        "y": 37845.5546875,
+        "token": "world_log",
+        "hidden": false,
+        "width": 700,
+        "height": 1231.9696044921875,
+        "sectorX": 1,
+        "sectorY": 9
+      },
+      {
+        "uid": "5636568a67800564",
+        "type": 12,
+        "x": 5689.671875,
+        "y": 36655.51953125,
+        "token": "world_log",
+        "hidden": true,
+        "width": 700,
+        "height": 700,
+        "sectorX": 1,
+        "sectorY": 9
+      },
+      {
+        "uid": "563678ec9f800000",
+        "type": 12,
+        "x": 6859.11328125,
+        "y": 36461.11328125,
+        "token": "world_log",
+        "hidden": true,
+        "width": 700,
+        "height": 700,
+        "sectorX": 1,
+        "sectorY": 9
+      },
+      {
+        "uid": "56480fccf1800000",
+        "type": 12,
+        "x": 6363.03125,
+        "y": 36664.7265625,
+        "token": "world_log",
+        "hidden": true,
+        "width": 700,
+        "height": 700,
+        "sectorX": 1,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "yarumal",
+    "name": "Yarumal",
+    "countryToken": "california",
+    "population": 0,
+    "x": -28489.51953125,
+    "y": 24019.07421875,
+    "areas": [
+      {
+        "uid": "42a9699472000001",
+        "type": 12,
+        "x": -28489.51953125,
+        "y": 24019.07421875,
+        "token": "yarumal",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -8,
+        "sectorY": 6
+      },
+      {
+        "uid": "58de03f93d000000",
+        "type": 12,
+        "x": -27941.45703125,
+        "y": 24103.609375,
+        "token": "yarumal",
+        "hidden": false,
+        "width": 585.4329223632812,
+        "height": 299.9997863769531,
+        "sectorX": -7,
+        "sectorY": 6
+      }
+    ]
+  },
+  {
+    "token": "yeiso",
+    "name": "Finca Yeison",
+    "countryToken": "california",
+    "population": 0,
+    "x": 64682.796875,
+    "y": 47393.25390625,
+    "areas": [
+      {
+        "uid": "50477314c4400001",
+        "type": 12,
+        "x": 64682.796875,
+        "y": 47393.25390625,
+        "token": "yeiso",
+        "hidden": false,
+        "width": 363.37628173828125,
+        "height": 273.7666931152344,
+        "sectorX": 16,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "yopal",
+    "name": "Yopal",
+    "countryToken": "california",
+    "population": 0,
+    "x": 71494.078125,
+    "y": 46682.7265625,
+    "areas": [
+      {
+        "uid": "4dc3a4a8b1c00195",
+        "type": 12,
+        "x": 71494.078125,
+        "y": 46682.7265625,
+        "token": "yopal",
+        "hidden": false,
+        "width": 480.939453125,
+        "height": 1436.57568359375,
+        "sectorX": 17,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "zacatecas",
+    "name": "Guamo",
+    "countryToken": "zacatecas",
+    "population": 0,
+    "x": -12777.22265625,
+    "y": 85135.78125,
+    "areas": [
+      {
+        "uid": "285601f41340184b",
+        "type": 12,
+        "x": -12777.22265625,
+        "y": 85135.78125,
+        "token": "zacatecas",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": -4,
+        "sectorY": 21
+      },
+      {
+        "uid": "475345b8a1c00001",
+        "type": 12,
+        "x": -12427.5234375,
+        "y": 84203.828125,
+        "token": "zacatecas",
+        "hidden": true,
+        "width": 410.6536865234375,
+        "height": 251.43687438964844,
+        "sectorX": -4,
+        "sectorY": 21
+      }
+    ]
+  },
+  {
+    "token": "zipaquira",
+    "name": "Zipaquirá",
+    "countryToken": "california",
+    "population": 0,
+    "x": 25027.609375,
+    "y": 61884.03515625,
+    "areas": [
+      {
+        "uid": "2862b28454000229",
+        "type": 12,
+        "x": 25027.609375,
+        "y": 61884.03515625,
+        "token": "zipaquira",
+        "hidden": false,
+        "width": 913.4232788085938,
+        "height": 450,
+        "sectorX": 6,
+        "sectorY": 15
+      }
+    ]
+  },
+  {
+    "token": "znfranca",
+    "name": "Zona Franca Bogota Shamu",
+    "countryToken": "california",
+    "population": 0,
+    "x": 21510.39453125,
+    "y": 70314.078125,
+    "areas": [
+      {
+        "uid": "52c7a1d8dd000001",
+        "type": 12,
+        "x": 21434.515625,
+        "y": 70255.625,
+        "token": "znfranca",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "52c7a234e4000000",
+        "type": 12,
+        "x": 21888.0703125,
+        "y": 70366.828125,
+        "token": "znfranca",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "52c7a250e5000000",
+        "type": 12,
+        "x": 21794.6953125,
+        "y": 70225.0859375,
+        "token": "znfranca",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "52c7a27427000000",
+        "type": 12,
+        "x": 21558.3203125,
+        "y": 70098.96875,
+        "token": "znfranca",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      },
+      {
+        "uid": "52c7a29480800000",
+        "type": 12,
+        "x": 21510.39453125,
+        "y": 70314.078125,
+        "token": "znfranca",
+        "hidden": false,
+        "width": 200,
+        "height": 200,
+        "sectorX": 5,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "5h",
+    "name": "Rancho 5H",
+    "countryToken": "california",
+    "population": 0,
+    "x": -62034.10546875,
+    "y": 79865.96875,
+    "areas": [
+      {
+        "uid": "5b51e7ce01000001",
+        "type": 12,
+        "x": -62034.10546875,
+        "y": 79865.96875,
+        "token": "5h",
+        "hidden": false,
+        "width": 666.9981689453125,
+        "height": 525.4344482421875,
+        "sectorX": -16,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "anserma",
+    "name": "Anserma",
+    "countryToken": "california",
+    "population": 0,
+    "x": -45389.6796875,
+    "y": 57934.4453125,
+    "areas": [
+      {
+        "uid": "5681d2ba70800000",
+        "type": 12,
+        "x": -45389.6796875,
+        "y": 57934.4453125,
+        "token": "anserma",
+        "hidden": false,
+        "width": 300,
+        "height": 200,
+        "sectorX": -12,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "ayapel",
+    "name": "Ayapel",
+    "countryToken": "california",
+    "population": 0,
+    "x": -22321.3515625,
+    "y": -4861.640625,
+    "areas": [
+      {
+        "uid": "5adfff4efa000001",
+        "type": 12,
+        "x": -22321.3515625,
+        "y": -4861.640625,
+        "token": "ayapel",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -6,
+        "sectorY": -2
+      }
+    ]
+  },
+  {
+    "token": "ca_carupa",
+    "name": "Carmen de Carupa",
+    "countryToken": "california",
+    "population": 0,
+    "x": 28638.71875,
+    "y": 51339.078125,
+    "areas": [
+      {
+        "uid": "5bdd3bc4a3000001",
+        "type": 12,
+        "x": 28638.71875,
+        "y": 51339.078125,
+        "token": "ca_carupa",
+        "hidden": false,
+        "width": 640.72265625,
+        "height": 399.08233642578125,
+        "sectorX": 7,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "cacotruck",
+    "name": "Finca Cacotruck",
+    "countryToken": "california",
+    "population": 0,
+    "x": 41509.31640625,
+    "y": 26193.82421875,
+    "areas": [
+      {
+        "uid": "5cea352245800001",
+        "type": 12,
+        "x": 41509.31640625,
+        "y": 26193.82421875,
+        "token": "cacotruck",
+        "hidden": false,
+        "width": 512.014404296875,
+        "height": 348.03912353515625,
+        "sectorX": 10,
+        "sectorY": 6
+      }
+    ]
+  },
+  {
+    "token": "col_trukcomp",
+    "name": "Colombian Trucking Company",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33587.66796875,
+    "y": 37266.06640625,
+    "areas": [
+      {
+        "uid": "5b1d20f2b1000001",
+        "type": 12,
+        "x": -33587.66796875,
+        "y": 37266.06640625,
+        "token": "col_trukcomp",
+        "hidden": false,
+        "width": 616.5960083007812,
+        "height": 465.7535095214844,
+        "sectorX": -9,
+        "sectorY": 9
+      }
+    ]
+  },
+  {
+    "token": "coovicol",
+    "name": "Finca coovicol",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26941.37890625,
+    "y": -44009.16796875,
+    "areas": [
+      {
+        "uid": "5ce2efd6ef800001",
+        "type": 12,
+        "x": -26941.37890625,
+        "y": -44009.16796875,
+        "token": "coovicol",
+        "hidden": false,
+        "width": 858.3812866210938,
+        "height": 365.5959167480469,
+        "sectorX": -7,
+        "sectorY": -12
+      }
+    ]
+  },
+  {
+    "token": "empr_worl",
+    "name": "Empresa World Logistics",
+    "countryToken": "california",
+    "population": 0,
+    "x": -43380.0078125,
+    "y": 56695.8203125,
+    "areas": [
+      {
+        "uid": "568735db5d800001",
+        "type": 12,
+        "x": -43380.0078125,
+        "y": 56695.8203125,
+        "token": "empr_worl",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -11,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "f_alvarado",
+    "name": "Finca Neyfer Col",
+    "countryToken": "california",
+    "population": 0,
+    "x": -67354.296875,
+    "y": 93748.421875,
+    "areas": [
+      {
+        "uid": "5cbdd2c13d00002d",
+        "type": 12,
+        "x": -67354.296875,
+        "y": 93748.421875,
+        "token": "f_alvarado",
+        "hidden": false,
+        "width": 505.5586242675781,
+        "height": 415.1952819824219,
+        "sectorX": -17,
+        "sectorY": 23
+      }
+    ]
+  },
+  {
+    "token": "f_andrcampo",
+    "name": "Finca Andres Campos",
+    "countryToken": "california",
+    "population": 0,
+    "x": 8255.961181640625,
+    "y": 56621.90625,
+    "areas": [
+      {
+        "uid": "5cfc9a4aa2800447",
+        "type": 12,
+        "x": 8255.961181640625,
+        "y": 56621.90625,
+        "token": "f_andrcampo",
+        "hidden": false,
+        "width": 331.306640625,
+        "height": 300.3943176269531,
+        "sectorX": 2,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "f_argueta",
+    "name": "Motel Mario Argueta 69",
+    "countryToken": "california",
+    "population": 0,
+    "x": -11131.2890625,
+    "y": 44878.0546875,
+    "areas": [
+      {
+        "uid": "5d4350eb10000001",
+        "type": 12,
+        "x": -11131.2890625,
+        "y": 44878.0546875,
+        "token": "f_argueta",
+        "hidden": false,
+        "width": 591.5000610351562,
+        "height": 468.7174072265625,
+        "sectorX": -3,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "f_camiruta1",
+    "name": "finca Camilo rutas 1",
+    "countryToken": "california",
+    "population": 0,
+    "x": -30801.96875,
+    "y": 20838.671875,
+    "areas": [
+      {
+        "uid": "5b989cbd36800001",
+        "type": 12,
+        "x": -30801.96875,
+        "y": 20838.671875,
+        "token": "f_camiruta1",
+        "hidden": false,
+        "width": 300,
+        "height": 300,
+        "sectorX": -8,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "f_dongabo",
+    "name": "Finca Don Gabo",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26395.3828125,
+    "y": 19415.61328125,
+    "areas": [
+      {
+        "uid": "5c17160079800001",
+        "type": 12,
+        "x": -26395.3828125,
+        "y": 19415.61328125,
+        "token": "f_dongabo",
+        "hidden": false,
+        "width": 563.1599731445312,
+        "height": 300.2205810546875,
+        "sectorX": -7,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "f_francastro",
+    "name": "Finca Francisco Castro",
+    "countryToken": "california",
+    "population": 0,
+    "x": 5524.19140625,
+    "y": 67476.59375,
+    "areas": [
+      {
+        "uid": "5c3b6cb62f000001",
+        "type": 12,
+        "x": 5524.19140625,
+        "y": 67476.59375,
+        "token": "f_francastro",
+        "hidden": false,
+        "width": 455.10577392578125,
+        "height": 473.50897216796875,
+        "sectorX": 1,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "f_kalimocho",
+    "name": "Finca de Kalimocho",
+    "countryToken": "california",
+    "population": 0,
+    "x": -55104.26171875,
+    "y": 26926.43359375,
+    "areas": [
+      {
+        "uid": "5d6cf3ffbf800001",
+        "type": 12,
+        "x": -55104.26171875,
+        "y": 26926.43359375,
+        "token": "f_kalimocho",
+        "hidden": false,
+        "width": 574.7952880859375,
+        "height": 540.71240234375,
+        "sectorX": -14,
+        "sectorY": 6
+      }
+    ]
+  },
+  {
+    "token": "f_kane",
+    "name": "Finca Kanetrucker",
+    "countryToken": "california",
+    "population": 0,
+    "x": 31566.1484375,
+    "y": 46971.24609375,
+    "areas": [
+      {
+        "uid": "5cbcfa8298800001",
+        "type": 12,
+        "x": 31566.1484375,
+        "y": 46971.24609375,
+        "token": "f_kane",
+        "hidden": false,
+        "width": 787.2073364257812,
+        "height": 548.11328125,
+        "sectorX": 7,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "f_labotero",
+    "name": "Finca la Botero",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39249.94921875,
+    "y": 46980.37109375,
+    "areas": [
+      {
+        "uid": "5ba86dcbbd800001",
+        "type": 12,
+        "x": -39249.94921875,
+        "y": 46980.37109375,
+        "token": "f_labotero",
+        "hidden": false,
+        "width": 400,
+        "height": 400,
+        "sectorX": -10,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "f_magarcia",
+    "name": "Finca Maria Garcia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -57376.7890625,
+    "y": 76584.4453125,
+    "areas": [
+      {
+        "uid": "5c901244bb000181",
+        "type": 12,
+        "x": -57376.7890625,
+        "y": 76584.4453125,
+        "token": "f_magarcia",
+        "hidden": false,
+        "width": 500.0007629394531,
+        "height": 1119.799072265625,
+        "sectorX": -15,
+        "sectorY": 19
+      }
+    ]
+  },
+  {
+    "token": "f_martinez",
+    "name": "Finca Martínez",
+    "countryToken": "california",
+    "population": 0,
+    "x": 29109.57421875,
+    "y": 52459.75390625,
+    "areas": [
+      {
+        "uid": "5bfa662845000001",
+        "type": 12,
+        "x": 29109.57421875,
+        "y": 52459.75390625,
+        "token": "f_martinez",
+        "hidden": false,
+        "width": 256.0559997558594,
+        "height": 213.4610137939453,
+        "sectorX": 7,
+        "sectorY": 13
+      },
+      {
+        "uid": "5bfa666d74000000",
+        "type": 12,
+        "x": 29101.5546875,
+        "y": 52747.8515625,
+        "token": "f_martinez",
+        "hidden": true,
+        "width": 256.0559997558594,
+        "height": 213.4610137939453,
+        "sectorX": 7,
+        "sectorY": 13
+      },
+      {
+        "uid": "5bfa669153000000",
+        "type": 12,
+        "x": 28689.859375,
+        "y": 52412.0234375,
+        "token": "f_martinez",
+        "hidden": true,
+        "width": 256.0559997558594,
+        "height": 213.4610137939453,
+        "sectorX": 7,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "f_mauro",
+    "name": "Finca de Mauro",
+    "countryToken": "california",
+    "population": 0,
+    "x": 96647.0390625,
+    "y": 10770.1640625,
+    "areas": [
+      {
+        "uid": "5d229503798001c5",
+        "type": 12,
+        "x": 96647.0390625,
+        "y": 10770.1640625,
+        "token": "f_mauro",
+        "hidden": false,
+        "width": 523.8848266601562,
+        "height": 413.9428405761719,
+        "sectorX": 24,
+        "sectorY": 2
+      }
+    ]
+  },
+  {
+    "token": "f_migueltru",
+    "name": "Finca Miguel Truck",
+    "countryToken": "california",
+    "population": 0,
+    "x": -72372.328125,
+    "y": 96366.109375,
+    "areas": [
+      {
+        "uid": "5fdbd202c6800001",
+        "type": 12,
+        "x": -72372.328125,
+        "y": 96366.109375,
+        "token": "f_migueltru",
+        "hidden": false,
+        "width": 457.4687194824219,
+        "height": 463.25689697265625,
+        "sectorX": -19,
+        "sectorY": 24
+      }
+    ]
+  },
+  {
+    "token": "f_monalinda",
+    "name": "Finca mi mona linda",
+    "countryToken": "california",
+    "population": 0,
+    "x": -89141.34375,
+    "y": 129521.328125,
+    "areas": [
+      {
+        "uid": "5cb89b5471000001",
+        "type": 12,
+        "x": -89141.34375,
+        "y": 129521.328125,
+        "token": "f_monalinda",
+        "hidden": false,
+        "width": 505.5586242675781,
+        "height": 415.1952819824219,
+        "sectorX": -23,
+        "sectorY": 32
+      }
+    ]
+  },
+  {
+    "token": "f_venublaco",
+    "name": "Finca Venus del Blacon",
+    "countryToken": "california",
+    "population": 0,
+    "x": -21675.2890625,
+    "y": 102941.359375,
+    "areas": [
+      {
+        "uid": "5b6373c53e000001",
+        "type": 12,
+        "x": -21675.2890625,
+        "y": 102941.359375,
+        "token": "f_venublaco",
+        "hidden": false,
+        "width": 444.6001892089844,
+        "height": 370.9049377441406,
+        "sectorX": -6,
+        "sectorY": 25
+      }
+    ]
+  },
+  {
+    "token": "facatativa",
+    "name": "Facatativa",
+    "countryToken": "california",
+    "population": 0,
+    "x": 9701.5703125,
+    "y": 64568.80078125,
+    "areas": [
+      {
+        "uid": "5c3f2ad0a0800001",
+        "type": 12,
+        "x": 9701.5703125,
+        "y": 64568.80078125,
+        "token": "facatativa",
+        "hidden": false,
+        "width": 1122.4046630859375,
+        "height": 892.9856567382812,
+        "sectorX": 2,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "genova",
+    "name": "Genova",
+    "countryToken": "california",
+    "population": 0,
+    "x": -50939.7890625,
+    "y": 81383.453125,
+    "areas": [
+      {
+        "uid": "5b5803950c800001",
+        "type": 12,
+        "x": -50939.7890625,
+        "y": 81383.453125,
+        "token": "genova",
+        "hidden": false,
+        "width": 500,
+        "height": 500,
+        "sectorX": -13,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "go_ranch",
+    "name": "Gonzalez Ranch",
+    "countryToken": "california",
+    "population": 0,
+    "x": -24216.55859375,
+    "y": 20827.66015625,
+    "areas": [
+      {
+        "uid": "5fc0eb9666800773",
+        "type": 12,
+        "x": -24216.55859375,
+        "y": 20827.66015625,
+        "token": "go_ranch",
+        "hidden": false,
+        "width": 762.457763671875,
+        "height": 693.5746459960938,
+        "sectorX": -7,
+        "sectorY": 5
+      }
+    ]
+  },
+  {
+    "token": "gyblogcolomb",
+    "name": "G&B LOGISTIC COLOMBIA",
+    "countryToken": "california",
+    "population": 0,
+    "x": 33117.71875,
+    "y": 81405.4375,
+    "areas": [
+      {
+        "uid": "5eb47b4bef000293",
+        "type": 12,
+        "x": 33117.71875,
+        "y": 81405.4375,
+        "token": "gyblogcolomb",
+        "hidden": false,
+        "width": 651.81298828125,
+        "height": 441.23455810546875,
+        "sectorX": 8,
+        "sectorY": 20
+      }
+    ]
+  },
+  {
+    "token": "h_cabras",
+    "name": "Hacienda las Cabras",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32701.8515625,
+    "y": 18155.640625,
+    "areas": [
+      {
+        "uid": "5b34345a97000001",
+        "type": 12,
+        "x": -32701.8515625,
+        "y": 18155.640625,
+        "token": "h_cabras",
+        "hidden": false,
+        "width": 507.2391357421875,
+        "height": 449.06646728515625,
+        "sectorX": -9,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "hidro_urra",
+    "name": "Hidroeléctrica Urrá",
+    "countryToken": "california",
+    "population": 0,
+    "x": -57148.11328125,
+    "y": -328.16015625,
+    "areas": [
+      {
+        "uid": "5cca413d02000001",
+        "type": 12,
+        "x": -56290.73046875,
+        "y": 305.30078125,
+        "token": "hidro_urra",
+        "hidden": true,
+        "width": 356.2855224609375,
+        "height": 310.97064208984375,
+        "sectorX": -15,
+        "sectorY": 0
+      },
+      {
+        "uid": "5cca41b03e000000",
+        "type": 12,
+        "x": -57148.11328125,
+        "y": -328.16015625,
+        "token": "hidro_urra",
+        "hidden": false,
+        "width": 545.0626220703125,
+        "height": 658.41357421875,
+        "sectorX": -15,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "icoharinas2",
+    "name": "Icoharinas Bogota",
+    "countryToken": "california",
+    "population": 0,
+    "x": 20658.609375,
+    "y": 70957.9296875,
+    "areas": [
+      {
+        "uid": "5ad8071a40000000",
+        "type": 12,
+        "x": 20658.609375,
+        "y": 70957.9296875,
+        "token": "icoharinas2",
+        "hidden": false,
+        "width": 250,
+        "height": 250,
+        "sectorX": 5,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "jardin_ant",
+    "name": "Jardin Antioquia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -45042.7421875,
+    "y": 55721.06640625,
+    "areas": [
+      {
+        "uid": "5681d11beb000001",
+        "type": 12,
+        "x": -45042.7421875,
+        "y": 55721.06640625,
+        "token": "jardin_ant",
+        "hidden": false,
+        "width": 250,
+        "height": 307.09930419921875,
+        "sectorX": -12,
+        "sectorY": 13
+      },
+      {
+        "uid": "5681d15aaf800000",
+        "type": 12,
+        "x": -45478.5625,
+        "y": 56006.21875,
+        "token": "jardin_ant",
+        "hidden": true,
+        "width": 200,
+        "height": 200,
+        "sectorX": -12,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "kanetrubog",
+    "name": "Kanetruckers Logistics",
+    "countryToken": "california",
+    "population": 0,
+    "x": 20925.41015625,
+    "y": 67201.40625,
+    "areas": [
+      {
+        "uid": "5cbd91eafb0000c5",
+        "type": 12,
+        "x": 20925.41015625,
+        "y": 67201.40625,
+        "token": "kanetrubog",
+        "hidden": false,
+        "width": 467.3181457519531,
+        "height": 579.98974609375,
+        "sectorX": 5,
+        "sectorY": 16
+      }
+    ]
+  },
+  {
+    "token": "lapena_cundi",
+    "name": "La Peña Cundinamarca",
+    "countryToken": "california",
+    "population": 0,
+    "x": 5695.14453125,
+    "y": 57171.74609375,
+    "areas": [
+      {
+        "uid": "5cc7c8f589800001",
+        "type": 12,
+        "x": 5695.14453125,
+        "y": 57171.74609375,
+        "token": "lapena_cundi",
+        "hidden": false,
+        "width": 214.7357940673828,
+        "height": 356.26806640625,
+        "sectorX": 1,
+        "sectorY": 14
+      },
+      {
+        "uid": "5cc7c93595800000",
+        "type": 12,
+        "x": 5704.4765625,
+        "y": 57559.37109375,
+        "token": "lapena_cundi",
+        "hidden": true,
+        "width": 214.7357940673828,
+        "height": 356.26806640625,
+        "sectorX": 1,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "lui_cabras",
+    "name": "Luis las Cabras",
+    "countryToken": "california",
+    "population": 0,
+    "x": -22007.91796875,
+    "y": 2523.8125,
+    "areas": [
+      {
+        "uid": "5af9b1e7a380031e",
+        "type": 12,
+        "x": -22007.91796875,
+        "y": 2523.8125,
+        "token": "lui_cabras",
+        "hidden": false,
+        "width": 350,
+        "height": 350,
+        "sectorX": -6,
+        "sectorY": 0
+      }
+    ]
+  },
+  {
+    "token": "maderasbuki1",
+    "name": "San Judas Tadeo",
+    "countryToken": "california",
+    "population": 0,
+    "x": 81245.5625,
+    "y": 52521.703125,
+    "areas": [
+      {
+        "uid": "5e00df46ee000001",
+        "type": 12,
+        "x": 81245.5625,
+        "y": 52521.703125,
+        "token": "maderasbuki1",
+        "hidden": false,
+        "width": 442.38519287109375,
+        "height": 717.7122192382812,
+        "sectorX": 20,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "maderasbuki2",
+    "name": "Pipiles",
+    "countryToken": "california",
+    "population": 0,
+    "x": 83953.7421875,
+    "y": 35953.28515625,
+    "areas": [
+      {
+        "uid": "5e00eb1cd9800001",
+        "type": 12,
+        "x": 83953.7421875,
+        "y": 35953.28515625,
+        "token": "maderasbuki2",
+        "hidden": false,
+        "width": 539.0916748046875,
+        "height": 580.7083129882812,
+        "sectorX": 20,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "maderasbuki3",
+    "name": "Hualama",
+    "countryToken": "california",
+    "population": 0,
+    "x": 86915.7421875,
+    "y": 18962.375,
+    "areas": [
+      {
+        "uid": "5e00ebc5ad800001",
+        "type": 12,
+        "x": 86915.7421875,
+        "y": 18962.375,
+        "token": "maderasbuki3",
+        "hidden": false,
+        "width": 503.92578125,
+        "height": 496.5733337402344,
+        "sectorX": 21,
+        "sectorY": 4
+      }
+    ]
+  },
+  {
+    "token": "manzanares",
+    "name": "Manzanares",
+    "countryToken": "california",
+    "population": 0,
+    "x": -20204.10546875,
+    "y": 57259.6875,
+    "areas": [
+      {
+        "uid": "5c1bcb37d6000001",
+        "type": 12,
+        "x": -20204.10546875,
+        "y": 57259.6875,
+        "token": "manzanares",
+        "hidden": false,
+        "width": 679.7308349609375,
+        "height": 425.3642883300781,
+        "sectorX": -6,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "mosky_avio",
+    "name": "Mosky Aviation",
+    "countryToken": "california",
+    "population": 0,
+    "x": -26550.10546875,
+    "y": 41508.36328125,
+    "areas": [
+      {
+        "uid": "5ad90dcb96000001",
+        "type": 12,
+        "x": -26550.10546875,
+        "y": 41508.36328125,
+        "token": "mosky_avio",
+        "hidden": false,
+        "width": 100,
+        "height": 152.0480194091797,
+        "sectorX": -7,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "pensilvania",
+    "name": "Pensilvania",
+    "countryToken": "california",
+    "population": 0,
+    "x": -20722.23828125,
+    "y": 53586.86328125,
+    "areas": [
+      {
+        "uid": "5c1bd5674a80002b",
+        "type": 12,
+        "x": -20722.23828125,
+        "y": 53586.86328125,
+        "token": "pensilvania",
+        "hidden": false,
+        "width": 1017.0562744140625,
+        "height": 712.4810180664062,
+        "sectorX": -6,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "r_alvaretto",
+    "name": "Rancho de Alvaretto",
+    "countryToken": "california",
+    "population": 0,
+    "x": -49404.8984375,
+    "y": 88918.328125,
+    "areas": [
+      {
+        "uid": "5cea365389000001",
+        "type": 12,
+        "x": -49404.8984375,
+        "y": 88918.328125,
+        "token": "r_alvaretto",
+        "hidden": false,
+        "width": 394.1809387207031,
+        "height": 387.8228759765625,
+        "sectorX": -13,
+        "sectorY": 22
+      }
+    ]
+  },
+  {
+    "token": "riosucio",
+    "name": "Riosucio",
+    "countryToken": "california",
+    "population": 0,
+    "x": -43076.171875,
+    "y": 54742.796875,
+    "areas": [
+      {
+        "uid": "5681d1b8b8800000",
+        "type": 12,
+        "x": -43076.171875,
+        "y": 54742.796875,
+        "token": "riosucio",
+        "hidden": false,
+        "width": 300,
+        "height": 200,
+        "sectorX": -11,
+        "sectorY": 13
+      },
+      {
+        "uid": "5681d20e13800000",
+        "type": 12,
+        "x": -43036.28125,
+        "y": 54967.91015625,
+        "token": "riosucio",
+        "hidden": true,
+        "width": 400,
+        "height": 670.2894287109375,
+        "sectorX": -11,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "sant_barb",
+    "name": "Santa Barbara",
+    "countryToken": "california",
+    "population": 0,
+    "x": -34254.046875,
+    "y": 45311.56640625,
+    "areas": [
+      {
+        "uid": "5d48b4f020800001",
+        "type": 12,
+        "x": -34254.046875,
+        "y": 45311.56640625,
+        "token": "sant_barb",
+        "hidden": false,
+        "width": 597.84130859375,
+        "height": 317.20806884765625,
+        "sectorX": -9,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "tierralta",
+    "name": "Tierralta Cordoba",
+    "countryToken": "california",
+    "population": 0,
+    "x": -54714.15625,
+    "y": 54.9375,
+    "areas": [
+      {
+        "uid": "5cca51122b000001",
+        "type": 12,
+        "x": -54714.15625,
+        "y": 54.9375,
+        "token": "tierralta",
+        "hidden": false,
+        "width": 409.49530029296875,
+        "height": 381.6888427734375,
+        "sectorX": -14,
+        "sectorY": 0
+      }
+    ]
+  },
+  {
+    "token": "ubate",
+    "name": "Ubaté",
+    "countryToken": "california",
+    "population": 0,
+    "x": 33790.12890625,
+    "y": 54295.74609375,
+    "areas": [
+      {
+        "uid": "5bdd3c756b800001",
+        "type": 12,
+        "x": 33790.12890625,
+        "y": 54295.74609375,
+        "token": "ubate",
+        "hidden": false,
+        "width": 334.8807067871094,
+        "height": 356.7635498046875,
+        "sectorX": 8,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "volcan",
+    "name": "Volcan de XTRINK",
+    "countryToken": "california",
+    "population": 0,
+    "x": -50917.1015625,
+    "y": 124596.046875,
+    "areas": [
+      {
+        "uid": "5cd7752841800093",
+        "type": 12,
+        "x": -50917.1015625,
+        "y": 124596.046875,
+        "token": "volcan",
+        "hidden": false,
+        "width": 977.7722778320312,
+        "height": 659.2333984375,
+        "sectorX": -13,
+        "sectorY": 31
+      }
+    ]
+  },
+  {
+    "token": "maicao",
+    "name": "Maicao",
+    "countryToken": "california",
+    "population": 0,
+    "x": 52597.09375,
+    "y": -53962.8515625,
+    "areas": [
+      {
+        "uid": "60244c531e000001",
+        "type": 12,
+        "x": 52597.09375,
+        "y": -53962.8515625,
+        "token": "maicao",
+        "hidden": false,
+        "width": 2538.659423828125,
+        "height": 1036.4879150390625,
+        "sectorX": 13,
+        "sectorY": -14
+      }
+    ]
+  },
+  {
+    "token": "kelvin",
+    "name": "Finca de Kelvin",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32716.453125,
+    "y": 53560.91796875,
+    "areas": [
+      {
+        "uid": "604f237ab4000001",
+        "type": 12,
+        "x": -32716.453125,
+        "y": 53560.91796875,
+        "token": "kelvin",
+        "hidden": false,
+        "width": 383.4147033691406,
+        "height": 361.6182861328125,
+        "sectorX": -9,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "knunez",
+    "name": "Finca de Knuñez",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31209.03515625,
+    "y": 53519.1484375,
+    "areas": [
+      {
+        "uid": "604f23d6b7000001",
+        "type": 12,
+        "x": -31209.03515625,
+        "y": 53519.1484375,
+        "token": "knunez",
+        "hidden": false,
+        "width": 459.2024230957031,
+        "height": 198.49205017089844,
+        "sectorX": -8,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "luigplay",
+    "name": "Finca de Luigplay",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31001.31640625,
+    "y": 55881.4765625,
+    "areas": [
+      {
+        "uid": "604f246195800001",
+        "type": 12,
+        "x": -31001.31640625,
+        "y": 55881.4765625,
+        "token": "luigplay",
+        "hidden": false,
+        "width": 558.306640625,
+        "height": 351.6709899902344,
+        "sectorX": -8,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "albertrge",
+    "name": "Finca de Albert_rge",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32795.0283203125,
+    "y": 55258.609375,
+    "areas": [
+      {
+        "uid": "604f2534a4000001",
+        "type": 12,
+        "x": -32795.0283203125,
+        "y": 55258.609375,
+        "token": "albertrge",
+        "hidden": false,
+        "width": 243.95181274414062,
+        "height": 287.3038330078125,
+        "sectorX": -9,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "chris",
+    "name": "Finca de Chris",
+    "countryToken": "california",
+    "population": 0,
+    "x": -33091.5234375,
+    "y": 56768.98046875,
+    "areas": [
+      {
+        "uid": "604f25adb6000001",
+        "type": 12,
+        "x": -33091.5234375,
+        "y": 56768.98046875,
+        "token": "chris",
+        "hidden": false,
+        "width": 356.64862060546875,
+        "height": 269.66064453125,
+        "sectorX": -9,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "alpiste",
+    "name": "Finca de Alpiste",
+    "countryToken": "california",
+    "population": 0,
+    "x": -32963.4384765625,
+    "y": 57462.6796875,
+    "areas": [
+      {
+        "uid": "604f261695800001",
+        "type": 12,
+        "x": -32963.4384765625,
+        "y": 57462.6796875,
+        "token": "alpiste",
+        "hidden": false,
+        "width": 451.994140625,
+        "height": 298.8490295410156,
+        "sectorX": -9,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "orejag",
+    "name": "Finca de Orejag",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31710.30078125,
+    "y": 52323.08984375,
+    "areas": [
+      {
+        "uid": "604f27015f800001",
+        "type": 12,
+        "x": -31710.30078125,
+        "y": 52323.08984375,
+        "token": "orejag",
+        "hidden": false,
+        "width": 196.41038513183594,
+        "height": 253.95672607421875,
+        "sectorX": -8,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "juanramon",
+    "name": "Finca de Juan Ramon CT",
+    "countryToken": "california",
+    "population": 0,
+    "x": -28380.1015625,
+    "y": 52816.76171875,
+    "areas": [
+      {
+        "uid": "604f2838d5000001",
+        "type": 12,
+        "x": -28380.1015625,
+        "y": 52816.76171875,
+        "token": "juanramon",
+        "hidden": false,
+        "width": 303.45977783203125,
+        "height": 231.60821533203125,
+        "sectorX": -8,
+        "sectorY": 13
+      }
+    ]
+  },
+  {
+    "token": "laelite",
+    "name": "Hacienda la Elite",
+    "countryToken": "california",
+    "population": 0,
+    "x": -21444.76171875,
+    "y": 41920.53125,
+    "areas": [
+      {
+        "uid": "60849f5357000225",
+        "type": 12,
+        "x": -21444.76171875,
+        "y": 41920.53125,
+        "token": "laelite",
+        "hidden": false,
+        "width": 765.9335327148438,
+        "height": 589.0281982421875,
+        "sectorX": -6,
+        "sectorY": 10
+      }
+    ]
+  },
+  {
+    "token": "f_falex",
+    "name": "La finca de Falex",
+    "countryToken": "california",
+    "population": 0,
+    "x": -38044.18359375,
+    "y": 123884.578125,
+    "areas": [
+      {
+        "uid": "61cbb33ed9000001",
+        "type": 12,
+        "x": -38044.18359375,
+        "y": 123884.578125,
+        "token": "f_falex",
+        "hidden": false,
+        "width": 708.6879272460938,
+        "height": 574.1284790039062,
+        "sectorX": -10,
+        "sectorY": 30
+      }
+    ]
+  },
+  {
+    "token": "f_baronety",
+    "name": "Finca de Baronety",
+    "countryToken": "california",
+    "population": 0,
+    "x": -31593.12109375,
+    "y": 29794.796875,
+    "areas": [
+      {
+        "uid": "624f850ad0000001",
+        "type": 12,
+        "x": -31593.12109375,
+        "y": 29794.796875,
+        "token": "f_baronety",
+        "hidden": false,
+        "width": 458.1409606933594,
+        "height": 269.87744140625,
+        "sectorX": -8,
+        "sectorY": 7
+      },
+      {
+        "uid": "624f860c70000000",
+        "type": 12,
+        "x": -31159.2890625,
+        "y": 30148.1015625,
+        "token": "f_baronety",
+        "hidden": true,
+        "width": 284.06683349609375,
+        "height": 284.3475036621094,
+        "sectorX": -8,
+        "sectorY": 7
+      }
+    ]
+  },
+  {
+    "token": "fonda_elite",
+    "name": "Fonda de Arkamax",
+    "countryToken": "california",
+    "population": 0,
+    "x": -20083.11328125,
+    "y": 46994.7890625,
+    "areas": [
+      {
+        "uid": "62586c6e19800001",
+        "type": 12,
+        "x": -20083.11328125,
+        "y": 46994.7890625,
+        "token": "fonda_elite",
+        "hidden": false,
+        "width": 489.76904296875,
+        "height": 389.9891662597656,
+        "sectorX": -6,
+        "sectorY": 11
+      },
+      {
+        "uid": "62586d1806800000",
+        "type": 12,
+        "x": -20498.35546875,
+        "y": 46848.03515625,
+        "token": "fonda_elite",
+        "hidden": true,
+        "width": 692.8152465820312,
+        "height": 567.039306640625,
+        "sectorX": -6,
+        "sectorY": 11
+      }
+    ]
+  },
+  {
+    "token": "f_fulltech",
+    "name": "Finca FULLtech",
+    "countryToken": "california",
+    "population": 0,
+    "x": -67487.859375,
+    "y": -1068.09375,
+    "areas": [
+      {
+        "uid": "62871b02550001fb",
+        "type": 12,
+        "x": -67487.859375,
+        "y": -1068.09375,
+        "token": "f_fulltech",
+        "hidden": false,
+        "width": 553.0866088867188,
+        "height": 534.30810546875,
+        "sectorX": -17,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "f_alexis",
+    "name": "La finca de Alexis Miranda",
+    "countryToken": "california",
+    "population": 0,
+    "x": -22857.58203125,
+    "y": 57642.50390625,
+    "areas": [
+      {
+        "uid": "62882bedf0000001",
+        "type": 12,
+        "x": -22857.58203125,
+        "y": 57642.50390625,
+        "token": "f_alexis",
+        "hidden": false,
+        "width": 287.3416748046875,
+        "height": 320.7732238769531,
+        "sectorX": -6,
+        "sectorY": 14
+      }
+    ]
+  },
+  {
+    "token": "c_kofla",
+    "name": "La Cabaña del KOFLA",
+    "countryToken": "california",
+    "population": 0,
+    "x": -29271.84375,
+    "y": -44970.42578125,
+    "areas": [
+      {
+        "uid": "6288d9e8b7800001",
+        "type": 12,
+        "x": -29271.84375,
+        "y": -44970.42578125,
+        "token": "c_kofla",
+        "hidden": false,
+        "width": 357.00250244140625,
+        "height": 360.87823486328125,
+        "sectorX": -8,
+        "sectorY": -12
+      }
+    ]
+  }
+]

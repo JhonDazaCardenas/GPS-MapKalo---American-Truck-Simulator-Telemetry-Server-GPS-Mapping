@@ -1,0 +1,1442 @@
+[
+  {
+    "token": "ar_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "el_dorado",
+      "fayetteville",
+      "fort_smith",
+      "harrison",
+      "hot_springs",
+      "jonesboro",
+      "little_rock",
+      "pine_bluff",
+      "springdale",
+      "texarkana_ar"
+    ]
+  },
+  {
+    "token": "ar_paper",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "ch_wd_saw",
+          "locationType": "country",
+          "locationToken": "arkansas"
+        },
+        {
+          "company": "pnp_wd_pln",
+          "locationType": "country",
+          "locationToken": "arkansas"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ar_hot_springs",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "ch_wd_hrv",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "equ_whs",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "fb_farm_mkt",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "gss_air_svc",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "nmq_min_str",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "sh_shp_mar",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "sht_mkt",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        },
+        {
+          "company": "tay_con_sit1",
+          "locationType": "city",
+          "locationToken": "hot_springs"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ar_cutscenes",
+    "type": "triggerData",
+    "param": "ar_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "az_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "camp_verde",
+      "clifton",
+      "flagstaff",
+      "g_canyon_vlg",
+      "kayenta",
+      "kingman",
+      "lake_havasu",
+      "nogales",
+      "page",
+      "phoenix",
+      "san_simon",
+      "show_low",
+      "sierra_vista",
+      "tucson",
+      "winslow",
+      "yuma"
+    ]
+  },
+  {
+    "token": "az_phx_aport",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "aport_phx",
+        "city": "phoenix"
+      }
+    ]
+  },
+  {
+    "token": "az_racetrack",
+    "type": "triggerData",
+    "param": "az_racetrack",
+    "count": 1
+  },
+  {
+    "token": "az_colorado",
+    "type": "triggerData",
+    "param": "az_colorado",
+    "count": 4
+  },
+  {
+    "token": "co_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "alamosa",
+      "burlington",
+      "colorado_spr",
+      "denver",
+      "durango",
+      "fort_collins",
+      "grand_juncti",
+      "lamar",
+      "montrose",
+      "pueblo",
+      "rangely",
+      "steamboat_sp",
+      "sterling"
+    ]
+  },
+  {
+    "token": "co_wind_turbine",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "vp_epw_sit",
+          "locationType": "country",
+          "locationToken": "colorado"
+        }
+      ]
+    }
+  },
+  {
+    "token": "co_gold_mine",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "nmq_min_qry",
+          "locationType": "country",
+          "locationToken": "colorado"
+        }
+      ]
+    }
+  },
+  {
+    "token": "co_denver_airport",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "aport_den",
+          "locationType": "city",
+          "locationToken": "denver"
+        },
+        {
+          "company": "aport_ult",
+          "locationType": "city",
+          "locationToken": "denver"
+        }
+      ]
+    }
+  },
+  {
+    "token": "co_us550",
+    "type": "triggerData",
+    "param": "co_us550",
+    "count": 2
+  },
+  {
+    "token": "co_tunnels",
+    "type": "triggerData",
+    "param": "co_tunnels",
+    "count": 2
+  },
+  {
+    "token": "co_four_corners",
+    "type": "triggerData",
+    "param": "co_four_corners",
+    "count": 1
+  },
+  {
+    "token": "fm_3_perfect",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "forwarder",
+      "kb_loader",
+      "log_harvest",
+      "log_loader",
+      "log_stacker",
+      "mulcher",
+      "skidder",
+      "stumper",
+      "tub_grinder"
+    ]
+  },
+  {
+    "token": "hc_firstjob",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "coil",
+      "cott_harvest",
+      "dozer",
+      "lift_truck",
+      "lift_truck_s",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "scraper",
+      "tractor_c",
+      "transformer"
+    ]
+  },
+  {
+    "token": "hc_perf_job",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "coil",
+      "cott_harvest",
+      "dozer",
+      "lift_truck",
+      "lift_truck_s",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "scraper",
+      "tractor_c",
+      "transformer"
+    ]
+  },
+  {
+    "token": "hc_100k5jobs",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "asph_miller",
+      "coil",
+      "cott_harvest",
+      "dozer",
+      "lift_truck",
+      "lift_truck_s",
+      "mob_crusher",
+      "mob_screener",
+      "mob_stacker",
+      "mobile_crane",
+      "scraper",
+      "tractor_c",
+      "transformer"
+    ]
+  },
+  {
+    "token": "ia_visit_cities",
+    "type": "visitCityData"
+  },
+  {
+    "token": "ia_live_pigs",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "evg_frm",
+          "locationType": "city",
+          "locationToken": "council_bluf"
+        },
+        {
+          "company": "evg_frm",
+          "locationType": "city",
+          "locationToken": "fort_dodge"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "iowa_city"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ia_cutscenes",
+    "type": "triggerData",
+    "param": "ia_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "ia_bridge",
+    "type": "triggerData",
+    "param": "ia_bridge",
+    "count": 1
+  },
+  {
+    "token": "id_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "boise",
+      "coeur_dalene",
+      "grangeville",
+      "idaho_falls",
+      "ketchum",
+      "lewiston",
+      "nampa",
+      "pocatello",
+      "salmon",
+      "sandpoint",
+      "twin_falls"
+    ]
+  },
+  {
+    "token": "id_potatoes",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "sc_frm",
+          "locationType": "country",
+          "locationToken": "idaho"
+        }
+      ]
+    }
+  },
+  {
+    "token": "id_cutscenes",
+    "type": "triggerData",
+    "param": "id_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "id_45th_parallel",
+    "type": "triggerData",
+    "param": "id_45th_parallel",
+    "count": 1
+  },
+  {
+    "token": "id_snake_river",
+    "type": "eachDeliveryPoint",
+    "sources": [
+      ".id_snake_riv.kennewick.lewiston.source",
+      ".id_snake_riv.boise.twin_falls.source",
+      ".id_snake_riv.twin_falls.pocatello.source",
+      ".id_snake_riv.pocatello.idaho_falls.source"
+    ],
+    "targets": [
+      ".id_snake_riv.kennewick.lewiston.target",
+      ".id_snake_riv.boise.twin_falls.target",
+      ".id_snake_riv.twin_falls.pocatello.target",
+      ".id_snake_riv.pocatello.idaho_falls.target"
+    ]
+  },
+  {
+    "token": "ks_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "colby",
+      "dodge_city",
+      "emporia",
+      "garden_city",
+      "hays",
+      "hutchinson",
+      "junction_cty",
+      "kansas_ci_ks",
+      "marysville",
+      "phillipsburg",
+      "pittsburg",
+      "salina_ks",
+      "topeka",
+      "wichita"
+    ]
+  },
+  {
+    "token": "ks_engine_wing",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "dw_air_pln",
+          "locationType": "city",
+          "locationToken": "wichita"
+        },
+        {
+          "company": "aport_ict",
+          "locationType": "city",
+          "locationToken": "wichita"
+        },
+        {
+          "company": "gss_air_svc",
+          "locationType": "city",
+          "locationToken": "wichita"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ks_salt_food",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "nmq_min_qrys",
+          "locationType": "city",
+          "locationToken": "hutchinson"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ks_cutscenes",
+    "type": "triggerData",
+    "param": "ks_cutscenes",
+    "count": 7
+  },
+  {
+    "token": "ks_secret_roads",
+    "type": "triggerData",
+    "param": "ks_secret_roads",
+    "count": 3
+  },
+  {
+    "token": "la_visit_cities",
+    "type": "visitCityData"
+  },
+  {
+    "token": "la_shipyard",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "hds_met_shp",
+          "locationType": "country",
+          "locationToken": "louisiana"
+        }
+      ]
+    }
+  },
+  {
+    "token": "la_cutscenes",
+    "type": "triggerData",
+    "param": "la_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "la_bridges",
+    "type": "triggerData",
+    "param": "la_bridges",
+    "count": 2
+  },
+  {
+    "token": "mo_visit_cities",
+    "type": "visitCityData"
+  },
+  {
+    "token": "mo_trs_whs",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "trs_whs",
+          "locationType": "city",
+          "locationToken": "joplin"
+        },
+        {
+          "company": "trs_whs",
+          "locationType": "city",
+          "locationToken": "kansas_ci_mo"
+        },
+        {
+          "company": "trs_whs",
+          "locationType": "city",
+          "locationToken": "springfield"
+        },
+        {
+          "company": "trs_whs",
+          "locationType": "city",
+          "locationToken": "st_louis"
+        },
+        {
+          "company": "nmq_min_pln2",
+          "locationType": "city",
+          "locationToken": "joplin"
+        }
+      ]
+    }
+  },
+  {
+    "token": "mo_cutscenes",
+    "type": "triggerData",
+    "param": "mo_cutscenes",
+    "count": 12
+  },
+  {
+    "token": "mt_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "billings",
+      "bozeman",
+      "butte",
+      "glasgow_mt",
+      "glendive",
+      "great_falls",
+      "havre",
+      "helena",
+      "kalispell",
+      "laurel",
+      "lewistown",
+      "miles_city",
+      "missoula",
+      "sidney",
+      "thompson_f"
+    ]
+  },
+  {
+    "token": "mt_waste",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "mwm_wst_whs",
+          "locationType": "country",
+          "locationToken": "montana"
+        }
+      ]
+    }
+  },
+  {
+    "token": "mt_electric",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "frd_epw_sit",
+          "locationType": "city",
+          "locationToken": "butte"
+        },
+        {
+          "company": "frd_epw_sit",
+          "locationType": "city",
+          "locationToken": "glasgow_mt"
+        },
+        {
+          "company": "frd_epw_sit",
+          "locationType": "city",
+          "locationToken": "havre"
+        }
+      ]
+    }
+  },
+  {
+    "token": "mt_miner",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "chm_che_plns",
+          "locationType": "country",
+          "locationToken": "montana"
+        },
+        {
+          "company": "nmq_min_pln1",
+          "locationType": "country",
+          "locationToken": "montana"
+        },
+        {
+          "company": "nmq_min_svc",
+          "locationType": "country",
+          "locationToken": "montana"
+        }
+      ]
+    }
+  },
+  {
+    "token": "mt_cutscenes",
+    "type": "triggerData",
+    "param": "mt_cutscenes",
+    "count": 10
+  },
+  {
+    "token": "ne_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "alliance",
+      "chadron",
+      "columbus",
+      "grand_island",
+      "lincoln",
+      "mccook",
+      "norfolk",
+      "north_platte",
+      "omaha",
+      "scottsbluff",
+      "sidney_ne",
+      "valentine"
+    ]
+  },
+  {
+    "token": "ne_out_car_pln",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "out_car_pln",
+          "locationType": "city",
+          "locationToken": "lincoln"
+        },
+        {
+          "company": "wan_car_dlr",
+          "locationType": "city",
+          "locationToken": "columbus"
+        },
+        {
+          "company": "wan_car_dlr",
+          "locationType": "city",
+          "locationToken": "norfolk"
+        },
+        {
+          "company": "wan_car_dlr",
+          "locationType": "city",
+          "locationToken": "omaha"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ne_cutscenes",
+    "type": "triggerData",
+    "param": "ne_cutscenes",
+    "count": 6
+  },
+  {
+    "token": "nv_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "carson_city",
+      "elko",
+      "ely",
+      "jackpot",
+      "las_vegas",
+      "pioche",
+      "primm",
+      "reno",
+      "tonopah",
+      "winnemucca"
+    ]
+  },
+  {
+    "token": "nv_quarries",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "cm_min_qry",
+          "locationType": "city",
+          "locationToken": "carson_city"
+        },
+        {
+          "company": "cm_min_qry",
+          "locationType": "city",
+          "locationToken": "elko"
+        }
+      ]
+    }
+  },
+  {
+    "token": "nm_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "alamogordo",
+      "albuquerque",
+      "artesia",
+      "carlsbad_nm",
+      "clovis",
+      "farmington",
+      "gallup",
+      "hobbs",
+      "las_cruces",
+      "raton",
+      "roswell",
+      "santa_fe",
+      "socorro",
+      "tucumcari"
+    ]
+  },
+  {
+    "token": "nm_an_124",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "aport_ult",
+        "city": "albuquerque"
+      }
+    ]
+  },
+  {
+    "token": "nm_truckstops",
+    "type": "triggerData",
+    "param": "nm_truckstops",
+    "count": 18
+  },
+  {
+    "token": "nm_shortcut",
+    "type": "triggerData",
+    "param": "nm_shortcut",
+    "count": 1
+  },
+  {
+    "token": "nm_museum",
+    "type": "triggerData",
+    "param": "nm_museum",
+    "count": 1
+  },
+  {
+    "token": "ok_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "ardmore",
+      "clinton",
+      "enid",
+      "guymon",
+      "idabel",
+      "lawton",
+      "mcalester",
+      "oklahoma_cit",
+      "tulsa",
+      "woodward"
+    ]
+  },
+  {
+    "token": "ok_bus_factory",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "yel_bus_pln",
+          "locationType": "city",
+          "locationToken": "tulsa"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ok_big_tyres",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "dyn_car_pln",
+          "locationType": "country",
+          "locationToken": "oklahoma"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ok_cutscenes",
+    "type": "triggerData",
+    "param": "ok_cutscenes",
+    "count": 6
+  },
+  {
+    "token": "or_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "astoria",
+      "bend",
+      "burns",
+      "coos_bay",
+      "eugene",
+      "klamath_f",
+      "lakeview",
+      "medford",
+      "newport",
+      "ontario",
+      "pendleton",
+      "portland",
+      "salem",
+      "the_dalles"
+    ]
+  },
+  {
+    "token": "or_timber_harvest",
+    "type": "eachCompanyData",
+    "role": "source",
+    "companies": [
+      {
+        "company": "dg_wd_hrv",
+        "city": "astoria"
+      },
+      {
+        "company": "dg_wd_hrv",
+        "city": "bend"
+      },
+      {
+        "company": "dg_wd_hrv",
+        "city": "medford"
+      },
+      {
+        "company": "dg_wd_hrv",
+        "city": "newport"
+      },
+      {
+        "company": "dg_wd_hrv",
+        "city": "salem"
+      }
+    ]
+  },
+  {
+    "token": "or_drawbridge",
+    "type": "triggerData",
+    "param": "or_drawbridge",
+    "count": 1
+  },
+  {
+    "token": "or_landmarks",
+    "type": "triggerData",
+    "param": "or_landmarks",
+    "count": 4
+  },
+  {
+    "token": "or_cabbage_hill",
+    "type": "triggerData",
+    "param": "or_cabbage_hill",
+    "count": 1
+  },
+  {
+    "token": "st_perf_job",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "aircondition",
+      "art_dumper",
+      "dumper",
+      "dumper_hull",
+      "dumper_tire",
+      "helicopter",
+      "house",
+      "lattice",
+      "load_un",
+      "mystery_box",
+      "pilot_boat",
+      "silo",
+      "tank",
+      "wagon",
+      "wagon_r211",
+      "windblade"
+    ]
+  },
+  {
+    "token": "st_helicopter",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "helicopter"
+    ]
+  },
+  {
+    "token": "st_aircondition",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "aircondition"
+    ]
+  },
+  {
+    "token": "st_house",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": [
+      "house"
+    ]
+  },
+  {
+    "token": "tx_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "abilene",
+      "amarillo",
+      "austin",
+      "beaumont",
+      "brownsville",
+      "corpus_chris",
+      "dalhart",
+      "dallas",
+      "del_rio",
+      "el_paso",
+      "fort_stockto",
+      "fort_worth",
+      "galveston",
+      "houston",
+      "huntsville",
+      "junction",
+      "laredo",
+      "longview_tx",
+      "lubbock",
+      "lufkin",
+      "mcallen",
+      "odessa",
+      "san_angelo",
+      "san_antonio",
+      "texarkana",
+      "tyler",
+      "van_horn",
+      "victoria",
+      "waco",
+      "wichita_fall"
+    ]
+  },
+  {
+    "token": "tx_shipyards_ports",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "hds_met_shp",
+          "locationType": "city",
+          "locationToken": "houston"
+        },
+        {
+          "company": "ter_met_shp",
+          "locationType": "city",
+          "locationToken": "brownsville"
+        },
+        {
+          "company": "ter_met_shp",
+          "locationType": "city",
+          "locationToken": "corpus_chris"
+        },
+        {
+          "company": "port_bea",
+          "locationType": "city",
+          "locationToken": "beaumont"
+        },
+        {
+          "company": "port_bro",
+          "locationType": "city",
+          "locationToken": "brownsville"
+        },
+        {
+          "company": "port_cor",
+          "locationType": "city",
+          "locationToken": "corpus_chris"
+        },
+        {
+          "company": "port_gal",
+          "locationType": "city",
+          "locationToken": "galveston"
+        },
+        {
+          "company": "port_hou",
+          "locationType": "city",
+          "locationToken": "houston"
+        }
+      ]
+    }
+  },
+  {
+    "token": "tx_farms_auction_houses",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "amarillo"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "dalhart"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "fort_worth"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "lubbock"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "san_antonio"
+        },
+        {
+          "company": "gp_farm",
+          "locationType": "city",
+          "locationToken": "waco"
+        },
+        {
+          "company": "gp_live_auc",
+          "locationType": "city",
+          "locationToken": "dalhart"
+        },
+        {
+          "company": "gp_live_auc",
+          "locationType": "city",
+          "locationToken": "fort_worth"
+        },
+        {
+          "company": "gp_live_auc",
+          "locationType": "city",
+          "locationToken": "lubbock"
+        },
+        {
+          "company": "gp_live_auc",
+          "locationType": "city",
+          "locationToken": "victoria"
+        }
+      ]
+    }
+  },
+  {
+    "token": "tx_cutscenes",
+    "type": "triggerData",
+    "param": "tx_cutscenes",
+    "count": 25
+  },
+  {
+    "token": "tx_markers",
+    "type": "triggerData",
+    "param": "tx_markers",
+    "count": 30
+  },
+  {
+    "token": "ut_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "cedar_city",
+      "logan",
+      "moab",
+      "ogden",
+      "price",
+      "provo",
+      "salina",
+      "salt_lake",
+      "st_george",
+      "vernal"
+    ]
+  },
+  {
+    "token": "ut_salt_lake_companies",
+    "type": "eachCompanyData",
+    "role": "source",
+    "companies": [
+      {
+        "company": "apa_car_whs",
+        "city": "salt_lake"
+      },
+      {
+        "company": "avs_met_scr",
+        "city": "salt_lake"
+      },
+      {
+        "company": "avs_met_sml",
+        "city": "salt_lake"
+      },
+      {
+        "company": "cm_min_str",
+        "city": "salt_lake"
+      },
+      {
+        "company": "cm_min_svc",
+        "city": "salt_lake"
+      },
+      {
+        "company": "pns_con_sit2",
+        "city": "salt_lake"
+      },
+      {
+        "company": "sg_whs",
+        "city": "salt_lake"
+      },
+      {
+        "company": "sht_mkt",
+        "city": "salt_lake"
+      }
+    ]
+  },
+  {
+    "token": "ut_frac_tank",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "gal_oil_sit",
+        "city": "moab"
+      },
+      {
+        "company": "gal_oil_sit",
+        "city": "price"
+      },
+      {
+        "company": "gal_oil_sit",
+        "city": "vernal"
+      },
+      {
+        "company": "gal_oil_str1",
+        "city": "moab"
+      },
+      {
+        "company": "gal_oil_str1",
+        "city": "price"
+      },
+      {
+        "company": "gal_oil_str1",
+        "city": "vernal"
+      }
+    ]
+  },
+  {
+    "token": "ut_mines",
+    "type": "triggerData",
+    "param": "ut_mines",
+    "count": 2
+  },
+  {
+    "token": "ut_sign",
+    "type": "triggerData",
+    "param": "ut_sign",
+    "count": 1
+  },
+  {
+    "token": "wa_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "aberdeen_wa",
+      "bellingham",
+      "colville",
+      "everett",
+      "grand_coulee",
+      "kennewick",
+      "longview",
+      "olympia",
+      "omak",
+      "port_angeles",
+      "seattle",
+      "spokane",
+      "tacoma",
+      "vancouver",
+      "wenatchee",
+      "yakima"
+    ]
+  },
+  {
+    "token": "wa_terminal",
+    "type": "eachCompanyData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "port_sea",
+        "city": "seattle"
+      },
+      {
+        "company": "port_tac",
+        "city": "tacoma"
+      }
+    ]
+  },
+  {
+    "token": "wa_tunnels",
+    "type": "triggerData",
+    "param": "wa_tunnels",
+    "count": 2
+  },
+  {
+    "token": "wa_forest",
+    "type": "triggerData",
+    "param": "wa_forest",
+    "count": 2
+  },
+  {
+    "token": "wa_landmarks",
+    "type": "triggerData",
+    "param": "wa_landmarks",
+    "count": 3
+  },
+  {
+    "token": "wa_aerospace",
+    "type": "deliverCargoData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "dw_air_pln",
+        "city": "everett"
+      }
+    ]
+  },
+  {
+    "token": "wa_marina",
+    "type": "deliverCargoData",
+    "role": "target",
+    "companies": [
+      {
+        "company": "sh_shp_mar",
+        "city": "aberdeen_wa"
+      },
+      {
+        "company": "sh_shp_mar",
+        "city": "colville"
+      },
+      {
+        "company": "sh_shp_mar",
+        "city": "olympia"
+      },
+      {
+        "company": "sh_shp_mar",
+        "city": "port_angeles"
+      }
+    ]
+  },
+  {
+    "token": "wa_use_ferry",
+    "type": "ferryData",
+    "endpointA": "coupeville",
+    "endpointB": "porttownsend",
+    "ferryType": "all"
+  },
+  {
+    "token": "wy_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "casper",
+      "cheyenne",
+      "cody",
+      "evanston",
+      "gillette",
+      "jackson",
+      "laramie",
+      "rawlins",
+      "riverton",
+      "rock_springs",
+      "sheridan"
+    ]
+  },
+  {
+    "token": "wy_train",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "aml_rail_str",
+          "locationType": "city",
+          "locationToken": "cheyenne"
+        }
+      ]
+    }
+  },
+  {
+    "token": "wy_cattle",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "bn_live_auc",
+          "locationType": "country",
+          "locationToken": "wyoming"
+        }
+      ]
+    }
+  },
+  {
+    "token": "wy_cutscenes",
+    "type": "triggerData",
+    "param": "wy_cutscenes",
+    "count": 8
+  },
+  {
+    "token": "wy_buford",
+    "type": "triggerData",
+    "param": "wy_buford",
+    "count": 1
+  },
+  {
+    "token": "ca_visit_cities",
+    "type": "visitCityData",
+    "cities": [
+      "bakersfield",
+      "barstow",
+      "blythe",
+      "el_centro",
+      "eureka",
+      "fresno",
+      "hilt",
+      "huron",
+      "indio",
+      "los_angeles",
+      "modesto",
+      "mojave",
+      "oakland",
+      "oxnard",
+      "redding",
+      "sacramento",
+      "san_diego",
+      "san_francisc",
+      "san_jose",
+      "santa_cruz",
+      "santa_maria",
+      "stockton",
+      "truckee",
+      "ukiah"
+    ]
+  },
+  {
+    "token": "perf_job",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "no_autopark",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "harddifficlt",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "finish50jobs",
+    "type": "deliveryLogData",
+    "locations": [],
+    "cargos": []
+  },
+  {
+    "token": "ca_sea_ports",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "oak_port",
+          "locationType": "city",
+          "locationToken": "oakland"
+        },
+        {
+          "company": "sf_port",
+          "locationType": "city",
+          "locationToken": "san_francisc"
+        }
+      ]
+    }
+  },
+  {
+    "token": "ca_country",
+    "type": "delivery",
+    "delivery": {
+      "type": "company",
+      "companies": [
+        {
+          "company": "mon_farm",
+          "locationType": "city",
+          "locationToken": "fresno"
+        },
+        {
+          "company": "mon_farm",
+          "locationType": "city",
+          "locationToken": "sacramento"
+        },
+        {
+          "company": "mon_farm",
+          "locationType": "city",
+          "locationToken": "san_diego"
+        },
+        {
+          "company": "mon_farm",
+          "locationType": "city",
+          "locationToken": "ukiah"
+        }
+      ]
+    }
+  }
+]

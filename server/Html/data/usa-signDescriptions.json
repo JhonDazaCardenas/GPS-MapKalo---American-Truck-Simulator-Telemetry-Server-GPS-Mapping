@@ -1,0 +1,5126 @@
+[
+  {
+    "token": "2700c",
+    "name": "metal barrel1 rusty dyna",
+    "modelDesc": "/asset/props/industrial/metal_barrel1_rusty_dyna.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "de_1a001",
+    "name": "construction light portable 01 de",
+    "modelDesc": "/asset/props/construction/close/construction_light_portable_01_de.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "blkw_2t002",
+    "name": "pallet jack 01 blkw",
+    "modelDesc": "/asset/props/storage/pallet_jack_01_blkw.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "609",
+    "name": "harley police physics",
+    "modelDesc": "/model/parked_bikes/physics/harley_police_physics.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "610",
+    "name": "old bike",
+    "modelDesc": "/model/parked_bikes/static/old_bike.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "611",
+    "name": "chopper",
+    "modelDesc": "/model/parked_bikes/static/chopper.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "613",
+    "name": "harley police physics",
+    "modelDesc": "/model/parked_bikes/physics/harley_police_physics.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "614",
+    "name": "harley police physics",
+    "modelDesc": "/model/parked_bikes/physics/harley_police_physics.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "615",
+    "name": "old bike",
+    "modelDesc": "/model/parked_bikes/static/old_bike.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "3",
+    "name": "la street-lamp1",
+    "modelDesc": "/model/props/lamp/la_street-lamp1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "4",
+    "name": "t shaped",
+    "modelDesc": "/model/pillar/t_shaped.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "6",
+    "name": "la street-lamp3 double",
+    "modelDesc": "/model/props/lamp/la_street-lamp3_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "6a",
+    "name": "la street-lamp3 double lod",
+    "modelDesc": "/model/props/lamp/la_street-lamp3_double_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "7",
+    "name": "la street-lamp4 park",
+    "modelDesc": "/model/props/lamp/la_street-lamp4_park.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "9",
+    "name": "sf street-lamp1",
+    "modelDesc": "/model/props/lamp/sf_street-lamp1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "10",
+    "name": "sf street-lamp2",
+    "modelDesc": "/model/props/lamp/sf_street-lamp2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "15",
+    "name": "sellplan lamp single",
+    "modelDesc": "/model/props/lamp/sellplan_lamp_single.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "16",
+    "name": "ca t shaped 3p",
+    "modelDesc": "/model/pillar/ca_t_shaped_3p.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "100",
+    "name": "us cross t left1",
+    "modelDesc": "/model/sign/traffic/us_cross_t_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "101",
+    "name": "us cross t right1",
+    "modelDesc": "/model/sign/traffic/us_cross_t_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "102",
+    "name": "us cross tr light1",
+    "modelDesc": "/model/sign/traffic/us_cross_tr_light1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "103",
+    "name": "us cross x1",
+    "modelDesc": "/model/sign/traffic/us_cross_x1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "104",
+    "name": "us noparking1",
+    "modelDesc": "/model/sign/traffic/us_noparking1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "105",
+    "name": "us oneway arrow noparking1",
+    "modelDesc": "/model/sign/traffic/us_oneway_arrow_noparking1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "106",
+    "name": "us oneway arrow1",
+    "modelDesc": "/model/sign/traffic/us_oneway_arrow1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "107",
+    "name": "us stop1",
+    "modelDesc": "/model/sign/traffic/us_stop1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "108",
+    "name": "us wrongway donotenter1",
+    "modelDesc": "/model/sign/traffic/us_wrongway_donotenter1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "109",
+    "name": "us oneway arrow1 left",
+    "modelDesc": "/model/sign/traffic/us_oneway_arrow1_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "111",
+    "name": "us call box1",
+    "modelDesc": "/model/sign/traffic/us_call_box1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "112",
+    "name": "us speed 15mph",
+    "modelDesc": "/model/sign/traffic/us_speed_15mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "113",
+    "name": "us speed 25mph",
+    "modelDesc": "/model/sign/traffic/us_speed_25mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "116",
+    "name": "us speed 40mph",
+    "modelDesc": "/model/sign/traffic/us_speed_40mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "117",
+    "name": "us speed 55mph",
+    "modelDesc": "/model/sign/traffic/us_speed_55mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "118",
+    "name": "us speed 65mph",
+    "modelDesc": "/model/sign/traffic/us_speed_65mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "119",
+    "name": "us curve chevron left1",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "120",
+    "name": "us curve chevron right1",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "121",
+    "name": "us drunk drivers1",
+    "modelDesc": "/model/sign/traffic/us_drunk_drivers1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "122",
+    "name": "us two way traffic1",
+    "modelDesc": "/model/sign/traffic/us_two_way_traffic1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "123",
+    "name": "us truck hill1",
+    "modelDesc": "/model/sign/traffic/us_truck_hill1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "124",
+    "name": "us truck hill2",
+    "modelDesc": "/model/sign/traffic/us_truck_hill2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "125",
+    "name": "us lane ends right1",
+    "modelDesc": "/model/sign/traffic/us_lane_ends_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "126",
+    "name": "us curve right1",
+    "modelDesc": "/model/sign/traffic/us_curve_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "127",
+    "name": "us curve left1",
+    "modelDesc": "/model/sign/traffic/us_curve_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "128",
+    "name": "us cross t1",
+    "modelDesc": "/model/sign/traffic/us_cross_t1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "129",
+    "name": "us pedestrians1",
+    "modelDesc": "/model/sign/traffic/us_pedestrians1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "130",
+    "name": "us divided highway1",
+    "modelDesc": "/model/sign/traffic/us_divided_highway1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "131",
+    "name": "us divided highway end1",
+    "modelDesc": "/model/sign/traffic/us_divided_highway_end1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "133",
+    "name": "us farm equipment1",
+    "modelDesc": "/model/sign/traffic/us_farm_equipment1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "134",
+    "name": "us rough road1",
+    "modelDesc": "/model/sign/traffic/us_rough_road1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "135",
+    "name": "us deer crossing1",
+    "modelDesc": "/model/sign/traffic/us_deer_crossing1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "137",
+    "name": "us tunnel1",
+    "modelDesc": "/model/sign/traffic/us_tunnel1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "138",
+    "name": "us yield ahead1",
+    "modelDesc": "/model/sign/traffic/us_yield_ahead1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "139",
+    "name": "us stop ahead1",
+    "modelDesc": "/model/sign/traffic/us_stop_ahead1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "140",
+    "name": "us no turn left1",
+    "modelDesc": "/model/sign/traffic/us_no_turn_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "141",
+    "name": "us no turn right1",
+    "modelDesc": "/model/sign/traffic/us_no_turn_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "145",
+    "name": "us object marker left1",
+    "modelDesc": "/model/sign/traffic/us_object_marker_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "146",
+    "name": "us object marker right1",
+    "modelDesc": "/model/sign/traffic/us_object_marker_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "200",
+    "name": "ref post white1",
+    "modelDesc": "/model/sign/ref_post_white1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "203",
+    "name": "us permit parking1",
+    "modelDesc": "/model/sign/traffic/us_permit_parking1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "204",
+    "name": "ca gas station barrier1",
+    "modelDesc": "/prefab/gas/ca_gas_station_barrier1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "205",
+    "name": "us yield1",
+    "modelDesc": "/model/sign/traffic/us_yield1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "215",
+    "name": "sr l dir ca",
+    "modelDesc": "/model/sign/navigation/sr_l_dir_ca.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "216",
+    "name": "sf gglamp1",
+    "modelDesc": "/model/props/lamp/sf_gglamp1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "219",
+    "name": "bench1",
+    "modelDesc": "/model/props/street/bench1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "221",
+    "name": "mailbox1",
+    "modelDesc": "/model/props/street/mailbox1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "222",
+    "name": "meter1",
+    "modelDesc": "/model/props/street/meter1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "223",
+    "name": "meter1a",
+    "modelDesc": "/model/props/street/meter1a.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "224",
+    "name": "newspaper1",
+    "modelDesc": "/model/props/street/newspaper1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "225",
+    "name": "phone1",
+    "modelDesc": "/model/props/street/phone1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "226",
+    "name": "post1",
+    "modelDesc": "/model/props/street/post1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "227",
+    "name": "trashbin1",
+    "modelDesc": "/model/props/street/trashbin1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "228",
+    "name": "trashbin2",
+    "modelDesc": "/model/props/street/trashbin2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "229",
+    "name": "container yellow",
+    "modelDesc": "/model/props/street/container_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "230",
+    "name": "container blue",
+    "modelDesc": "/model/props/street/container_blue.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "231",
+    "name": "dustbin1 green",
+    "modelDesc": "/model/props/street/dustbin1_green.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "232",
+    "name": "dustbin1 black",
+    "modelDesc": "/model/props/street/dustbin1_black.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "233",
+    "name": "dustbin1 blue",
+    "modelDesc": "/model/props/street/dustbin1_blue.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "234",
+    "name": "cold drinks1",
+    "modelDesc": "/model/props/street/cold_drinks1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "235",
+    "name": "cold drinks2",
+    "modelDesc": "/model/props/street/cold_drinks2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "241",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/coastline_mining/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "247",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/plaster_and_sons/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "248",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/sellgoods/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "249",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/sunshine_crops/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "250",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/voltison_motors/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "251",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/wallbert/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "253",
+    "name": "port lamp",
+    "modelDesc": "/model/props/lamp/port_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "254",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/voltison_motors/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "255",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/wallbert/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "259",
+    "name": "la street-lamp0",
+    "modelDesc": "/model/props/lamp/la_street-lamp0.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "289",
+    "name": "traffic barrier",
+    "modelDesc": "/model/sign/misc/traffic_barrier.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "299",
+    "name": "square concave",
+    "modelDesc": "/model/pillar/square_concave.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "403",
+    "name": "traffic barrier light",
+    "modelDesc": "/model/sign/misc/traffic_barrier_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "404",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/bitumen/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "405",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/bitumen/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "407",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/coastline_mining/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "408",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/galon_oil/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "409",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/galon_oil/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "412",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/charged/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "413",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/charged/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "416",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/plaster_and_sons/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "417",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/plaster_and_sons/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "418",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/sellgoods/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "419",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/sellgoods/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "420",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/sunshine_crops/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "421",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/voltison_motors/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "422",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/wallbert/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "425",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/rail_export/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "429",
+    "name": "light wl yellow",
+    "modelDesc": "/model/props/lamp/light_wl_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "430",
+    "name": "nv citylimit",
+    "modelDesc": "/model/sign/navigation/nv_citylimit.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "431",
+    "name": "la street-lamp5",
+    "modelDesc": "/model/props/lamp/la_street-lamp5.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "431a",
+    "name": "la street-lamp5 lod",
+    "modelDesc": "/model/props/lamp/la_street-lamp5_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "432",
+    "name": "variable message sign",
+    "modelDesc": "/model/sign/traffic_light/variable_message_sign.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "433",
+    "name": "2hw dir exit edit",
+    "modelDesc": "/model/sign/navigation/2hw_dir_exit_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "434",
+    "name": "nv ref post1",
+    "modelDesc": "/model/sign/nv_ref_post1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "438",
+    "name": "hw exit edit",
+    "modelDesc": "/model/sign/navigation/hw_exit_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "439",
+    "name": "hw exit now edit",
+    "modelDesc": "/model/sign/navigation/hw_exit_now_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "440",
+    "name": "hw sr weighst edit",
+    "modelDesc": "/model/sign/navigation/hw_sr_weighst_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "443",
+    "name": "sr ls dir edit",
+    "modelDesc": "/model/sign/navigation/sr_ls_dir_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "444",
+    "name": "sr rls dir edit",
+    "modelDesc": "/model/sign/navigation/sr_rls_dir_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "445",
+    "name": "way r dir edit",
+    "modelDesc": "/model/sign/navigation/way_r_dir_edit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "446",
+    "name": "road barrel",
+    "modelDesc": "/model/sign/road_barrel.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "447",
+    "name": "road barrel light",
+    "modelDesc": "/model/sign/road_barrel_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "448",
+    "name": "barrel 02",
+    "modelDesc": "/model/props/construction/barrel_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "449",
+    "name": "barrel 01",
+    "modelDesc": "/model/props/construction/barrel_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "450",
+    "name": "cablespool 03",
+    "modelDesc": "/model/props/construction/cablespool_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "451",
+    "name": "cablespool 02",
+    "modelDesc": "/model/props/construction/cablespool_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "452",
+    "name": "cablespool 01",
+    "modelDesc": "/model/props/construction/cablespool_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "453",
+    "name": "wc 01",
+    "modelDesc": "/model/props/construction/wc_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "455",
+    "name": "carwheel 01",
+    "modelDesc": "/model/props/garage/carwheel_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "456",
+    "name": "tire 01",
+    "modelDesc": "/model/props/garage/tire_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "457",
+    "name": "hays 03",
+    "modelDesc": "/model/props/farm/hays_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "458",
+    "name": "hays 02",
+    "modelDesc": "/model/props/farm/hays_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "459",
+    "name": "hays 01",
+    "modelDesc": "/model/props/farm/hays_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "460",
+    "name": "woodenbox 03",
+    "modelDesc": "/model/props/farm/woodenbox_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "461",
+    "name": "woodenbox 02",
+    "modelDesc": "/model/props/farm/woodenbox_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "463",
+    "name": "wooden crate 01",
+    "modelDesc": "/model/props/food/wooden_crate_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "464",
+    "name": "plastic crate 03",
+    "modelDesc": "/model/props/food/plastic_crate_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "465",
+    "name": "plastic crate 01",
+    "modelDesc": "/model/props/food/plastic_crate_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "466",
+    "name": "plastic crate 02",
+    "modelDesc": "/model/props/food/plastic_crate_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "467",
+    "name": "gas bottle",
+    "modelDesc": "/model/props/garage/gas_bottle.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "468",
+    "name": "tire rack 01",
+    "modelDesc": "/model/props/garage/tire_rack_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "469",
+    "name": "cargobox 02",
+    "modelDesc": "/model/props/uni/cargobox_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "470",
+    "name": "cargobox 01",
+    "modelDesc": "/model/props/uni/cargobox_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "471",
+    "name": "carton 02",
+    "modelDesc": "/model/props/uni/carton_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "472",
+    "name": "carton 01",
+    "modelDesc": "/model/props/uni/carton_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "473",
+    "name": "cartonbox 03",
+    "modelDesc": "/model/props/uni/cartonbox_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "474",
+    "name": "cartonbox 02",
+    "modelDesc": "/model/props/uni/cartonbox_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "475",
+    "name": "crate 01",
+    "modelDesc": "/model/props/food/crate_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "476",
+    "name": "cartonbox 01",
+    "modelDesc": "/model/props/uni/cartonbox_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "477",
+    "name": "palette 01",
+    "modelDesc": "/model/props/uni/palette_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "478",
+    "name": "trashbin 01",
+    "modelDesc": "/model/props/uni/trashbin_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "479",
+    "name": "trashbin 02",
+    "modelDesc": "/model/props/uni/trashbin_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "480",
+    "name": "watertank 01",
+    "modelDesc": "/model/props/uni/watertank_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "481",
+    "name": "barrel 03",
+    "modelDesc": "/model/props/construction/barrel_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "482",
+    "name": "bench metal 01",
+    "modelDesc": "/model/props/street/bench_metal_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "483",
+    "name": "bench metal 02",
+    "modelDesc": "/model/props/street/bench_metal_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "484",
+    "name": "garbage can metal 01",
+    "modelDesc": "/model/props/street/garbage_can_metal_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "486",
+    "name": "smarket lamp single",
+    "modelDesc": "/model/props/lamp/smarket_lamp_single.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "489",
+    "name": "lamp winne",
+    "modelDesc": "/model/props/lamp/lamp_winne.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "490",
+    "name": "hydrant1",
+    "modelDesc": "/model/props/street/hydrant1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "492",
+    "name": "lamp parking double",
+    "modelDesc": "/model/props/lamp/lamp_parking_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "493",
+    "name": "bench metal 03",
+    "modelDesc": "/model/props/street/bench_metal_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "494",
+    "name": "bench concrete 01",
+    "modelDesc": "/model/props/street/bench_concrete_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "497",
+    "name": "trashbin 01",
+    "modelDesc": "/model/props/street/trashbin_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "498",
+    "name": "trashbin 02",
+    "modelDesc": "/model/props/street/trashbin_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "499",
+    "name": "trashbin 03",
+    "modelDesc": "/model/props/street/trashbin_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "500",
+    "name": "bikerack 01",
+    "modelDesc": "/model/props/street/bikerack_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "501",
+    "name": "building sign small",
+    "modelDesc": "/model/sign/company_logos/wallbert/building_sign_small.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "502",
+    "name": "us adopt highway-nv",
+    "modelDesc": "/model/sign/traffic/us_adopt_highway-nv.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "504",
+    "name": "price ca",
+    "modelDesc": "/model/sign/gas/price_ca.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "507",
+    "name": "price az",
+    "modelDesc": "/model/sign/gas/price_az.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "508",
+    "name": "2hw dir edit az",
+    "modelDesc": "/model/sign/navigation/2hw_dir_edit_az.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "509",
+    "name": "flowerpot veg1",
+    "modelDesc": "/model/props/street/flowerpot_veg1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "511",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/eddys/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "513",
+    "name": "building sign2",
+    "modelDesc": "/model/sign/company_logos/eddys/building_sign2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "514",
+    "name": "2hw dir exit edit az",
+    "modelDesc": "/model/sign/navigation/2hw_dir_exit_edit_az.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "515",
+    "name": "3hw dir edit az",
+    "modelDesc": "/model/sign/navigation/3hw_dir_edit_az.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "517",
+    "name": "hw exit edit az",
+    "modelDesc": "/model/sign/navigation/hw_exit_edit_az.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "519",
+    "name": "speed radar led sign",
+    "modelDesc": "/model/sign/traffic_light/speed_radar_led_sign.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "520",
+    "name": "fire alarm1",
+    "modelDesc": "/model/props/street/fire_alarm1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "522",
+    "name": "container black1",
+    "modelDesc": "/model/props/street/container_black1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "524",
+    "name": "light wl blue",
+    "modelDesc": "/model/props/lamp/light_wl_blue.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "526",
+    "name": "trashbin 04",
+    "modelDesc": "/model/props/street/trashbin_04.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "528",
+    "name": "bushnell farm universal",
+    "modelDesc": "/model/sign/company_logos/bushnell_farm/bushnell_farm_universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "529",
+    "name": "bushnell farm entrance",
+    "modelDesc": "/model/sign/company_logos/bushnell_farm/bushnell_farm_entrance.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "530",
+    "name": "shop board1",
+    "modelDesc": "/model/props/street/shop_board1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "531",
+    "name": "shop board2",
+    "modelDesc": "/model/props/street/shop_board2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "532",
+    "name": "shop board3",
+    "modelDesc": "/model/props/street/shop_board3.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "534",
+    "name": "shop board5",
+    "modelDesc": "/model/props/street/shop_board5.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "535",
+    "name": "plastic table 01",
+    "modelDesc": "/model/props/street/plastic_table_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "536",
+    "name": "plastic chair 01",
+    "modelDesc": "/model/props/street/plastic_chair_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "537",
+    "name": "trashbin 05",
+    "modelDesc": "/model/props/street/trashbin_05.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "539",
+    "name": "az phoenix lamp double",
+    "modelDesc": "/model/props/lamp/az_phoenix_lamp_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "540",
+    "name": "az phoenix lamp single",
+    "modelDesc": "/model/props/lamp/az_phoenix_lamp_single.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "542",
+    "name": "us railroad ahead",
+    "modelDesc": "/model/sign/traffic/us_railroad_ahead.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "544",
+    "name": "street lamp 01",
+    "modelDesc": "/model/props/lamp/street_lamp_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "545",
+    "name": "street lamp 01 double",
+    "modelDesc": "/model/props/lamp/street_lamp_01_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "549",
+    "name": "electrobox 01",
+    "modelDesc": "/model/props/street/electrobox_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "550",
+    "name": "electrobox 02",
+    "modelDesc": "/model/props/street/electrobox_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "551",
+    "name": "electrobox 03",
+    "modelDesc": "/model/props/street/electrobox_03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "552",
+    "name": "advertising board 02",
+    "modelDesc": "/model/props/street/advertising_board_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "554",
+    "name": "warehouse lamp 01",
+    "modelDesc": "/model/props/lamp/warehouse_lamp_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "555",
+    "name": "1lane exit",
+    "modelDesc": "/model/sign/navigation/1lane_exit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "556",
+    "name": "3lane hw exit",
+    "modelDesc": "/model/sign/navigation/3lane_hw_exit.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "557",
+    "name": "3lane hw all",
+    "modelDesc": "/model/sign/navigation/3lane_hw_all.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "558",
+    "name": "1lane hw minor",
+    "modelDesc": "/model/sign/navigation/1lane_hw_minor.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "559",
+    "name": "exit sign",
+    "modelDesc": "/model/sign/navigation/exit_sign.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "561",
+    "name": "us cross merge1",
+    "modelDesc": "/model/sign/traffic/us_cross_merge1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "562",
+    "name": "exit mph",
+    "modelDesc": "/model/sign/traffic/exit_mph.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "564",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/dugheou_uzau/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "569",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/machinery_service/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "570",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/machinery_service/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "571",
+    "name": "nv ref post1 yellow",
+    "modelDesc": "/model/sign/nv_ref_post1_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "572",
+    "name": "traffic barrier light2",
+    "modelDesc": "/model/sign/misc/traffic_barrier_light2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "576",
+    "name": "arrow right",
+    "modelDesc": "/model/sign/company_logos/sunshine_crops/arrow_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "582",
+    "name": "arrow right",
+    "modelDesc": "/model/sign/company_logos/galon_oil/arrow_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "583",
+    "name": "arrow left",
+    "modelDesc": "/model/sign/company_logos/galon_oil/arrow_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "594",
+    "name": "kenw tr dl lamp double",
+    "modelDesc": "/model/props/lamp/kenw_tr_dl_lamp_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "595",
+    "name": "sf baybridge oakland lamp",
+    "modelDesc": "/model/props/lamp/sf_baybridge_oakland_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "601",
+    "name": "us speed 30mph",
+    "modelDesc": "/model/sign/traffic/us_speed_30mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "602",
+    "name": "us speed 70mph",
+    "modelDesc": "/model/sign/traffic/us_speed_70mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "603",
+    "name": "us speed 80mph",
+    "modelDesc": "/model/sign/traffic/us_speed_80mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "604",
+    "name": "ca t shaped light",
+    "modelDesc": "/model/pillar/ca_t_shaped_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "605",
+    "name": "ca t shaped 3p light",
+    "modelDesc": "/model/pillar/ca_t_shaped_3p_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "606",
+    "name": "us speed 75mph",
+    "modelDesc": "/model/sign/traffic/us_speed_75mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "607",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/tidbit/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "617",
+    "name": "traffic cone",
+    "modelDesc": "/model/props/street/traffic_cone.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "618",
+    "name": "us road work traffic",
+    "modelDesc": "/model/sign/traffic/us_road_work_traffic.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "619",
+    "name": "us speed 35mph roadwork traffic",
+    "modelDesc": "/model/sign/traffic/us_speed_35mph_roadwork_traffic.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "623",
+    "name": "us roadwork traffic left",
+    "modelDesc": "/model/sign/traffic/us_roadwork_traffic_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "624",
+    "name": "us roadwork traffic fork",
+    "modelDesc": "/model/sign/traffic/us_roadwork_traffic_fork.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "627",
+    "name": "nm 2-2 fway pillar01",
+    "modelDesc": "/model/pillar/nm_2-2_fway_pillar01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "628",
+    "name": "nm exit road pillar01",
+    "modelDesc": "/model/pillar/nm_exit_road_pillar01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "629",
+    "name": "nm 0-2 pillar03",
+    "modelDesc": "/model/pillar/nm_0-2_pillar03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "630",
+    "name": "nm 0-3 pillar03",
+    "modelDesc": "/model/pillar/nm_0-3_pillar03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "632",
+    "name": "nm exit road pillar03",
+    "modelDesc": "/model/pillar/nm_exit_road_pillar03.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "633",
+    "name": "warning triangle",
+    "modelDesc": "/model/props/street/warning_triangle.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "az_3",
+    "name": "az round01 light",
+    "modelDesc": "/model/pillar/az_round01_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_az_2",
+    "name": "az supermarket lamp",
+    "modelDesc": "/model/props/lamp/az_supermarket_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "634",
+    "name": "tire damage",
+    "modelDesc": "/model/props/road/tire_damage.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "636",
+    "name": "1lane hw white blink",
+    "modelDesc": "/model/sign/navigation/1lane_hw_white_blink.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "639",
+    "name": "us cross side1",
+    "modelDesc": "/model/sign/traffic/us_cross_side1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "640",
+    "name": "us cattle crossing1",
+    "modelDesc": "/model/sign/traffic/us_cattle_crossing1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "641",
+    "name": "us pedestrians2",
+    "modelDesc": "/model/sign/traffic/us_pedestrians2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "144",
+    "name": "us blank diamond1",
+    "modelDesc": "/model/sign/traffic/us_blank_diamond1.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "143",
+    "name": "us curve s",
+    "modelDesc": "/model/sign/traffic/us_curve_s.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "642",
+    "name": "us roadwork traffic right",
+    "modelDesc": "/model/sign/traffic/us_roadwork_traffic_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "643",
+    "name": "us rail crossing2",
+    "modelDesc": "/model/sign/traffic/us_rail_crossing2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "644",
+    "name": "us cross y1",
+    "modelDesc": "/model/sign/traffic/us_cross_y1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "648",
+    "name": "us truck rollover 35",
+    "modelDesc": "/model/sign/traffic/us_truck_rollover_35.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "649",
+    "name": "us wrongway1",
+    "modelDesc": "/model/sign/traffic/us_wrongway1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "650",
+    "name": "us reduced speed",
+    "modelDesc": "/model/sign/traffic/us_reduced_speed.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "651",
+    "name": "us no trucks",
+    "modelDesc": "/model/sign/traffic/us_no_trucks.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_101",
+    "name": "nm supermarket lamp single",
+    "modelDesc": "/model/props/lamp/nm_supermarket_lamp_single.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "652",
+    "name": "us no trucks allowed",
+    "modelDesc": "/model/sign/traffic/us_no_trucks_allowed.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "653",
+    "name": "us truck speed 55mph",
+    "modelDesc": "/model/sign/traffic/us_truck_speed_55mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "654",
+    "name": "us steep grades1",
+    "modelDesc": "/model/sign/traffic/us_steep_grades1.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "656",
+    "name": "us speed 45mph",
+    "modelDesc": "/model/sign/traffic/us_speed_45mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "657",
+    "name": "la street-lamp5 bridge",
+    "modelDesc": "/model/props/lamp/la_street-lamp5_bridge.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "657a",
+    "name": "la street-lamp5 bridge lod",
+    "modelDesc": "/model/props/lamp/la_street-lamp5_bridge_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "658",
+    "name": "us no passing zone",
+    "modelDesc": "/model/sign/traffic/us_no_passing_zone.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "659",
+    "name": "building sign small",
+    "modelDesc": "/model/sign/company_logos/coastline_mining/building_sign_small.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "661",
+    "name": "interstate 2",
+    "modelDesc": "/model/sign/navigation/interstate_2.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "662",
+    "name": "highway 1",
+    "modelDesc": "/model/sign/navigation/highway_1.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "665",
+    "name": "us junction",
+    "modelDesc": "/model/sign/traffic/us_junction.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "666",
+    "name": "us roadwork traffic fork inner",
+    "modelDesc": "/model/sign/traffic/us_roadwork_traffic_fork_inner.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "667",
+    "name": "us trsign no u turn",
+    "modelDesc": "/model/sign/traffic/us_trsign_no_u_turn.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_1",
+    "name": "shovel",
+    "modelDesc": "/model/props/street/shovel.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_2",
+    "name": "pick",
+    "modelDesc": "/model/props/street/pick.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_3",
+    "name": "big hammer",
+    "modelDesc": "/model/props/street/big_hammer.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_4",
+    "name": "traffic barrier light sync",
+    "modelDesc": "/model/sign/misc/traffic_barrier_light_sync.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_5",
+    "name": "traffic barrier light2 sync",
+    "modelDesc": "/model/sign/misc/traffic_barrier_light2_sync.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_6",
+    "name": "bucket",
+    "modelDesc": "/model/props/street/bucket.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_8",
+    "name": "fuel can",
+    "modelDesc": "/model/props/street/fuel_can.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_10",
+    "name": "aggregator",
+    "modelDesc": "/model/props/street/aggregator.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_11",
+    "name": "roadwork barrier",
+    "modelDesc": "/model/props/street/roadwork_barrier.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_13",
+    "name": "road barrel light sync",
+    "modelDesc": "/model/sign/misc/road_barrel_light_sync.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ev_14",
+    "name": "electric hammer",
+    "modelDesc": "/model/props/street/electric_hammer.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_3",
+    "name": "nm traffic lamp",
+    "modelDesc": "/model/props/lamp/nm_traffic_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "or_2_mod",
+    "name": "lamp parking small",
+    "modelDesc": "/model/props/lamp/lamp_parking_small.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "or_1_mod",
+    "name": "pallet jack",
+    "modelDesc": "/model/props/garage/pallet_jack.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "669",
+    "name": "price nm",
+    "modelDesc": "/model/sign/gas/price_nm.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "689",
+    "name": "ca yosemite park sign2",
+    "modelDesc": "/model/panorama/ca_yosemite_park_sign2.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "nm_17",
+    "name": "2-1-2 wide nm",
+    "modelDesc": "/model/sign/navigation/2-1-2_wide_nm.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "sd_bd_08",
+    "name": "us side board 05-1",
+    "modelDesc": "/model/sign/navigation/us_side_board_05-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_18",
+    "name": "us warn side board 03",
+    "modelDesc": "/model/sign/navigation/us_warn_side_board_03.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_19",
+    "name": "us warn side board 02",
+    "modelDesc": "/model/sign/navigation/us_warn_side_board_02.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_21",
+    "name": "us serv side board 02",
+    "modelDesc": "/model/sign/navigation/us_serv_side_board_02.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_25",
+    "name": "us note side board 03",
+    "modelDesc": "/model/sign/navigation/us_note_side_board_03.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_26",
+    "name": "us cult side board 03",
+    "modelDesc": "/model/sign/navigation/us_cult_side_board_03.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_27",
+    "name": "us info side board 03",
+    "modelDesc": "/model/sign/navigation/us_info_side_board_03.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_28",
+    "name": "us info side board 02",
+    "modelDesc": "/model/sign/navigation/us_info_side_board_02.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sd_bd_29",
+    "name": "us cult side board 02",
+    "modelDesc": "/model/sign/navigation/us_cult_side_board_02.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_01",
+    "name": "fwy1 ovh board 01-2",
+    "modelDesc": "/model/sign/navigation/fwy1_ovh_board_01-2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_10",
+    "name": "fwy1 ovh board 05-2",
+    "modelDesc": "/model/sign/navigation/fwy1_ovh_board_05-2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_14",
+    "name": "fwy2 ovh board exonly 01 01",
+    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_exonly_01_01.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_17",
+    "name": "fwy2 ovh board 05-1 01 wide",
+    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_05-1_01_wide.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_18",
+    "name": "fwy2 ovh board 05 wide 05 wide",
+    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_05_wide_05_wide.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_41",
+    "name": "fwy1 ovh board 04-1",
+    "modelDesc": "/model/sign/navigation/fwy1_ovh_board_04-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_45",
+    "name": "fwy1 ovh board 01-1",
+    "modelDesc": "/model/sign/navigation/fwy1_ovh_board_01-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_73",
+    "name": "fwy2 ovh board 1ex2 1eo2",
+    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_1ex2_1eo2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sm_bd_01",
+    "name": "board sml a1",
+    "modelDesc": "/model/sign/navigation/board_sml_a1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sm_bd_02",
+    "name": "board sml a2",
+    "modelDesc": "/model/sign/navigation/board_sml_a2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sm_bd_04",
+    "name": "board sml b1",
+    "modelDesc": "/model/sign/navigation/board_sml_b1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "sm_bd_11",
+    "name": "board sml g1",
+    "modelDesc": "/model/sign/navigation/board_sml_g1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_01",
+    "name": "fwy shield entrance",
+    "modelDesc": "/model/sign/navigation/fwy_shield_entrance.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_02",
+    "name": "fwy shield arrow",
+    "modelDesc": "/model/sign/navigation/fwy_shield_arrow.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_03",
+    "name": "fwy shield single",
+    "modelDesc": "/model/sign/navigation/fwy_shield_single.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_04",
+    "name": "fwy shield arrow to",
+    "modelDesc": "/model/sign/navigation/fwy_shield_arrow_to.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_08",
+    "name": "hw shield single",
+    "modelDesc": "/model/sign/navigation/hw_shield_single.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_20",
+    "name": "hw shield arrow nodir",
+    "modelDesc": "/model/sign/navigation/hw_shield_arrow_nodir.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_23",
+    "name": "fwy shield entrance1",
+    "modelDesc": "/model/sign/navigation/fwy_shield_entrance1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_25",
+    "name": "hw shield single jct",
+    "modelDesc": "/model/sign/navigation/hw_shield_single_jct.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_26",
+    "name": "hw shield double nodir",
+    "modelDesc": "/model/sign/navigation/hw_shield_double_nodir.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_28",
+    "name": "hw shield double vert",
+    "modelDesc": "/model/sign/navigation/hw_shield_double_vert.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_29",
+    "name": "hw shield double arrow vert",
+    "modelDesc": "/model/sign/navigation/hw_shield_double_arrow_vert.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_44",
+    "name": "hw shield single dir",
+    "modelDesc": "/model/sign/navigation/hw_shield_single_dir.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_45",
+    "name": "hw shield single arrow dir",
+    "modelDesc": "/model/sign/navigation/hw_shield_single_arrow_dir.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "rot_bd_46",
+    "name": "hw shield single arrow",
+    "modelDesc": "/model/sign/navigation/hw_shield_single_arrow.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "dlc_nm_29",
+    "name": "nm ref post1 white",
+    "modelDesc": "/model/sign/nm_ref_post1_white.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_30",
+    "name": "nm ref post1 orange",
+    "modelDesc": "/model/sign/nm_ref_post1_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_23",
+    "name": "sightseeing sign",
+    "modelDesc": "/model/props/country/sightseeing_sign.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "672",
+    "name": "roadwork light",
+    "modelDesc": "/model/sign/traffic_light/roadwork_light.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "682",
+    "name": "us stop 03",
+    "modelDesc": "/model/sign/traffic/us_stop_03.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "683",
+    "name": "or portland1",
+    "modelDesc": "/model/props/lamp/or_portland1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "684",
+    "name": "or portland1 lod",
+    "modelDesc": "/model/props/lamp/or_portland1_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "686",
+    "name": "omni neutral 50m",
+    "modelDesc": "/model/props/lamp/omni_neutral_50m.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "687",
+    "name": "us blank rectangle white",
+    "modelDesc": "/model/sign/traffic/us_blank_rectangle_white.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "dlc_or_2",
+    "name": "or ref post1 white",
+    "modelDesc": "/model/sign/or_ref_post1_white.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_3",
+    "name": "or ref post1 orange",
+    "modelDesc": "/model/sign/or_ref_post1_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "688",
+    "name": "2-1-2 wide empty",
+    "modelDesc": "/model/sign/navigation/2-1-2_wide_empty.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_1",
+    "name": "nm lamp1",
+    "modelDesc": "/model/props/lamp/nm_lamp1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_8",
+    "name": "or portland lamp wall",
+    "modelDesc": "/model/props/lamp/or_portland_lamp_wall.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "693",
+    "name": "us twistyroad speed",
+    "modelDesc": "/model/sign/traffic/us_twistyroad_speed.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "695",
+    "name": "us sharp left turn speed",
+    "modelDesc": "/model/sign/traffic/us_sharp_left_turn_speed.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "696",
+    "name": "us sharp right turn speed",
+    "modelDesc": "/model/sign/traffic/us_sharp_right_turn_speed.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "701",
+    "name": "us blank white",
+    "modelDesc": "/model/sign/navigation/us_blank_white.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "dlc_or_6",
+    "name": "or hydrant1",
+    "modelDesc": "/model/props/street/or_hydrant1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "702",
+    "name": "us curve left speed1",
+    "modelDesc": "/model/sign/traffic/us_curve_left_speed1.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "703",
+    "name": "us curve right speed1",
+    "modelDesc": "/model/sign/traffic/us_curve_right_speed1.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "717",
+    "name": "us reverse curve left",
+    "modelDesc": "/model/sign/traffic/us_reverse_curve_left.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "718",
+    "name": "us reverse curve right",
+    "modelDesc": "/model/sign/traffic/us_reverse_curve_right.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "720",
+    "name": "us school zone",
+    "modelDesc": "/model/sign/traffic/us_school_zone.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "723",
+    "name": "us advisory reverse curve left",
+    "modelDesc": "/model/sign/traffic/us_advisory_reverse_curve_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "724",
+    "name": "us advisory reverse curve right",
+    "modelDesc": "/model/sign/traffic/us_advisory_reverse_curve_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "726",
+    "name": "us divided right",
+    "modelDesc": "/model/sign/traffic/us_divided_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "731",
+    "name": "us firetruck",
+    "modelDesc": "/model/sign/traffic/us_firetruck.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "734",
+    "name": "us divided right refl",
+    "modelDesc": "/model/sign/traffic/us_divided_right_refl.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_4",
+    "name": "or basketball hoop",
+    "modelDesc": "/model/props/street/or_basketball_hoop.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_10",
+    "name": "id ref post1 white",
+    "modelDesc": "/model/sign/id_ref_post1_white.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_18",
+    "name": "building sign 02",
+    "modelDesc": "/model/sign/company_logos/steeler/building_sign_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_36",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/deep_grove/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_1l",
+    "name": "nm lamp1 lod",
+    "modelDesc": "/model/props/lamp/nm_lamp1_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "nm_3",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/global_mills/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "nm_6",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/global_mills/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "nm_7",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/global_mills/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_nm_4",
+    "name": "nm lamp2",
+    "modelDesc": "/model/props/lamp/nm_lamp2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ov_bd_81",
+    "name": "us fw4 dynamic board3 oh",
+    "modelDesc": "/model/sign/navigation/us_fw4_dynamic_board3_oh.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_82",
+    "name": "us fw dynamic speed limit sd",
+    "modelDesc": "/model/sign/navigation/us_fw_dynamic_speed_limit_sd.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "ov_bd_83",
+    "name": "us fw2 dynamic speed limit oh",
+    "modelDesc": "/model/sign/navigation/us_fw2_dynamic_speed_limit_oh.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "dlc_or_46",
+    "name": "us or speed 55mph",
+    "modelDesc": "/model/sign/us_or_speed_55mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "742",
+    "name": "us turn right advisory",
+    "modelDesc": "/model/sign/traffic/us_turn_right_advisory.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "744",
+    "name": "us object marker both sides",
+    "modelDesc": "/model/sign/traffic/us_object_marker_both_sides.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "758",
+    "name": "us speed limit 35 ahead1",
+    "modelDesc": "/model/sign/traffic/us_speed_limit_35_ahead1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "765",
+    "name": "us curve left48",
+    "modelDesc": "/model/sign/traffic/us_curve_left48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "766",
+    "name": "us curve right48",
+    "modelDesc": "/model/sign/traffic/us_curve_right48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "767",
+    "name": "us curve chevron left48",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_left48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "768",
+    "name": "us curve chevron right48",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_right48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_or_47",
+    "name": "us or speed 45mph",
+    "modelDesc": "/model/sign/us_or_speed_45mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_4",
+    "name": "wa lamp 1 double",
+    "modelDesc": "/model/props/lamp/wa_lamp_1_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_5",
+    "name": "wa lamp 2",
+    "modelDesc": "/model/props/lamp/wa_lamp_2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_8",
+    "name": "wa lamp 4",
+    "modelDesc": "/model/props/lamp/wa_lamp_4.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_13",
+    "name": "wa container green1",
+    "modelDesc": "/model/props/street/wa_container_green1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_ov_bd_12",
+    "name": "wa fwy1 ovh board exonly 01",
+    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_exonly_01.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "wa_12",
+    "name": "wa yakima lamp",
+    "modelDesc": "/model/props/lamp/wa_yakima_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_14",
+    "name": "wa sightseeing sign",
+    "modelDesc": "/model/props/country/wa_sightseeing_sign.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "wa_7",
+    "name": "wa lamp 3",
+    "modelDesc": "/model/props/lamp/wa_lamp_3.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wa_ov_bd_02",
+    "name": "wa fwy1 ovh board 01-2",
+    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_01-2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "wa_ov_bd_06",
+    "name": "wa fwy1 ovh board 04-1",
+    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_04-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "wa_ov_bd_10",
+    "name": "wa fwy2 ovh board 1ex1 1eo1",
+    "modelDesc": "/model/sign/navigation/wa_fwy2_ovh_board_1ex1_1eo1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "wa_ov_bd_13",
+    "name": "wa fwy3 ovh board 14-1 04-1",
+    "modelDesc": "/model/sign/navigation/wa_fwy3_ovh_board_14-1_04-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "wa_ov_bd_19",
+    "name": "wa fwy1 ovh board 04-1 noplague",
+    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_04-1_noplague.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "dlc_or_11",
+    "name": "or lakeview lamp",
+    "modelDesc": "/model/sign/or_lakeview_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ut_6",
+    "name": "ut provo lamp2",
+    "modelDesc": "/model/props/lamp/ut_provo_lamp2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ut_1",
+    "name": "ut ref post1 orange",
+    "modelDesc": "/model/sign/ut_ref_post1_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "815",
+    "name": "us speed limit 45 ahead1",
+    "modelDesc": "/model/sign/traffic/us_speed_limit_45_ahead1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "816",
+    "name": "us or speed 20mph",
+    "modelDesc": "/model/sign/traffic/us_or_speed_20mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "819",
+    "name": "us or speed 50mph",
+    "modelDesc": "/model/sign/traffic/us_or_speed_50mph.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "820",
+    "name": "la street-lamp0 lod",
+    "modelDesc": "/model/props/lamp/la_street-lamp0_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "822",
+    "name": "port lamp lod",
+    "modelDesc": "/model/props/lamp/port_lamp_lod.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "824",
+    "name": "us object marker left2",
+    "modelDesc": "/model/sign/traffic/us_object_marker_left2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "825",
+    "name": "us object marker right2",
+    "modelDesc": "/model/sign/traffic/us_object_marker_right2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "827",
+    "name": "us donotenter1",
+    "modelDesc": "/model/sign/traffic/us_donotenter1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "839",
+    "name": "building sign2",
+    "modelDesc": "/model/sign/company_logos/farmersbarn/building_sign2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "850",
+    "name": "ut demuro cardboard cutout",
+    "modelDesc": "/model/sign/company_logos/demuro/ut_demuro_cardboard_cutout.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "859",
+    "name": "us ref post diamond",
+    "modelDesc": "/model/sign/us_ref_post_diamond.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "865",
+    "name": "us ref post yellow",
+    "modelDesc": "/model/sign/us_ref_post_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "869",
+    "name": "or divided highway",
+    "modelDesc": "/model/sign/traffic/or_divided_highway.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "878",
+    "name": "ref post white 02 orange",
+    "modelDesc": "/model/sign/ref_post_white_02_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ut_8",
+    "name": "ut ref post2 orange",
+    "modelDesc": "/model/sign/ut_ref_post2_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ut_10",
+    "name": "ut delineator post",
+    "modelDesc": "/model/sign/ut_delineator_post.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k00a",
+    "name": "fwy3 ovh board warn03 01-3 01-3 warn03",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_warn03_01-3_01-3_warn03.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k00c",
+    "name": "fwy1 ovh warning board 05-2",
+    "modelDesc": "/model/sign/navigation/fwy1_ovh_warning_board_05-2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k00w",
+    "name": "fwy3 ovh board 14-1 01-2 wide",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_14-1_01-2_wide.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k01e",
+    "name": "fwy3 ovh board 12-1 wide",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_12-1_wide.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k027",
+    "name": "us railroad crossing stop",
+    "modelDesc": "/model/sign/traffic/us_railroad_crossing_stop.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "2k02e",
+    "name": "us stop flashing beacon",
+    "modelDesc": "/model/sign/traffic/us_stop_flashing_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "06002",
+    "name": "co reflection post 1 orange",
+    "modelDesc": "/model/sign/co_reflection_post_1_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "02008",
+    "name": "american lines building logo",
+    "modelDesc": "/model/sign/company_logos/american_lines/american_lines_building_logo.pmd",
+    "category": "company_sign",
+    "editable": false
+  },
+  {
+    "token": "id_0n001",
+    "name": "id road closed",
+    "modelDesc": "/model/props/road/id_road_closed.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "co_2k002",
+    "name": "co denver freeway lamp double 18m",
+    "modelDesc": "/model/props/lamp/co_denver_freeway_lamp_double_18m.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k02m",
+    "name": "board sml h-1",
+    "modelDesc": "/model/sign/navigation/board_sml_h-1.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k02n",
+    "name": "board sml h-2",
+    "modelDesc": "/model/sign/navigation/board_sml_h-2.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k02p",
+    "name": "board sml h-4",
+    "modelDesc": "/model/sign/navigation/board_sml_h-4.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k02v",
+    "name": "us left lane must turn left",
+    "modelDesc": "/model/sign/traffic/us_left_lane_must_turn_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k02w",
+    "name": "us one direction arrow right",
+    "modelDesc": "/model/sign/traffic/us_one_direction_arrow_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k02x",
+    "name": "us one direction arrow left",
+    "modelDesc": "/model/sign/traffic/us_one_direction_arrow_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k03a",
+    "name": "co reflection post 3 orange",
+    "modelDesc": "/model/sign/co_reflection_post_3_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k03c",
+    "name": "co reflection post 1 green",
+    "modelDesc": "/model/sign/co_reflection_post_1_green.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k03d",
+    "name": "co reflection post 3 green",
+    "modelDesc": "/model/sign/co_reflection_post_3_green.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k03q",
+    "name": "us side board white 427x244",
+    "modelDesc": "/model/sign/navigation/us_side_board_white_427x244.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k03x",
+    "name": "us side board green 426x274 ep",
+    "modelDesc": "/model/sign/navigation/us_side_board_green_426x274_ep.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k044",
+    "name": "road barrel with chevron",
+    "modelDesc": "/model/sign/road_barrel_with_chevron.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wy_2k001",
+    "name": "wy reflection post 1 orange",
+    "modelDesc": "/model/sign/wy_reflection_post_1_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "wy_2k002",
+    "name": "wy reflection post 1 white",
+    "modelDesc": "/model/sign/wy_reflection_post_1_white.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k04g",
+    "name": "us fw2 ovh brd 457x274 ep 457x244",
+    "modelDesc": "/model/sign/navigation/us_fw2_ovh_brd_457x274_ep_457x244.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k04m",
+    "name": "us side board green 244x91",
+    "modelDesc": "/model/sign/navigation/us_side_board_green_244x91.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k04p",
+    "name": "us side board blue 320x210",
+    "modelDesc": "/model/sign/navigation/us_side_board_blue_320x210.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k04r",
+    "name": "us blank diamond 122x122",
+    "modelDesc": "/model/sign/traffic/us_blank_diamond_122x122.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "wy_2k006",
+    "name": "wy reflection post 3 orange",
+    "modelDesc": "/model/sign/wy_reflection_post_3_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "18002",
+    "name": "co gallonoil driver totem",
+    "modelDesc": "/prefab/gas/co_gallonoil_driver_totem.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "2k055",
+    "name": "us white blank board 76x91",
+    "modelDesc": "/model/sign/traffic/us_white_blank_board_76x91.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k056",
+    "name": "us white blank board 122x152 122x122",
+    "modelDesc": "/model/sign/traffic/us_white_blank_board_122x152_122x122.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k05d",
+    "name": "us side board white 244x122",
+    "modelDesc": "/model/sign/us_side_board_white_244x122.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k06a",
+    "name": "us fw diamond advisory blank",
+    "modelDesc": "/model/sign/traffic/us_fw_diamond_advisory_blank.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "2k06c",
+    "name": "fwy3 ovh board green 1676x243",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_green_1676x243.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k06k",
+    "name": "ca stop flashing beacon",
+    "modelDesc": "/model/sign/traffic/ca_stop_flashing_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k06l",
+    "name": "us flasing warning beacon",
+    "modelDesc": "/model/sign/traffic/us_flasing_warning_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k06m",
+    "name": "us blank diamond 152x152",
+    "modelDesc": "/model/sign/traffic/us_blank_diamond_152x152.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "1a001",
+    "name": "wy railroad construction lamp",
+    "modelDesc": "/model/props/lamp/wy_railroad_construction_lamp.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k075",
+    "name": "or ref post1 red",
+    "modelDesc": "/model/sign/or_ref_post1_red.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k07b",
+    "name": "us railroad crossing 1 track yield",
+    "modelDesc": "/model/sign/traffic/us_railroad_crossing_1_track_yield.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k07q",
+    "name": "us cross merge 122cm right",
+    "modelDesc": "/model/sign/traffic/us_cross_merge_122cm_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k07s",
+    "name": "us cross side 122cm right",
+    "modelDesc": "/model/sign/traffic/us_cross_side_122cm_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k08v",
+    "name": "warehouse lamp 01 double",
+    "modelDesc": "/model/props/lamp/warehouse_lamp_01_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k092",
+    "name": "us curve chevron double 48",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_double_48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k095",
+    "name": "us one way roundabout 4",
+    "modelDesc": "/model/sign/traffic/us_one_way_roundabout_4.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0ai",
+    "name": "us side board yellow 305x190",
+    "modelDesc": "/model/sign/navigation/us_side_board_yellow_305x190.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0b9",
+    "name": "fwy3 ovh board g 610x305 g 457x305 g 457x305",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_g_610x305_g_457x305_g_457x305.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0bi",
+    "name": "fwy3 ovh board g701x305 g 488x305",
+    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_g701x305_g_488x305.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0bm",
+    "name": "us stop ahead 2x upper flasing beacon",
+    "modelDesc": "/model/sign/traffic/us_stop_ahead_2x_upper_flasing_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0cg",
+    "name": "us oil pipeline reflection post",
+    "modelDesc": "/model/sign/traffic/us_oil_pipeline_reflection_post.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0cl",
+    "name": "roadwork barrier 02",
+    "modelDesc": "/model/props/street/roadwork_barrier_02.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0d2",
+    "name": "us blank diamond 91x91 yellow plq 61x46",
+    "modelDesc": "/model/sign/traffic/us_blank_diamond_91x91_yellow_plq_61x46.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "2k0ds",
+    "name": "us side dynamic board 250x150",
+    "modelDesc": "/model/sign/navigation/us_side_dynamic_board_250x150.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "gas_18004",
+    "name": "us gas station totem gallonoil",
+    "modelDesc": "/model/sign/us_gas_station_totem_gallonoil.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "tx_2k00j",
+    "name": "tx side board green 213 152 122x61",
+    "modelDesc": "/model/sign/navigation/tx_side_board_green_213_152_122x61.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "mt_2k005",
+    "name": "mt reflection post 2 orange",
+    "modelDesc": "/model/sign/mt_reflection_post_2_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "mt_2k009",
+    "name": "mt reflection post 2 orange dbl sided",
+    "modelDesc": "/model/sign/mt_reflection_post_2_orange_dbl_sided.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "mt_2k004",
+    "name": "mt reflection post 2 white",
+    "modelDesc": "/model/sign/mt_reflection_post_2_white.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0e9",
+    "name": "us reflection post o 2 orange round",
+    "modelDesc": "/model/sign/us_reflection_post_o_2_orange_round.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "38001",
+    "name": "us haulett navigation sign",
+    "modelDesc": "/prefab/gas/us_haulett_navigation_sign.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "2k0eg",
+    "name": "ref post white 02 orange double",
+    "modelDesc": "/model/sign/ref_post_white_02_orange_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0ej",
+    "name": "us 3hw jct vert",
+    "modelDesc": "/model/sign/navigation/us_3hw_jct_vert.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0ek",
+    "name": "us 3hw jct",
+    "modelDesc": "/model/sign/navigation/us_3hw_jct.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0f4",
+    "name": "traffic cone slim reflective orange",
+    "modelDesc": "/model/sign/traffic_cone_slim_reflective_orange.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0f6",
+    "name": "variable message sign dynamic",
+    "modelDesc": "/model/sign/traffic_light/variable_message_sign_dynamic.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "27007",
+    "name": "us gas vortex navigation sign",
+    "modelDesc": "/prefab/gas/vortex/us_gas_vortex_navigation_sign.pmd",
+    "category": "",
+    "editable": true
+  },
+  {
+    "token": "2k0gj",
+    "name": "us stop 122x122 flashing beacons",
+    "modelDesc": "/model/sign/traffic/us_stop_122x122_flashing_beacons.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0h1",
+    "name": "us signal ahead 2x upper flashing beacon",
+    "modelDesc": "/model/sign/traffic/us_signal_ahead_2x_upper_flashing_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0hk",
+    "name": "us side board warn r180x40 w180x90",
+    "modelDesc": "/model/sign/navigation/us_side_board_warn_r180x40_w180x90.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k0hx",
+    "name": "road barrel light steady",
+    "modelDesc": "/model/sign/road_barrel_light_steady.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0i3",
+    "name": "road barrel light flashing nosync",
+    "modelDesc": "/model/sign/misc/road_barrel_light_flashing_nosync.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "tx_2k01z",
+    "name": "tx stop 122x122 flashing beacon",
+    "modelDesc": "/model/sign/traffic/tx_stop_122x122_flashing_beacon.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "tx_2k02c",
+    "name": "tx stop black rect y",
+    "modelDesc": "/model/sign/traffic/tx_stop_black_rect_y.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "2k0jz",
+    "name": "traffic cone full red",
+    "modelDesc": "/model/props/street/traffic_cone_full_red.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0k0",
+    "name": "traffic cone full red tall",
+    "modelDesc": "/model/props/street/traffic_cone_full_red_tall.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0k1",
+    "name": "traffic cone full yellow",
+    "modelDesc": "/model/props/street/traffic_cone_full_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ok_2k00r",
+    "name": "ok tollgate semaphore",
+    "modelDesc": "/model/sign/ok_tollgate_semaphore.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0oe",
+    "name": "ks lamp 2",
+    "modelDesc": "/model/props/lamp/ks_lamp_2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0of",
+    "name": "ks lamp 2 double",
+    "modelDesc": "/model/props/lamp/ks_lamp_2_double.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0ow",
+    "name": "wa reflection post white yr",
+    "modelDesc": "/model/sign/wa_reflection_post_white_yr.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0oz",
+    "name": "mo welcome sign 01",
+    "modelDesc": "/model/sign/mo_welcome_sign_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0pi",
+    "name": "ca overhead stand 01 3fwy",
+    "modelDesc": "/model/sign/navigation/ca_overhead_stand_01_3fwy.pmd",
+    "category": "overhead stand/ca/01",
+    "editable": true
+  },
+  {
+    "token": "2k0sh",
+    "name": "ar welcome sign 01",
+    "modelDesc": "/model/sign/ar_welcome_sign_01.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0ti",
+    "name": "wy overhead stand 01 3fwy",
+    "modelDesc": "/model/sign/navigation/wy_overhead_stand_01_3fwy.pmd",
+    "category": "overhead stand/wy/01",
+    "editable": true
+  },
+  {
+    "token": "2k0tr",
+    "name": "us nonreflective post 01 chevron y b",
+    "modelDesc": "/model/sign/us_nonreflective_post_01_chevron_y_b.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0u0",
+    "name": "us roadwork type ii portable barrier",
+    "modelDesc": "/model/sign/traffic/us_roadwork_type_ii_portable_barrier.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k0vk",
+    "name": "us roadblock type iii barricade",
+    "modelDesc": "/model/props/street/us_roadblock_type_iii_barricade.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ok_2k00u",
+    "name": "ok etoll semaphore",
+    "modelDesc": "/model/sign/ok_etoll_semaphore.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ok_2k01q",
+    "name": "ok overhead stand 02 2fwy",
+    "modelDesc": "/model/sign/navigation/ok_overhead_stand_02_2fwy.pmd",
+    "category": "overhead stand/ok/02",
+    "editable": true
+  },
+  {
+    "token": "ok_2k01r",
+    "name": "ok overhead stand 02 2fwy",
+    "modelDesc": "/model/sign/navigation/ok_overhead_stand_02_2fwy.pmd",
+    "category": "overhead stand/ok/02",
+    "editable": true
+  },
+  {
+    "token": "2k0zt",
+    "name": "us side board white yellow 300x180",
+    "modelDesc": "/model/sign/navigation/us_side_board_white_yellow_300x180.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k103",
+    "name": "us side board green 510x300",
+    "modelDesc": "/model/sign/navigation/us_side_board_green_510x300.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k104",
+    "name": "us side board green 570x450",
+    "modelDesc": "/model/sign/navigation/us_side_board_green_570x450.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k105",
+    "name": "us side board green 390x300 plq l",
+    "modelDesc": "/model/sign/navigation/us_side_board_green_390x300_plq_l.pmd",
+    "category": "editable board",
+    "editable": true
+  },
+  {
+    "token": "2k107",
+    "name": "us spec barricade yellow black x180",
+    "modelDesc": "/model/sign/traffic/us_spec_barricade_yellow_black_x180.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k108",
+    "name": "us spec barricade yellow black x180",
+    "modelDesc": "/model/sign/traffic/us_spec_barricade_yellow_black_x180.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "2k10c",
+    "name": "mo buckle up",
+    "modelDesc": "/model/sign/traffic/mo_buckle_up.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "dlc_az_1",
+    "name": "az lamp1",
+    "modelDesc": "/model/props/lamp/az_lamp1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "az_8",
+    "name": "universal",
+    "modelDesc": "/model/sign/company_logos/phoenix_freight/universal.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "nm_5",
+    "name": "building sign",
+    "modelDesc": "/model/sign/company_logos/abq_cargo/building_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "nm_8",
+    "name": "entrance sign",
+    "modelDesc": "/model/sign/company_logos/abq_cargo/entrance_sign.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "tx_2k012",
+    "name": "tx arrow chevrons left",
+    "modelDesc": "/model/sign/traffic/tx_arrow_chevrons_left.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "tx_2k013",
+    "name": "tx arrow chevrons right",
+    "modelDesc": "/model/sign/traffic/tx_arrow_chevrons_right.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "cder",
+    "name": "curva derecha",
+    "modelDesc": "/model/sign/dbmx/curva_derecha.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "cizq",
+    "name": "curva izquierda",
+    "modelDesc": "/model/sign/dbmx/curva_izquierda.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "cruz",
+    "name": "cruz",
+    "modelDesc": "/model/sign/dbmx/cruz.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "ccder",
+    "name": "curva cerrada derecha",
+    "modelDesc": "/model/sign/dbmx/curva_cerrada_derecha.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "ccoder",
+    "name": "curva continua derecha",
+    "modelDesc": "/model/sign/dbmx/curva_continua_derecha.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "cvsder",
+    "name": "curvas continuas derecha",
+    "modelDesc": "/model/sign/dbmx/curvas_continuas_derecha.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "ccizq",
+    "name": "curva cerrada izquierda",
+    "modelDesc": "/model/sign/dbmx/curva_cerrada_izquierda.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "ccoizq",
+    "name": "curva continua izquierda",
+    "modelDesc": "/model/sign/dbmx/curva_continua_izquierda.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "cvsizq",
+    "name": "curvas continuas izquierda",
+    "modelDesc": "/model/sign/dbmx/curvas_continuas_izquierda.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "idayvuelta",
+    "name": "ida vuelta",
+    "modelDesc": "/model/sign/dbmx/ida_vuelta.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "salida",
+    "name": "salida",
+    "modelDesc": "/model/sign/dbmx/salida.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "estrech",
+    "name": "estrechamiento",
+    "modelDesc": "/model/sign/dbmx/estrechamiento.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "estrech2",
+    "name": "estrechamiento2",
+    "modelDesc": "/model/sign/dbmx/estrechamiento2.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "puente",
+    "name": "puente",
+    "modelDesc": "/model/sign/dbmx/puente.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "bajada",
+    "name": "bajada",
+    "modelDesc": "/model/sign/dbmx/bajada.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "peatones",
+    "name": "peatones",
+    "modelDesc": "/model/sign/dbmx/peatones.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "escolares",
+    "name": "escolares",
+    "modelDesc": "/model/sign/dbmx/escolares.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "campesinos",
+    "name": "campesinos",
+    "modelDesc": "/model/sign/dbmx/campesinos.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "dividida",
+    "name": "dividida",
+    "modelDesc": "/model/sign/dbmx/dividida.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "tope",
+    "name": "tope",
+    "modelDesc": "/model/sign/dbmx/tope.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "topes",
+    "name": "topes",
+    "modelDesc": "/model/sign/dbmx/topes.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "cvspel",
+    "name": "curvas peligrosas",
+    "modelDesc": "/model/sign/dbmx/curvas_peligrosas.pmd",
+    "category": "Senales/Trafico",
+    "editable": false
+  },
+  {
+    "token": "pobprox",
+    "name": "poblado proximo",
+    "modelDesc": "/model/sign/dbmx/poblado_proximo.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "red250",
+    "name": "reductores 250",
+    "modelDesc": "/model/sign/dbmx/reductores_250.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "obedezca",
+    "name": "obedezca",
+    "modelDesc": "/model/sign/dbmx/obedezca.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "lento",
+    "name": "lento",
+    "modelDesc": "/model/sign/dbmx/lento.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "raycont",
+    "name": "raya continua",
+    "modelDesc": "/model/sign/dbmx/raya_continua.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "disvel",
+    "name": "disminuya velocidad",
+    "modelDesc": "/model/sign/dbmx/disminuya_velocidad.pmd",
+    "category": "Senales/Informativas",
+    "editable": false
+  },
+  {
+    "token": "181600",
+    "name": "HBS CedaA",
+    "modelDesc": "/model/HBS_CedaA/HBS_CedaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181601",
+    "name": "HBS CedaB",
+    "modelDesc": "/model/HBS_CedaB/HBS_CedaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181602",
+    "name": "HBS MSR AltoA",
+    "modelDesc": "/model/HBS_MSR_AltoA/HBS_MSR_AltoA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181603",
+    "name": "HBS MSR AltoB",
+    "modelDesc": "/model/HBS_MSR_AltoB/HBS_MSR_AltoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181607",
+    "name": "HBS MSR VueltaDerechaB",
+    "modelDesc": "/model/HBS_MSR_VueltaDerechaB/HBS_MSR_VueltaDerechaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181608",
+    "name": "HBS MSR VueltaIzquierdaA",
+    "modelDesc": "/model/HBS_MSR_VueltaIzquierdaA/HBS_MSR_VueltaIzquierdaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181609",
+    "name": "HBS MSR VueltaIzquierdaB",
+    "modelDesc": "/model/HBS_MSR_VueltaIzquierdaB/HBS_MSR_VueltaIzquierdaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181610",
+    "name": "HBS MSP CurvaDerechaA",
+    "modelDesc": "/model/HBS_MSP_CurvaDerechaA/HBS_MSP_CurvaDerechaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181611",
+    "name": "HBS MSP CurvaDerechaB",
+    "modelDesc": "/model/HBS_MSP_CurvaDerechaB/HBS_MSP_CurvaDerechaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181612",
+    "name": "HBS MSP CurvaIzquierdaA",
+    "modelDesc": "/model/HBS_MSP_CurvaIzquierdaA/HBS_MSP_CurvaIzquierdaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181613",
+    "name": "HBS MSP CurvaIzquierdaB",
+    "modelDesc": "/model/HBS_MSP_CurvaIzquierdaB/HBS_MSP_CurvaIzquierdaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181614",
+    "name": "HBS MSP CodoDerA",
+    "modelDesc": "/model/HBS_MSP_CodoDerA/HBS_MSP_CodoDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181615",
+    "name": "HBS MSP CodoDerB",
+    "modelDesc": "/model/HBS_MSP_CodoDerB/HBS_MSP_CodoDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181616",
+    "name": "HBS MSP CodoIzqA",
+    "modelDesc": "/model/HBS_MSP_CodoIzqA/HBS_MSP_CodoIzqA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181617",
+    "name": "HBS MSP CodoIzqB",
+    "modelDesc": "/model/HBS_MSP_CodoIzqB/HBS_MSP_CodoIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181618",
+    "name": "HBS MSP CurvasDerA",
+    "modelDesc": "/model/HBS_MSP_CurvasDerA/HBS_MSP_CurvasDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181619",
+    "name": "HBS MSP CurvasDerB",
+    "modelDesc": "/model/HBS_MSP_CurvasDerB/HBS_MSP_CurvasDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181620",
+    "name": "HBS MSP CurvasIzqA",
+    "modelDesc": "/model/HBS_MSP_CurvasIzqA/HBS_MSP_CurvasIzqA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181621",
+    "name": "HBS MSP CurvasIzqB",
+    "modelDesc": "/model/HBS_MSP_CurvasIzqB/HBS_MSP_CurvasIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181622",
+    "name": "HBS MSP CodosDerA",
+    "modelDesc": "/model/HBS_MSP_CodosDerA/HBS_MSP_CodosDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181623",
+    "name": "HBS MSP CodosDerB",
+    "modelDesc": "/model/HBS_MSP_CodosDerB/HBS_MSP_CodosDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181625",
+    "name": "HBS MSP CodosDIzqB",
+    "modelDesc": "/model/HBS_MSP_CodosDIzqB/HBS_MSP_CodosDIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181627",
+    "name": "HBS MSP SinuosoDerB",
+    "modelDesc": "/model/HBS_MSP_SinuosoDerB/HBS_MSP_SinuosoDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181628",
+    "name": "HBS MSP SinuosoIzqA",
+    "modelDesc": "/model/HBS_MSP_SinuosoIzqA/HBS_MSP_SinuosoIzqA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181629",
+    "name": "HBS MSP SinuosoIzqB",
+    "modelDesc": "/model/HBS_MSP_SinuosoIzqB/HBS_MSP_SinuosoIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181630",
+    "name": "HBS MSP IncorpDerA",
+    "modelDesc": "/model/HBS_MSP_IncorpDerA/HBS_MSP_IncorpDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181631",
+    "name": "HBS MSP IncorpDerB",
+    "modelDesc": "/model/HBS_MSP_IncorpDerB/HBS_MSP_IncorpDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181632",
+    "name": "HBS MSP IncorpIzqA",
+    "modelDesc": "/model/HBS_MSP_IncorpIzqA/HBS_MSP_IncorpIzqA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181634",
+    "name": "HBS MSP DobleA",
+    "modelDesc": "/model/HBS_MSP_DobleA/HBS_MSP_DobleA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181635",
+    "name": "HBS MSP DobleB",
+    "modelDesc": "/model/HBS_MSP_DobleB/HBS_MSP_DobleB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181636",
+    "name": "HBS MSP TopeA",
+    "modelDesc": "/model/HBS_MSP_TopeA/HBS_MSP_TopeA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181637",
+    "name": "HBS MSP TopeB",
+    "modelDesc": "/model/HBS_MSP_TopeB/HBS_MSP_TopeB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181638",
+    "name": "HBS MSP CruceroA",
+    "modelDesc": "/model/HBS_MSP_CruceroA/HBS_MSP_CruceroA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181639",
+    "name": "HBS MSP CruceroB",
+    "modelDesc": "/model/HBS_MSP_CruceroB/HBS_MSP_CruceroB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181640",
+    "name": "HBS MSP CruceT1A",
+    "modelDesc": "/model/HBS_MSP_CruceT1A/HBS_MSP_CruceT1A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181641",
+    "name": "HBS MSP CruceT1B",
+    "modelDesc": "/model/HBS_MSP_CruceT1B/HBS_MSP_CruceT1B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181642",
+    "name": "HBS MSP CruceT2A",
+    "modelDesc": "/model/HBS_MSP_CruceT2A/HBS_MSP_CruceT2A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181643",
+    "name": "HBS MSP CruceT2B",
+    "modelDesc": "/model/HBS_MSP_CruceT2B/HBS_MSP_CruceT2B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181645",
+    "name": "HBS MSP CruceT3B",
+    "modelDesc": "/model/HBS_MSP_CruceT3B/HBS_MSP_CruceT3B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181648",
+    "name": "HBS MSP SalidaDerA",
+    "modelDesc": "/model/HBS_MSP_SalidaDerA/HBS_MSP_SalidaDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181649",
+    "name": "HBS MSP SalidaDerB",
+    "modelDesc": "/model/HBS_MSP_SalidaDerB/HBS_MSP_SalidaDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181653",
+    "name": "HBS MSP GlorietaB",
+    "modelDesc": "/model/HBS_MSP_GlorietaB/HBS_MSP_GlorietaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181654",
+    "name": "HBS MSP T5A",
+    "modelDesc": "/model/HBS_MSP_T5A/HBS_MSP_T5A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181655",
+    "name": "HBS MSP T5B",
+    "modelDesc": "/model/HBS_MSP_T5B/HBS_MSP_T5B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181659",
+    "name": "HBS MSP SalidaIzqB",
+    "modelDesc": "/model/HBS_MSP_SalidaIzqB/HBS_MSP_SalidaIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181662",
+    "name": "HBS MSP AnchoA",
+    "modelDesc": "/model/HBS_MSP_AnchoA/HBS_MSP_AnchoA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181663",
+    "name": "HBS MSP AnchoB",
+    "modelDesc": "/model/HBS_MSP_AnchoB/HBS_MSP_AnchoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181664",
+    "name": "HBS MSP TerminaDerA",
+    "modelDesc": "/model/HBS_MSP_TerminaDerA/HBS_MSP_TerminaDerA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181665",
+    "name": "HBS MSP TerminaDerB",
+    "modelDesc": "/model/HBS_MSP_TerminaDerB/HBS_MSP_TerminaDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181669",
+    "name": "HBS MSP EstrechoB",
+    "modelDesc": "/model/HBS_MSP_EstrechoB/HBS_MSP_EstrechoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181673",
+    "name": "HBS MSP ArroyoB",
+    "modelDesc": "/model/HBS_MSP_ArroyoB/HBS_MSP_ArroyoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181675",
+    "name": "HBS MSP TerminaPavB",
+    "modelDesc": "/model/HBS_MSP_TerminaPavB/HBS_MSP_TerminaPavB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181678",
+    "name": "HBS MSP BajadaA",
+    "modelDesc": "/model/HBS_MSP_BajadaA/HBS_MSP_BajadaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181679",
+    "name": "HBS MSP BajadaB",
+    "modelDesc": "/model/HBS_MSP_BajadaB/HBS_MSP_BajadaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181680",
+    "name": "HBS MSP AltoAdeA",
+    "modelDesc": "/model/HBS_MSP_AltoAdeA/HBS_MSP_AltoAdeA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181681",
+    "name": "HBS MSP ArltoAdeB",
+    "modelDesc": "/model/HBS_MSP_ArltoAdeB/HBS_MSP_ArltoAdeB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181682",
+    "name": "HBS MSP PeatonesA",
+    "modelDesc": "/model/HBS_MSP_PeatonesA/HBS_MSP_PeatonesA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181683",
+    "name": "HBS MSP PeatonesB",
+    "modelDesc": "/model/HBS_MSP_PeatonesB/HBS_MSP_PeatonesB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181686",
+    "name": "HBS MSP SalidaDer2A",
+    "modelDesc": "/model/HBS_MSP_SalidaDer2A/HBS_MSP_SalidaDer2A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181687",
+    "name": "HBS MSP SalidaDer2B",
+    "modelDesc": "/model/HBS_MSP_SalidaDer2B/HBS_MSP_SalidaDer2B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181688",
+    "name": "HBS MSP SalidaIzq2A",
+    "modelDesc": "/model/HBS_MSP_SalidaIzq2A/HBS_MSP_SalidaIzq2A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181691",
+    "name": "HBS MSP IniciaAvB",
+    "modelDesc": "/model/HBS_MSP_IniciaAvB/HBS_MSP_IniciaAvB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181694",
+    "name": "HBS MSP TerminaAvA",
+    "modelDesc": "/model/HBS_MSP_TerminaAvA/HBS_MSP_TerminaAvA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181695",
+    "name": "HBS MSP TerminaAvB",
+    "modelDesc": "/model/HBS_MSP_TerminaAvB/HBS_MSP_TerminaAvB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181697",
+    "name": "HBS MSP VueltaUDerB",
+    "modelDesc": "/model/HBS_MSP_VueltaUDerB/HBS_MSP_VueltaUDerB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181698",
+    "name": "HBS MSP VueltaUIzqA",
+    "modelDesc": "/model/HBS_MSP_VueltaUIzqA/HBS_MSP_VueltaUIzqA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181699",
+    "name": "HBS MSP VueltaUIzqB",
+    "modelDesc": "/model/HBS_MSP_VueltaUIzqB/HBS_MSP_VueltaUIzqB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181700",
+    "name": "HBS MSP DeslaveA",
+    "modelDesc": "/model/HBS_MSP_DeslaveA/HBS_MSP_DeslaveA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181701",
+    "name": "HBS MSP DeslaveB",
+    "modelDesc": "/model/HBS_MSP_DeslaveB/HBS_MSP_DeslaveB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181702",
+    "name": "HBS MSP FerrocarrilA",
+    "modelDesc": "/model/HBS_MSP_FerrocarrilA/HBS_MSP_FerrocarrilA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181703",
+    "name": "HBS MSP FerrocarrilB",
+    "modelDesc": "/model/HBS_MSP_FerrocarrilB/HBS_MSP_FerrocarrilB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181705",
+    "name": "HBS MSP GranjeroB",
+    "modelDesc": "/model/HBS_MSP_GranjeroB/HBS_MSP_GranjeroB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181710",
+    "name": "HBS MSR DerechaA",
+    "modelDesc": "/model/HBS_MSR_DerechaA/HBS_MSR_DerechaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181711",
+    "name": "HBS MSR MDerechaB",
+    "modelDesc": "/model/HBS_MSR_MDerechaB/HBS_MSR_MDerechaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181713",
+    "name": "HBS MSR DerechaB",
+    "modelDesc": "/model/HBS_MSR_DerechaB/HBS_MSR_DerechaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181714",
+    "name": "HBS MSR CarrDerechoA",
+    "modelDesc": "/model/HBS_MSR_CarrDerechoA/HBS_MSR_CarrDerechoA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181716",
+    "name": "HBS MSR IzquierdaA",
+    "modelDesc": "/model/HBS_MSR_IzquierdaA/HBS_MSR_IzquierdaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181717",
+    "name": "HBS MSR IzquierdaB",
+    "modelDesc": "/model/HBS_MSR_IzquierdaB/HBS_MSR_IzquierdaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181720",
+    "name": "HBS MSR DobleA",
+    "modelDesc": "/model/HBS_MSR_DobleA/HBS_MSR_DobleA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181721",
+    "name": "HBS MSR DobleB",
+    "modelDesc": "/model/HBS_MSR_DobleB/HBS_MSR_DobleB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181722",
+    "name": "HBS MSR NoRebasarA",
+    "modelDesc": "/model/HBS_MSR_NoRebasarA/HBS_MSR_NoRebasarA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181723",
+    "name": "HBS MSR NoRebasarB",
+    "modelDesc": "/model/HBS_MSR_NoRebasarB/HBS_MSR_NoRebasarB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181728",
+    "name": "HBS MSR NoEstacionarseA",
+    "modelDesc": "/model/HBS_MSR_NoEstacionarseA/HBS_MSR_NoEstacionarseA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181729",
+    "name": "HBS MSR NoEstacionarseB",
+    "modelDesc": "/model/HBS_MSR_NoEstacionarseB/HBS_MSR_NoEstacionarseB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181731",
+    "name": "HBS MSR NoDerechaB",
+    "modelDesc": "/model/HBS_MSR_NoDerechaB/HBS_MSR_NoDerechaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181732",
+    "name": "HBS MSR NoIzquierdaA",
+    "modelDesc": "/model/HBS_MSR_NoIzquierdaA/HBS_MSR_NoIzquierdaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181733",
+    "name": "HBS MSR NoIzquierdaB",
+    "modelDesc": "/model/HBS_MSR_NoIzquierdaB/HBS_MSR_NoIzquierdaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181736",
+    "name": "HBS MSR NoDerechoA",
+    "modelDesc": "/model/HBS_MSR_NoDerechoA/HBS_MSR_NoDerechoA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181737",
+    "name": "HBS MSR NoDerechoB",
+    "modelDesc": "/model/HBS_MSR_NoDerechoB/HBS_MSR_NoDerechoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181749",
+    "name": "HBS MSR NoCamionesB",
+    "modelDesc": "/model/HBS_MSR_NoCamionesB/HBS_MSR_NoCamionesB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181755",
+    "name": "HBS MSR Max20B",
+    "modelDesc": "/model/HBS_MSR_Max20B/HBS_MSR_Max20B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181756",
+    "name": "HBS MSR Max30A",
+    "modelDesc": "/model/HBS_MSR_Max30A/HBS_MSR_Max30A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181757",
+    "name": "HBS MSR Max30B",
+    "modelDesc": "/model/HBS_MSR_Max30B/HBS_MSR_Max30B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181758",
+    "name": "HBS MSR Max40A",
+    "modelDesc": "/model/HBS_MSR_Max40A/HBS_MSR_Max40A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181759",
+    "name": "HBS MSR Max40B",
+    "modelDesc": "/model/HBS_MSR_Max40B/HBS_MSR_Max40B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181760",
+    "name": "HBS MSR Max50A",
+    "modelDesc": "/model/HBS_MSR_Max50A/HBS_MSR_Max50A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181761",
+    "name": "HBS MSR Max50B",
+    "modelDesc": "/model/HBS_MSR_Max50B/HBS_MSR_Max50B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181762",
+    "name": "HBS MSR Max60A",
+    "modelDesc": "/model/HBS_MSR_Max60A/HBS_MSR_Max60A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181763",
+    "name": "HBS MSR Max60B",
+    "modelDesc": "/model/HBS_MSR_Max60B/HBS_MSR_Max60B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181765",
+    "name": "HBS MSR Max70B",
+    "modelDesc": "/model/HBS_MSR_Max70B/HBS_MSR_Max70B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181766",
+    "name": "HBS MSR Max80A",
+    "modelDesc": "/model/HBS_MSR_Max80A/HBS_MSR_Max80A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181767",
+    "name": "HBS MSR Max80B",
+    "modelDesc": "/model/HBS_MSR_Max80B/HBS_MSR_Max80B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181768",
+    "name": "HBS MSR Max90A",
+    "modelDesc": "/model/HBS_MSR_Max90A/HBS_MSR_Max90A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181769",
+    "name": "HBS MSR Max90B",
+    "modelDesc": "/model/HBS_MSR_Max90B/HBS_MSR_Max90B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181770",
+    "name": "HBS MSR Max100A",
+    "modelDesc": "/model/HBS_MSR_Max100A/HBS_MSR_Max100A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181772",
+    "name": "HBS MSR Max110A",
+    "modelDesc": "/model/HBS_MSR_Max110A/HBS_MSR_Max110A.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181776",
+    "name": "HBS MSP Chevron1",
+    "modelDesc": "/model/HBS_MSP_Chevron1/HBS_MSP_Chevron1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181777",
+    "name": "HBS MSP Chevron2",
+    "modelDesc": "/model/HBS_MSP_Chevron2/HBS_MSP_Chevron2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181778",
+    "name": "HBS MSP Chevron3",
+    "modelDesc": "/model/HBS_MSP_Chevron3/HBS_MSP_Chevron3.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181779",
+    "name": "HBS MSP Chevron4",
+    "modelDesc": "/model/HBS_MSP_Chevron4/HBS_MSP_Chevron4.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181780",
+    "name": "HBS MSP SeparadorA",
+    "modelDesc": "/model/HBS_MSP_SeparadorA/HBS_MSP_SeparadorA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181781",
+    "name": "HBS MSP SeparadorB",
+    "modelDesc": "/model/HBS_MSP_SeparadorB/HBS_MSP_SeparadorB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181782",
+    "name": "HBS MSP SeparadorC",
+    "modelDesc": "/model/HBS_MSP_SeparadorC/HBS_MSP_SeparadorC.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181784",
+    "name": "HBS MSI 239x71 2",
+    "modelDesc": "/model/HBS_MSI_239x71_2/HBS_MSI_239x71_2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181785",
+    "name": "HBS MSI 239x71 3",
+    "modelDesc": "/model/HBS_MSI_239x71_3/HBS_MSI_239x71_3.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181794",
+    "name": "HBS MSI 178x40 5",
+    "modelDesc": "/model/HBS_MSI_178x40_5/HBS_MSI_178x40_5.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181798",
+    "name": "HBS MSP FantasmaA",
+    "modelDesc": "/model/HBS_MSP_FantasmaA/HBS_MSP_FantasmaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181799",
+    "name": "HBS MSP FantasmaB",
+    "modelDesc": "/model/HBS_MSP_FantasmaB/HBS_MSP_FantasmaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181800",
+    "name": "HBS MSI 290x56 1",
+    "modelDesc": "/model/HBS_MSI_290x56_1/HBS_MSI_290x56_1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181801",
+    "name": "HBS MSI 290x56 2",
+    "modelDesc": "/model/HBS_MSI_290x56_2/HBS_MSI_290x56_2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181802",
+    "name": "HBS MSI 308x106 1",
+    "modelDesc": "/model/HBS_MSI_308x106_1/HBS_MSI_308x106_1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181804",
+    "name": "HBS MSI 357x106 1",
+    "modelDesc": "/model/HBS_MSI_357x106_1/HBS_MSI_357x106_1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181805",
+    "name": "HBS MSI 357x106 2",
+    "modelDesc": "/model/HBS_MSI_357x106_2/HBS_MSI_357x106_2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181806",
+    "name": "HBS MSI 357x106 3",
+    "modelDesc": "/model/HBS_MSI_357x106_3/HBS_MSI_357x106_3.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181807",
+    "name": "HBS MSI 357x106 4",
+    "modelDesc": "/model/HBS_MSI_357x106_4/HBS_MSI_357x106_4.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181809",
+    "name": "HBS MSI 357x106 6",
+    "modelDesc": "/model/HBS_MSI_357x106_6/HBS_MSI_357x106_6.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181810",
+    "name": "HBS MSI 357x106 7",
+    "modelDesc": "/model/HBS_MSI_357x106_7/HBS_MSI_357x106_7.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181816",
+    "name": "HBS MSS gasolineraA",
+    "modelDesc": "/model/HBS_MSS_gasolineraA/HBS_MSS_gasolineraA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181817",
+    "name": "HBS MSS gasolineraB",
+    "modelDesc": "/model/HBS_MSS_gasolineraB/HBS_MSS_gasolineraB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181818",
+    "name": "HBS MSS mecanicoA",
+    "modelDesc": "/model/HBS_MSS_mecanicoA/HBS_MSS_mecanicoA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181822",
+    "name": "HBS MSS paradaA",
+    "modelDesc": "/model/HBS_MSS_paradaA/HBS_MSS_paradaA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181823",
+    "name": "HBS MSS paradaB",
+    "modelDesc": "/model/HBS_MSS_paradaB/HBS_MSS_paradaB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181824",
+    "name": "HBS MSS sosA",
+    "modelDesc": "/model/HBS_MSS_sosA/HBS_MSS_sosA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181825",
+    "name": "HBS MSS sosB",
+    "modelDesc": "/model/HBS_MSS_sosB/HBS_MSS_sosB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181826",
+    "name": "HBS MSP SeparadorD",
+    "modelDesc": "/model/HBS_MSP_SeparadorD/HBS_MSP_SeparadorD.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181827",
+    "name": "HBS MSP SeparadorE",
+    "modelDesc": "/model/HBS_MSP_SeparadorE/HBS_MSP_SeparadorE.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181828",
+    "name": "HBS MSP SeparadorF",
+    "modelDesc": "/model/HBS_MSP_SeparadorF/HBS_MSP_SeparadorF.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181829",
+    "name": "HBS MSD 76x366",
+    "modelDesc": "/model/HBS_MSD_76x366/HBS_MSD_76x366.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181830",
+    "name": "HBS MSD 122x350",
+    "modelDesc": "/model/HBS_MSD_122x350/HBS_MSD_122x350.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181831",
+    "name": "HBS MSD 122x366",
+    "modelDesc": "/model/HBS_MSD_122x366/HBS_MSD_122x366.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181832",
+    "name": "HBS MSD 122x439",
+    "modelDesc": "/model/HBS_MSD_122x439/HBS_MSD_122x439.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181833",
+    "name": "HBS MSD 122x488",
+    "modelDesc": "/model/HBS_MSD_122x488/HBS_MSD_122x488.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181834",
+    "name": "HBS MSD 122x600",
+    "modelDesc": "/model/HBS_MSD_122x600/HBS_MSD_122x600.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181835",
+    "name": "HBS MSD 240x350",
+    "modelDesc": "/model/HBS_MSD_240x350/HBS_MSD_240x350.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181836",
+    "name": "HBS MSD 240x420",
+    "modelDesc": "/model/HBS_MSD_240x420/HBS_MSD_240x420.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181838",
+    "name": "HBS MSI 56x250x1",
+    "modelDesc": "/model/HBS_MSI_56x250x1/HBS_MSI_56x250x1.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181839",
+    "name": "HBS MSI 56x300 B",
+    "modelDesc": "/model/HBS_MSI_56x300_B/HBS_MSI_56x300_B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181841",
+    "name": "HBS MSI 56x300 x2",
+    "modelDesc": "/model/HBS_MSI_56x300_x2/HBS_MSI_56x300_x2.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181842",
+    "name": "HBS MSI 56x300C",
+    "modelDesc": "/model/HBS_MSI_56x300C/HBS_MSI_56x300C.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181844",
+    "name": "HBS MSI 56x300x1A",
+    "modelDesc": "/model/HBS_MSI_56x300x1A/HBS_MSI_56x300x1A.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181845",
+    "name": "HBS MSI 56x300x1B",
+    "modelDesc": "/model/HBS_MSI_56x300x1B/HBS_MSI_56x300x1B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181846",
+    "name": "HBS MSI 56x300x1C",
+    "modelDesc": "/model/HBS_MSI_56x300x1C/HBS_MSI_56x300x1C.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181847",
+    "name": "HBS MSI 56x300x2A",
+    "modelDesc": "/model/HBS_MSI_56x300x2A/HBS_MSI_56x300x2A.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181848",
+    "name": "HBS MSI 56x300x2B",
+    "modelDesc": "/model/HBS_MSI_56x300x2B/HBS_MSI_56x300x2B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181851",
+    "name": "HBS MSI 56x300x3B",
+    "modelDesc": "/model/HBS_MSI_56x300x3B/HBS_MSI_56x300x3B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181852",
+    "name": "HBS MSI 86x300A",
+    "modelDesc": "/model/HBS_MSI_86x300A/HBS_MSI_86x300A.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181853",
+    "name": "HBS MSI 86x300B",
+    "modelDesc": "/model/HBS_MSI_86x300B/HBS_MSI_86x300B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181854",
+    "name": "HBS MSI 86x300C",
+    "modelDesc": "/model/HBS_MSI_86x300C/HBS_MSI_86x300C.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181856",
+    "name": "HBS MSI TabA 47x117",
+    "modelDesc": "/model/HBS_MSI_TabA_47x117/HBS_MSI_TabA_47x117.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181858",
+    "name": "HBS MSI TabA 83x117",
+    "modelDesc": "/model/HBS_MSI_TabA_83x117/HBS_MSI_TabA_83x117.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181859",
+    "name": "HBS MSI TabB 35x86",
+    "modelDesc": "/model/HBS_MSI_TabB_35x86/HBS_MSI_TabB_35x86.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181860",
+    "name": "HBS MSI TabB 47x117",
+    "modelDesc": "/model/HBS_MSI_TabB_47x117/HBS_MSI_TabB_47x117.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181863",
+    "name": "HBS MSP TabA 47x165",
+    "modelDesc": "/model/HBS_MSP_TabA_47x165/HBS_MSP_TabA_47x165.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181864",
+    "name": "HBS MSP TabA 83x165",
+    "modelDesc": "/model/HBS_MSP_TabA_83x165/HBS_MSP_TabA_83x165.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181865",
+    "name": "HBS MSP TabA 121x35",
+    "modelDesc": "/model/HBS_MSP_TabA_121x35/HBS_MSP_TabA_121x35.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181866",
+    "name": "HBS MSP TabA 121x61",
+    "modelDesc": "/model/HBS_MSP_TabA_121x61/HBS_MSP_TabA_121x61.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181868",
+    "name": "HBS SPS BanderaDobleB",
+    "modelDesc": "/model/HBS_SPS_BanderaDobleB/HBS_SPS_BanderaDobleB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181869",
+    "name": "HBS SPS BanderaDobleC",
+    "modelDesc": "/model/HBS_SPS_BanderaDobleC/HBS_SPS_BanderaDobleC.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181871",
+    "name": "HBS SPS BanderaSingA",
+    "modelDesc": "/model/HBS_SPS_BanderaSingA/HBS_SPS_BanderaSingA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181873",
+    "name": "HBS SPS BanderaSingC",
+    "modelDesc": "/model/HBS_SPS_BanderaSingC/HBS_SPS_BanderaSingC.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181874",
+    "name": "HBS SPS BanderaSingD",
+    "modelDesc": "/model/HBS_SPS_BanderaSingD/HBS_SPS_BanderaSingD.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181878",
+    "name": "HBS SPS SoporteBajoChicoB",
+    "modelDesc": "/model/HBS_SPS_SoporteBajoChicoB/HBS_SPS_SoporteBajoChicoB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181879",
+    "name": "HBS SPS SoporteBajoLargo",
+    "modelDesc": "/model/HBS_SPS_SoporteBajoLargo/HBS_SPS_SoporteBajoLargo.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181880",
+    "name": "HBS SPS SoporteEstChico",
+    "modelDesc": "/model/HBS_SPS_SoporteEstChico/HBS_SPS_SoporteEstChico.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181881",
+    "name": "HBS SPS SoporteEstLargo",
+    "modelDesc": "/model/HBS_SPS_SoporteEstLargo/HBS_SPS_SoporteEstLargo.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181883",
+    "name": "HBS MSD 140x61",
+    "modelDesc": "/model/HBS_MSD_140x61/HBS_MSD_140x61.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181886",
+    "name": "HBS MSD 140x600B",
+    "modelDesc": "/model/HBS_MSD_140x600B/HBS_MSD_140x600B.pmd",
+    "category": "editable area",
+    "editable": true
+  },
+  {
+    "token": "181888",
+    "name": "HBS MSP EscolaresA",
+    "modelDesc": "/model/HBS_MSP_EscolaresA/HBS_MSP_EscolaresA.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181889",
+    "name": "HBS MSP EscolaresB",
+    "modelDesc": "/model/HBS_MSP_EscolaresB/HBS_MSP_EscolaresB.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181895",
+    "name": "HBS MSP Topes2B",
+    "modelDesc": "/model/HBS_MSP_Topes2B/HBS_MSP_Topes2B.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181896",
+    "name": "HBS MSP FantasmaB2",
+    "modelDesc": "/model/HBS_MSP_FantasmaB2/HBS_MSP_FantasmaB2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "181897",
+    "name": "HBS MSP FantasmaA2",
+    "modelDesc": "/model/HBS_MSP_FantasmaA2/HBS_MSP_FantasmaA2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "182306",
+    "name": "HBS bld TunelSemaforo",
+    "modelDesc": "/model/HBS_bld_TunelSemaforo/HBS_bld_TunelSemaforo.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus2",
+    "name": "us curve chevron left2",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_left2.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmca_stand_1",
+    "name": "2fwy wide 1 nm",
+    "modelDesc": "/model/sign/navigation/2fwy_wide_1_nm.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmca_stand_3",
+    "name": "4fwy wide 1 nm",
+    "modelDesc": "/model/sign/navigation/4fwy_wide_1_nm.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus31",
+    "name": "us warning diamond 48",
+    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus64",
+    "name": "us warning diamond 48",
+    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus71",
+    "name": "ca stop48",
+    "modelDesc": "/model/sign/traffic/ca_stop48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus150",
+    "name": "exp speed",
+    "modelDesc": "/model/sign/traffic/exp_speed.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus247",
+    "name": "us warning diamond 48",
+    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "rmus459",
+    "name": "sign flashing yellow",
+    "modelDesc": "/model/sign/traffic/sign_flashing_yellow.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "id5",
+    "name": "main road",
+    "modelDesc": "/model/signid/main_road.pmd",
+    "category": "signs/id",
+    "editable": false
+  },
+  {
+    "token": "00017",
+    "name": "toll at",
+    "modelDesc": "/model/sign/traffic/toll_at.pmd",
+    "category": "ICRF Favorite",
+    "editable": false
+  },
+  {
+    "token": "ebr1",
+    "name": "us curve chevron left1",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ebr2",
+    "name": "us curve chevron right1",
+    "modelDesc": "/model/sign/traffic/us_curve_chevron_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ebr3",
+    "name": "us curve right1",
+    "modelDesc": "/model/sign/traffic/us_curve_right1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ebr4",
+    "name": "us curve left1",
+    "modelDesc": "/model/sign/traffic/us_curve_left1.pmd",
+    "category": "",
+    "editable": false
+  },
+  {
+    "token": "ebr9",
+    "name": "us curve s",
+    "modelDesc": "/model/sign/traffic/us_curve_s.pmd",
+    "category": "",
+    "editable": false
+  }
+]

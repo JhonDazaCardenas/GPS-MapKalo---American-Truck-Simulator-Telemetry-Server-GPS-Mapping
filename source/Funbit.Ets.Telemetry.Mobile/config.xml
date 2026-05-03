@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget id="com.mapkalo.gps" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <name>GPS MapKalo</name>
+    <description>Rutas y Logística - JhonDazaCardenas</description>
+    <author email="mapkalo@devzeros.com" href="https://devzeros.com">DevZeros S.A.S - JhonDazaCardenas</author>
+    
+    <content src="index.html" />
+    
+    <!-- Permisos de navegación -->
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation href="http://*/*" />
+    <allow-navigation href="https://*/*" />
+    <access origin="*" />
+    
+    <!-- Preferencias generales -->
+    <preference name="Orientation" value="default" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="AndroidInsecureFileModeEnabled" value="true" />
+    <preference name="loadUrlTimeoutValue" value="700000" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackupWebStorage" value="none" />
+    
+    <!-- Preferencias de Splash Screen (moderno, sin warnings) -->
+    <preference name="AndroidWindowSplashScreenAnimatedIcon" value="icon.png" />
+    <preference name="AndroidWindowSplashScreenAnimationDuration" value="800" />
+    <preference name="AndroidWindowSplashScreenIconBackgroundColor" value="#0a0a0a" />
+    <preference name="AndroidWindowSplashScreenBackgroundColor" value="#0a0a0a" />
+    <preference name="SplashScreenDelay" value="1000" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value="300" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    
+    <!-- Preferencias de Status Bar -->
+    <preference name="StatusBarBackgroundColor" value="#0a0a0a" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+    
+    <!-- Versiones de SDK -->
+    <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-targetSdkVersion" value="35" />
+    <preference name="android-compileSdkVersion" value="35" />
+    
+    <!-- Plataforma Android -->
+    <platform name="android">
+        <!-- Permitir tráfico HTTP -->
+        <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
+            <application android:usesCleartextTraffic="true" />
+        </edit-config>
+        
+        <!-- Íconos para Android -->
+        <icon density="ldpi" src="res/icons/android/icon-36-ldpi.png" />
+        <icon density="mdpi" src="res/icons/android/icon-48-mdpi.png" />
+        <icon density="hdpi" src="res/icons/android/icon-72-hdpi.png" />
+        <icon density="xhdpi" src="res/icons/android/icon-96-xhdpi.png" />
+        <icon density="xxhdpi" src="res/icons/android/icon-144-xxhdpi.png" />
+        <icon density="xxxhdpi" src="res/icons/android/icon-192-xxxhdpi.png" />
+        
+        <!-- Splash screen para Android (alternativo) -->
+        <splash density="land-ldpi" src="res/screens/android/splash-ldpi-land.png" />
+        <splash density="land-mdpi" src="res/screens/android/splash-mdpi-land.png" />
+        <splash density="land-hdpi" src="res/screens/android/splash-hdpi-land.png" />
+        <splash density="land-xhdpi" src="res/screens/android/splash-xhdpi-land.png" />
+        <splash density="land-xxhdpi" src="res/screens/android/splash-xxhdpi-land.png" />
+        <splash density="land-xxxhdpi" src="res/screens/android/splash-xxxhdpi-land.png" />
+        <splash density="port-ldpi" src="res/screens/android/splash-ldpi-port.png" />
+        <splash density="port-mdpi" src="res/screens/android/splash-mdpi-port.png" />
+        <splash density="port-hdpi" src="res/screens/android/splash-hdpi-port.png" />
+        <splash density="port-xhdpi" src="res/screens/android/splash-xhdpi-port.png" />
+        <splash density="port-xxhdpi" src="res/screens/android/splash-xxhdpi-port.png" />
+        <splash density="port-xxxhdpi" src="res/screens/android/splash-xxxhdpi-port.png" />
+        <preference name="AndroidPersistentWebView" value="false" />
+        <preference name="loadUrlTimeoutValue" value="700000" />
+    </platform>
+    
+    <!-- Plataforma iOS (opcional) -->
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+        <preference name="Orientation" value="default" />
+        <preference name="target-device" value="universal" />
+        <preference name="SwiftVersion" value="5.0" />
+        <preference name="deployment-target" value="12.0" />
+        <preference name="EnableViewportScale" value="true" />
+        <preference name="AllowInlineMediaPlayback" value="true" />
+    </platform>
+    
+</widget>

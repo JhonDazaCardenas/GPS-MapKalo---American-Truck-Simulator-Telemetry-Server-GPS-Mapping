@@ -1,0 +1,4382 @@
+[
+  {
+    "uid": "466334e87a410001",
+    "type": 42,
+    "x": -33459.970703125,
+    "y": 12814.853515625,
+    "dlcGuard": 21,
+    "nodeUids": [
+      "466334dca0010000",
+      "466334e470410000",
+      "466334e856010000",
+      "466334ec50810000"
+    ],
+    "color": 0,
+    "sectorX": -9,
+    "sectorY": 3
+  },
+  {
+    "uid": "5b1dd70c0f800260",
+    "type": 42,
+    "x": -33207.3125,
+    "y": 37517.955078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70eaf000623",
+      "5b1dd70f51000624",
+      "5b1dd70c97000625",
+      "5b1dd70f58800626",
+      "5b1dd70d42000627",
+      "5b1dd70ea5800628",
+      "5b1dd70e27000629",
+      "5b1dd70e8b80062a",
+      "5b1dd70e1a80062b"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c11000274",
+    "type": 42,
+    "x": -33173.33203125,
+    "y": 37468.513671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ee2800692",
+      "5b1dd70c24000693",
+      "5b1dd70f36800694",
+      "5b1dd70f5a000695"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c128002e8",
+    "type": 42,
+    "x": -33355.671875,
+    "y": 37319.455078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70eb70008a6",
+      "5b1dd70cf40008a7",
+      "5b1dd70f3f8008a8",
+      "5b1dd70ee00008a9"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c158002b6",
+    "type": 42,
+    "x": -33263.806640625,
+    "y": 37320.052734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f77800800",
+      "5b1dd70c52000801",
+      "5b1dd70f5c800802",
+      "5b1dd70e39000803",
+      "5b1dd70d1f000804",
+      "5b1dd70e62800805",
+      "5b1dd70c24000806",
+      "5b1dd70c22800807",
+      "5b1dd70c75800808",
+      "5b1dd70e8e000809",
+      "5b1dd70df200080a",
+      "5b1dd70c3f80080b"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c208002ae",
+    "type": 42,
+    "x": -33254.814453125,
+    "y": 37312.19921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fb38007cb",
+      "5b1dd70e2b8007cc",
+      "5b1dd70e230007cd",
+      "5b1dd70cd78007ce",
+      "5b1dd70d4d0007cf",
+      "5b1dd70db80007d0",
+      "5b1dd70d778007d1",
+      "5b1dd70f0e8007d2",
+      "5b1dd70c6e0007d3",
+      "5b1dd70df00007d4"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c31800301",
+    "type": 42,
+    "x": -33397.642578125,
+    "y": 37321.072265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f4e800940",
+      "5b1dd70df5000941",
+      "5b1dd70c92800942",
+      "5b1dd70c44800943",
+      "5b1dd70f7a000944",
+      "5b1dd70cf3000945",
+      "5b1dd70eab000946",
+      "5b1dd70db9800947",
+      "5b1dd70c00800948"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c32800276",
+    "type": 42,
+    "x": -33176.607421875,
+    "y": 37452.7734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70cb2000697",
+      "5b1dd70dde800698",
+      "5b1dd70eda000699",
+      "5b1dd70f0d80069a"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c3e00028e",
+    "type": 42,
+    "x": -33244.431640625,
+    "y": 37422.763671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d79800726",
+      "5b1dd70d78000727",
+      "5b1dd70c80800728",
+      "5b1dd70dea800729"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c468002b5",
+    "type": 42,
+    "x": -33287.26171875,
+    "y": 37331.17578125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c1f0007fc",
+      "5b1dd70fac0007fd",
+      "5b1dd70d110007fe",
+      "5b1dd70d508007ff"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c48800262",
+    "type": 42,
+    "x": -33281.20703125,
+    "y": 37529.751953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d2480062d",
+      "5b1dd70f0580062e",
+      "5b1dd70fd000062f",
+      "5b1dd70c4d000630",
+      "5b1dd70c53000631",
+      "5b1dd70f6a000632",
+      "5b1dd70f7d000633",
+      "5b1dd70e1e800634",
+      "5b1dd70fc9800635",
+      "5b1dd70fe9800636"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c520002a4",
+    "type": 42,
+    "x": -33247.986328125,
+    "y": 37346.701171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f4a800798",
+      "5b1dd70d69000799",
+      "5b1dd70f9280079a",
+      "5b1dd70f4180079b",
+      "5b1dd70c8380079c",
+      "5b1dd70cce80079d",
+      "5b1dd70cbd00079e",
+      "5b1dd70e3c80079f",
+      "5b1dd70f720007a0",
+      "5b1dd70f550007a1"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c5900028d",
+    "type": 42,
+    "x": -33237.419921875,
+    "y": 37430.328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e2680071c",
+      "5b1dd70ee280071d",
+      "5b1dd70d8d80071e",
+      "5b1dd70c9300071f",
+      "5b1dd70ec9000720",
+      "5b1dd70c89000721",
+      "5b1dd70d7a800722",
+      "5b1dd70eea000723",
+      "5b1dd70cd9800724",
+      "5b1dd70f63000725"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c70800273",
+    "type": 42,
+    "x": -33180.10546875,
+    "y": 37436.69140625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70cbc00068e",
+      "5b1dd70f9000068f",
+      "5b1dd70d7f000690",
+      "5b1dd70dc8800691"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c7400027f",
+    "type": 42,
+    "x": -33190.3671875,
+    "y": 37413.9609375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f350006d1",
+      "5b1dd70efc0006d2",
+      "5b1dd70fc90006d3",
+      "5b1dd70c610006d4",
+      "5b1dd70d790006d5",
+      "5b1dd70f428006d6",
+      "5b1dd70f198006d7",
+      "5b1dd70d6f8006d8",
+      "5b1dd70f1d0006d9",
+      "5b1dd70e1a0006da",
+      "5b1dd70d980006db"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c928002c7",
+    "type": 42,
+    "x": -33320.17578125,
+    "y": 37464.876953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e3d80083f",
+      "5b1dd70c0c800840",
+      "5b1dd70cea800841",
+      "5b1dd70ff0000842"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c968002e4",
+    "type": 42,
+    "x": -33361.4375,
+    "y": 37360.64453125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70cfb800896",
+      "5b1dd70c88000897",
+      "5b1dd70cf8000898",
+      "5b1dd70d56800899"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70c980002ef",
+    "type": 42,
+    "x": -33384.55859375,
+    "y": 37452.138671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f330008d1",
+      "5b1dd70c7e8008d2",
+      "5b1dd70f3e8008d3",
+      "5b1dd70c478008d4"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cb1800280",
+    "type": 42,
+    "x": -33188.927734375,
+    "y": 37403.76953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d4d0006dc",
+      "5b1dd70f710006dd",
+      "5b1dd70fbd8006de",
+      "5b1dd70c368006df"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cb58002a5",
+    "type": 42,
+    "x": -33250.3203125,
+    "y": 37380.1875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70df48007a2",
+      "5b1dd70eec0007a3",
+      "5b1dd70ebc0007a4",
+      "5b1dd70c070007a5"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cbc8002aa",
+    "type": 42,
+    "x": -33300.01171875,
+    "y": 37352.703125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e3d0007b8",
+      "5b1dd70d698007b9",
+      "5b1dd70d0e8007ba",
+      "5b1dd70c0d0007bb",
+      "5b1dd70e278007bc",
+      "5b1dd70c6e8007bd",
+      "5b1dd70c428007be",
+      "5b1dd70f4d0007bf",
+      "5b1dd70cee0007c0",
+      "5b1dd70c838007c1",
+      "5b1dd70dac0007c2",
+      "5b1dd70d198007c3",
+      "5b1dd70ce08007c4",
+      "5b1dd70d068007c5",
+      "5b1dd70f160007c6",
+      "5b1dd70c178007c7"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ccf8002a9",
+    "type": 42,
+    "x": -33290.630859375,
+    "y": 37389.22265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70db40007b4",
+      "5b1dd70dae0007b5",
+      "5b1dd70d230007b6",
+      "5b1dd70d860007b7"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cd40002ec",
+    "type": 42,
+    "x": -33349.099609375,
+    "y": 37456.939453125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fa80008bc",
+      "5b1dd70eed0008bd",
+      "5b1dd70c328008be",
+      "5b1dd70e950008bf"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ce10002e9",
+    "type": 42,
+    "x": -33358.572265625,
+    "y": 37304.861328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d308008aa",
+      "5b1dd70e870008ab",
+      "5b1dd70df68008ac",
+      "5b1dd70ff48008ad"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ce1800284",
+    "type": 42,
+    "x": -33224.912109375,
+    "y": 37495.240234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70df28006f2",
+      "5b1dd70cb20006f3",
+      "5b1dd70c598006f4",
+      "5b1dd70d098006f5",
+      "5b1dd70fe18006f6",
+      "5b1dd70fe88006f7",
+      "5b1dd70e9c0006f8",
+      "5b1dd70ff60006f9",
+      "5b1dd70f608006fa",
+      "5b1dd70c658006fb",
+      "5b1dd70d878006fc",
+      "5b1dd70c6a8006fd",
+      "5b1dd70cc00006fe",
+      "5b1dd70db38006ff",
+      "5b1dd70d53000700",
+      "5b1dd70d5f000701"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ce88002f7",
+    "type": 42,
+    "x": -33390.94140625,
+    "y": 37421.048828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e84000902",
+      "5b1dd70dca800903",
+      "5b1dd70c8c800904",
+      "5b1dd70fe6800905",
+      "5b1dd70d77000906",
+      "5b1dd70dfe800907",
+      "5b1dd70f41000908",
+      "5b1dd70db3800909",
+      "5b1dd70e2b80090a",
+      "5b1dd70e2c00090b",
+      "5b1dd70d5c00090c",
+      "5b1dd70ea080090d",
+      "5b1dd70da280090e",
+      "5b1dd70c4c00090f",
+      "5b1dd70eeb000910",
+      "5b1dd70d9e800911"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cea8002b0",
+    "type": 42,
+    "x": -33246.365234375,
+    "y": 37281.9921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e710007df",
+      "5b1dd70cfc0007e0",
+      "5b1dd70e4e8007e1",
+      "5b1dd70eea0007e2"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70cf78002a1",
+    "type": 42,
+    "x": -33209.82421875,
+    "y": 37278.091796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c9400077e",
+      "5b1dd70ccc00077f",
+      "5b1dd70e8e000780",
+      "5b1dd70dcf000781"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d06800296",
+    "type": 42,
+    "x": -33167.59765625,
+    "y": 37328.677734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f3600074f",
+      "5b1dd70cd9000750",
+      "5b1dd70fac000751",
+      "5b1dd70e26000752"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d0c0002fe",
+    "type": 42,
+    "x": -33400.07421875,
+    "y": 37346.36328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e32000934",
+      "5b1dd70cbf000935",
+      "5b1dd70c18800936",
+      "5b1dd70d3a800937"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d1600027a",
+    "type": 42,
+    "x": -33165.013671875,
+    "y": 37407.763671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c0a0006a4",
+      "5b1dd70c060006a5",
+      "5b1dd70d218006a6",
+      "5b1dd70cb50006a7",
+      "5b1dd70cfa0006a8",
+      "5b1dd70f398006a9",
+      "5b1dd70c2b8006aa",
+      "5b1dd70da68006ab",
+      "5b1dd70e9f0006ac",
+      "5b1dd70cf30006ad",
+      "5b1dd70fd58006ae"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d3b0002ff",
+    "type": 42,
+    "x": -33410.5,
+    "y": 37342.603515625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f1d000938",
+      "5b1dd70e3e800939",
+      "5b1dd70f0080093a",
+      "5b1dd70db400093b"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d3f000283",
+    "type": 42,
+    "x": -33227.91015625,
+    "y": 37461.30078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e040006e8",
+      "5b1dd70d858006e9",
+      "5b1dd70dcc8006ea",
+      "5b1dd70f880006eb",
+      "5b1dd70c358006ec",
+      "5b1dd70d8f0006ed",
+      "5b1dd70d530006ee",
+      "5b1dd70ec48006ef",
+      "5b1dd70e680006f0",
+      "5b1dd70dd80006f1"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d4880029e",
+    "type": 42,
+    "x": -33180.111328125,
+    "y": 37286.615234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e5900076d",
+      "5b1dd70cfc80076e",
+      "5b1dd70d6f80076f",
+      "5b1dd70f2e800770"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d4a80029b",
+    "type": 42,
+    "x": -33163.427734375,
+    "y": 37358.234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d7380075c",
+      "5b1dd70cc300075d",
+      "5b1dd70ee100075e",
+      "5b1dd70f7a00075f"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d500002cb",
+    "type": 42,
+    "x": -33290.279296875,
+    "y": 37412.705078125,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "5b1dd70cb9800859",
+      "5b1dd70ddc00085a",
+      "5b1dd70e9080085b",
+      "5b1dd70f4200085c"
+    ],
+    "color": 1,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d5e000279",
+    "type": 42,
+    "x": -33177.7890625,
+    "y": 37395.55859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d720006a0",
+      "5b1dd70eb08006a1",
+      "5b1dd70f970006a2",
+      "5b1dd70c570006a3"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d760002fb",
+    "type": 42,
+    "x": -33399.787109375,
+    "y": 37358.958984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fcf80091d",
+      "5b1dd70fa980091e",
+      "5b1dd70d4c80091f",
+      "5b1dd70df1000920",
+      "5b1dd70df2000921",
+      "5b1dd70c20000922",
+      "5b1dd70e41800923",
+      "5b1dd70fc3800924",
+      "5b1dd70ec1800925"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d7c80026d",
+    "type": 42,
+    "x": -33142.74609375,
+    "y": 37463.63671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ed5000676",
+      "5b1dd70cf0800677",
+      "5b1dd70f3b800678",
+      "5b1dd70db2800679"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d86000306",
+    "type": 42,
+    "x": -33430.4375,
+    "y": 37345.322265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c0c000958",
+      "5b1dd70fde800959",
+      "5b1dd70dc780095a",
+      "5b1dd70cb500095b"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70d9300027e",
+    "type": 42,
+    "x": -33186.54296875,
+    "y": 37382.234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dcb0006c6",
+      "5b1dd70dcd0006c7",
+      "5b1dd70ef88006c8",
+      "5b1dd70cd98006c9",
+      "5b1dd70d000006ca",
+      "5b1dd70d630006cb",
+      "5b1dd70dd18006cc",
+      "5b1dd70fc20006cd",
+      "5b1dd70c280006ce",
+      "5b1dd70fd18006cf",
+      "5b1dd70f808006d0"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70daa800287",
+    "type": 42,
+    "x": -33255.955078125,
+    "y": 37455.693359375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f75000704",
+      "5b1dd70c70000705",
+      "5b1dd70ee9000706",
+      "5b1dd70ed1000707",
+      "5b1dd70d00000708",
+      "5b1dd70cf4000709",
+      "5b1dd70d1000070a"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dc50002b4",
+    "type": 42,
+    "x": -33279.66796875,
+    "y": 37294.71875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dd78007ee",
+      "5b1dd70cd58007ef",
+      "5b1dd70c4d0007f0",
+      "5b1dd70eba8007f1",
+      "5b1dd70ded0007f2",
+      "5b1dd70d628007f3",
+      "5b1dd70f400007f4",
+      "5b1dd70f798007f5",
+      "5b1dd70cfd8007f6",
+      "5b1dd70c098007f7",
+      "5b1dd70ccb8007f8",
+      "5b1dd70eec0007f9",
+      "5b1dd70fa88007fa",
+      "5b1dd70d8c0007fb"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dc7000263",
+    "type": 42,
+    "x": -33333.5234375,
+    "y": 37540.474609375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d9c000637",
+      "5b1dd70d76000638",
+      "5b1dd70f2f800639",
+      "5b1dd70c4a00063a",
+      "5b1dd70d6980063b",
+      "5b1dd70dce80063c",
+      "5b1dd70d0580063d",
+      "5b1dd70ecf00063e",
+      "5b1dd70e1280063f",
+      "5b1dd70dca000640",
+      "5b1dd70ca9800641",
+      "5b1dd70ea6000642",
+      "5b1dd70fe4000643",
+      "5b1dd70fc5800644",
+      "5b1dd70fae000645",
+      "5b1dd70c75800646",
+      "5b1dd70e4c800647"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dcc80026a",
+    "type": 42,
+    "x": -33355.34375,
+    "y": 37529.544921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d8580066d",
+      "5b1dd70e7380066e",
+      "5b1dd70ec180066f",
+      "5b1dd70e9a000670"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dd0000269",
+    "type": 42,
+    "x": -33399.958984375,
+    "y": 37542.59375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ffa800669",
+      "5b1dd70d3080066a",
+      "5b1dd70c3500066b",
+      "5b1dd70d0380066c"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dd2000268",
+    "type": 42,
+    "x": -33392.869140625,
+    "y": 37554.708984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fc9800660",
+      "5b1dd70c40800661",
+      "5b1dd70ee3800662",
+      "5b1dd70ec6000663",
+      "5b1dd70d98000664",
+      "5b1dd70d49000665",
+      "5b1dd70fcc000666",
+      "5b1dd70e7b000667",
+      "5b1dd70f2d800668"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ddf8002f3",
+    "type": 42,
+    "x": -33392.681640625,
+    "y": 37454.005859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ea38008f2",
+      "5b1dd70ed48008f3",
+      "5b1dd70eda8008f4",
+      "5b1dd70e148008f5"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70de300026f",
+    "type": 42,
+    "x": -33161.404296875,
+    "y": 37384.951171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e1f800683",
+      "5b1dd70cc0800684",
+      "5b1dd70cc1800685",
+      "5b1dd70c4e800686",
+      "5b1dd70c38800687"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70de98002b1",
+    "type": 42,
+    "x": -33244.599609375,
+    "y": 37289.92578125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dcd8007e3",
+      "5b1dd70e468007e4",
+      "5b1dd70c878007e5",
+      "5b1dd70fab0007e6"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70df28002a0",
+    "type": 42,
+    "x": -33235.8828125,
+    "y": 37285.408203125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70da2000775",
+      "5b1dd70e8c800776",
+      "5b1dd70f08800777",
+      "5b1dd70e04000778",
+      "5b1dd70c01000779",
+      "5b1dd70d7700077a",
+      "5b1dd70ff580077b",
+      "5b1dd70c6280077c",
+      "5b1dd70c4400077d"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70df400029c",
+    "type": 42,
+    "x": -33206.341796875,
+    "y": 37295.6328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dec000760",
+      "5b1dd70dd5000761",
+      "5b1dd70e71000762",
+      "5b1dd70c94000763"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70dff000266",
+    "type": 42,
+    "x": -33231.0859375,
+    "y": 37522.025390625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70da4800656",
+      "5b1dd70ff1000657",
+      "5b1dd70df4000658",
+      "5b1dd70c19000659",
+      "5b1dd70cce00065a",
+      "5b1dd70c7580065b",
+      "5b1dd70ddc80065c",
+      "5b1dd70e3100065d",
+      "5b1dd70ebb00065e"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e0d80027c",
+    "type": 42,
+    "x": -33169.33984375,
+    "y": 37418.4453125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fef0006b7",
+      "5b1dd70e6b8006b8",
+      "5b1dd70d7a0006b9",
+      "5b1dd70f730006ba"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e1400027b",
+    "type": 42,
+    "x": -33199.501953125,
+    "y": 37421.23046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d940006af",
+      "5b1dd70c160006b0",
+      "5b1dd70fdf8006b1",
+      "5b1dd70f218006b2",
+      "5b1dd70e870006b3",
+      "5b1dd70e248006b4",
+      "5b1dd70c240006b5",
+      "5b1dd70c330006b6"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e1e800278",
+    "type": 42,
+    "x": -33170.015625,
+    "y": 37483.787109375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f7200069c",
+      "5b1dd70e8300069d",
+      "5b1dd70dc900069e",
+      "5b1dd70e5a00069f"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e2900028a",
+    "type": 42,
+    "x": -33253.046875,
+    "y": 37398.044921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d82000710",
+      "5b1dd70e26800711",
+      "5b1dd70cdd000712",
+      "5b1dd70d8c800713",
+      "5b1dd70fdf000714",
+      "5b1dd70f3f800715",
+      "5b1dd70c8e000716"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e2d8002b3",
+    "type": 42,
+    "x": -33266.234375,
+    "y": 37326.80078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d328007e8",
+      "5b1dd70c4e8007e9",
+      "5b1dd70f7a0007ea",
+      "5b1dd70d4b8007eb",
+      "5b1dd70ce20007ec",
+      "5b1dd70f268007ed"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e4a000300",
+    "type": 42,
+    "x": -33395.947265625,
+    "y": 37339.220703125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ede80093c",
+      "5b1dd70cfb00093d",
+      "5b1dd70c0000093e",
+      "5b1dd70e0c80093f"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e5000028b",
+    "type": 42,
+    "x": -33250.3828125,
+    "y": 37437.931640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d8c800717",
+      "5b1dd70d87800718",
+      "5b1dd70c3b000719",
+      "5b1dd70c3400071a"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e5e0002f0",
+    "type": 42,
+    "x": -33373.73046875,
+    "y": 37485.927734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70da18008d5",
+      "5b1dd70c9a8008d6",
+      "5b1dd70ecf8008d7",
+      "5b1dd70cd60008d8",
+      "5b1dd70dc60008d9",
+      "5b1dd70c0d8008da",
+      "5b1dd70f5b8008db",
+      "5b1dd70cb40008dc",
+      "5b1dd70ff28008dd",
+      "5b1dd70c748008de"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e5f00025a",
+    "type": 42,
+    "x": -33164.41796875,
+    "y": 37511.169921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d88800617",
+      "5b1dd70feb000618",
+      "5b1dd70f7e800619",
+      "5b1dd70d6680061a"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e6c80029d",
+    "type": 42,
+    "x": -33223.146484375,
+    "y": 37311.7734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ffc800764",
+      "5b1dd70e0b000765",
+      "5b1dd70c84000766",
+      "5b1dd70f70000767",
+      "5b1dd70d43000768",
+      "5b1dd70c45000769",
+      "5b1dd70d6000076a",
+      "5b1dd70c3680076b",
+      "5b1dd70d2500076c"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e7000027d",
+    "type": 42,
+    "x": -33182.248046875,
+    "y": 37412.23046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ecd0006bb",
+      "5b1dd70e5c8006bc",
+      "5b1dd70cf68006bd",
+      "5b1dd70caf8006be",
+      "5b1dd70e880006bf",
+      "5b1dd70d4e0006c0",
+      "5b1dd70d078006c1",
+      "5b1dd70db28006c2",
+      "5b1dd70e5d8006c3",
+      "5b1dd70fca0006c4",
+      "5b1dd70cde0006c5"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e76800281",
+    "type": 42,
+    "x": -33225.5078125,
+    "y": 37443.732421875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f870006e0",
+      "5b1dd70d4b0006e1",
+      "5b1dd70f780006e2",
+      "5b1dd70ff70006e3"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e798002ba",
+    "type": 42,
+    "x": -33278.18359375,
+    "y": 37503.298828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c80000817",
+      "5b1dd70e24800818",
+      "5b1dd70d79000819",
+      "5b1dd70d0480081a"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e7d80025e",
+    "type": 42,
+    "x": -33166.91796875,
+    "y": 37498.72265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f9480061e",
+      "5b1dd70e1180061f",
+      "5b1dd70db9800620",
+      "5b1dd70ce5000621"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e82000282",
+    "type": 42,
+    "x": -33235.84765625,
+    "y": 37446.080078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d080006e4",
+      "5b1dd70eae8006e5",
+      "5b1dd70e688006e6",
+      "5b1dd70db68006e7"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e820002b7",
+    "type": 42,
+    "x": -33289.216796875,
+    "y": 37320.87109375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ea080080c",
+      "5b1dd70ef280080d",
+      "5b1dd70ff480080e",
+      "5b1dd70e6180080f",
+      "5b1dd70caa000810",
+      "5b1dd70e84800811",
+      "5b1dd70d01000812",
+      "5b1dd70ef2800813",
+      "5b1dd70e38000814"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e8780029f",
+    "type": 42,
+    "x": -33203.40234375,
+    "y": 37309.060546875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d72800771",
+      "5b1dd70f41000772",
+      "5b1dd70dea000773",
+      "5b1dd70e5b000774"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e910002e6",
+    "type": 42,
+    "x": -33348.140625,
+    "y": 37357.826171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f0e80089e",
+      "5b1dd70c8080089f",
+      "5b1dd70f4c8008a0",
+      "5b1dd70ecf0008a1"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e97800270",
+    "type": 42,
+    "x": -33154.609375,
+    "y": 37406.29296875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d3d000688",
+      "5b1dd70f50000689",
+      "5b1dd70e2c00068a",
+      "5b1dd70e7780068b"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70e9f800265",
+    "type": 42,
+    "x": -33251.33984375,
+    "y": 37529.46875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f86800652",
+      "5b1dd70c31800653",
+      "5b1dd70cb4000654",
+      "5b1dd70dd8800655"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70eba800290",
+    "type": 42,
+    "x": -33288.22265625,
+    "y": 37403.548828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d91800734",
+      "5b1dd70d20000735",
+      "5b1dd70c84000736",
+      "5b1dd70e90800737",
+      "5b1dd70f5b800738",
+      "5b1dd70c89800739",
+      "5b1dd70c7d80073a",
+      "5b1dd70d5400073b",
+      "5b1dd70e5580073c"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ec10002af",
+    "type": 42,
+    "x": -33252.5,
+    "y": 37324.005859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c008007d5",
+      "5b1dd70ea80007d6",
+      "5b1dd70c580007d7",
+      "5b1dd70e5c0007d8",
+      "5b1dd70e050007d9",
+      "5b1dd70c5c8007da",
+      "5b1dd70dff8007db",
+      "5b1dd70c080007dc",
+      "5b1dd70f820007dd",
+      "5b1dd70c190007de"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ec68002e0",
+    "type": 42,
+    "x": -33356.96875,
+    "y": 37375.505859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f52000881",
+      "5b1dd70db1800882",
+      "5b1dd70ee5000883",
+      "5b1dd70c89800884",
+      "5b1dd70eda000885",
+      "5b1dd70dba000886",
+      "5b1dd70fd7800887",
+      "5b1dd70e24800888",
+      "5b1dd70ec4800889",
+      "5b1dd70eee00088a"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ed30002f1",
+    "type": 42,
+    "x": -33380.001953125,
+    "y": 37476.705078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70fb98008df",
+      "5b1dd70c0e8008e0",
+      "5b1dd70c8d0008e1",
+      "5b1dd70e518008e2",
+      "5b1dd70c708008e3",
+      "5b1dd70caf8008e4",
+      "5b1dd70d008008e5",
+      "5b1dd70c048008e6",
+      "5b1dd70fc30008e7",
+      "5b1dd70ff88008e8",
+      "5b1dd70c310008e9",
+      "5b1dd70fa60008ea",
+      "5b1dd70c990008eb",
+      "5b1dd70f8c0008ec",
+      "5b1dd70e170008ed",
+      "5b1dd70d5b8008ee",
+      "5b1dd70ffe0008ef",
+      "5b1dd70ecc0008f0"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70ee40002dc",
+    "type": 42,
+    "x": -33337.869140625,
+    "y": 37403.9765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70edc000870",
+      "5b1dd70f22800871",
+      "5b1dd70f96800872",
+      "5b1dd70e02800873",
+      "5b1dd70d5a800874",
+      "5b1dd70d1a800875",
+      "5b1dd70d19000876",
+      "5b1dd70e81800877",
+      "5b1dd70eb5800878",
+      "5b1dd70e14000879",
+      "5b1dd70d9680087a",
+      "5b1dd70cc100087b",
+      "5b1dd70c3280087c",
+      "5b1dd70d6680087d"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70efa800264",
+    "type": 42,
+    "x": -33270.27734375,
+    "y": 37527.6953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dcc800648",
+      "5b1dd70d9e800649",
+      "5b1dd70fa600064a",
+      "5b1dd70dfd00064b",
+      "5b1dd70d3f80064c",
+      "5b1dd70fbd80064d",
+      "5b1dd70cba00064e",
+      "5b1dd70ff080064f",
+      "5b1dd70e6f000650",
+      "5b1dd70f5d800651"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f0b0002a2",
+    "type": 42,
+    "x": -33250.34765625,
+    "y": 37335.068359375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d16000782",
+      "5b1dd70ddc000783",
+      "5b1dd70d0a800784",
+      "5b1dd70c55000785",
+      "5b1dd70d98000786",
+      "5b1dd70c60800787",
+      "5b1dd70c6f000788",
+      "5b1dd70e3c000789",
+      "5b1dd70c0380078a",
+      "5b1dd70d4000078b"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f0e8002be",
+    "type": 42,
+    "x": -33277.8671875,
+    "y": 37461.96875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70dd300081e",
+      "5b1dd70de280081f",
+      "5b1dd70e2c000820",
+      "5b1dd70ef6800821",
+      "5b1dd70f80000822",
+      "5b1dd70c31000823",
+      "5b1dd70f40800824",
+      "5b1dd70ff0800825",
+      "5b1dd70da3800826",
+      "5b1dd70de2800827",
+      "5b1dd70f0d000828",
+      "5b1dd70ce1800829"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f120002f4",
+    "type": 42,
+    "x": -33383.6015625,
+    "y": 37475.97265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ec50008f6",
+      "5b1dd70d910008f7",
+      "5b1dd70d840008f8",
+      "5b1dd70d1e8008f9",
+      "5b1dd70de70008fa",
+      "5b1dd70c7e8008fb",
+      "5b1dd70fcd8008fc",
+      "5b1dd70e258008fd",
+      "5b1dd70ecd0008fe",
+      "5b1dd70fc30008ff"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f288002e5",
+    "type": 42,
+    "x": -33335.453125,
+    "y": 37355.669921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70de300089a",
+      "5b1dd70df780089b",
+      "5b1dd70e5800089c",
+      "5b1dd70fe700089d"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f320002e7",
+    "type": 42,
+    "x": -33342.265625,
+    "y": 37316.80859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c930008a2",
+      "5b1dd70ef20008a3",
+      "5b1dd70d2e0008a4",
+      "5b1dd70e308008a5"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f368002fc",
+    "type": 42,
+    "x": -33417.369140625,
+    "y": 37381.359375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f9d800926",
+      "5b1dd70cee800927",
+      "5b1dd70f73800928",
+      "5b1dd70cb2000929",
+      "5b1dd70ce080092a",
+      "5b1dd70eba00092b",
+      "5b1dd70cc900092c",
+      "5b1dd70e7a00092d"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f430002a3",
+    "type": 42,
+    "x": -33272.26953125,
+    "y": 37348.9375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e3d80078c",
+      "5b1dd70ee080078d",
+      "5b1dd70f6080078e",
+      "5b1dd70dd280078f",
+      "5b1dd70d9a800790",
+      "5b1dd70cfd000791",
+      "5b1dd70c8e800792",
+      "5b1dd70d45800793",
+      "5b1dd70eb5000794",
+      "5b1dd70c49800795",
+      "5b1dd70d7d800796",
+      "5b1dd70e2e000797"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f510002ed",
+    "type": 42,
+    "x": -33357.83984375,
+    "y": 37467.06640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c818008c0",
+      "5b1dd70fbd0008c1",
+      "5b1dd70f490008c2",
+      "5b1dd70f988008c3",
+      "5b1dd70eb78008c4",
+      "5b1dd70df50008c5",
+      "5b1dd70dea8008c6",
+      "5b1dd70fc38008c7",
+      "5b1dd70c7d8008c8",
+      "5b1dd70dfe8008c9",
+      "5b1dd70e488008ca",
+      "5b1dd70c118008cb",
+      "5b1dd70c1b0008cc",
+      "5b1dd70f1c0008cd",
+      "5b1dd70c138008ce",
+      "5b1dd70f680008cf"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f5f800295",
+    "type": 42,
+    "x": -33201.76171875,
+    "y": 37383.224609375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d46000741",
+      "5b1dd70faa800742",
+      "5b1dd70dec800743",
+      "5b1dd70ff0000744",
+      "5b1dd70e61800745",
+      "5b1dd70c7b000746",
+      "5b1dd70e83000747",
+      "5b1dd70d2f800748",
+      "5b1dd70f9a000749",
+      "5b1dd70d2280074a",
+      "5b1dd70c3d00074b",
+      "5b1dd70e2f00074c",
+      "5b1dd70ecc00074d",
+      "5b1dd70e3a00074e"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f77800308",
+    "type": 42,
+    "x": -33417.509765625,
+    "y": 37453.98828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70f0d000967",
+      "5b1dd70cf3800968",
+      "5b1dd70d62800969",
+      "5b1dd70c7580096a",
+      "5b1dd70fda80096b",
+      "5b1dd70ef580096c",
+      "5b1dd70d3d80096d",
+      "5b1dd70e1500096e",
+      "5b1dd70c3b80096f",
+      "5b1dd70de6000970",
+      "5b1dd70cad800971",
+      "5b1dd70c8d800972",
+      "5b1dd70daa800973",
+      "5b1dd70d35000974",
+      "5b1dd70cbe800975"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f7f0002f9",
+    "type": 42,
+    "x": -33377.7578125,
+    "y": 37366.51953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70ed3000913",
+      "5b1dd70df9000914",
+      "5b1dd70cbd800915",
+      "5b1dd70ef8800916",
+      "5b1dd70fe9800917",
+      "5b1dd70f3b000918",
+      "5b1dd70cad000919",
+      "5b1dd70c4d00091a",
+      "5b1dd70e4800091b"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f7f8002e2",
+    "type": 42,
+    "x": -33333.326171875,
+    "y": 37367.05859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70da900088c",
+      "5b1dd70fcc00088d",
+      "5b1dd70f1300088e",
+      "5b1dd70d2e80088f"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70f9a8002e3",
+    "type": 42,
+    "x": -33330.984375,
+    "y": 37329.33203125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c3c000890",
+      "5b1dd70e5c800891",
+      "5b1dd70f41000892",
+      "5b1dd70fdf800893",
+      "5b1dd70c37000894",
+      "5b1dd70e26000895"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fa00002ea",
+    "type": 42,
+    "x": -33369.052734375,
+    "y": 37322.298828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c158008ae",
+      "5b1dd70df70008af",
+      "5b1dd70efb8008b0",
+      "5b1dd70fd28008b1"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fb1800303",
+    "type": 42,
+    "x": -33410.98046875,
+    "y": 37338.337890625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c77800952",
+      "5b1dd70d34000953",
+      "5b1dd70e7f800954",
+      "5b1dd70ffb000955"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fbd80028f",
+    "type": 42,
+    "x": -33239.673828125,
+    "y": 37420.521484375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e6e80072a",
+      "5b1dd70d8200072b",
+      "5b1dd70d6f00072c",
+      "5b1dd70ccd80072d",
+      "5b1dd70cca80072e",
+      "5b1dd70d9980072f",
+      "5b1dd70c7d000730",
+      "5b1dd70c02800731",
+      "5b1dd70d93800732",
+      "5b1dd70c01000733"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fc48002c6",
+    "type": 42,
+    "x": -33333.47265625,
+    "y": 37466.41796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d31800831",
+      "5b1dd70d84000832",
+      "5b1dd70fed800833",
+      "5b1dd70e4a800834",
+      "5b1dd70e2f800835",
+      "5b1dd70c0c800836",
+      "5b1dd70fd9000837",
+      "5b1dd70f38000838",
+      "5b1dd70ef7000839",
+      "5b1dd70e3280083a",
+      "5b1dd70d4780083b",
+      "5b1dd70c8300083c",
+      "5b1dd70dca80083d",
+      "5b1dd70ee180083e"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fd28002a8",
+    "type": 42,
+    "x": -33259.201171875,
+    "y": 37343.501953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c868007a8",
+      "5b1dd70ec38007a9",
+      "5b1dd70ca40007aa",
+      "5b1dd70f268007ab",
+      "5b1dd70df38007ac",
+      "5b1dd70d998007ad",
+      "5b1dd70d320007ae",
+      "5b1dd70f298007af",
+      "5b1dd70dcf0007b0",
+      "5b1dd70d058007b1",
+      "5b1dd70f8a0007b2",
+      "5b1dd70fec8007b3"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fda000307",
+    "type": 42,
+    "x": -33405.548828125,
+    "y": 37523.640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e0200095c",
+      "5b1dd70f4b80095d",
+      "5b1dd70fe380095e",
+      "5b1dd70e0200095f",
+      "5b1dd70de9000960",
+      "5b1dd70c1b800961",
+      "5b1dd70e41800962",
+      "5b1dd70f0a800963",
+      "5b1dd70ca0800964",
+      "5b1dd70c61800965",
+      "5b1dd70f35000966"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fe38002eb",
+    "type": 42,
+    "x": -33325.2265625,
+    "y": 37309.990234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70c848008b2",
+      "5b1dd70d3c0008b3",
+      "5b1dd70f550008b4",
+      "5b1dd70e9f0008b5",
+      "5b1dd70c260008b6",
+      "5b1dd70c0b0008b7",
+      "5b1dd70e748008b8",
+      "5b1dd70d368008b9",
+      "5b1dd70f000008ba",
+      "5b1dd70e600008bb"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fe4000289",
+    "type": 42,
+    "x": -33271.869140625,
+    "y": 37470.693359375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70e3980070c",
+      "5b1dd70e5880070d",
+      "5b1dd70c3700070e",
+      "5b1dd70e7d00070f"
+    ],
+    "color": 2,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "5b1dd70fff00029a",
+    "type": 42,
+    "x": -33178.521484375,
+    "y": 37354.615234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "5b1dd70d7f000756",
+      "5b1dd70fb1800757",
+      "5b1dd70e3d000758",
+      "5b1dd70cbb800759",
+      "5b1dd70f7800075a",
+      "5b1dd70eac80075b"
+    ],
+    "color": 3,
+    "sectorX": -9,
+    "sectorY": 9
+  },
+  {
+    "uid": "52a51cec141f00eb",
+    "type": 42,
+    "x": 24425.4296875,
+    "y": 24065.806640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cef7f1f03e6",
+      "52a51cef1a1f03e7",
+      "52a51ceedd1f03e8",
+      "52a51cee249f03e9"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cec2a1f0176",
+    "type": 42,
+    "x": 24468.630859375,
+    "y": 24045.384765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cec0d1f04aa",
+      "52a51cecac9f04ab",
+      "52a51ced1e9f04ac",
+      "52a51ced721f04ad",
+      "52a51cedd21f04ae",
+      "52a51cedbf9f04af"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cec341f0074",
+    "type": 42,
+    "x": 24390.4375,
+    "y": 24041.166015625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cecbd9f02ec",
+      "52a51cec9a9f02ed",
+      "52a51ced721f02ee",
+      "52a51cedea1f02ef",
+      "52a51cef0b1f02f0",
+      "52a51cef241f02f1",
+      "52a51ced8f9f02f2",
+      "52a51ceecc9f02f3",
+      "52a51cef079f02f4",
+      "52a51cee861f02f5",
+      "52a51cef3f9f02f6",
+      "52a51ced679f02f7",
+      "52a51cec729f02f8",
+      "52a51cecdf1f02f9"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cec6a1f01e8",
+    "type": 42,
+    "x": 24518.396484375,
+    "y": 24038.392578125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cedd71f0553",
+      "52a51cedf51f0554",
+      "52a51ced149f0555",
+      "52a51cec7e9f0556"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cec869f0182",
+    "type": 42,
+    "x": 24481.3203125,
+    "y": 24140.45703125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced7a9f04dc",
+      "52a51ceefd9f04dd",
+      "52a51cee5e9f04de",
+      "52a51cee489f04df"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cecb19f0079",
+    "type": 42,
+    "x": 24384.447265625,
+    "y": 24137.240234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ceef19f031e",
+      "52a51cee149f031f",
+      "52a51ced9f9f0320",
+      "52a51cef9f9f0321",
+      "52a51cec8b9f0322",
+      "52a51cefac1f0323",
+      "52a51cee979f0324",
+      "52a51cee1e9f0325",
+      "52a51ceeb09f0326",
+      "52a51cef331f0327",
+      "52a51cecd39f0328",
+      "52a51cee029f0329",
+      "52a51cec919f032a",
+      "52a51cee2b1f032b",
+      "52a51cee819f032c"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cecd79f0073",
+    "type": 42,
+    "x": 24359.759765625,
+    "y": 24054.259765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cef801f02e4",
+      "52a51cee0a9f02e5",
+      "52a51cec131f02e6",
+      "52a51ceca81f02e7",
+      "52a51cee759f02e8",
+      "52a51ced319f02e9",
+      "52a51cec719f02ea",
+      "52a51ced2e1f02eb"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cece79f00ed",
+    "type": 42,
+    "x": 24424.09375,
+    "y": 24140.6875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced1f9f03f4",
+      "52a51ced701f03f5",
+      "52a51cee0d9f03f6",
+      "52a51ceece1f03f7"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ceced1f01ec",
+    "type": 42,
+    "x": 24518.775390625,
+    "y": 24048.638671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cee0e9f0567",
+      "52a51ced2d1f0568",
+      "52a51cee881f0569",
+      "52a51cef4a9f056a"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ced479f00ec",
+    "type": 42,
+    "x": 24408.1796875,
+    "y": 24140.291015625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cecc59f03ea",
+      "52a51ced101f03eb",
+      "52a51ceef61f03ec",
+      "52a51ceed61f03ed",
+      "52a51ced811f03ee",
+      "52a51ced941f03ef",
+      "52a51cef469f03f0",
+      "52a51cefa89f03f1",
+      "52a51ced279f03f2",
+      "52a51ced709f03f3"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ced5f1f0078",
+    "type": 42,
+    "x": 24382.345703125,
+    "y": 24106.53515625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cee659f0315",
+      "52a51cecc61f0316",
+      "52a51cef9f1f0317",
+      "52a51ced429f0318",
+      "52a51cedab9f0319",
+      "52a51cef0c9f031a",
+      "52a51ceda11f031b",
+      "52a51ceff91f031c",
+      "52a51ced829f031d"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ceda71f01ef",
+    "type": 42,
+    "x": 24502.89453125,
+    "y": 24063.6171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cec2f1f0573",
+      "52a51ced4d1f0574",
+      "52a51cee189f0575",
+      "52a51ceef21f0576"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cedae9f01eb",
+    "type": 42,
+    "x": 24507.77734375,
+    "y": 24069.083984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cefc99f0560",
+      "52a51ceec81f0561",
+      "52a51cef4c9f0562",
+      "52a51cef8f1f0563",
+      "52a51cee071f0564",
+      "52a51cee3a1f0565",
+      "52a51ceee59f0566"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cedb79f0179",
+    "type": 42,
+    "x": 24480.177734375,
+    "y": 24045.15625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cef761f04b8",
+      "52a51cee9c9f04b9",
+      "52a51cefc91f04ba",
+      "52a51cecb69f04bb"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cedd51f017d",
+    "type": 42,
+    "x": 24480.865234375,
+    "y": 24060.248046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cef979f04c8",
+      "52a51ced8a1f04c9",
+      "52a51ceffa9f04ca",
+      "52a51ced6a9f04cb",
+      "52a51ceef71f04cc",
+      "52a51ceeb09f04cd",
+      "52a51cef1c9f04ce",
+      "52a51cefe59f04cf",
+      "52a51cee3b1f04d0",
+      "52a51ced221f04d1",
+      "52a51cefca1f04d2",
+      "52a51cefe21f04d3",
+      "52a51cee5e9f04d4"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cedfa1f00e6",
+    "type": 42,
+    "x": 24395.021484375,
+    "y": 24091.24609375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cee839f03b5",
+      "52a51cef5c9f03b6",
+      "52a51cee949f03b7",
+      "52a51ced779f03b8"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cedff1f0077",
+    "type": 42,
+    "x": 24363.201171875,
+    "y": 24125.7734375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cefa41f030c",
+      "52a51ceca49f030d",
+      "52a51ceeb51f030e",
+      "52a51ced101f030f",
+      "52a51cee6f1f0310",
+      "52a51cef171f0311",
+      "52a51ced159f0312",
+      "52a51cec4d9f0313",
+      "52a51cef9f9f0314"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cee249f01e9",
+    "type": 42,
+    "x": 24495.138671875,
+    "y": 24042.744140625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced949f0557",
+      "52a51ceced1f0558",
+      "52a51cef941f0559",
+      "52a51ceee11f055a",
+      "52a51ced011f055b",
+      "52a51cec3d9f055c",
+      "52a51cec8f9f055d",
+      "52a51ced0e9f055e"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cee921f00e9",
+    "type": 42,
+    "x": 24448.45703125,
+    "y": 24019.765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ceea29f03c4",
+      "52a51ced3d9f03c5",
+      "52a51cedff1f03c6",
+      "52a51cee521f03c7",
+      "52a51cec771f03c8",
+      "52a51ced969f03c9",
+      "52a51cefe61f03ca",
+      "52a51cec0a1f03cb",
+      "52a51cec8b9f03cc",
+      "52a51cedd49f03cd",
+      "52a51cecdf1f03ce",
+      "52a51cee1e1f03cf",
+      "52a51cec031f03d0",
+      "52a51cefa41f03d1",
+      "52a51cefca9f03d2",
+      "52a51cee759f03d3",
+      "52a51cec8b1f03d4",
+      "52a51cedfc1f03d5",
+      "52a51cefa31f03d6",
+      "52a51cec689f03d7"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ceea81f00ea",
+    "type": 42,
+    "x": 24433.5625,
+    "y": 24039.740234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cee119f03d8",
+      "52a51cefcf9f03d9",
+      "52a51ceef29f03da",
+      "52a51cef929f03db",
+      "52a51ceea89f03dc",
+      "52a51cee9a1f03dd",
+      "52a51cee519f03de",
+      "52a51cecc99f03df",
+      "52a51cec779f03e0",
+      "52a51cefb21f03e1",
+      "52a51cee909f03e2",
+      "52a51cedf51f03e3",
+      "52a51ceca69f03e4",
+      "52a51ceeb19f03e5"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ceece1f01f0",
+    "type": 42,
+    "x": 24521.98046875,
+    "y": 24077.673828125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cece79f0577",
+      "52a51cec1c9f0578",
+      "52a51ceea41f0579",
+      "52a51cedce1f057a",
+      "52a51ced039f057b",
+      "52a51ceefb1f057c",
+      "52a51cee549f057d",
+      "52a51cef1e1f057e"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51ceef41f00ee",
+    "type": 42,
+    "x": 24396.2578125,
+    "y": 24140.787109375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cee399f03f8",
+      "52a51cefa19f03f9",
+      "52a51ced739f03fa",
+      "52a51cec101f03fb",
+      "52a51ced341f03fc",
+      "52a51cec161f03fd",
+      "52a51cee169f03fe",
+      "52a51cef699f03ff",
+      "52a51cee3f9f0400",
+      "52a51cee671f0401"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef029f01ed",
+    "type": 42,
+    "x": 24519.349609375,
+    "y": 24059.611328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cec1c1f056b",
+      "52a51cec9f9f056c",
+      "52a51cec621f056d",
+      "52a51cec959f056e"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef2c9f0072",
+    "type": 42,
+    "x": 24383.2265625,
+    "y": 24051.248046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cedd41f02da",
+      "52a51ced3d1f02db",
+      "52a51cef8b9f02dc",
+      "52a51cec6e9f02dd",
+      "52a51ceddf1f02de",
+      "52a51cefac9f02df",
+      "52a51cee0d9f02e0",
+      "52a51ceeef9f02e1",
+      "52a51cef899f02e2",
+      "52a51ceea09f02e3"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef409f01f2",
+    "type": 42,
+    "x": 24510.296875,
+    "y": 24121.203125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced4b1f0587",
+      "52a51cec8f9f0588",
+      "52a51cedf29f0589",
+      "52a51ceca39f058a"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef481f01f1",
+    "type": 42,
+    "x": 24521.74609375,
+    "y": 24071.349609375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cedab1f057f",
+      "52a51ced6f1f0580",
+      "52a51cefba9f0581",
+      "52a51ced179f0582",
+      "52a51ceedc9f0583",
+      "52a51cef8f9f0584",
+      "52a51cef981f0585",
+      "52a51cef231f0586"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef601f0075",
+    "type": 42,
+    "x": 24441.626953125,
+    "y": 24079.142578125,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "52a51cee379f02fa",
+      "52a51ced4d9f02fb",
+      "52a51ced5f9f02fc",
+      "52a51ced951f02fd"
+    ],
+    "color": 1,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cef611f00e7",
+    "type": 42,
+    "x": 24395.1484375,
+    "y": 24050.751953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cef3b1f03b9",
+      "52a51cef259f03ba",
+      "52a51cec591f03bb",
+      "52a51cecb09f03bc",
+      "52a51cee6e9f03bd",
+      "52a51cee141f03be",
+      "52a51ceef41f03bf",
+      "52a51cec0c9f03c0",
+      "52a51cee969f03c1",
+      "52a51cee979f03c2"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cefa09f0180",
+    "type": 42,
+    "x": 24466.216796875,
+    "y": 24129.072265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cefca9f04d7",
+      "52a51ced061f04d8",
+      "52a51cec4a9f04d9",
+      "52a51ced841f04da"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cefa69f01f3",
+    "type": 42,
+    "x": 24523.88671875,
+    "y": 24113.322265625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51cec611f058b",
+      "52a51ceef31f058c",
+      "52a51cee581f058d",
+      "52a51cec961f058e",
+      "52a51cee1b9f058f",
+      "52a51ceee01f0590",
+      "52a51cec6b1f0591",
+      "52a51ceef91f0592"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cefcd9f01ee",
+    "type": 42,
+    "x": 24517.7265625,
+    "y": 24066.361328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced891f056f",
+      "52a51cef301f0570",
+      "52a51cef341f0571",
+      "52a51cefdf9f0572"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cefd29f0178",
+    "type": 42,
+    "x": 24475.16015625,
+    "y": 24036.341796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced039f04b1",
+      "52a51cecc71f04b2",
+      "52a51ceef59f04b3",
+      "52a51cecd01f04b4",
+      "52a51ced149f04b5",
+      "52a51cefd31f04b6",
+      "52a51cee679f04b7"
+    ],
+    "color": 3,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "52a51cefe91f0174",
+    "type": 42,
+    "x": 24437.404296875,
+    "y": 24069.408203125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "52a51ced0b1f04a5",
+      "52a51ceda71f04a6",
+      "52a51ced399f04a7",
+      "52a51cef339f04a8"
+    ],
+    "color": 2,
+    "sectorX": 6,
+    "sectorY": 6
+  },
+  {
+    "uid": "488a175806c00188",
+    "type": 42,
+    "x": 29348.318359375,
+    "y": 21900.755859375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "488a1758644003a9",
+      "488a1758e64003aa",
+      "488a1758184003ab",
+      "488a17589e4003ac"
+    ],
+    "color": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17583cc00181",
+    "type": 42,
+    "x": 29293.888671875,
+    "y": 21882.1484375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "488a175853c00393",
+      "488a1758e4400394",
+      "488a17587f400395",
+      "488a17584ec00396"
+    ],
+    "color": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175874400184",
+    "type": 42,
+    "x": 29300.087890625,
+    "y": 21918.31640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "488a17583640039c",
+      "488a1758c540039d",
+      "488a17583940039e",
+      "488a17581d40039f"
+    ],
+    "color": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175878000189",
+    "type": 42,
+    "x": 29323.732421875,
+    "y": 21944.923828125,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "488a17583f0003ad",
+      "488a17581e0003ae",
+      "488a1758430003af",
+      "488a1758648003b0",
+      "488a1758630003b1",
+      "488a1758044003b2",
+      "488a17587bc003b3",
+      "488a1758db0003b4",
+      "488a1758204003b5",
+      "488a1758730003b6"
+    ],
+    "color": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758a040018f",
+    "type": 42,
+    "x": 29251.771484375,
+    "y": 22002.544921875,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "488a175829c003cd",
+      "488a1758d20003ce",
+      "488a1758a54003cf",
+      "488a17588f8003d0"
+    ],
+    "color": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758b9c0018b",
+    "type": 42,
+    "x": 29292.40625,
+    "y": 21988.078125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "488a1758210003ba",
+      "488a1758aac003bb",
+      "488a1758a70003bc",
+      "488a1758974003bd",
+      "488a1758904003be",
+      "488a1758280003bf",
+      "488a1758044003c0",
+      "488a17588b0003c1",
+      "488a1758260003c2",
+      "488a175849c003c3",
+      "488a1758ff8003c4"
+    ],
+    "color": 2,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "55dec1d806000128",
+    "type": 42,
+    "x": -30339.98046875,
+    "y": -44824.576171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d9010003d1",
+      "55dec1d86b0003d2",
+      "55dec1d9f08003d3",
+      "55dec1d9840003d4"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d8318000d4",
+    "type": 42,
+    "x": -30356.65625,
+    "y": -45134.03125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1daf40002d4",
+      "55dec1d9478002d5",
+      "55dec1d9000002d6",
+      "55dec1d8bf8002d7"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d8808000ca",
+    "type": 42,
+    "x": -30398.859375,
+    "y": -44991.716796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1daa68002b7",
+      "55dec1d9650002b8",
+      "55dec1d9028002b9",
+      "55dec1db9e0002ba"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d8b60000c6",
+    "type": 42,
+    "x": -30423.19140625,
+    "y": -45027.345703125,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec1d8510002a9",
+      "55dec1d98a8002aa",
+      "55dec1dbed0002ab",
+      "55dec1db7a0002ac",
+      "55dec1db600002ad",
+      "55dec1db958002ae",
+      "55dec1dad70002af"
+    ],
+    "color": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d9138000e2",
+    "type": 42,
+    "x": -30311.8203125,
+    "y": -45002.361328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d9c5800327",
+      "55dec1db8f000328",
+      "55dec1d999000329",
+      "55dec1dac500032a"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d9230000e9",
+    "type": 42,
+    "x": -30324.3359375,
+    "y": -44923.345703125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1db0b80033f",
+      "55dec1db27800340",
+      "55dec1dbf3000341",
+      "55dec1d95b000342"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d96a80014d",
+    "type": 42,
+    "x": -30346.921875,
+    "y": -44763.41015625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d956800400",
+      "55dec1d8bc000401",
+      "55dec1dbfd000402",
+      "55dec1da0f000403"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d97700013c",
+    "type": 42,
+    "x": -30341.515625,
+    "y": -44797.48046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1daba0003e8",
+      "55dec1db2b8003e9",
+      "55dec1d84f0003ea",
+      "55dec1d8cd0003eb"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1d9a50000dc",
+    "type": 42,
+    "x": -30359.421875,
+    "y": -45047.09375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d8f400030a",
+      "55dec1d9d880030b",
+      "55dec1d8e800030c",
+      "55dec1d86a00030d"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1da108000eb",
+    "type": 42,
+    "x": -30326.515625,
+    "y": -44935.509765625,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec1d94a800344",
+      "55dec1d942800345",
+      "55dec1da4c800346",
+      "55dec1dabd800347"
+    ],
+    "color": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1da288000d5",
+    "type": 42,
+    "x": -30293.05078125,
+    "y": -45120.884765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d9d58002d8",
+      "55dec1d98c0002d9",
+      "55dec1d96e0002da",
+      "55dec1d8ad0002db"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1da410000e1",
+    "type": 42,
+    "x": -30329.921875,
+    "y": -45042.419921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d9ee800323",
+      "55dec1db72000324",
+      "55dec1d9c8000325",
+      "55dec1db16000326"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1da838000e6",
+    "type": 42,
+    "x": -30357.7109375,
+    "y": -44967.99609375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec1daea000332",
+      "55dec1da96800333",
+      "55dec1d8dd000334",
+      "55dec1d91c000335"
+    ],
+    "color": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1da930000d8",
+    "type": 42,
+    "x": -30361.97265625,
+    "y": -45069.02734375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec1db2d0002ed",
+      "55dec1d8c78002ee",
+      "55dec1db238002ef",
+      "55dec1dafb0002f0",
+      "55dec1db430002f1",
+      "55dec1d9b48002f2",
+      "55dec1d8b98002f3",
+      "55dec1d8490002f4",
+      "55dec1da6b0002f5",
+      "55dec1d9b38002f6",
+      "55dec1d8df0002f7",
+      "55dec1d8690002f8"
+    ],
+    "color": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1daa68000df",
+    "type": 42,
+    "x": -30305.56640625,
+    "y": -45041.869140625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d98980031e",
+      "55dec1d94e80031f",
+      "55dec1d9e5800320",
+      "55dec1dbce000321"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1dac80000c4",
+    "type": 42,
+    "x": -30380.47265625,
+    "y": -45065.8984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d98e0002a1",
+      "55dec1db4b8002a2",
+      "55dec1db468002a3",
+      "55dec1db4a8002a4"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1db160000d7",
+    "type": 42,
+    "x": -30336.0859375,
+    "y": -45148.01953125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d88a8002dd",
+      "55dec1dbd40002de",
+      "55dec1d8338002df",
+      "55dec1d8e20002e0",
+      "55dec1da2a0002e1",
+      "55dec1da958002e2",
+      "55dec1d9728002e3",
+      "55dec1d9c30002e4",
+      "55dec1d8c10002e5",
+      "55dec1d8238002e6",
+      "55dec1d94c8002e7",
+      "55dec1d9990002e8",
+      "55dec1da3c8002e9",
+      "55dec1db050002ea",
+      "55dec1d8510002eb",
+      "55dec1daf88002ec"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1db1800013f",
+    "type": 42,
+    "x": -30344.109375,
+    "y": -44781.1875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1db290003ef",
+      "55dec1d8ff8003f0",
+      "55dec1d9628003f1",
+      "55dec1d9fb8003f2"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1db450000d9",
+    "type": 42,
+    "x": -30368.27734375,
+    "y": -45069.123046875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d9eb0002f9",
+      "55dec1dbad8002fa",
+      "55dec1db8e8002fb",
+      "55dec1d9f20002fc"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1db870000c5",
+    "type": 42,
+    "x": -30391.3359375,
+    "y": -45067.6171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1daf18002a5",
+      "55dec1d9f80002a6",
+      "55dec1db208002a7",
+      "55dec1d9030002a8"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "55dec1dbbd8000db",
+    "type": 42,
+    "x": -30344.73046875,
+    "y": -45044.767578125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec1d91c800306",
+      "55dec1d9d8000307",
+      "55dec1d97c800308",
+      "55dec1dbb5800309"
+    ],
+    "color": 2,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "4735967c2a410001",
+    "type": 42,
+    "x": -35459.6328125,
+    "y": 10646.08203125,
+    "dlcGuard": 21,
+    "nodeUids": [
+      "4735967cab810006",
+      "4735967cbd010007",
+      "4735967cda410008",
+      "4735967c87010009"
+    ],
+    "color": 0,
+    "sectorX": -9,
+    "sectorY": 2
+  },
+  {
+    "uid": "56368f4c18000153",
+    "type": 42,
+    "x": 4852.9765625,
+    "y": 38460.1796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4fd5000384",
+      "56368f4c0e000385",
+      "56368f4c5f800386",
+      "56368f4f14000387"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4c4c800185",
+    "type": 42,
+    "x": 4912.41796875,
+    "y": 38604.8984375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "56368f4f99800437",
+      "56368f4f84000438",
+      "56368f4d8c000439",
+      "56368f4fee80043a",
+      "56368f4c1e80043b",
+      "56368f4f5d00043c",
+      "56368f4f1880043d",
+      "56368f4e1400043e",
+      "56368f4f2700043f",
+      "56368f4c94800440",
+      "56368f4cd7000441",
+      "56368f4de2000442"
+    ],
+    "color": 0,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4c72800187",
+    "type": 42,
+    "x": 4915.70703125,
+    "y": 38663.8984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4d8c000446",
+      "56368f4cdb800447",
+      "56368f4ef4800448",
+      "56368f4c87800449"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4c8000014f",
+    "type": 42,
+    "x": 4854.01953125,
+    "y": 38360.1875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4d56000377",
+      "56368f4dda800378",
+      "56368f4c84000379",
+      "56368f4e8300037a"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4ca400014d",
+    "type": 42,
+    "x": 4851.7734375,
+    "y": 38316.671875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4d55000366",
+      "56368f4e99800367",
+      "56368f4d02800368",
+      "56368f4f8b000369"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4cb500015f",
+    "type": 42,
+    "x": 4875.89453125,
+    "y": 38577.171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f460003ba",
+      "56368f4f4e8003bb",
+      "56368f4ceb8003bc",
+      "56368f4c788003bd"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4cf2800161",
+    "type": 42,
+    "x": 4890.890625,
+    "y": 38577.3359375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f408003c7",
+      "56368f4ca40003c8",
+      "56368f4dfc8003c9",
+      "56368f4f0a8003ca"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4d12000150",
+    "type": 42,
+    "x": 4851.5859375,
+    "y": 38333.15625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4e4680037b",
+      "56368f4e6400037c",
+      "56368f4d3380037d",
+      "56368f4f3880037e"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4d61800170",
+    "type": 42,
+    "x": 4940.328125,
+    "y": 38593.1171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f440003fa",
+      "56368f4ed38003fb",
+      "56368f4ec40003fc",
+      "56368f4efc8003fd"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4d95000164",
+    "type": 42,
+    "x": 4851.73046875,
+    "y": 38580.1796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4d2f8003d5",
+      "56368f4f620003d6",
+      "56368f4c770003d7",
+      "56368f4d898003d8"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4dd380015c",
+    "type": 42,
+    "x": 4854.71875,
+    "y": 38472.625,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "56368f4e170003ab",
+      "56368f4e9e0003ac",
+      "56368f4f9d0003ad",
+      "56368f4d870003ae"
+    ],
+    "color": 0,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4e4100015a",
+    "type": 42,
+    "x": 4892.51171875,
+    "y": 38499.484375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "56368f4f760003a4",
+      "56368f4e4a8003a5",
+      "56368f4fe90003a6",
+      "56368f4c990003a7"
+    ],
+    "color": 0,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4e5600016d",
+    "type": 42,
+    "x": 4936.68359375,
+    "y": 38516.9375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4cd10003f2",
+      "56368f4e458003f3",
+      "56368f4c3e8003f4",
+      "56368f4d070003f5"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4e6b00014a",
+    "type": 42,
+    "x": 4851.95703125,
+    "y": 38298.6640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4ef080034b",
+      "56368f4e2280034c",
+      "56368f4ffc00034d",
+      "56368f4e8680034e"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4ebf800167",
+    "type": 42,
+    "x": 4917.734375,
+    "y": 38597.9765625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4cc20003de",
+      "56368f4f518003df",
+      "56368f4fd58003e0",
+      "56368f4ca18003e1"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4f1000016b",
+    "type": 42,
+    "x": 4966.234375,
+    "y": 38550.3671875,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "56368f4fd88003ea",
+      "56368f4d350003eb",
+      "56368f4d7a8003ec",
+      "56368f4d260003ed",
+      "56368f4c5c0003ee",
+      "56368f4f5c0003ef",
+      "56368f4c358003f0"
+    ],
+    "color": 0,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4f3180015d",
+    "type": 42,
+    "x": 4852.13671875,
+    "y": 38540.1796875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f3d0003af",
+      "56368f4f070003b0",
+      "56368f4ff18003b1",
+      "56368f4d200003b2"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4f3c800182",
+    "type": 42,
+    "x": 4850.8828125,
+    "y": 38660.171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f5300041d",
+      "56368f4fcc00041e",
+      "56368f4f1980041f",
+      "56368f4c0b000420"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4f66800184",
+    "type": 42,
+    "x": 4896.8671875,
+    "y": 38679.6171875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4e28800427",
+      "56368f4d99800428",
+      "56368f4f6c800429",
+      "56368f4f9080042a",
+      "56368f4cec00042b",
+      "56368f4e4f00042c",
+      "56368f4f5e80042d",
+      "56368f4c5980042e",
+      "56368f4cfe00042f",
+      "56368f4e58800430",
+      "56368f4ee2000431",
+      "56368f4c5e000432",
+      "56368f4d3b800433",
+      "56368f4e1b000434",
+      "56368f4ed8000435",
+      "56368f4f81000436"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4f73000166",
+    "type": 42,
+    "x": 4905.76171875,
+    "y": 38577.4921875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4c408003da",
+      "56368f4f088003db",
+      "56368f4ec88003dc",
+      "56368f4f430003dd"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "56368f4fc5800168",
+    "type": 42,
+    "x": 4929.33203125,
+    "y": 38593.0234375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "56368f4f6c8003e2",
+      "56368f4dcd8003e3",
+      "56368f4cde0003e4",
+      "56368f4e3d8003e5"
+    ],
+    "color": 2,
+    "sectorX": 1,
+    "sectorY": 9
+  },
+  {
+    "uid": "3b308c300700005e",
+    "type": 42,
+    "x": 5778.552734375,
+    "y": -55737.220703125,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "3b308c30c6c0018b",
+      "3b308c30d7c0018c",
+      "3b308c309440018d",
+      "3b308c30b480018e",
+      "3b308c308500018f",
+      "3b308c3027c00190"
+    ],
+    "color": 0,
+    "sectorX": 1,
+    "sectorY": -14
+  },
+  {
+    "uid": "3b303abc76c0029a",
+    "type": 42,
+    "x": 8638.376953125,
+    "y": -55256.3984375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "3b303abced402fe4",
+      "3b303abcee402fe5",
+      "3b303abc3bc02fe6",
+      "3b303abcf9002fe7",
+      "3b303abc99402fe8",
+      "3b303abc35c02fe9"
+    ],
+    "color": 0,
+    "sectorX": 2,
+    "sectorY": -14
+  },
+  {
+    "uid": "3b303abc61c01006",
+    "type": 42,
+    "x": 13637.17578125,
+    "y": -55511.759765625,
+    "dlcGuard": 4,
+    "nodeUids": [
+      "3b303abc818040a7",
+      "3b303abc090040a8",
+      "3b303abce6c040a9",
+      "3b303abc378040aa",
+      "3b303abc2cc040ab",
+      "3b303abcca0040ac"
+    ],
+    "color": 0,
+    "sectorX": 3,
+    "sectorY": -14
+  },
+  {
+    "uid": "2855c7fc2f8037b5",
+    "type": 42,
+    "x": 22367.515625,
+    "y": 68166.7734375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "2855c7fc2b007fa1",
+      "2855c7fcb5807fa2",
+      "2855c7fc8ac07fa3",
+      "2855c7fc15007fa4"
+    ],
+    "color": 0,
+    "sectorX": 5,
+    "sectorY": 17
+  },
+  {
+    "uid": "2855c7fcbdc037a3",
+    "type": 42,
+    "x": 22282.138671875,
+    "y": 68152.4609375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "2855c7fc76007f62",
+      "2855c7fcd9c07f63",
+      "2855c7fc8b407f64",
+      "2855c7fc5e407f65",
+      "2855c7fc73807f66",
+      "2855c7fcf7407f67",
+      "2855c7fcf9c07f68"
+    ],
+    "color": 0,
+    "sectorX": 5,
+    "sectorY": 17
+  },
+  {
+    "uid": "2855c7fcc84037dd",
+    "type": 42,
+    "x": 21507.470703125,
+    "y": 70858.18359375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "2855c7fcc5007fea",
+      "2855c7fc4d407feb",
+      "2855c7fc51c07fec",
+      "2855c7fcb8407fed",
+      "2855c7fcc1c07fee",
+      "2855c7fcb3c07fef"
+    ],
+    "color": 0,
+    "sectorX": 5,
+    "sectorY": 17
+  },
+  {
+    "uid": "2855c7fcd94037a6",
+    "type": 42,
+    "x": 22315.396484375,
+    "y": 68156.8984375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "2855c7fcba007f6d",
+      "2855c7fcaa407f6e",
+      "2855c7fc77c07f6f",
+      "2855c7fc06c07f70"
+    ],
+    "color": 2,
+    "sectorX": 5,
+    "sectorY": 17
+  },
+  {
+    "uid": "4d1be73828001393",
+    "type": 42,
+    "x": 83785.6484375,
+    "y": 13777.060546875,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "4d1be738df802f99",
+      "4d1be73879402f9a",
+      "4d1be738acc02f9b",
+      "4d1be7386fc02f9c"
+    ],
+    "color": 2,
+    "sectorX": 20,
+    "sectorY": 3
+  },
+  {
+    "uid": "4d1be738d2c01394",
+    "type": 42,
+    "x": 83762.03125,
+    "y": 13851.609375,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "4d1be738a5c02f9d",
+      "4d1be7383cc02f9e",
+      "4d1be73829c02f9f",
+      "4d1be73877002fa0"
+    ],
+    "color": 2,
+    "sectorX": 20,
+    "sectorY": 3
+  },
+  {
+    "uid": "5b517ec197000118",
+    "type": 42,
+    "x": -62037.091796875,
+    "y": 79801.53515625,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517ec3098002a6",
+      "5b517ec0528002a7",
+      "5b517ec0438002a8",
+      "5b517ec2d20002a9"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 19
+  },
+  {
+    "uid": "5b517ec1c1800117",
+    "type": 42,
+    "x": -62112.51953125,
+    "y": 79780.41796875,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517ec2f08002a2",
+      "5b517ec28c0002a3",
+      "5b517ec09b0002a4",
+      "5b517ec3768002a5"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 19
+  },
+  {
+    "uid": "5b517ec2d7000107",
+    "type": 42,
+    "x": -61951.34765625,
+    "y": 79652.44140625,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517ec3a180025b",
+      "5b517ec12300025c",
+      "5b517ec03500025d",
+      "5b517ec09000025e",
+      "5b517ec26a80025f",
+      "5b517ec396800260"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 19
+  },
+  {
+    "uid": "5b517b4094800117",
+    "type": 42,
+    "x": -61729.44140625,
+    "y": 80015.9375,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517b43bf00028e",
+      "5b517b415200028f",
+      "5b517b40e9000290",
+      "5b517b40f7000291"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 20
+  },
+  {
+    "uid": "5b517b4140800113",
+    "type": 42,
+    "x": -61747.404296875,
+    "y": 80092.203125,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517b427400027f",
+      "5b517b43f4800280",
+      "5b517b4359000281",
+      "5b517b4094000282"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 20
+  },
+  {
+    "uid": "5b517b41e4000114",
+    "type": 42,
+    "x": -61836.568359375,
+    "y": 80142.69921875,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517b40f6800283",
+      "5b517b4106800284",
+      "5b517b40d7000285",
+      "5b517b43e4000286"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 20
+  },
+  {
+    "uid": "5b517b4219800135",
+    "type": 42,
+    "x": -61906.15625,
+    "y": 80079.29296875,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517b424b8002ee",
+      "5b517b41938002ef",
+      "5b517b40348002f0",
+      "5b517b42338002f1",
+      "5b517b41c78002f2",
+      "5b517b42e00002f3"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 20
+  },
+  {
+    "uid": "5b517b42d6800136",
+    "type": 42,
+    "x": -61900.5859375,
+    "y": 80132.046875,
+    "dlcGuard": 13,
+    "drawOver": true,
+    "nodeUids": [
+      "5b517b40c08002f4",
+      "5b517b43a60002f5",
+      "5b517b42060002f6",
+      "5b517b40500002f7"
+    ],
+    "color": 2,
+    "sectorX": -16,
+    "sectorY": 20
+  },
+  {
+    "uid": "2856677807000ac7",
+    "type": 42,
+    "x": -99145.3203125,
+    "y": 136810.1328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "285667781b001911",
+      "285667788ac01912",
+      "28566778ef001913",
+      "2856677839001914"
+    ],
+    "color": 2,
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "2856677819800ab2",
+    "type": 42,
+    "x": -99169.9453125,
+    "y": 136803.5625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "285667789c8018cc",
+      "285667785e4018cd",
+      "28566778688018ce",
+      "28566778650018cf"
+    ],
+    "color": 2,
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "285667782b400ac8",
+    "type": 42,
+    "x": -99118.2734375,
+    "y": 136794.015625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "28566778b5c01915",
+      "285667783ec01916",
+      "2856677889801917",
+      "28566778c5c01918"
+    ],
+    "color": 2,
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "2856677865400a8d",
+    "type": 42,
+    "x": -99208.9140625,
+    "y": 136769.40625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "28566778a980185f",
+      "285667781f801860",
+      "2856677872401861",
+      "28566778a5401862"
+    ],
+    "color": 2,
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "28566778c1000a95",
+    "type": 42,
+    "x": -99164.734375,
+    "y": 136771.515625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "285667781b401876",
+      "2856677858001877",
+      "2856677891801878",
+      "28566778c2c01879",
+      "28566778c480187a",
+      "28566778c680187b",
+      "285667786e40187c",
+      "28566778c780187d",
+      "285667784780187e",
+      "28566778a8c0187f"
+    ],
+    "color": 2,
+    "sectorX": -25,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71c020000e2",
+    "type": 42,
+    "x": -126681.67578125,
+    "y": 139932.65625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71d1b000327",
+      "55dec71c3c800328",
+      "55dec71d26800329",
+      "55dec71d8c00032a"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71c120000c6",
+    "type": 42,
+    "x": -126567.578125,
+    "y": 139942.84375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec71dcb0002a9",
+      "55dec71f640002aa",
+      "55dec71e938002ab",
+      "55dec71f150002ac",
+      "55dec71ca58002ad",
+      "55dec71d378002ae",
+      "55dec71d258002af"
+    ],
+    "color": 0,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71c280000e1",
+    "type": 42,
+    "x": -126657.91796875,
+    "y": 139969.6484375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e1f800323",
+      "55dec71c82000324",
+      "55dec71e38800325",
+      "55dec71d4c000326"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71c7b0000eb",
+    "type": 42,
+    "x": -126679.09375,
+    "y": 139865.1015625,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec71e62000344",
+      "55dec71d01800345",
+      "55dec71f5a000346",
+      "55dec71f40000347"
+    ],
+    "color": 0,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71cc70000db",
+    "type": 42,
+    "x": -126642.921875,
+    "y": 139969.8125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71fc3800306",
+      "55dec71d30000307",
+      "55dec71d0e800308",
+      "55dec71f65000309"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71d5980014d",
+    "type": 42,
+    "x": -126681.85546875,
+    "y": 139691.140625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71c7b800400",
+      "55dec71d62000401",
+      "55dec71e06000402",
+      "55dec71ef0800403"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71da6000128",
+    "type": 42,
+    "x": -126679.79296875,
+    "y": 139752.6640625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71d220003d1",
+      "55dec71db10003d2",
+      "55dec71fdb8003d3",
+      "55dec71c260003d4"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71dc88000e6",
+    "type": 42,
+    "x": -126641.30078125,
+    "y": 139891.9609375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec71f12800332",
+      "55dec71cea000333",
+      "55dec71d96800334",
+      "55dec71eb0800335"
+    ],
+    "color": 0,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71e128000e9",
+    "type": 42,
+    "x": -126680.8359375,
+    "y": 139852.65625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e3780033f",
+      "55dec71f78800340",
+      "55dec71e6b800341",
+      "55dec71c4f800342"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71ebe00013f",
+    "type": 42,
+    "x": -126682.0390625,
+    "y": 139709.1484375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e4b8003ef",
+      "55dec71f860003f0",
+      "55dec71fc38003f1",
+      "55dec71d6a8003f2"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71f308000ca",
+    "type": 42,
+    "x": -126597.12890625,
+    "y": 139909.4140625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71f470002b7",
+      "55dec71eaf8002b8",
+      "55dec71e648002b9",
+      "55dec71f2f0002ba"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71f530000dc",
+    "type": 42,
+    "x": -126628.05078125,
+    "y": 139969.96875,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e8b80030a",
+      "55dec71eec00030b",
+      "55dec71f5c80030c",
+      "55dec71d4080030d"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71f7a8000d9",
+    "type": 42,
+    "x": -126616.078125,
+    "y": 139990.453125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e958002f9",
+      "55dec71f010002fa",
+      "55dec71f388002fb",
+      "55dec71f388002fc"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71fc400013c",
+    "type": 42,
+    "x": -126682.2265625,
+    "y": 139725.6328125,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71fa10003e8",
+      "55dec71e828003e9",
+      "55dec71deb8003ea",
+      "55dec71c290003eb"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71fc48000c5",
+    "type": 42,
+    "x": -126593.484375,
+    "y": 139985.59375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71fde0002a5",
+      "55dec71c320002a6",
+      "55dec71d208002a7",
+      "55dec71c6d0002a8"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71ff00000c4",
+    "type": 42,
+    "x": -126604.48046875,
+    "y": 139985.5,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71f710002a1",
+      "55dec71d6b0002a2",
+      "55dec71ea50002a3",
+      "55dec71ca68002a4"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71ff30000df",
+    "type": 42,
+    "x": -126682.08203125,
+    "y": 139972.65625,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71c9c00031e",
+      "55dec71fae00031f",
+      "55dec71f44000320",
+      "55dec71df5000321"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 34
+  },
+  {
+    "uid": "55dec71c890000d5",
+    "type": 42,
+    "x": -126682.9296875,
+    "y": 140052.6484375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71e238002d8",
+      "55dec71d310002d9",
+      "55dec71f620002da",
+      "55dec71dc28002db"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 35
+  },
+  {
+    "uid": "55dec71cfb0000d7",
+    "type": 42,
+    "x": -126636.9453125,
+    "y": 140072.09375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71f2c8002dd",
+      "55dec71c0a8002de",
+      "55dec71c5e8002df",
+      "55dec71d9e0002e0",
+      "55dec71cbd8002e1",
+      "55dec71e550002e2",
+      "55dec71ff00002e3",
+      "55dec71d2b0002e4",
+      "55dec71c9e0002e5",
+      "55dec71f2f8002e6",
+      "55dec71fc10002e7",
+      "55dec71caa8002e8",
+      "55dec71d340002e9",
+      "55dec71f500002ea",
+      "55dec71f148002eb",
+      "55dec71e348002ec"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 35
+  },
+  {
+    "uid": "55dec71cfb0000d8",
+    "type": 42,
+    "x": -126621.39453125,
+    "y": 139997.375,
+    "dlcGuard": 0,
+    "nodeUids": [
+      "55dec71f490002ed",
+      "55dec71eec0002ee",
+      "55dec71f9b8002ef",
+      "55dec71de20002f0",
+      "55dec71db38002f1",
+      "55dec71c860002f2",
+      "55dec71ca48002f3",
+      "55dec71f8c0002f4",
+      "55dec71fed0002f5",
+      "55dec71f950002f6",
+      "55dec71c720002f7",
+      "55dec71fbd0002f8"
+    ],
+    "color": 0,
+    "sectorX": -32,
+    "sectorY": 35
+  },
+  {
+    "uid": "55dec71f700000d4",
+    "type": 42,
+    "x": -126618.10546875,
+    "y": 140056.375,
+    "dlcGuard": 0,
+    "drawOver": true,
+    "nodeUids": [
+      "55dec71eeb8002d4",
+      "55dec71ebe8002d5",
+      "55dec71fc40002d6",
+      "55dec71fab0002d7"
+    ],
+    "color": 2,
+    "sectorX": -32,
+    "sectorY": 35
+  }
+]

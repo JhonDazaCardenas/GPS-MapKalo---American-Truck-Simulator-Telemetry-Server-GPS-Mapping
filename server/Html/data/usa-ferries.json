@@ -1,0 +1,210 @@
+[
+  {
+    "token": "losmochis",
+    "name": "BajaFerries Topolobampo",
+    "connections": [
+      {
+        "token": "cartagena",
+        "price": 4100,
+        "time": 420,
+        "distance": 220,
+        "intermediatePoints": [],
+        "name": "Cartagena",
+        "nodeUid": "4109180046400249",
+        "x": -30144.3125,
+        "y": -44367.90625
+      }
+    ],
+    "train": false,
+    "nodeUid": "2862958021c000b6",
+    "x": -47536.87890625,
+    "y": -68620.46875
+  },
+  {
+    "token": "buenaventura",
+    "name": "Buenaventura",
+    "connections": [
+      {
+        "token": "tumaco",
+        "price": 4100,
+        "time": 100,
+        "distance": 220,
+        "intermediatePoints": [],
+        "name": "tumaco",
+        "nodeUid": "410953c452c00156",
+        "x": -127298.4375,
+        "y": 135966.0859375
+      }
+    ],
+    "train": false,
+    "nodeUid": "41095aec9bc0015b",
+    "x": -92573.74609375,
+    "y": 84460.41015625
+  },
+  {
+    "token": "cartagena",
+    "name": "Cartagena",
+    "connections": [
+      {
+        "token": "losmochis",
+        "price": 4100,
+        "time": 100,
+        "distance": 220,
+        "intermediatePoints": [],
+        "name": "BajaFerries Topolobampo",
+        "nodeUid": "2862958021c000b6",
+        "x": -47536.87890625,
+        "y": -68620.46875
+      },
+      {
+        "token": "sandresislas",
+        "price": 1000,
+        "time": 120,
+        "distance": 750,
+        "intermediatePoints": [],
+        "name": "sandresislas",
+        "nodeUid": "4109204016000249",
+        "x": -49714.2421875,
+        "y": -59586.42578125
+      }
+    ],
+    "train": false,
+    "nodeUid": "4109180046400249",
+    "x": -30144.3125,
+    "y": -44367.90625
+  },
+  {
+    "token": "islaborgia",
+    "name": "isla borgiasango",
+    "connections": [
+      {
+        "token": "rioacha",
+        "price": 1000,
+        "time": 60,
+        "distance": 100,
+        "intermediatePoints": [],
+        "name": "rioacha",
+        "nodeUid": "50f6ae60e8c00001",
+        "x": 22103.5859375,
+        "y": -62839.87109375
+      }
+    ],
+    "train": false,
+    "nodeUid": "50f6aed09c000004",
+    "x": 19379.3046875,
+    "y": -67910.00390625
+  },
+  {
+    "token": "osfer",
+    "name": "Hacienda Osfersango",
+    "connections": [],
+    "train": true,
+    "nodeUid": "51b566681cc00001",
+    "x": -2731.98046875,
+    "y": 46513.578125
+  },
+  {
+    "token": "pto_carreno",
+    "name": "Puerto carreno",
+    "connections": [
+      {
+        "token": "osfer",
+        "price": 8000,
+        "time": 24,
+        "distance": 650,
+        "intermediatePoints": [],
+        "name": "Hacienda Osfersango",
+        "nodeUid": "51b566681cc00001",
+        "x": -2731.98046875,
+        "y": 46513.578125
+      },
+      {
+        "token": "shamu_santm",
+        "price": 10000,
+        "time": 50,
+        "distance": 950,
+        "intermediatePoints": [],
+        "name": "shamu SA Santa Marta",
+        "nodeUid": "51b5a970e1c00002",
+        "x": 13611.7421875,
+        "y": -53272.2890625
+      }
+    ],
+    "train": false,
+    "nodeUid": "51b565bc79000001",
+    "x": 141804.89453125,
+    "y": 38915.42578125
+  },
+  {
+    "token": "rioacha",
+    "name": "rioacha",
+    "connections": [
+      {
+        "token": "islaborgia",
+        "price": 2000,
+        "time": 60,
+        "distance": 100,
+        "intermediatePoints": [],
+        "name": "isla borgiasango",
+        "nodeUid": "50f6aed09c000004",
+        "x": 19379.3046875,
+        "y": -67910.00390625
+      }
+    ],
+    "train": false,
+    "nodeUid": "50f6ae60e8c00001",
+    "x": 22103.5859375,
+    "y": -62839.87109375
+  },
+  {
+    "token": "sandresislas",
+    "name": "sandresislas",
+    "connections": [
+      {
+        "token": "cartagena",
+        "price": 1000,
+        "time": 700,
+        "distance": 750,
+        "intermediatePoints": [],
+        "name": "Cartagena",
+        "nodeUid": "4109180046400249",
+        "x": -30144.3125,
+        "y": -44367.90625
+      }
+    ],
+    "train": false,
+    "nodeUid": "4109204016000249",
+    "x": -49714.2421875,
+    "y": -59586.42578125
+  },
+  {
+    "token": "shamu_santm",
+    "name": "shamu SA Santa Marta",
+    "connections": [],
+    "train": true,
+    "nodeUid": "51b5a970e1c00002",
+    "x": 13611.7421875,
+    "y": -53272.2890625
+  },
+  {
+    "token": "tumaco",
+    "name": "tumaco",
+    "connections": [
+      {
+        "token": "buenaventura",
+        "price": 4100,
+        "time": 100,
+        "distance": 220,
+        "intermediatePoints": [],
+        "name": "Buenaventura",
+        "nodeUid": "41095aec9bc0015b",
+        "x": -92573.74609375,
+        "y": 84460.41015625
+      }
+    ],
+    "train": false,
+    "nodeUid": "410953c452c00156",
+    "x": -127298.4375,
+    "y": 135966.0859375
+  }
+]

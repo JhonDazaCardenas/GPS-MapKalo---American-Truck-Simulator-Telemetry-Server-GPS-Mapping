@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPS MapKalo</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #0a0a0a;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+        .container { max-width: 500px; }
+
+        .truck-icon {
+            margin-bottom: 10px;
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .title {
+            font-size: 28px;
+            font-weight: 900;
+            background: linear-gradient(135deg, #38B6FF, #00E5FF);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .subtitle { color: #5A7A8A; font-size: 12px; letter-spacing: 2px; margin-bottom: 30px; }
+        .message-box {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(56,182,255,0.2);
+            border-radius: 16px;
+            padding: 25px;
+            margin-bottom: 25px;
+        }
+        .message-box h3 { color: #38B6FF; margin-bottom: 10px; }
+        .message-box p { color: #8899AA; font-size: 13px; line-height: 1.6; }
+        .payment-selector { display: flex; gap: 12px; margin-bottom: 20px; }
+        .payment-option {
+            flex: 1;
+            padding: 20px;
+            border-radius: 16px;
+            border: 2px solid rgba(56,182,255,0.15);
+            background: rgba(0,0,0,0.5);
+            cursor: pointer;
+        }
+        .payment-option.selected { border-color: #38B6FF; background: rgba(56,182,255,0.15); }
+        .payment-option .logo {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            margin: 0 auto 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+        }
+        .logo-bre-b { background: #1a3a5c; }
+        .logo-paypal { background: #003087; }
+        .payment-option .name { font-weight: 700; font-size: 14px; }
+        .payment-option .desc { font-size: 10px; color: #5A7A8A; margin-top: 4px; }
+        #qr-container {
+            display: none;
+            background: white;
+            border-radius: 20px;
+            padding: 25px;
+            margin: 20px auto;
+            max-width: 350px;
+        }
+        #qr-container.show { display: block; }
+        #qr-container .qr-label { color: #555; font-size: 13px; font-weight: 600; margin-top: 15px; }
+        #qr-container .qr-amount { color: #38B6FF; font-size: 20px; font-weight: 900; margin-top: 5px; }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            border-radius: 50px;
+            font-size: 15px;
+            font-weight: 700;
+            cursor: pointer;
+            border: none;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+        }
+        .btn-primary {
+            background: #38B6FF;
+            color: #fff;
+            opacity: 0;
+            transform: translateY(10px);
+            pointer-events: none;
+        }
+        .btn-primary.visible {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+        .btn-ghost { background: transparent; color: #5A7A8A; border: 1px solid rgba(90,122,138,0.3); }
+        .footer-text { margin-top: 20px; font-size: 11px; color: #3A5A6A; }
+
+        .thanks-badge {
+            display: none;
+            background: rgba(0,200,81,0.15);
+            border: 1px solid rgba(0,200,81,0.3);
+            border-radius: 12px;
+            padding: 12px 20px;
+            margin-bottom: 20px;
+            color: #00C851;
+            font-size: 14px;
+            font-weight: 600;
+        }
+        .thanks-badge.show { display: block; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Camión SVG animado -->
+        <div class="truck-icon">
+            <svg width="80" height="60" viewBox="0 0 80 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect x="2" y="8" width="42" height="32" rx="4" fill="#1a3a5c" stroke="#38B6FF" stroke-width="2"/>
+                <rect x="46" y="14" width="22" height="26" rx="4" fill="#0d2137" stroke="#38B6FF" stroke-width="2"/>
+                <rect x="50" y="18" width="12" height="10" rx="3" fill="#38B6FF" opacity="0.6"/>
+                <line x1="10" y1="16" x2="34" y2="16" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                <line x1="10" y1="22" x2="34" y2="22" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                <line x1="10" y1="28" x2="34" y2="28" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                <circle cx="14" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                <circle cx="14" cy="44" r="3" fill="#38B6FF"/>
+                <circle cx="32" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                <circle cx="32" cy="44" r="3" fill="#38B6FF"/>
+                <circle cx="56" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                <circle cx="56" cy="44" r="3" fill="#38B6FF"/>
+                <rect x="66" y="10" width="4" height="6" rx="2" fill="#38B6FF" opacity="0.5"/>
+                <circle cx="70" cy="30" r="3" fill="#FFD700" opacity="0.9"/>
+                <circle cx="4" cy="28" r="3" fill="#FF4444" opacity="0.7"/>
+            </svg>
+        </div>
+
+        <h1 class="title">GPS MAPKALO</h1>
+        <p class="subtitle">Navegación Inteligente para AT</p>
+
+        <div class="message-box">
+            <h3>¿Te gusta este proyecto?</h3>
+            <p>GPS MapKalo es <strong>gratuito</strong>. Si te ayuda, considera apoyar su desarrollo. <strong>¡Cada aporte cuenta!</strong> 🚛</p>
+        </div>
+
+        <!-- Mensaje de agradecimiento (aparece al seleccionar) -->
+        <div class="thanks-badge" id="thanks-badge">
+            ¡Gracias por apoyar! ❤️ Selecciona tu método de pago
+        </div>
+
+        <p style="color:#5A7A8A;font-size:11px;letter-spacing:2px;margin-bottom:15px;">SELECCIONA TU MÉTODO DE PAGO</p>
+        
+        <div class="payment-selector">
+            <div class="payment-option" data-method="bre-b" onclick="selectPayment('bre-b')">
+                <div class="logo logo-bre-b">🏦</div>
+                <div class="name">Bancos de Colombia</div>
+                <div class="desc">Transferencia bancaria</div>
+            </div>
+            <div class="payment-option" data-method="paypal" onclick="selectPayment('paypal')">
+                <div class="logo logo-paypal">💳</div>
+                <div class="name">PayPal</div>
+                <div class="desc">Pago internacional</div>
+            </div>
+        </div>
+
+        <div id="qr-container">
+            <canvas id="qr-canvas" width="250" height="250"></canvas>
+            <div class="qr-label" id="qr-label"></div>
+            <div class="qr-amount" id="qr-amount"></div>
+        </div>
+
+        <!-- Botón visible SOLO después de seleccionar método de pago -->
+        <button class="btn btn-primary" id="btn-enter" onclick="openMap()">🚛 Entrar al GPS MapKalo</button>
+        <button class="btn btn-ghost" onclick="openMap()">No quiero donar ahora ▶</button>
+
+        <p class="footer-text">Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S • v1.0</p>
+        
+        <!-- Redes Sociales -->
+        <div style="display:flex;justify-content:center;gap:16px;margin-top:16px;flex-wrap:wrap;align-items:center;">
+            <a href="https://github.com/JhonDazaCardenas" target="_blank" title="GitHub"><img src="github.png" alt="GitHub" style="height:28px;"></a>
+            <a href="https://discord.gg/wgt2RjfzH8" target="_blank" title="Discord"><img src="discord.png" alt="Discord" style="height:28px;"></a>
+            <a href="https://www.tiktok.com/@jhon.dazacardenas" target="_blank" title="TikTok"><img src="tiktok.png" alt="TikTok" style="height:28px;"></a>
+            <a href="https://www.twitch.tv/jhondazac" target="_blank" title="Twitch"><img src="twitch.png" alt="Twitch" style="height:28px;"></a>
+            <a href="https://www.youtube.com/@JhonDazaAmbienteGIS" target="_blank" title="YouTube"><img src="youtube.png" alt="YouTube" style="height:28px;"></a>
+        </div>
+        
+        <!-- Logo DevZeros -->
+        <div style="margin-top:12px;">
+            <a href="https://devzeros.com/" target="_blank"><img src="logo-devzeros.webp" alt="DevZeros" style="height:40px;opacity:0.7;"></a>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/qrious@4.0.2/dist/qrious.min.js"></script>
+    <script>
+        let selectedMethod = null;
+
+        function selectPayment(method) {
+            selectedMethod = method;
+
+            // Actualizar selector visual
+            document.querySelectorAll('.payment-option').forEach(el => {
+                el.classList.remove('selected');
+                if (el.dataset.method === method) {
+                    el.classList.add('selected');
+                }
+            });
+
+            // Mostrar badge de agradecimiento
+            const badge = document.getElementById('thanks-badge');
+            badge.classList.add('show');
+            badge.innerHTML = method === 'bre-b' 
+                ? '🏦 ¡Gracias! Escanea con tu app Bancaria de Colombia para donar'  
+                : '💳 ¡Gracias! Escanea con PayPal para donar';
+
+            // URLs de pago (cambiar por las reales)
+            const urls = { 
+                'bre-b': '00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON FREDY DAZA CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27', 
+                'paypal': 'https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC' 
+            };
+            const labels = { 
+                'bre-b': 'Escanea con tu app Bancaria de Colombia',  
+                'paypal': 'Escanea con la app de PayPal'  
+            };
+            const amounts = { 
+                'bre-b': '$10.000 COP', 
+                'paypal': '$3 USD' 
+            };
+
+            // Mostrar QR
+            const qrContainer = document.getElementById('qr-container');
+            qrContainer.classList.add('show');
+            document.getElementById('qr-label').textContent = labels[method];
+            document.getElementById('qr-amount').textContent = amounts[method];
+
+            new QRious({ 
+                element: document.getElementById('qr-canvas'), 
+                value: urls[method], 
+                size: 250, 
+                background: '#ffffff', 
+                foreground: '#1a1a1a', 
+                level: 'H' 
+            });
+
+            // MOSTRAR BOTÓN DE ENTRADA
+            const btnEnter = document.getElementById('btn-enter');
+            btnEnter.classList.add('visible');
+            btnEnter.textContent = '🚛 Entrar al GPS MapKalo';
+
+            // Scroll suave al QR
+            setTimeout(() => {
+                qrContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }, 150);
+        }
+
+        function openMap() { 
+            window.location.href = '/mapa.html'; 
+        }
+    </script>
+</body>
+</html>

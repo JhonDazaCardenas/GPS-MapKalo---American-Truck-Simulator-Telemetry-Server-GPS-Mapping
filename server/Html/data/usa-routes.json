@@ -1,0 +1,478 @@
+[
+  {
+    "token": "cru_mar1",
+    "fromCity": "santa_cruz",
+    "toCity": "santa_maria"
+  },
+  {
+    "token": "kin_fla1",
+    "fromCity": "kingman",
+    "toCity": "flagstaff"
+  },
+  {
+    "token": "oak_hur1",
+    "fromCity": "oakland",
+    "toCity": "huron"
+  },
+  {
+    "token": "clo_hob1",
+    "fromCity": "clovis",
+    "toCity": "hobbs"
+  },
+  {
+    "token": "yum_tuc1",
+    "fromCity": "yuma",
+    "toCity": "tucson"
+  },
+  {
+    "token": "gal_rat1",
+    "fromCity": "gallup",
+    "toCity": "raton"
+  },
+  {
+    "token": "pho_sie1",
+    "fromCity": "phoenix",
+    "toCity": "sierra_vista"
+  },
+  {
+    "token": "eur_red1",
+    "fromCity": "eureka",
+    "toCity": "redding"
+  },
+  {
+    "token": "fre_bak1",
+    "fromCity": "fresno",
+    "toCity": "bakersfield"
+  },
+  {
+    "token": "tru_car1",
+    "fromCity": "truckee",
+    "toCity": "carson_city"
+  },
+  {
+    "token": "oxn_bar1",
+    "fromCity": "oxnard",
+    "toCity": "barstow"
+  },
+  {
+    "token": "art_las1",
+    "fromCity": "artesia",
+    "toCity": "las_cruces"
+  },
+  {
+    "token": "soc_tuc1",
+    "fromCity": "socorro",
+    "toCity": "tucson"
+  },
+  {
+    "token": "far_rat1",
+    "fromCity": "farmington",
+    "toCity": "raton"
+  },
+  {
+    "token": "pri_ely1",
+    "fromCity": "primm",
+    "toCity": "ely"
+  },
+  {
+    "token": "san_fre1",
+    "fromCity": "oakland",
+    "toCity": "fresno"
+  },
+  {
+    "token": "sac_mod1",
+    "fromCity": "sacramento",
+    "toCity": "modesto"
+  },
+  {
+    "token": "las_sdg1",
+    "fromCity": "los_angeles",
+    "toCity": "san_diego"
+  },
+  {
+    "token": "pen_bur1",
+    "fromCity": "pendleton",
+    "toCity": "burns"
+  },
+  {
+    "token": "por_new1",
+    "fromCity": "portland",
+    "toCity": "newport"
+  },
+  {
+    "token": "spo_coul1",
+    "fromCity": "spokane",
+    "toCity": "grand_coulee"
+  },
+  {
+    "token": "por_abe1",
+    "fromCity": "port_angeles",
+    "toCity": "aberdeen_wa"
+  },
+  {
+    "token": "sea_eve1",
+    "fromCity": "seattle",
+    "toCity": "everett"
+  },
+  {
+    "token": "pro_pri1",
+    "fromCity": "provo",
+    "toCity": "price"
+  },
+  {
+    "token": "ver_ken1",
+    "fromCity": "vernal",
+    "toCity": "salt_lake"
+  },
+  {
+    "token": "ida_cha1",
+    "fromCity": "idaho_falls",
+    "toCity": "salmon"
+  },
+  {
+    "token": "boi_gra1",
+    "fromCity": "boise",
+    "toCity": "grangeville"
+  },
+  {
+    "token": "twi_nam1",
+    "fromCity": "twin_falls",
+    "toCity": "nampa"
+  },
+  {
+    "token": "den_col1",
+    "fromCity": "denver",
+    "toCity": "colorado_spr"
+  },
+  {
+    "token": "ste_col1",
+    "fromCity": "sterling",
+    "toCity": "colorado_spr"
+  },
+  {
+    "token": "den_gra1",
+    "fromCity": "denver",
+    "toCity": "grand_juncti"
+  },
+  {
+    "token": "cas_gil1",
+    "fromCity": "casper",
+    "toCity": "gillette"
+  },
+  {
+    "token": "lar_raw1",
+    "fromCity": "laramie",
+    "toCity": "rawlins"
+  },
+  {
+    "token": "riv_jac1",
+    "fromCity": "riverton",
+    "toCity": "jackson"
+  },
+  {
+    "token": "bur_lam1",
+    "fromCity": "burlington",
+    "toCity": "lamar"
+  },
+  {
+    "token": "lew_san1",
+    "fromCity": "lewiston",
+    "toCity": "sandpoint"
+  },
+  {
+    "token": "sal_ced1",
+    "fromCity": "salina",
+    "toCity": "cedar_city"
+  },
+  {
+    "token": "oma_yak1",
+    "fromCity": "omak",
+    "toCity": "yakima"
+  },
+  {
+    "token": "dal_sal1",
+    "fromCity": "the_dalles",
+    "toCity": "salem"
+  },
+  {
+    "token": "san_soc1",
+    "fromCity": "santa_fe",
+    "toCity": "socorro"
+  },
+  {
+    "token": "che_roc1",
+    "fromCity": "cheyenne",
+    "toCity": "rock_springs"
+  },
+  {
+    "token": "win_car1",
+    "fromCity": "winnemucca",
+    "toCity": "carson_city"
+  },
+  {
+    "token": "hav_lew1",
+    "fromCity": "havre",
+    "toCity": "lewistown"
+  },
+  {
+    "token": "tho_kal1",
+    "fromCity": "thompson_f",
+    "toCity": "kalispell"
+  },
+  {
+    "token": "lau_gle1",
+    "fromCity": "laurel",
+    "toCity": "glendive"
+  },
+  {
+    "token": "but_boz1",
+    "fromCity": "butte",
+    "toCity": "bozeman"
+  },
+  {
+    "token": "cor_bro1",
+    "fromCity": "corpus_chris",
+    "toCity": "brownsville"
+  },
+  {
+    "token": "san_dal1",
+    "fromCity": "san_angelo",
+    "toCity": "dallas"
+  },
+  {
+    "token": "for_abi1",
+    "fromCity": "fort_stockto",
+    "toCity": "abilene"
+  },
+  {
+    "token": "lon_gal1",
+    "fromCity": "longview_tx",
+    "toCity": "galveston"
+  },
+  {
+    "token": "del_van1",
+    "fromCity": "del_rio",
+    "toCity": "van_horn"
+  },
+  {
+    "token": "lub_ode1",
+    "fromCity": "lubbock",
+    "toCity": "odessa"
+  },
+  {
+    "token": "wic_ama1",
+    "fromCity": "wichita_fall",
+    "toCity": "amarillo"
+  },
+  {
+    "token": "tru_oak1",
+    "fromCity": "truckee",
+    "toCity": "oakland"
+  },
+  {
+    "token": "lau_bil1",
+    "fromCity": "laurel",
+    "toCity": "billings"
+  },
+  {
+    "token": "law_mca1",
+    "fromCity": "lawton",
+    "toCity": "mcalester"
+  },
+  {
+    "token": "okl_tul1",
+    "fromCity": "oklahoma_cit",
+    "toCity": "tulsa"
+  },
+  {
+    "token": "cli_guy1",
+    "fromCity": "clinton",
+    "toCity": "guymon"
+  },
+  {
+    "token": "lar_ant1",
+    "fromCity": "laredo",
+    "toCity": "san_antonio"
+  },
+  {
+    "token": "cob_hut1",
+    "fromCity": "colby",
+    "toCity": "hutchinson"
+  },
+  {
+    "token": "top_pit1",
+    "fromCity": "topeka",
+    "toCity": "pittsburg"
+  },
+  {
+    "token": "dod_emp1",
+    "fromCity": "dodge_city",
+    "toCity": "emporia"
+  },
+  {
+    "token": "wit_sal1",
+    "fromCity": "wichita",
+    "toCity": "salina_ks"
+  },
+  {
+    "token": "pue_dod1",
+    "fromCity": "pueblo",
+    "toCity": "dodge_city",
+    "escortFrontTags": [
+      "escort"
+    ]
+  },
+  {
+    "token": "pue_mar1",
+    "fromCity": "pueblo",
+    "toCity": "marysville",
+    "escortFrontTags": [
+      "escort"
+    ]
+  },
+  {
+    "token": "pue_den1",
+    "fromCity": "pueblo",
+    "toCity": "denver"
+  },
+  {
+    "token": "pue_pue1",
+    "fromCity": "pueblo",
+    "toCity": "pueblo"
+  },
+  {
+    "token": "sto_hur1",
+    "fromCity": "stockton",
+    "toCity": "huron"
+  },
+  {
+    "token": "sto_sfr1",
+    "fromCity": "stockton",
+    "toCity": "san_francisc"
+  },
+  {
+    "token": "lin_npl1",
+    "fromCity": "lincoln",
+    "toCity": "north_platte"
+  },
+  {
+    "token": "nor_oma1",
+    "fromCity": "norfolk",
+    "toCity": "omaha"
+  },
+  {
+    "token": "sco_mcc1",
+    "fromCity": "scottsbluff",
+    "toCity": "mccook"
+  },
+  {
+    "token": "jsb_hsp1",
+    "fromCity": "jonesboro",
+    "toCity": "hot_springs"
+  },
+  {
+    "token": "ltr_txk1",
+    "fromCity": "little_rock",
+    "toCity": "texarkana_ar"
+  },
+  {
+    "token": "ltr_eld1",
+    "fromCity": "little_rock",
+    "toCity": "el_dorado"
+  },
+  {
+    "token": "kcm_rol1",
+    "fromCity": "kansas_ci_mo",
+    "toCity": "rolla"
+  },
+  {
+    "token": "cgd_sfd1",
+    "fromCity": "cape_girarde",
+    "toCity": "springfield"
+  },
+  {
+    "token": "stl_kkv1",
+    "fromCity": "st_louis",
+    "toCity": "kirksville"
+  },
+  {
+    "token": "dub_mas1",
+    "fromCity": "dubuque",
+    "toCity": "mason_city"
+  },
+  {
+    "token": "bur_iow1",
+    "fromCity": "burlingto_ia",
+    "toCity": "iowa_city"
+  },
+  {
+    "token": "siu_dmo1",
+    "fromCity": "sioux_city",
+    "toCity": "des_moines"
+  },
+  {
+    "token": "nor_laf1",
+    "fromCity": "new_orleans",
+    "toCity": "lafayette"
+  },
+  {
+    "token": "lac_ntc1",
+    "fromCity": "lake_charles",
+    "toCity": "natchitoches"
+  },
+  {
+    "token": "srp_bro1",
+    "fromCity": "shreveport",
+    "toCity": "baton_rouge"
+  },
+  {
+    "token": "hom_pof1",
+    "fromCity": "houma",
+    "toCity": "port_fourcho"
+  },
+  {
+    "token": "maz_gom1",
+    "fromCity": "mazatlan",
+    "toCity": "gomez_p"
+  },
+  {
+    "token": "zac_con1",
+    "fromCity": "zacatecas",
+    "toCity": "conchaoro"
+  },
+  {
+    "token": "dgo_gua1",
+    "fromCity": "durango",
+    "toCity": "guanacevi"
+  },
+  {
+    "token": "jim_gom1",
+    "fromCity": "jimenez",
+    "toCity": "gomez_p"
+  },
+  {
+    "token": "ags_zac1",
+    "fromCity": "aguasca",
+    "toCity": "zacatecas"
+  },
+  {
+    "token": "maz_cos1",
+    "fromCity": "mazatlan",
+    "toCity": "cosala"
+  },
+  {
+    "token": "par_gpe1",
+    "fromCity": "parral",
+    "toCity": "gpeical"
+  },
+  {
+    "token": "val_hue1",
+    "fromCity": "valpa",
+    "toCity": "huejuq"
+  },
+  {
+    "token": "san_jes1",
+    "fromCity": "sanblas",
+    "toCity": "jesusma"
+  }
+]

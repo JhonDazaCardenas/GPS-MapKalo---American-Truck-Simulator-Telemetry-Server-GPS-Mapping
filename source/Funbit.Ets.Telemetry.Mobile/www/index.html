@@ -1,0 +1,474 @@
+﻿﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+    <title>GPS MapKalo</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; connect-src *; frame-src *; img-src * data:; camera-src *;">
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        
+        /* Fondo normal */
+        body { 
+            background: #0a0a0a; 
+            color: #fff; 
+            font-family: 'Segoe UI', sans-serif; 
+        }
+        
+        /* Cuando el escáner está activo, el fondo es transparente */
+        body.scanner-active {
+            background: transparent !important;
+        }
+        
+        /* Animación del camión */
+        .truck-icon {
+            margin-bottom: 10px;
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        /* Pantalla principal */
+        .login-screen {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        .box { max-width:360px; padding:20px; }
+        h1 { font-size:24px; background:linear-gradient(135deg,#38B6FF,#00E5FF); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin-bottom:16px; }
+        input { width:100%; padding:14px; border-radius:12px; border:2px solid #38B6FF; background:rgba(255,255,255,0.05); color:#fff; font-size:16px; text-align:center; margin-bottom:12px; outline:none; }
+        button { width:100%; padding:16px; border-radius:50px; background:linear-gradient(135deg,#38B6FF,#2a8fcc); color:#fff; font-weight:700; font-size:15px; border:none; cursor:pointer; transition:transform 0.2s; }
+        button:active { transform:scale(0.97); }
+        .status { color:#888; font-size:13px; margin-top:12px; }
+        .btn-group { display:flex; gap:8px; }
+        .btn-camera { 
+            width: auto; 
+            padding: 14px 20px; 
+            font-size: 15px; 
+            flex: 0 0 auto; 
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .donate-container { margin-top:20px; }
+        .donate-title { color:#5A7A8A; font-size:10px; letter-spacing:2px; margin-bottom:10px; }
+        .donate-buttons { display:flex; justify-content:center; gap:12px; }
+        .donate-btn { width:auto; padding:8px 16px; font-size:12px; display:flex; align-items:center; gap:6px; }
+        .donate-btn.breb { background:linear-gradient(135deg,#0052CC,#003D99); }
+        .donate-btn.paypal { background:linear-gradient(135deg,#0070BA,#003087); }
+        .social-links { display:flex; justify-content:center; gap:12px; margin-top:20px; flex-wrap:wrap; align-items:center; }
+        .social-img { height:24px; opacity:0.7; transition:opacity 0.2s; }
+        .devzeros-logo { height:32px; margin-top:8px; opacity:0.7; }
+        .footer-text { color:#5A7A8A; font-size:10px; margin-top:8px; }
+        
+        /* Pantalla del escáner - Fondo transparente para ver la cámara */
+        .scanner-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: transparent !important;
+            z-index: 2000;
+            display: none;
+        }
+        
+        /* Overlay semi-transparente para los textos y el marco */
+        .scanner-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            padding: 50px 20px;
+            background: rgba(0,0,0,0.6);
+        }
+        
+        .scanner-header {
+            text-align: center;
+        }
+        .scanner-header h3 {
+            color: #38B6FF;
+            margin-bottom: 8px;
+        }
+        .scanner-header p {
+            color: #aaa;
+            font-size: 12px;
+        }
+        .scanner-frame {
+            width: 250px;
+            height: 250px;
+            border: 2px solid #38B6FF;
+            border-radius: 20px;
+            position: relative;
+            margin: 20px auto;
+        }
+        .scanner-line {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #38B6FF, #00E5FF, #38B6FF, transparent);
+            animation: scan 2s linear infinite;
+            box-shadow: 0 0 8px #38B6FF;
+        }
+        @keyframes scan {
+            0% { top: 0; }
+            100% { top: 100%; }
+        }
+        .scanner-footer {
+            text-align: center;
+        }
+        .btn-cancel {
+            background: rgba(255,255,255,0.2) !important;
+            margin-top: 20px;
+        }
+        
+        #map-frame { display:none; position:fixed; top:0; left:0; width:100%; height:100%; border:none; background:#1a1f2e; z-index:1000; }
+        #back-btn { 
+        position:fixed; 
+        top:12px; 
+        left:12px; 
+        z-index:1001; 
+        width:44px; 
+        height:44px; 
+        border-radius:50%; 
+        background:rgba(0,0,0,0.75); 
+        border:2px solid #ff4444; 
+        color:#ff4444; 
+        font-size:28px; 
+        font-weight:900; 
+        cursor:pointer; 
+        display:none;
+        align-items:center; 
+        justify-content:center; 
+        text-align:center;
+        line-height:1;
+        padding:0;
+        text-indent:-2px;
+        }
+        #qr-overlay { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:2000; justify-content:center; align-items:center; flex-direction:column; }
+        #qr-overlay.show { display:flex; }
+        #qr-close { margin-top:20px; background:rgba(255,255,255,0.1); border:1px solid #38B6FF; color:#fff; padding:10px 24px; border-radius:50px; cursor:pointer; }
+        .loading { display:inline-block; width:20px; height:20px; border:2px solid #fff; border-radius:50%; border-top-color:transparent; animation: spin 1s linear infinite; margin-right:8px; vertical-align:middle; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <!-- Pantalla principal -->
+    <div id="login-box" class="login-screen">
+        <div class="box">
+            <!-- Carrito animado -->
+            <div class="truck-icon">
+                <svg width="80" height="60" viewBox="0 0 80 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="2" y="8" width="42" height="32" rx="4" fill="#1a3a5c" stroke="#38B6FF" stroke-width="2"/>
+                    <rect x="46" y="14" width="22" height="26" rx="4" fill="#0d2137" stroke="#38B6FF" stroke-width="2"/>
+                    <rect x="50" y="18" width="12" height="10" rx="3" fill="#38B6FF" opacity="0.6"/>
+                    <line x1="10" y1="16" x2="34" y2="16" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                    <line x1="10" y1="22" x2="34" y2="22" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                    <line x1="10" y1="28" x2="34" y2="28" stroke="#38B6FF" stroke-width="1.5" opacity="0.4"/>
+                    <circle cx="14" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                    <circle cx="14" cy="44" r="3" fill="#38B6FF"/>
+                    <circle cx="32" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                    <circle cx="32" cy="44" r="3" fill="#38B6FF"/>
+                    <circle cx="56" cy="44" r="7" fill="#0a0a0a" stroke="#38B6FF" stroke-width="2"/>
+                    <circle cx="56" cy="44" r="3" fill="#38B6FF"/>
+                    <rect x="66" y="10" width="4" height="6" rx="2" fill="#38B6FF" opacity="0.5"/>
+                    <circle cx="70" cy="30" r="3" fill="#FFD700" opacity="0.9"/>
+                    <circle cx="4" cy="28" r="3" fill="#FF4444" opacity="0.7"/>
+                </svg>
+            </div>
+            
+            <h1>GPS MAPKALO</h1>
+            
+            <div style="background:rgba(0,200,81,0.1); border:1px solid rgba(0,200,81,0.2); border-radius:12px; padding:12px; margin-bottom:16px; text-align:center;">
+                <p style="color:#00C851; font-size:12px; font-weight:600; margin:0 0 6px 0;">¿Te gusta este proyecto?</p>
+                <p style="color:#888; font-size:11px; margin:0;">GPS MapKalo es <strong>gratuito</strong>. Si te ayuda, considera apoyar su desarrollo. <strong>¡Cada aporte cuenta!</strong> 🚛</p>
+            </div>
+            
+            <input id="ip" type="text" placeholder="IP del servidor (ej: 192.168.1.5)" />
+            <div class="btn-group">
+                <button onclick="connect()" style="flex:1;">🚛 Conectar</button>
+                <button onclick="startScanner()" class="btn-camera">📷 Escanear QR</button>
+            </div>
+            <div class="status" id="status">Conecta al servidor MapKalo</div>
+            
+            <div class="donate-container">
+                <div class="donate-title">APOYAR EL PROYECTO</div>
+                <div class="donate-buttons">
+                    <button onclick="donate('bre-b')" class="donate-btn breb">
+                        <img src="images/Bre-B-logo.png" style="height:18px;"> Bre-B
+                    </button>
+                    <button onclick="donate('paypal')" class="donate-btn paypal">
+                        <img src="images/Paypal_2014_logo.png" style="height:16px;"> PayPal
+                    </button>
+                </div>
+            </div>
+            
+            <div class="social-links">
+                <a href="https://github.com/JhonDazaCardenas" target="_blank"><img src="images/github.png" class="social-img"></a>
+                <a href="https://discord.gg/wgt2RjfzH8" target="_blank"><img src="images/discord.png" class="social-img"></a>
+                <a href="https://www.tiktok.com/@jhon.dazacardenas" target="_blank"><img src="images/tiktok.png" class="social-img"></a>
+                <a href="https://www.twitch.tv/jhondazac" target="_blank"><img src="images/twitch.png" class="social-img"></a>
+                <a href="https://www.youtube.com/@JhonDazaAmbienteGIS" target="_blank"><img src="images/youtube.png" class="social-img"></a>
+            </div>
+            
+            <a href="https://devzeros.com/" target="_blank"><img src="images/logo-devzeros.webp" class="devzeros-logo" alt="DevZeros"></a>
+            <p class="footer-text">Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S • v1.0</p>
+        </div>
+    </div>
+    
+    <!-- Pantalla del escáner QR (tiempo real) -->
+    <div id="scanner-screen" class="scanner-screen">
+        <div class="scanner-overlay">
+            <div class="scanner-header">
+                <h3>📷 Escaneando QR</h3>
+                <p>Apunta al código QR del servidor GPS MAPKALO</p>
+            </div>
+            <div class="scanner-frame">
+                <div class="scanner-line"></div>
+            </div>
+            <div class="scanner-footer">
+                <button onclick="stopScanner()" class="btn-cancel">Cancelar</button>
+            </div>
+        </div>
+    </div>
+    
+    <iframe id="map-frame" src=""></iframe>
+    <button id="back-btn" onclick="disconnect()">◀</button>
+    
+    <div id="qr-overlay" onclick="this.classList.remove('show')">
+        <canvas id="qr-canvas" width="250" height="250" style="background:#fff;border-radius:12px;padding:8px;"></canvas>
+        <p style="color:#fff;margin-top:12px;font-size:13px;" id="qr-label"></p>
+        <button id="qr-close" onclick="event.stopPropagation();document.getElementById('qr-overlay').classList.remove('show')">Cerrar</button>
+    </div>
+    
+    <script src="cordova.js"></script>
+    <script>
+        var PORT = 25555;
+        var scanSubscription = null;
+        
+        var loginBox = document.getElementById('login-box');
+        var scannerScreen = document.getElementById('scanner-screen');
+        var statusDiv = document.getElementById('status');
+        var ipInput = document.getElementById('ip');
+        
+        // ==================== TEXTO A VOZ (TTS) ==================
+        var isVoiceEnabled = true;
+        var deviceLanguage = 'es-MX';
+        
+        function detectLanguage() {
+            if (navigator.language) {
+                var lang = navigator.language;
+                if (lang.startsWith('en')) return 'en-US';
+                if (lang.startsWith('es')) return 'es-MX';
+                if (lang.startsWith('pt')) return 'pt-BR';
+                if (lang.startsWith('fr')) return 'fr-FR';
+                if (lang.startsWith('de')) return 'de-DE';
+                return 'es-MX';
+            }
+            return 'es-MX';
+        }
+        
+        function hablar(texto) {
+            if (!isVoiceEnabled) {
+                console.log('🔇 Voz desactivada');
+                return;
+            }
+            
+            if (!texto || texto.trim() === '') return;
+            
+            console.log('🔊 Hablando: ' + texto);
+            
+            if (window.TTS) {
+                window.TTS.speak({
+                    text: texto,
+                    locale: deviceLanguage,
+                    rate: 0.9
+                }, function() {
+                    console.log('✅ Voz exitosa');
+                }, function(reason) {
+                    console.log('❌ Error TTS: ' + reason);
+                });
+            } else {
+                console.log('❌ Plugin TTS no disponible');
+            }
+        }
+        
+        // ==================== CONEXIÓN ====================
+        function connect() {
+            var ip = ipInput.value.trim();
+            if (!ip) { 
+                statusDiv.textContent = 'Ingresa una IP'; 
+                return; 
+            }
+            statusDiv.innerHTML = '<span class="loading"></span> Conectando...';
+            try { localStorage.setItem('serverIp', ip); } catch(e) {}
+            
+            var frame = document.getElementById('map-frame');
+            frame.src = 'http://' + ip + ':' + PORT + '/mapa.html';
+            frame.style.display = 'block';
+            document.getElementById('back-btn').style.display = 'flex';
+            loginBox.style.display = 'none';
+            
+            if (window.plugins && window.plugins.insomnia) {
+                window.plugins.insomnia.keepAwake();
+                console.log('✅ Pantalla siempre activa - Modo mapa');
+            }
+            
+            // Voz desactivada al conectar
+        }
+
+        function disconnect() {
+            var frame = document.getElementById('map-frame');
+            frame.src = 'about:blank';
+            frame.style.display = 'none';
+            document.getElementById('back-btn').style.display = 'none';
+            loginBox.style.display = 'flex';
+            
+            if (window.plugins && window.plugins.insomnia) {
+                window.plugins.insomnia.allowSleepAgain();
+                console.log('✅ Pantalla normal - Mapa cerrado');
+            }
+        }
+
+        var saved = '';
+        try { saved = localStorage.getItem('serverIp') || ''; } catch(e) {}
+        if (saved) {
+            ipInput.value = saved;
+            statusDiv.textContent = 'IP guardada: ' + saved;
+        }
+        
+        function donate(method) {
+            var urls = {
+                'bre-b': '00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON FREDY DAZA CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27',
+                'paypal': 'https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC'
+            };
+            var labels = { 'bre-b': 'Escanea con tu app Bancaria', 'paypal': 'Escanea con PayPal' };
+            document.getElementById('qr-label').textContent = labels[method];
+            document.getElementById('qr-overlay').classList.add('show');
+            var canvas = document.getElementById('qr-canvas');
+            var ctx = canvas.getContext('2d');
+            var img = new Image();
+            img.onload = function() { ctx.drawImage(img, 0, 0, 250, 250); };
+            img.src = 'https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=' + encodeURIComponent(urls[method]) + '&bgcolor=ffffff&color=1a1a1a&margin=4';
+        }
+        
+        // ==================== ESCÁNER QR ====================
+        function startScanner() {
+            if (typeof QRScanner === 'undefined') {
+                statusDiv.textContent = '❌ Plugin no disponible. Usa entrada manual.';
+                return;
+            }
+            
+            document.body.classList.add('scanner-active');
+            loginBox.style.display = 'none';
+            scannerScreen.style.display = 'block';
+            statusDiv.textContent = 'Iniciando cámara...';
+            
+            QRScanner.prepare(function(err, status) {
+                if (err) {
+                    statusDiv.textContent = '❌ Error al iniciar cámara';
+                    stopScanner();
+                    return;
+                }
+                
+                if (status.authorized) {
+                    QRScanner.show();
+                    scanSubscription = QRScanner.scan(function(err, result) {
+                        if (err) {
+                            if (err.name !== 'SCAN_CANCELED') {
+                                statusDiv.textContent = '❌ Error al escanear';
+                            }
+                            return;
+                        }
+                        stopScanner();
+                        processQRResult(result);
+                    });
+                    statusDiv.textContent = '🔍 Escaneando QR... Apunta al código';
+                } else if (status.denied) {
+                    statusDiv.textContent = '❌ Permiso de cámara denegado';
+                    stopScanner();
+                } else {
+                    statusDiv.textContent = '❌ No se pudo acceder a la cámara';
+                    stopScanner();
+                }
+            });
+        }
+        
+        function stopScanner() {
+            if (scanSubscription) {
+                QRScanner.cancelScan();
+                scanSubscription = null;
+            }
+            QRScanner.hide();
+            scannerScreen.style.display = 'none';
+            loginBox.style.display = 'flex';
+            document.body.classList.remove('scanner-active');
+        }
+        
+        function processQRResult(decodedText) {
+            statusDiv.innerHTML = '✅ QR detectado!';
+            var ipMatch = decodedText.match(/(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})/);
+            if (ipMatch) {
+                ipInput.value = ipMatch[0];
+                statusDiv.innerHTML = '<span class="loading"></span> IP: ' + ipMatch[0] + ' - Conectando...';
+                // Voz desactivada al escanear QR
+                setTimeout(function() { connect(); }, 1000);
+            } else {
+                ipInput.value = decodedText;
+                statusDiv.innerHTML = '📱 Escaneado: ' + decodedText;
+                if (confirm('¿Usar "' + decodedText + '" como IP?')) {
+                    setTimeout(function() { connect(); }, 500);
+                }
+            }
+        }
+        
+        // ==================== INICIALIZACIÓN ====================
+        document.addEventListener('deviceready', function() {
+            console.log('✅ Cordova listo');
+            deviceLanguage = detectLanguage();
+            console.log('🌐 Idioma detectado: ' + deviceLanguage);
+            
+            if (window.TTS) {
+                console.log('✅ Plugin TTS disponible');
+                // Voz desactivada al iniciar
+            } else {
+                console.log('❌ Plugin TTS no disponible');
+            }
+            
+            if (window.plugins && window.plugins.insomnia) {
+                console.log('✅ Plugin Insomnia disponible - Pantalla siempre activa');
+            }
+            
+            // Recibir mensajes de voz desde el mapa (alertas de main.js)
+            window.addEventListener('message', function(event) {
+                if (event.data && event.data.type === 'speak') {
+                    console.log('📨 Mensaje de voz del mapa:', event.data.text);
+                    hablar(event.data.text);
+                }
+            });
+            
+            // ==================== OCULTAR TECLADO AL TOCAR FUERA ====================
+            // Ocultar teclado cuando se toca fuera de los inputs
+            document.addEventListener('touchstart', function(e) {
+                if (document.activeElement && document.activeElement.tagName === 'INPUT') {
+                    if (!e.target.classList.contains('search-input') && e.target.id !== 'search-input') {
+                        document.activeElement.blur();
+                    }
+                }
+            });
+            
+        }, false);
+    </script>
+</body>
+</html>

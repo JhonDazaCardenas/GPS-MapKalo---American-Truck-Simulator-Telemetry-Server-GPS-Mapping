@@ -1,0 +1,50 @@
+{
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@^8.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-android-permissions": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-permissions@^1.1.5"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device@^3.0.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-insomnia": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-insomnia@^4.3.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-tts": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-tts@^0.2.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "@moodlehq/cordova-plugin-qrscanner": {
+    "source": {
+      "type": "registry",
+      "id": "@moodlehq/cordova-plugin-qrscanner"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

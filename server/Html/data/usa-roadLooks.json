@@ -1,0 +1,3282 @@
+[
+  {
+    "token": "look5",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 country small border",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look5t",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 country small border tram",
+    "lanesLeft": [
+      "traffic_lane.road.local.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.tram"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look6",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 country full",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 3,
+    "shoulderSpaceRight": 3
+  },
+  {
+    "token": "look7",
+    "name": "XXX_DO_NOT_USE_XXX road no center lane",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look1",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes 2m offset (freeway)",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look1_city",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes 2m offset (allow city limit)",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look2_city",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 5m offset (allow city limit)",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 5.5,
+    "shoulderSpaceRight": 5.5
+  },
+  {
+    "token": "look2",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 5m offset (freeway)",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 5.5,
+    "shoulderSpaceRight": 5.5
+  },
+  {
+    "token": "look3",
+    "name": "XXX_DO_NOT_USE_XXX hw 3 lanes 2m offset",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look3_city",
+    "name": "XXX_DO_NOT_USE_XXX hw 3 lanes 2m offset (city limit)",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look8",
+    "name": "XXX_DO_NOT_USE_XXX ca city 2 lanes 1m 1 ai lines",
+    "lanesLeft": [
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 4.5,
+    "shoulderSpaceRight": 4.5
+  },
+  {
+    "token": "look9",
+    "name": "XXX_DO_NOT_USE_XXX exit road",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [],
+    "offset": 0,
+    "shoulderSpaceLeft": 4.5,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "look10",
+    "name": "XXX_DO_NOT_USE_XXX road no lanes small",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look11",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes 1m offset",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look16",
+    "name": "XXX_DO_NOT_USE_XXX hw 3 lanes oneway",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look24",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes oneway",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look25",
+    "name": "XXX_DO_NOT_USE_XXX ca narrow way",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "look26",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes 2.5m offset",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look29",
+    "name": "XXX_DO_NOT_USE_XXX exit2 road",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 4.5
+  },
+  {
+    "token": "look30",
+    "name": "XXX_DO_NOT_USE_XXX ca city 2 lanes 1m 2 ai lines",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look30t",
+    "name": "XXX_DO_NOT_USE_XXX ca city 2 lanes 1m 2 ai lines tram",
+    "lanesLeft": [
+      "traffic_lane.road.divided.tram",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.tram",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look31",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 2m offset (allow city limit)",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 5.5,
+    "shoulderSpaceRight": 5.5
+  },
+  {
+    "token": "look31_fw",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 2m offset (freeway)",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 5.5,
+    "shoulderSpaceRight": 5.5
+  },
+  {
+    "token": "look33",
+    "name": "XXX_DO_NOT_USE_XXX entry road",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.5,
+    "shoulderSpaceRight": 1.5
+  },
+  {
+    "token": "look34",
+    "name": "XXX_DO_NOT_USE_XXX entry out",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.5,
+    "shoulderSpaceRight": 1.5
+  },
+  {
+    "token": "look35",
+    "name": "XXX_DO_NOT_USE_XXX entry in",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.5,
+    "shoulderSpaceRight": 1.5
+  },
+  {
+    "token": "look36",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 0m offset",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 0.15,
+    "shoulderSpaceLeft": 4.5,
+    "shoulderSpaceRight": 4.5
+  },
+  {
+    "token": "look36f",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 0m offset (freeway)",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 0.15,
+    "shoulderSpaceLeft": 4.5,
+    "shoulderSpaceRight": 4.5
+  },
+  {
+    "token": "look37",
+    "name": "XXX_DO_NOT_USE_XXX ca road no lanes small",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look38",
+    "name": "XXX_DO_NOT_USE_XXX ca city 4 lanes 1m 4ai lines",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look39",
+    "name": "XXX_DO_NOT_USE_XXX ca 2-2 15m offset",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 5.5,
+    "shoulderSpaceRight": 5.5
+  },
+  {
+    "token": "look40",
+    "name": "XXX_DO_NOT_USE_XXX ca city 2 lanes 1m no lines",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look41",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 city half",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "look42",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 city full",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 3,
+    "shoulderSpaceRight": 3
+  },
+  {
+    "token": "template0",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 country small border tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "template1",
+    "name": "XXX_DO_NOT_USE_XXX ca 1-1 country full tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3,
+    "shoulderSpaceRight": 3
+  },
+  {
+    "token": "template3",
+    "name": "XXX_DO_NOT_USE_XXX hw 2 lanes oneway tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl0",
+    "name": "us 2-2 freeway 3 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl0l",
+    "name": "us 2-2 freeway 3 / 4m / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl1",
+    "name": "us 2-2 freeway 3 / 11m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl3",
+    "name": "us 2-2 freeway 3 / 30m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl11",
+    "name": "us 0-1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl11tw",
+    "name": "XXX_DO_NOT_USE_XXX us 0-1 / twoways",
+    "lanesLeft": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.25
+  },
+  {
+    "token": "us_tmpl12",
+    "name": "us 0-2 freeway 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl13",
+    "name": "us 0-3 freeway 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl16",
+    "name": "us 3-3 freeway 3 / 20m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl17",
+    "name": "us 3-3 freeway 3 / 30m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl14",
+    "name": "us 3-3 freeway 3 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl15",
+    "name": "us 3-3 freeway 3 / 11m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl18",
+    "name": "XXX_DO_NOT_USE_XXX us 1-1 country",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl19",
+    "name": "us 1-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl20",
+    "name": "us 1-1 walk",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl20a",
+    "name": "us 1-1 walk / 4m",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl2",
+    "name": "us 2-2 freeway 3 / 20m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmp20",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city 0",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmp21",
+    "name": "XXX_DO_NOT_USE_XXX us 2-2 country",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl23",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai1 0",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl24",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai2 0",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl25",
+    "name": "XXX_DO_NOT_USE_XXX us 2-2 city divided 0",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl25a",
+    "name": "XXX_DO_NOT_USE_XXX us 0-2 city",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl26",
+    "name": "us 1-1 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl27",
+    "name": "us 2-2 country 3 / 11m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl29",
+    "name": "us 2-2 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl29p",
+    "name": "us 2-2 country 1 / park",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl29pl",
+    "name": "us 2-2 country 1 / park right",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl29pr",
+    "name": "us 2-2 country 1 / park left",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl30",
+    "name": "us 2-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl31",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai2 1 shoulder",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl32",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai1 1 shoulder",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl321",
+    "name": "us 3-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl331",
+    "name": "us 3-3 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl421",
+    "name": "us 4-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl241",
+    "name": "us 2-4 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl231",
+    "name": "us 2-3 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl323",
+    "name": "us 3-2 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl233",
+    "name": "us 2-3 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl431",
+    "name": "us 4-3 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl433",
+    "name": "us 4-3 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl341",
+    "name": "us 3-4 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl343",
+    "name": "us 3-4 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl33",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city 1 shoulder",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpla33",
+    "name": "us 2-1-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpla333",
+    "name": "us 2-1-2 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmplb33",
+    "name": "us 3-1-3 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmplb333",
+    "name": "us 3-1-3 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl34",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city 3",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl28",
+    "name": "us 2-2 country 3 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl285",
+    "name": "us 2-2 country 3 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl35",
+    "name": "XXX_DO_NOT_USE_XXX us 2-2 city divided 1 shoulder",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl36",
+    "name": "us 2-2 country 1 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl365",
+    "name": "us 2-2 country 1 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl366",
+    "name": "us 2-2 country 1 / 9m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl366l",
+    "name": "us 2-2 country 1 / 9m / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl2293",
+    "name": "us 2-2 country 3 / 9m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl3245",
+    "name": "us 3-2 country 1 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl3245l",
+    "name": "us 3-2 country 1 / 4,5m / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl3243",
+    "name": "us 3-2 country 3 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl2345",
+    "name": "us 2-3 country 1 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl2345l",
+    "name": "us 2-3 country 1 / 4,5m / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl2343",
+    "name": "us 2-3 country 3 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl37",
+    "name": "us 2-2 country 1 / 11m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "ca_tmpl38",
+    "name": "us ca 3-3 bridge",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl369",
+    "name": "us 3-3 country 1 / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "rl_tmpl1",
+    "name": "us 0-1 rail / cargo",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rt_test",
+    "name": "PROTOTYPE rail terrain test",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl2",
+    "name": "us 1-1 rail / cargo",
+    "lanesLeft": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "offset": 5.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl1_ps",
+    "name": "us 0-1 rail / passenger",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl2_ps",
+    "name": "us 1-1 rail / passenger",
+    "lanesLeft": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "offset": 5.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl3",
+    "name": "us 0-1 rail / cargo / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl4",
+    "name": "us 1-1 rail / cargo / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.cargo"
+    ],
+    "offset": 5.26,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl3_ps",
+    "name": "us 0-1 rail / passenger / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "rl_tmpl4_ps",
+    "name": "us 1-1 rail / passenger / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.passenger"
+    ],
+    "offset": 5.26,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "nm_tmpl02",
+    "name": "us 0-2 country 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "nm_tmpl03",
+    "name": "us 0-4 freeway 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl04",
+    "name": "us 4-4 freeway 3 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl05",
+    "name": "us 4-4 freeway 3 / 11m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl06",
+    "name": "us 4-4 freeway 3 / 20m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl07",
+    "name": "us 4-4 freeway 3 / 30m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl08",
+    "name": "XXX_DO_NOT_USE_XXX us 0-1 reststop",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "us_tmpl13a",
+    "name": "us 0-4 freeway 3 / no ai 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl38",
+    "name": "us 2-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmp39",
+    "name": "us 2-2 freeway 3",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl40",
+    "name": "us 1-1-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl40_lh",
+    "name": "[LH] us 1-1-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "us_tmpl41",
+    "name": "us 1-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl42",
+    "name": "us 0-2 country 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl42a",
+    "name": "XXX_DO_NOT_USE_XXX us 0-2 country",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.15,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl43",
+    "name": "us 0-1 / narrow",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "us_tmpl44",
+    "name": "us 1-2 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl45",
+    "name": "us 2-1 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl19l",
+    "name": "us 1-1 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl26l",
+    "name": "us 1-1 country 3 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl43l",
+    "name": "us 0-1 / narrow  / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "us_tmpl20l",
+    "name": "us 1-1 walk / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl12l",
+    "name": "us 0-2 freeway 3 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "nm_tmpl02l",
+    "name": "us 0-2 country 3 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl42l",
+    "name": "us 0-2 country 1 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl46",
+    "name": "us 1-1 country 1 / park",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl46sf",
+    "name": "us ca 1-1 country 1 / park / rail / tram",
+    "lanesLeft": [
+      "traffic_lane.road.local.tram.custom"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.tram.custom"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl47",
+    "name": "us 0-3 country 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl48",
+    "name": "us 0-3 country 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl48l",
+    "name": "us 0-3 country 1 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl49",
+    "name": "us 1-1 country 1 / park right",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl50",
+    "name": "us 1-1 country 1 / park left",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl51",
+    "name": "us 3-3 country 3 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl52",
+    "name": "us 0-2 country 1 / roundabout",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 5.7
+  },
+  {
+    "token": "us_tmpl53",
+    "name": "us 1-1-1 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl63",
+    "name": "us 0-4 country 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "us_tmpl64",
+    "name": "us 0-4 country 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl30l",
+    "name": "us 2-2 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "or_tmpl01",
+    "name": "us 1-1 forest",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl01",
+    "name": "us 1-1 field",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl01l",
+    "name": "us 1-1 forest / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl02",
+    "name": "us 1-1 field asphalt",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl02",
+    "name": "us 1-1 forest / middle",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpln20",
+    "name": "us 1-1 walk / narrow",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl05",
+    "name": "us 0-1 forest / narrow",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl05l",
+    "name": "us 0-1 forest / narrow / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl06",
+    "name": "us 0-1 walk",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.side_road"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl03",
+    "name": "us 1-1 country 1 / persp start",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl04",
+    "name": "us 1-1 country 1 / persp end",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 0.1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "or_tmpl07",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city persp start",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "tram_01_tmpl",
+    "name": "us 0-1 rail / tram",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "tram_11_tmpl",
+    "name": "us 1-1 rail / tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 5.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl20b",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city 0 right ai only",
+    "lanesLeft": [
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl52a",
+    "name": "us 0-2 country 1 / no ai 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl53a",
+    "name": "us 1-1-1 country 1 / park",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl44a",
+    "name": "us 1-2 country 1 / park",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl45a",
+    "name": "us 2-1 country 1 / park",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_tmpl54a",
+    "name": "us 0-5 freeway 3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl55",
+    "name": "XXX_DO_NOT_USE_XXX us 0-1 / player",
+    "lanesLeft": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.25
+  },
+  {
+    "token": "us_tmpl56",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl57",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai1 0 lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl58",
+    "name": "XXX_DO_NOT_USE_XXX us 2-1-2 city ai2 0 lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.2,
+    "shoulderSpaceRight": 0.2
+  },
+  {
+    "token": "us_tmpl59",
+    "name": "us 0-3 freeway 3 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl60",
+    "name": "us 0-4 freeway 3 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl61",
+    "name": "us 0-1 / lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "us_tmpl62",
+    "name": "us 1-1-1 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl65",
+    "name": "us 2-1-2 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl83",
+    "name": "us 2-1-2 country 3 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl66",
+    "name": "us 3-2 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl67",
+    "name": "us 2-3 country 1 / lowpoly",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.low_density",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_0",
+    "name": "us 1-1 invisible",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_0_lh",
+    "name": "[LH] us 1-1 invisible",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_1",
+    "name": "us 0-1 invisible",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_2",
+    "name": "us 0-2 invisible",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_3",
+    "name": "us 0-3 invisible",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.no_vehicles",
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "wa_tmpl01",
+    "name": "us 0-2 roundabout",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl68",
+    "name": "us 2-2 country 1 / 20m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl69",
+    "name": "us 2-2 country 3 / 20m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl70",
+    "name": "us 2-2 country 1 / 30m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl71",
+    "name": "us 2-2 country 3 / 30m",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl72",
+    "name": "us 1-1-2 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl73",
+    "name": "us 1-3 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl74",
+    "name": "us 1-1-2 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl75",
+    "name": "us 1-3 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl76",
+    "name": "us 0-2 freeway 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl77",
+    "name": "us 0-3 freeway 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "nm_tmpl78",
+    "name": "us 0-4 freeway 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl79",
+    "name": "us 2-1-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl80",
+    "name": "us 3-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_tmpl81",
+    "name": "us 2-1-1 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "us_tmpl82",
+    "name": "us 3-1 country 3",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 3.2,
+    "shoulderSpaceRight": 3.2
+  },
+  {
+    "token": "tram_12_tmpl",
+    "name": "us ca 1-1 rail / tram / 4,5m",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "tram_13_tmpl",
+    "name": "us ca 0-1 rail / tram",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_paccar_02",
+    "name": "XXX_DO_NOT_USE_XXX us paccar test track 0-2 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "us_paccar_03",
+    "name": "XXX_DO_NOT_USE_XXX us paccar test track 0-3 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "sft_tmpl30",
+    "name": "us 2-2 country 1 / tram",
+    "lanesLeft": [
+      "traffic_lane.road.divided.tram",
+      "traffic_lane.road.divided.full_in"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided.full_out",
+      "traffic_lane.road.divided.full_in"
+    ],
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_22f14o",
+    "name": "us 2-2 freeway 1 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_33f14o",
+    "name": "us 3-3 freeway 1 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "us_44f14o",
+    "name": "us 4-4 freeway 1 / 4m",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 1.2,
+    "shoulderSpaceRight": 1.2
+  },
+  {
+    "token": "il_2k000",
+    "name": "us il 0-4 country 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 5,
+    "shoulderSpaceRight": 5.7
+  },
+  {
+    "token": "us_tmpl5",
+    "name": "us 2-2 country offset 4m 0 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "us_tmpl40hbs",
+    "name": "super carretera",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "us_tmpl18hbs",
+    "name": "carretera estrecha",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "mx_tmpl0",
+    "name": "mx 2-2 freeway 4m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl1",
+    "name": "mx 2-2 freeway 11m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl3",
+    "name": "mx 2-2 freeway 30m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl2",
+    "name": "mx 2-2 freeway 20m offset",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl12",
+    "name": "mx 0-2 freeway",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmp39",
+    "name": "mx 2-2 freeway",
+    "lanesLeft": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway",
+      "traffic_lane.road.freeway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl42a",
+    "name": "mx 0-2 country",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "mx_tmpl40sp",
+    "name": "mx 1-1-1 super carretera",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.05,
+    "shoulderSpaceRight": 0.05
+  },
+  {
+    "token": "mx_tmpl40sp2",
+    "name": "mx 1-1-1 super carretera no rebase",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0.05,
+    "shoulderSpaceRight": 0.05
+  },
+  {
+    "token": "mx_tmpl42",
+    "name": "mx 0-2 country 1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "mx_tmpl52",
+    "name": "mx 0-2 country 1 roundabout",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 5.75
+  },
+  {
+    "token": "mx_tmpl52a",
+    "name": "mx 0-2 country 1 right ai only",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.divided"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "mx_tmpl11",
+    "name": "mx 0-1 exit road",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl55",
+    "name": "mx 0-1 exit road_player",
+    "lanesLeft": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 4.75,
+    "shoulderSpaceRight": 4.75
+  },
+  {
+    "token": "mx_tmpl61",
+    "name": "mx 0-1 exit road lowpoly",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "mx_tmpl43",
+    "name": "mx 0-1 exit road narrow",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "mx_tmpl43l",
+    "name": "mx 0-1 exit road narrow lowpoly 15",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "mx_tmpl11tw",
+    "name": "mx 0-1 exit road twoways",
+    "lanesLeft": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.freeway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "h_2y000",
+    "name": "Halloween / 1-1 country 1",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "h_2y001",
+    "name": "Halloween / 1-1 forest middle",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "h_2y002",
+    "name": "Halloween / 1-1 forest",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "templateflx1",
+    "name": "*Estrada seccionada esq",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ]
+  },
+  {
+    "token": "templateflx2",
+    "name": "*Estrada seccionada dir",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ]
+  },
+  {
+    "token": "templateflx4",
+    "name": "*estrada esburacada 1",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "templateflx5",
+    "name": "*estrada esburacada 2",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "templateflx6",
+    "name": "*estrada esburacada 3",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "templateflx7",
+    "name": "*estrada esburacada 4",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "templateflx8",
+    "name": "*estrada esburacada 5",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "templateflx9",
+    "name": "*estrada esburacada 6",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "flx10",
+    "name": "*estrada esburacada 7",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "flx11",
+    "name": "*estrada esburacada 8",
+    "lanesLeft": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.no_overtake"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  }
+]
