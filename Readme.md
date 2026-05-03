@@ -2,18 +2,14 @@
 
 Telemetry server for **American Truck Simulator** with advanced GPS mapping integration.
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
-<br>
-
-<div align="center" style="background-color: #1e1e1e; border-radius: 12px; padding: 20px; display: inline-block;">
+<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
   <span style="color: #ffffff;">
-    Made with 🐼❤️ by JhonDazaCardenas in partnership with
+     <strong>Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S</strong>
   </span>
   <a href="https://devzeros.com/" target="_blank">
-    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="28" style="vertical-align: middle; margin-left: 6px;">
+    <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
   </a>
 </div>
-
-<br>
 
 ## Main Features
 
@@ -51,7 +47,7 @@ Telemetry server for **American Truck Simulator** with advanced GPS mapping inte
 
 ### Supported Games
 
-- **American Truck Simulator** (only)
+- **American Truck Simulator with MapKalo** (only)
 - Version 1.58+
 
 ### Tested Browsers
@@ -65,9 +61,9 @@ Telemetry server for **American Truck Simulator** with advanced GPS mapping inte
 ### Windows
 
 1. Extract the ZIP anywhere
-2. Run **server/GPSMapKalo.exe**
+2. Run **server/GPSMapKalo.exe** run as admin
 3. Click **"Install"**
-4. Click **"OK"**, select network interface
+4. Click **"OK"**, select open Mapkalo
 5. **Done**
 
 ### Linux (Debian/Ubuntu)
@@ -77,7 +73,7 @@ Telemetry server for **American Truck Simulator** with advanced GPS mapping inte
 
 ### Android Users
 
-Install **mobile/Android/GPS MapKalo.apk**. Copy to device and install via File Manager. App prevents sleep mode and remembers server IP. You can also scan the QR code shown by the server.
+Install **mobile/Android/GPS MapKalo.apk**. Copy to device and install via File Manager. App prevents sleep mode and remembers server IP. You can also scan the QR code shown by the server or input tex of the ip.
 
 ## Usage
 
@@ -107,37 +103,25 @@ Support the project! GPS MapKalo is **free**. If it helps you, consider supporti
 
 ### Donation Options
 
-**Bre-B**
+**Bre-B - Colombian bank accounts**
 
 [<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27)
-
-<br>
-<br>
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27" width="250" height="250">
 
 <br>
-<br>
-<br>
 
-**PayPal**
+**PayPal - international transfers**
 
-[<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
+[<img height="75" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
 
-<br>
-<br>
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
-
-<br>
-<br>
 
 Scan the QR code with your payment app or click on the logos above.
 
 ## Follow Us
-
-## Follow Us
-
+Follow me on social media for updates, new features, and trucking content:
 <div align="center">
   <a href="https://www.twitch.tv/jhondazac">
     <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
@@ -159,6 +143,11 @@ Scan the QR code with your payment app or click on the logos above.
     <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
   </a>
 </div>
+<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
+  <span style="color: #ffffff;">
+     <strong>Hit that follow button! 🚛💨</strong>
+  </span>
+  </div>
 
 ## Preview
 
