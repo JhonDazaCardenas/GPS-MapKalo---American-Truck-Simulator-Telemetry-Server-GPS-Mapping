@@ -96,21 +96,44 @@ Support the project! GPS MapKalo is **free**. If it helps you, consider supporti
 
 ### Donation Options
 
-| | |
-|---|---|
-| [<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27) | [<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC) |
-| **Bre-B** | **PayPal** |
-| <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27" width="150"> | <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="150"> |
+**Bre-B**
+
+[<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27)
+
+<br>
+<br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27" width="250" height="250">
+
+<br>
+<br>
+<br>
+
+**PayPal**
+
+[<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
+
+<br>
+<br>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
+
+<br>
+<br>
 
 Scan the QR code with your payment app or click on the logos above.
 
 ## Follow Us
 
-[<img width="48" height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>](https://www.twitch.tv/jhondazac)
-[<img width="48" height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>](https://www.youtube.com/@JhonDazaAmbienteGIS)
-[<img width="48" height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>](https://www.tiktok.com/@jhon.dazacardenas)
-[<img width="48" height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>](https://discord.gg/wgt2RjfzH8)
-[<img width="48" height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>](https://github.com/JhonDazaCardenas)
+[<img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>](https://www.twitch.tv/jhondazac)
+&nbsp;&nbsp;&nbsp;
+[<img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>](https://www.youtube.com/@JhonDazaAmbienteGIS)
+&nbsp;&nbsp;&nbsp;
+[<img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>](https://www.tiktok.com/@jhon.dazacardenas)
+&nbsp;&nbsp;&nbsp;
+[<img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>](https://discord.gg/wgt2RjfzH8)
+&nbsp;&nbsp;&nbsp;
+[<img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>](https://github.com/JhonDazaCardenas)
 
 **Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S** - https://devzeros.com/
 
