@@ -1,95 +1,144 @@
-# GPS MapKalo - Servidor de Telemetría de American Truck Simulator + GPS Mapping
+# GPS MapKalo - American Truck Simulator Telemetry Server + GPS Mapping
+
+Telemetry server for American Truck Simulator with advanced GPS mapping integration for the MapKalo Colombia map.
 
 ================================================================================
-ESTRUCTURA DE CARPETAS
+FOLDER STRUCTURE
 ================================================================================
 
-|-----------| contiene la aplicación Android GPS MapKalo con GPS mapping
+|-----------| contains the GPS MapKalo Android app with GPS mapping
 |  mobile   |
-|-----------| (GPS MapKalo.apk = instalación)
+|-----------| (GPS MapKalo.apk = installation)
 |-----------|
-|  server   | contiene el servidor compilado y dashboard HTML5
+|  server   | contains compiled server and HTML5 dashboard
 |-----------|
 
-Nota: Esta es una distribución compilada. El código fuente no está incluido.
+Note: This is a compiled distribution. Source code is not included.
 
-Simplemente ejecuta "server/GPSMapKalo.exe" para iniciar el servidor y conecta tu dashboard HTML5 móvil o la app GPS MapKalo Android!
-
-================================================================================
-ENLACES
-================================================================================
-
-Proyecto original (código fuente): 
-https://github.com/Funbit/ets2-telemetry-server
-
-Esta versión modificada (GPS MapKalo) incluye características de GPS mapping para ATS.
+Simply run "server/GPSMapKalo.exe" to start the server and connect your HTML5 mobile dashboard or GPS MapKalo Android app!
 
 ================================================================================
-REQUISITOS DEL SISTEMA
+SYSTEM REQUIREMENTS
 ================================================================================
 
-- Windows 10, 11 (32-bit o 64-bit)
-- Linux Debian, Ubuntu y derivados
-- .NET Framework 4.5 o superior
+- Windows 10, 11 (32-bit or 64-bit)
+- Linux Debian, Ubuntu and derivatives
+- .NET Framework 4.5+
 
-Juego soportado:
-- American Truck Simulator (únicamente)
+Supported game:
+- American Truck Simulator with MapKalo (only)
+- Version 1.58+
 
-Navegadores testeados:
-- Opera (recomendado)
-- Brave (recomendado)
+Tested browsers:
+- Opera (recommended)
+- Brave (recommended)
+- Firefox, Chrome, Edge
 
 ================================================================================
-INSTALACIÓN
+INSTALLATION
 ================================================================================
 
 Windows:
-1. Descomprime el ZIP donde quieras
-2. Ejecuta server/GPSMapKalo.exe
-3. Click en "Instalar"
-4. Cuando termine, click en "Aceptar", selecciona interfaz de red
-5. Listo
+1. Extract ZIP anywhere
+2. Run server/GPSMapKalo.exe as admin
+3. Click "Install"
+4. When done, click "OK", select open Mapkalo
+5. Done
 
-Linux:
-1. Extrae el archivo ZIP
-2. Ejecuta: mono server/GPSMapKalo.exe
+Linux (Debian/Ubuntu):
+1. Extract ZIP
+2. Run: mono server/GPSMapKalo.exe
 
 Android:
-1. Instala mobile/Android/GPS MapKalo.apk
-2. Ingresa la IP del servidor (sin http:// y puerto)
-3. O escanea el código QR mostrado por el servidor
+1. Install mobile/Android/GPS MapKalo.apk
+2. Enter server IP (without http:// and port)
+3. Or scan the QR code shown by the server
 
 ================================================================================
-CRÉDITOS
+USAGE
 ================================================================================
 
-Desarrollado por DevZeros S.A.S en unión con JhonDazaCardenas (2026)
+1. Run server/GPSMapKalo.exe (or server on Linux)
+2. Run American Truck Simulator
+3. Desktop users: Connect to same Wi-Fi/LAN, open browser and navigate to "HTML5 App URL"
+4. Mobile users: Use GPS MapKalo app, enter server IP or scan QR code
+5. Enjoy your GPS dashboard!
 
-Síguenos:
+================================================================================
+REST API
+================================================================================
+
+GET http://localhost:25555/api/ats/telemetry
+
+Returns JSON with latest telemetry data.
+
+Full reference in Telemetry.md.
+
+================================================================================
+HTML5 DASHBOARD
+================================================================================
+
+http://localhost:25555/
+
+Works in any modern browser.
+
+================================================================================
+DONATIONS
+================================================================================
+
+Support the project! GPS MapKalo is free. If it helps you, consider supporting development.
+
+- Bre-B (Colombian bank accounts)
+- PayPal (international transfers)
+
+Scan the QR code with your payment app or click on the logos in the full README.md.
+
+================================================================================
+FOLLOW US
+================================================================================
+
+Follow me on social media for updates, new features, and trucking content:
+
 - Twitch: https://www.twitch.tv/jhondazac
 - YouTube: https://www.youtube.com/@JhonDazaAmbienteGIS
 - TikTok: https://www.tiktok.com/@jhon.dazacardenas
 - Discord: https://discord.gg/wgt2RjfzH8
 - GitHub: https://github.com/JhonDazaCardenas
 
-Referencias del proyecto:
-- Mapa (MapKalo mod): https://github.com/ETS2LA/maps/
-- Idea original: https://github.com/Funbit/ets2-telemetry-server/tree/master
-- Inspiración: https://github.com/TruckSim-GPS/trucksim-gps-server/tree/master
+Hit that follow button! 🚛💨
 
 ================================================================================
-DONACIONES
+PREVIEW
 ================================================================================
 
-¡Apoya el desarrollo del proyecto! GPS MapKalo es gratuito.
+GPS MapKalo Server, Dark mode, Clear mode, Mobile Dark mode, Mobile Clear mode.
+See full README.md for images.
 
-- Bre-B Colombia
-- PayPal
+================================================================================
+VERSION
+================================================================================
 
-Escanea el código QR con tu app de pago.
+GPS MapKalo 2026
+
+- Based on: ETS2 Telemetry Web Server 3.2.5
+- Adapted for American Truck Simulator only with MapKalo
+- Added GPS mapping features
+- Rebranded to GPS MapKalo with GPS integration
+- Compiled distribution (no source code)
+
+================================================================================
+CREDITS AND REFERENCES
+================================================================================
+
+Developed by DevZeros S.A.S in partnership with JhonDazaCardenas (2026)
+
+Project references:
+- Map (MapKalo mod): https://github.com/ETS2LA/maps/
+- Original idea: https://github.com/Funbit/ets2-telemetry-server
+- Inspiration: https://github.com/TruckSim-GPS/trucksim-gps-server
 
 ================================================================================
 LICENSE
 ================================================================================
 
-GNU General Public License v3 (GPL-3). Lee el archivo LICENSE para detalles.
+GNU General Public License v3 (GPL-3). Read LICENSE file for details.
