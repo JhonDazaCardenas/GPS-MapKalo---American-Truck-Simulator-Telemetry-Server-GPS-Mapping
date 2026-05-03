@@ -10,6 +10,35 @@ Telemetry server for **American Truck Simulator** with advanced GPS mapping inte
     <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
   </a>
 </div>
+  
+## Follow Us
+Follow me on social media for updates, new features, and trucking content:
+<div align="center">
+  <a href="https://www.twitch.tv/jhondazac">
+    <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JhonDazaAmbienteGIS">
+    <img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@jhon.dazacardenas">
+    <img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/wgt2RjfzH8">
+    <img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JhonDazaCardenas">
+    <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
+  </a>
+</div>
+<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
+  <span style="color: #ffffff;">
+     <strong>Hit that follow button! 🚛💨</strong>
+  </span>
+  </div>
 
 ## Main Features
 
@@ -119,35 +148,6 @@ Support the project! GPS MapKalo is **free**. If it helps you, consider supporti
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
 
 Scan the QR code with your payment app or click on the logos above.
-
-## Follow Us
-Follow me on social media for updates, new features, and trucking content:
-<div align="center">
-  <a href="https://www.twitch.tv/jhondazac">
-    <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@JhonDazaAmbienteGIS">
-    <img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@jhon.dazacardenas">
-    <img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/wgt2RjfzH8">
-    <img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JhonDazaCardenas">
-    <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
-  </a>
-</div>
-<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
-  <span style="color: #ffffff;">
-     <strong>Hit that follow button! 🚛💨</strong>
-  </span>
-  </div>
 
 ## Preview
 
