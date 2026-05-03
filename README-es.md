@@ -2,8 +2,49 @@
 
 Servidor de telemetría para **American Truck Simulator** con integración de GPS mapping avanzado.
 
-**Por DevZeros S.A.S en unión con JhonDazaCardenas**
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
 
+<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
+  <span style="color: #ffffff;">
+     <strong>Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S</strong>
+  </span>
+  <a href="https://devzeros.com/" target="_blank">
+    <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
+  </a>
+</div>
+    
+## Síguenos
+
+Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de camiones:
+
+<div align="center">
+  <a href="https://www.twitch.tv/jhondazac">
+    <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JhonDazaAmbienteGIS">
+    <img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@jhon.dazacardenas">
+    <img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/wgt2RjfzH8">
+    <img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JhonDazaCardenas">
+    <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
+  </a>
+</div>
+
+<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
+  <span style="color: #ffffff;">
+     <strong>¡Dale al botón de seguir! 🚛💨</strong>
+  </span>
+</div>
+    
 ## Características Principales
 
 - Código abierto y libre (GPL-3)
@@ -40,8 +81,8 @@ Servidor de telemetría para **American Truck Simulator** con integración de GP
 
 ### Juegos Soportados
 
-- **American Truck Simulator** (únicamente)
-- Versión 1.40+
+- **American Truck Simulator con MapKalo** (únicamente)
+- Versión 1.58+
 
 ### Navegadores Testeados
 
@@ -54,27 +95,26 @@ Servidor de telemetría para **American Truck Simulator** con integración de GP
 ### Windows
 
 1. Descomprime el archivo ZIP donde quieras
-2. Ejecuta **server/GPSMapKalo.exe**
-3. Click en **"Instalar"**
-4. Cuando termine, click en **"Aceptar"**, selecciona interfaz de red y click en **"URL de la App HTML5"**
+2. Ejecuta **server/GPSMapKalo.exe** como administrador
+3. Haz clic en **"Instalar"**
+4. Cuando termine, haz clic en **"Aceptar"**, selecciona abrir MapKalo
 5. **Listo**
 
 ### Linux (Debian/Ubuntu)
 
 1. Extrae el archivo ZIP
 2. Ejecuta el servidor con: `mono server/GPSMapKalo.exe`
-3. O sigue las instrucciones de instalación
 
 ### Usuarios Android
 
-Instala **mobile/Android/GPS MapKalo.apk**. Copia a tu dispositivo e instala a través de Gestor de Archivos. La app previene el modo suspensión y recuerda la IP del servidor. También puedes escanear el código QR mostrado por el servidor.
+Instala **mobile/Android/GPS MapKalo.apk**. Copia a tu dispositivo e instala a través del Gestor de Archivos. La app previene el modo suspensión y recuerda la IP del servidor. También puedes escanear el código QR mostrado por el servidor o ingresar la IP manualmente.
 
 ## Uso
 
 1. Ejecuta **server/GPSMapKalo.exe** (o el servidor en Linux)
 2. Ejecuta **American Truck Simulator**
-3. **Usuarios de escritorio**: Conecta tu notebook a la misma Wi-Fi/LAN, abre el navegador y navega a "*URL de la App HTML5*"
-4. **Usuarios móviles**: Usa la app GPS MapKalo, ingresa la IP del servidor (sin http:// y puerto), presiona Aceptar O escanea el código QR mostrado por el servidor
+3. **Usuarios de escritorio**: Conéctate a la misma Wi-Fi/LAN, abre el navegador y navega a la "URL de la App HTML5"
+4. **Usuarios móviles**: Usa la app GPS MapKalo, ingresa la IP del servidor o escanea el código QR
 5. **¡Disfruta** tu dashboard con GPS!
 
 ## API REST de Telemetría
@@ -85,48 +125,50 @@ Retorna un objeto JSON estructurado con los últimos datos de telemetría.
 
 **La referencia completa de propiedades está disponible en [Telemetry.md](Telemetry.md).**
 
-## Dashboard HTML5 Móvil
+## Dashboard HTML5 Mapa MapKalo
 
     http://localhost:25555/
 
 Funciona en cualquier navegador moderno de escritorio o móvil.
 
-## Sección de Donación
+## Donaciones
 
 ¡Apoya el desarrollo del proyecto! GPS MapKalo es **gratuito**. Si te ayuda, considera apoyar su desarrollo. **¡Cada aporte cuenta!** 🚛
 
 ### Opciones de Donación
 
-| Método | Logo |
-|--------|-------|
-| 🏦 Bre-B | <img width="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/> |
-| 💳 PayPal | <img width="24" height="24" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/> |
+**Bre-B - Cuentas bancarias de Colombia**
 
-Escanea el código QR con tu app de pago.
+[<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27)
 
-## Síguenos
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27" width="250" height="250">
 
-| Plataforma | Logo | Enlace |
-|------------|------|--------|
-| 🔴 Twitch | <img width="24" height="24" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/> | [jhondazac](https://www.twitch.tv/jhondazac) |
-| 📺 YouTube | <img width="24" height="24" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/> | [JhonDazaAmbienteGIS](https://www.youtube.com/@JhonDazaAmbienteGIS) |
-| 🎵 TikTok | <img width="24" height="24" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/> | [@jhon.dazacardenas](https://www.tiktok.com/@jhon.dazacardenas) |
-| 💬 Discord | <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="24" height="24" viewBox="0 0 48 48"><path fill="#5865F2" d="M40,12c0,0-4.585-3.588-10-4l-0.5,4.083C29.253,12.323,25.557,14.562,25.557,14.562S23.746,13.438,21.933,12.514c0,0-1.828,2.867-1.838,2.888c2.42,0.735,3.535,1.574,3.535,1.574s-1.212-0.943-3.773-1.574c-0.011-0.016-1.834-2.885-1.834-2.885S16.255,13.435,14.444,14.557S12.742,12.315,12.742,12.315L12.5,8.083C6.915,8.412,2.5,12,2.5,12"/><path fill="#5865F2" d="M34.783,15.475c0,0,1.212,0.943,3.773,1.574c0.011,0.016,1.834,2.885,1.834,2.885S38.746,19.565,40.557,18.443c0,0,1.702-2.242,1.702-2.242l0.5-4.083c-5.415-0.412-9.83,3.588-9.83,3.588S30.557,14.838,34.783,15.475z"/><circle fill="#5865F2" cx="18.5" cy="29.5" r="4"/><circle fill="#5865F2" cx="29.5" cy="29.5" r="4"/><path fill="#99aab5" d="M27.5,24.5c-1.933,0-3.5,1.567-3.5,3.5c0,1.933,1.567,3.5,3.5,3.5c1.933,0,3.5-1.567,3.5-3.5C31,26.067,29.433,24.5,27.5,24.5z"/></svg> | [Únete al servidor](https://discord.gg/wgt2RjfzH8) |
-| 🐙 GitHub | <img width="24" height="24" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/> | [JhonDazaCardenas](https://github.com/JhonDazaCardenas) |
+<br>
 
-**Desarrollado con ❤️ por JhonDazaCardenas en unión con [DevZeros S.A.S](https://devzeros.com/)**
+**PayPal - Transferencias internacionales**
+
+[<img height="75" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
+
+Escanea el código QR con tu aplicación de pagos o haz clic en los logos de arriba.
 
 ## Vista Previa
 
-![Dashboard GPS](https://imgur.com/a/OWleCzK)
-![Mapa](https://imgur.com/a/hXfa2rf)
-![Navegación](https://imgur.com/a/N5244A9)
-![Ruta](https://imgur.com/a/27lVTgu)
-![Panel](https://imgur.com/a/338ydDm)
+Servidor GPS MapKalo:
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
 
-## Captura de Pantalla
+Modo oscuro:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
 
-![Entrada](https://imgur.com/a/i8519S5)
+Modo claro:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
+
+Móvil modo oscuro:
+<img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
+
+Móvil modo claro:
+<img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribución
 
@@ -135,8 +177,9 @@ Este paquete contiene binarios compilados del servidor, dashboard HTML5 y APK de
 ## Versión
 
 **GPS MapKalo 2026**
+
 - Basado en: ETS2 Telemetry Web Server 3.2.5
-- Adaptado para American Truck Simulator únicamente
+- Adaptado para American Truck Simulator únicamente con MapKalo
 - Agregadas características de GPS mapping
 - Rebranded a GPS MapKalo con integración GPS
 - Distribución compilada (sin código fuente)
