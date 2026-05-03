@@ -2,7 +2,18 @@
 
 Telemetry server for **American Truck Simulator** with advanced GPS mapping integration.
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
-**By DevZeros S.A.S in partnership with JhonDazaCardenas**
+<br>
+
+<div align="center" style="background-color: #1e1e1e; border-radius: 12px; padding: 20px; display: inline-block;">
+  <span style="color: #ffffff;">
+    Made with 🐼❤️ by JhonDazaCardenas in partnership with
+  </span>
+  <a href="https://devzeros.com/" target="_blank">
+    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="28" style="vertical-align: middle; margin-left: 6px;">
+  </a>
+</div>
+
+<br>
 
 ## Main Features
 
@@ -125,22 +136,27 @@ Scan the QR code with your payment app or click on the logos above.
 
 ## Follow Us
 
-[<img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>](https://www.twitch.tv/jhondazac)
-&nbsp;&nbsp;&nbsp;
-[<img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>](https://www.youtube.com/@JhonDazaAmbienteGIS)
-&nbsp;&nbsp;&nbsp;
-[<img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>](https://www.tiktok.com/@jhon.dazacardenas)
-&nbsp;&nbsp;&nbsp;
-[<img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>](https://discord.gg/wgt2RjfzH8)
-&nbsp;&nbsp;&nbsp;
-[<img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>](https://github.com/JhonDazaCardenas)
+## Follow Us
 
-<div align="center" style="background-color: #1e1e1e; border-radius: 12px; padding: 20px; border: 1px solid #333;">
-  <p style="color: #fff; margin-bottom: 15px;">
-    Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S
-  </p>
-  <a href="https://devzeros.com/" target="_blank">
-    <img src="https://devzeros.com/images/logo-devzeros.webp" alt="DevZeros S.A.S" height="40" style="filter: background-color: #1e1e1e; border-radius: 12px; padding: 20px; ">
+<div align="center">
+  <a href="https://www.twitch.tv/jhondazac">
+    <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JhonDazaAmbienteGIS">
+    <img height="48" src="https://img.icons8.com/color/480/youtube-play.png" alt="youtube"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@jhon.dazacardenas">
+    <img height="48" src="https://img.icons8.com/color/480/tiktok--v1.png" alt="tiktok"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/wgt2RjfzH8">
+    <img height="48" src="https://img.icons8.com/color/480/discord-logo.png" alt="discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JhonDazaCardenas">
+    <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
   </a>
 </div>
 
