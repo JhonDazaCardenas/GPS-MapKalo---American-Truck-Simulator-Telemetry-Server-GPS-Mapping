@@ -1,21 +1,23 @@
 # GPS MapKalo - American Truck Simulator Telemetry Server + GPS Mapping
 
-Servidor de telemetría para **American Truck Simulator** con integración de GPS mapping avanzado.
+Servidor de telemetría para **American Truck Simulator** con integración avanzada de GPS mapping.
 
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
 
-<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
-  <span style="color: #ffffff;">
-     <strong>Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S</strong>
+<div align="center">
+  <span style="background-color: #000000; border-radius: 12px; padding: 20px; display: inline-block;">
+    <span style="color: #ffffff;">
+      <strong>Desarrollado con ❤️ por JhonDazaCardenas en alianza con DevZeros S.A.S</strong>
+    </span>
+    <a href="https://devzeros.com/" target="_blank">
+      <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
+    </a>
   </span>
-  <a href="https://devzeros.com/" target="_blank">
-    <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
-  </a>
 </div>
-    
+
 ## Síguenos
 
-Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de camiones:
+Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de camioneros:
 
 <div align="center">
   <a href="https://www.twitch.tv/jhondazac">
@@ -39,52 +41,54 @@ Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de
   </a>
 </div>
 
-<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
-  <span style="color: #ffffff;">
-     <strong>¡Dale al botón de seguir! 🚛💨</strong>
+<div align="center">
+  <span style="background-color: #000000; border-radius: 12px; padding: 20px; display: inline-block;">
+    <span style="color: #ffffff;">
+      <strong>¡Dale al botón de seguir! 🚛💨</strong>
+    </span>
   </span>
 </div>
-    
+
 ## Características Principales
 
-- Código abierto y libre (GPL-3)
+- Código abierto y gratuito (GPL-3)
 - Instalación automatizada
 - API REST para datos de telemetría
-- Dashboard HTML5 para streaming de datos en tiempo real (WebSockets)
+- Dashboard HTML5 para transmisión de datos en tiempo real (WebSockets)
 - Integración GPS para seguimiento de ubicación en tiempo real
 - Aplicación Android GPS MapKalo dedicada
 
-## Características GPS MapKalo
+## Características de GPS MapKalo
 
 - Seguimiento en tiempo real de tu ruta asignada
-- Visualización en pantalla de datos del trabajo: Origen-Destino, tipo de carga y peso
-- Parámetros en pantalla: Velocidad, capacidad del tanque, tiempo restante, kilómetros restantes, hora de llegada estimada
-- Navegador de mapa interno (ícono de lupa) para buscar ubicaciones específicas
-- Modo automático Claro/Oscuro basado en la hora del sistema, con botones de cambio manual
+- Visualización en pantalla: Origen-Destino, tipo de carga, peso de la carga
+- Parámetros en pantalla: Velocidad, combustible, tiempo restante, KM restantes, hora de llegada estimada
+- Navegador de mapa interno (icono de lupa) para buscar ubicaciones
+- Modo Automático Claro/Oscuro basado en la hora del sistema con cambio manual
 - Alternar visibilidad de empresas en el mapa
-- Servicios de mapa: Áreas de descanso, estaciones de gasolina y peajes
-- Asistente de voz Beta (en desarrollo)
+- Servicios del mapa: Áreas de descanso, gasolineras, peajes
+- Asistente de voz en fase beta (en desarrollo)
 - Modo Libre: Ver cualquier punto del mapa
-- Velocidad de manejo en pantalla
-- Indicador de límite de velocidad en pantalla
+- Indicador de velocidad de conducción en pantalla
+- Indicador de límite de velocidad
 - Opción de pantalla completa para dispositivos móviles
-- Ideal para mostrar tu mapa y posición en segundas pantallas y dispositivos móviles
-- Código QR integrado para conexión rápida desde la app móvil
+- Ideal para segundas pantallas y dispositivos móviles
+- Código QR integrado para conexión rápida desde la app
 
 ## Requisitos del Sistema
 
-### SO Soportados
+### Sistemas Operativos Soportados
 
 - Windows 10, 11 (32-bit o 64-bit)
 - Linux Debian, Ubuntu y derivados
-- .NET Framework 4.5 o superior
+- .NET Framework 4.5+
 
 ### Juegos Soportados
 
 - **American Truck Simulator con MapKalo** (únicamente)
 - Versión 1.58+
 
-### Navegadores Testeados
+### Navegadores Probados
 
 - **Opera** (recomendado)
 - **Brave** (recomendado)
@@ -94,20 +98,20 @@ Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de
 
 ### Windows
 
-1. Descomprime el archivo ZIP donde quieras
+1. Extrae el ZIP en cualquier lugar
 2. Ejecuta **server/GPSMapKalo.exe** como administrador
-3. Haz clic en **"Instalar"**
-4. Cuando termine, haz clic en **"Aceptar"**, selecciona abrir MapKalo
+3. Haz clic en **"Install"**
+4. Haz clic en **"OK"**, selecciona abrir MapKalo
 5. **Listo**
 
 ### Linux (Debian/Ubuntu)
 
-1. Extrae el archivo ZIP
-2. Ejecuta el servidor con: `mono server/GPSMapKalo.exe`
+1. Extrae el ZIP
+2. Ejecuta: `mono server/GPSMapKalo.exe`
 
-### Usuarios Android
+### Usuarios de Android
 
-Instala **mobile/Android/GPS MapKalo.apk**. Copia a tu dispositivo e instala a través del Gestor de Archivos. La app previene el modo suspensión y recuerda la IP del servidor. También puedes escanear el código QR mostrado por el servidor o ingresar la IP manualmente.
+Instala **mobile/Android/GPS MapKalo.apk**. Cópialo a tu dispositivo e instálalo mediante el Administrador de Archivos. La app evita el modo de suspensión y recuerda la IP del servidor. También puedes escanear el código QR que muestra el servidor o ingresar la dirección IP.
 
 ## Uso
 
@@ -115,29 +119,29 @@ Instala **mobile/Android/GPS MapKalo.apk**. Copia a tu dispositivo e instala a t
 2. Ejecuta **American Truck Simulator**
 3. **Usuarios de escritorio**: Conéctate a la misma Wi-Fi/LAN, abre el navegador y navega a la "URL de la App HTML5"
 4. **Usuarios móviles**: Usa la app GPS MapKalo, ingresa la IP del servidor o escanea el código QR
-5. **¡Disfruta** tu dashboard con GPS!
+5. **Disfruta** tu tablero GPS
 
-## API REST de Telemetría
+## API REST
 
     GET http://localhost:25555/api/ats/telemetry
 
-Retorna un objeto JSON estructurado con los últimos datos de telemetría.
+Devuelve JSON con los últimos datos de telemetría.
 
-**La referencia completa de propiedades está disponible en [Telemetry.md](Telemetry.md).**
+**Referencia completa en [Telemetry.md](Telemetry.md).**
 
-## Dashboard HTML5 Mapa MapKalo
+## Mapa HTML5 MapKalo
 
     http://localhost:25555/
 
-Funciona en cualquier navegador moderno de escritorio o móvil.
+Funciona en cualquier navegador moderno.
 
 ## Donaciones
 
-¡Apoya el desarrollo del proyecto! GPS MapKalo es **gratuito**. Si te ayuda, considera apoyar su desarrollo. **¡Cada aporte cuenta!** 🚛
+¡Apoya el proyecto! GPS MapKalo es **gratuito**. Si te ayuda, considera apoyar su desarrollo.
 
 ### Opciones de Donación
 
-**Bre-B - Cuentas bancarias de Colombia**
+**Bre-B - Cuentas bancarias colombianas**
 
 [<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bre-B-logo.png" alt="breb"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=00020101021126320014CO.COM.RBM.LLA0510009204096849250014CO.COM.RBM.RED0103RBM50310013CO.COM.RBM.CU0110009204096851250013CO.COM.RBM.CA010499995204999953031705502015802CO5922JHON%20FREDY%20DAZA%20CARDEN60051100161051100162200703001080200110363180270016CO.COM.RBM.CANAL0103APP81250015CO.COM.RBM.CIVA01020382260014CO.COM.RBM.IVA01040.0083270015CO.COM.RBM.BASE01040.0084250015CO.COM.RBM.CINC01020385260014CO.COM.RBM.INC01040.0090430016CO.COM.RBM.TRXID0119000000fT1l3DZn6_yBF91460014CO.COM.RBM.SEC0124I2vx0Ujo6wN8al5LWr1PrhXu63046F27)
 
@@ -151,45 +155,52 @@ Funciona en cualquier navegador moderno de escritorio o móvil.
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
 
-Escanea el código QR con tu aplicación de pagos o haz clic en los logos de arriba.
+Escanea el código QR con tu app de pagos o haz clic en los logotipos de arriba.
 
 ## Vista Previa
 
-Servidor GPS MapKalo:
+**Servidor GPS MapKalo:**
+
 <img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
 
-Modo oscuro:
+**Modo oscuro:**
+
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
 
-Modo claro:
+**Modo claro:**
+
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
 
-Móvil modo oscuro:
+**Modo oscuro móvil:**
+
 <img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
 
-Móvil modo claro:
+**Modo claro móvil:**
+
 <img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribución
 
-Este paquete contiene binarios compilados del servidor, dashboard HTML5 y APK de Android GPS MapKalo. El código fuente no está incluido.
+Este paquete contiene binarios compilados del servidor, el dashboard HTML5, el APK de Android de GPS MapKalo y **el código fuente completo**.
 
 ## Versión
 
 **GPS MapKalo 2026**
 
 - Basado en: ETS2 Telemetry Web Server 3.2.5
-- Adaptado para American Truck Simulator únicamente con MapKalo
-- Agregadas características de GPS mapping
-- Rebranded a GPS MapKalo con integración GPS
-- Distribución compilada (sin código fuente)
+- Adaptado únicamente para American Truck Simulator con MapKalo
+- Se añadieron funciones de GPS mapping
+- Rebranding a GPS MapKalo con integración GPS
 
 ## Créditos y Referencias
 
-- **Mapa (MapKalo mod):** [ETS2LA/maps](https://github.com/ETS2LA/maps/)
-- **Idea original:** [Funbit/ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server)
-- **Inspiración:** [TruckSim-GPS/trucksim-gps-server](https://github.com/TruckSim-GPS/trucksim-gps-server)
+- **Mapa (mod MapKalo):** https://github.com/ETS2LA/maps/
+- **Idea original:** https://github.com/Funbit/ets2-telemetry-server
+- **Inspiración:** https://github.com/TruckSim-GPS/trucksim-gps-server
 
 ## Licencia
 
-[GNU General Public License v3 (GPL-3)](https://tldrlegal.com/license/gnu-general-public-license-v3-%28gpl-3%29)
+Este proyecto está bajo la **GNU General Public License v3.0 (GPL-3.0)**.
+
+- 📘 **Resumen en lenguaje sencillo (TLDRLegal):** [https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3)
+- 📜 **Texto legal completo (GNU):** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
