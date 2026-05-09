@@ -1,18 +1,24 @@
 # GPS MapKalo - American Truck Simulator Telemetry Server + GPS Mapping
 
 Telemetry server for **American Truck Simulator** with advanced GPS mapping integration.
+
 <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/bb48635c-da07-4d29-a90f-215b373efe0e" />
-<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
-  <span style="color: #ffffff;">
-     <strong>Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S</strong>
+
+<div align="center">
+  <span style="background-color: #000000; border-radius: 12px; padding: 20px; display: inline-block;">
+    <span style="color: #ffffff;">
+      <strong>Made with ❤️ by JhonDazaCardenas in partnership with DevZeros S.A.S</strong>
+    </span>
+    <a href="https://devzeros.com/" target="_blank">
+      <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
+    </a>
   </span>
-  <a href="https://devzeros.com/" target="_blank">
-    <img width="113" height="113" alt="image" src="https://github.com/user-attachments/assets/d6929f04-c60c-4bcf-8452-25d7bb19212a" alt="DevZeros S.A.S" style="vertical-align: middle; margin-left: 6px;">
-  </a>
 </div>
-  
+
 ## Follow Us
+
 Follow me on social media for updates, new features, and trucking content:
+
 <div align="center">
   <a href="https://www.twitch.tv/jhondazac">
     <img height="48" src="https://img.icons8.com/color/480/twitch--v1.png" alt="twitch"/>
@@ -34,11 +40,14 @@ Follow me on social media for updates, new features, and trucking content:
     <img height="48" src="https://img.icons8.com/fluency-systems-filled/96/github.png" alt="github"/>
   </a>
 </div>
-<div align="center"> <span style="background-color: #000000 ; border-radius: 12px; padding: 20px; display: inline-block;">
-  <span style="color: #ffffff;">
-     <strong>Hit that follow button! 🚛💨</strong>
+
+<div align="center">
+  <span style="background-color: #000000; border-radius: 12px; padding: 20px; display: inline-block;">
+    <span style="color: #ffffff;">
+      <strong>Hit that follow button! 🚛💨</strong>
+    </span>
   </span>
-  </div>
+</div>
 
 ## Main Features
 
@@ -90,7 +99,7 @@ Follow me on social media for updates, new features, and trucking content:
 ### Windows
 
 1. Extract the ZIP anywhere
-2. Run **server/GPSMapKalo.exe** run as admin
+2. Run **server/GPSMapKalo.exe** as admin
 3. Click **"Install"**
 4. Click **"OK"**, select open Mapkalo
 5. **Done**
@@ -102,7 +111,7 @@ Follow me on social media for updates, new features, and trucking content:
 
 ### Android Users
 
-Install **mobile/Android/GPS MapKalo.apk**. Copy to device and install via File Manager. App prevents sleep mode and remembers server IP. You can also scan the QR code shown by the server or input tex of the ip.
+Install **mobile/Android/GPS MapKalo.apk**. Copy to device and install via File Manager. App prevents sleep mode and remembers server IP. You can also scan the QR code shown by the server or input the IP address.
 
 ## Usage
 
@@ -120,7 +129,7 @@ Returns JSON with latest telemetry data.
 
 **Full reference in [Telemetry.md](Telemetry.md).**
 
-## HTML5 Mapa MapKalo
+## HTML5 Map MapKalo
 
     http://localhost:25555/
 
@@ -144,31 +153,35 @@ Support the project! GPS MapKalo is **free**. If it helps you, consider supporti
 
 [<img height="75" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal"/>](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC)
 
-
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://www.paypal.com/qrcodes/p2pqrc/EJRS468L7ZNFC" width="250" height="250">
 
 Scan the QR code with your payment app or click on the logos above.
 
 ## Preview
 
-GPS MapKalo Server: 
+**GPS MapKalo Server:**
+
 <img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
 
-Dark mode:
+**Dark mode:**
+
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
 
-Clear Mode:
+**Clear Mode:**
+
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
 
-Mobile Dark mode:
+**Mobile Dark mode:**
+
 <img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/fb64d9e3-c619-4a79-82db-4c188cb7ab71" />
 
-Mobile Clear Mode: 
+**Mobile Clear Mode:**
+
 <img width="406" height="904" alt="image" src="https://github.com/user-attachments/assets/ad989c0c-77bf-4175-99eb-dc4c0b27a4e2" />
 
 ## Distribution
 
-This package contains compiled server binaries, HTML5 dashboard, and GPS MapKalo Android APK. Source code not included.
+This package contains compiled server binaries, HTML5 dashboard, GPS MapKalo Android APK, and **complete source code**.
 
 ## Version
 
@@ -178,7 +191,6 @@ This package contains compiled server binaries, HTML5 dashboard, and GPS MapKalo
 - Adapted for American Truck Simulator only MapKalo
 - Added GPS mapping features
 - Rebranded to GPS MapKalo with GPS integration
-- Compiled distribution (no source code)
 
 ## Credits and References
 
@@ -190,5 +202,5 @@ This package contains compiled server binaries, HTML5 dashboard, and GPS MapKalo
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
-- 📘 **Resumen fácil de entender (TLDRLegal):** [https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3)
-- 📜 **Texto legal completo (GNU):** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+- 📘 **Plain English summary (TLDRLegal):** [https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3)
+- 📜 **Full legal text (GNU):** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
