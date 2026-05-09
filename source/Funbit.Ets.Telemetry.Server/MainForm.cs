@@ -335,7 +335,7 @@ namespace Funbit.Ets.Telemetry.Server
             // Footer
             var footerLabel = new Label
             {
-                Text = "Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S • v1.0",
+                Text = "Desarrollado con ❤️ por JhonDazaCardenas en unión con DevZeros S.A.S • v2.0",
                 Font = new Font("Segoe UI", 8F),
                 ForeColor = textDim,
                 TextAlign = ContentAlignment.MiddleCenter,

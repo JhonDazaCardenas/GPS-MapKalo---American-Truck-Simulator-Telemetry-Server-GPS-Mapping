@@ -5,8 +5,9 @@
     "defaultName": "Las Vegas",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -84924.21,
+    "y": 6727.66,
+    "searchRadius": 1000
   },
   {
     "token": "ca_alturas",
@@ -70,8 +71,9 @@
     "defaultName": "Reno",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -102798.95,
+    "y": -16655.18,
+    "searchRadius": 750
   },
   {
     "token": "nv_carsoncit",
@@ -79,8 +81,9 @@
     "defaultName": "Carson City",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -102092.41,
+    "y": -11841.68,
+    "searchRadius": 800
   },
   {
     "token": "caus395xca36",
@@ -1721,8 +1724,9 @@
     "defaultName": "Jackpot",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -78160.44,
+    "y": -24861.89,
+    "searchRadius": 100
   },
   {
     "token": "nv_wells",
@@ -1730,8 +1734,9 @@
     "defaultName": "Wells",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -79876.23,
+    "y": -20678.31,
+    "searchRadius": 200
   },
   {
     "token": "id_i84xi86",
@@ -1979,8 +1984,9 @@
     "defaultName": "Elko",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -83208.05,
+    "y": -19357.17,
+    "searchRadius": 500
   },
   {
     "token": "nv_owyhee",
@@ -2186,8 +2192,9 @@
     "defaultName": "Ely",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -81881.32,
+    "y": -9672.04,
+    "searchRadius": 400
   },
   {
     "token": "nv_us6xus93",
@@ -2195,8 +2202,9 @@
     "defaultName": "Jct US-93",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -80154.2,
+    "y": -8021.19,
+    "searchRadius": 30
   },
   {
     "token": "ut_holden",
@@ -2315,8 +2323,9 @@
     "defaultName": "Panaca",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -81057.09,
+    "y": -2669.35,
+    "searchRadius": 175
   },
   {
     "token": "az_coloradoc",
@@ -2580,9 +2589,10 @@
     "editorName": "BC Vancouver",
     "defaultName": "Vancouver BC",
     "nameVariants": [],
-    "distanceOffset": 50,
-    "x": 0,
-    "y": 0
+    "distanceOffset": 5,
+    "x": -100258.63,
+    "y": -75838.81,
+    "searchRadius": 1500
   },
   {
     "token": "wa_bellingha",
@@ -2888,7 +2898,7 @@
     "editorName": "BC Grand Forks",
     "defaultName": "Grand Forks BC",
     "nameVariants": [],
-    "distanceOffset": 42,
+    "distanceOffset": 0,
     "x": 0,
     "y": 0
   },
@@ -3291,8 +3301,9 @@
     "defaultName": "Winnemucca",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -91264.42,
+    "y": -22506.25,
+    "searchRadius": 500
   },
   {
     "token": "nv_deniojct",
@@ -4103,8 +4114,8 @@
     "defaultName": "Hoover Dam",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": -83175.41,
-    "y": 8548.77,
+    "x": -82003.85,
+    "y": 7238.54,
     "searchRadius": 140
   },
   {
@@ -4290,8 +4301,9 @@
     "defaultName": "Pioche",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -81066.88,
+    "y": -4110.98,
+    "searchRadius": 100
   },
   {
     "token": "nv_us93nv375",
@@ -4308,8 +4320,9 @@
     "defaultName": "Rachel",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -87724.3,
+    "y": -2293,
+    "searchRadius": 100
   },
   {
     "token": "nv_tonopah",
@@ -4317,8 +4330,9 @@
     "defaultName": "Tonopah",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -93608.99,
+    "y": -5680.68,
+    "searchRadius": 100
   },
   {
     "token": "nv_us6nv375",
@@ -4326,8 +4340,9 @@
     "defaultName": "Jct SR-375",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -89170.88,
+    "y": -5549.43,
+    "searchRadius": 25
   },
   {
     "token": "nv_goldfield",
@@ -4380,8 +4395,9 @@
     "defaultName": "Battle Mtn",
     "nameVariants": [],
     "distanceOffset": 0,
-    "x": 0,
-    "y": 0
+    "x": -88776.96,
+    "y": -19873.52,
+    "searchRadius": 50
   },
   {
     "token": "nv_us6us95",
@@ -4923,8 +4939,9 @@
     "defaultName": "Sparks",
     "nameVariants": [],
     "distanceOffset": 1,
-    "x": 0,
-    "y": 0
+    "x": -100582.84,
+    "y": -16746.88,
+    "searchRadius": 50
   },
   {
     "token": "nv_sparksi80",
@@ -5198,7 +5215,7 @@
     "editorName": "SD Belle Fourche",
     "defaultName": "Belle Fourche",
     "nameVariants": [],
-    "distanceOffset": 91,
+    "distanceOffset": 0,
     "x": 0,
     "y": 0
   },
@@ -11518,7 +11535,9 @@
     "token": "il_bloomngtn",
     "editorName": "IL Bloomington",
     "defaultName": "Bloomington",
-    "nameVariants": [],
+    "nameVariants": [
+      "Bloomington-Normal"
+    ],
     "distanceOffset": 0,
     "x": 31634.93,
     "y": -8930.85,
@@ -11619,5 +11638,697 @@
     "x": 24546.19,
     "y": -8350.87,
     "searchRadius": 10
+  },
+  {
+    "token": "il_joliet",
+    "editorName": "IL Joliet",
+    "defaultName": "Joliet",
+    "nameVariants": [],
+    "distanceOffset": 10,
+    "x": 32450.34,
+    "y": -15378.22,
+    "searchRadius": 50
+  },
+  {
+    "token": "bc_prrupert",
+    "editorName": "BC Prince Rupert",
+    "defaultName": "Prince Rupert",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_terrace",
+    "editorName": "BC Terrace",
+    "defaultName": "Terrace",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_pgeorge",
+    "editorName": "BC Prince George",
+    "defaultName": "Prince George",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -90050.21,
+    "y": -97098.35,
+    "searchRadius": 750
+  },
+  {
+    "token": "bc_fraslake",
+    "editorName": "BC Fraser Lake",
+    "defaultName": "Fraser Lake",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_burnslk",
+    "editorName": "BC Burns Lake",
+    "defaultName": "Burns Lake",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_smithers",
+    "editorName": "BC Smithers",
+    "defaultName": "Smithers",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_sxfalls",
+    "editorName": "SD Siouax Falls",
+    "defaultName": "Sioux Falls",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -3868.9,
+    "y": -25124.62,
+    "searchRadius": 300
+  },
+  {
+    "token": "sd_brookings",
+    "editorName": "SD Brookings",
+    "defaultName": "Brookings",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4804.64,
+    "y": -30197.18,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_watertown",
+    "editorName": "SD Watertown",
+    "defaultName": "Watertown",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4744.02,
+    "y": -33621.55,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_yankton",
+    "editorName": "SD Yankton",
+    "defaultName": "Yankton",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -6106.21,
+    "y": -21954.5,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_mitchell",
+    "editorName": "SD Mitchell",
+    "defaultName": "Mitchell",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8120.23,
+    "y": -27783.18,
+    "searchRadius": 300
+  },
+  {
+    "token": "sd_aberdeen",
+    "editorName": "SD Aberdeen",
+    "defaultName": "Aberdeen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_winner",
+    "editorName": "SD Winner",
+    "defaultName": "Winner",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_pierre",
+    "editorName": "SD Pierre",
+    "defaultName": "Pierre",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -17275.66,
+    "y": -30799.33,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_mobridge",
+    "editorName": "SD Mobridge",
+    "defaultName": "Mobridge",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_rapidcty",
+    "editorName": "SD Rapid City",
+    "defaultName": "Rapid City",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -28136.36,
+    "y": -29642.95,
+    "searchRadius": 300
+  },
+  {
+    "token": "sd_spearfish",
+    "editorName": "SD Spearfish",
+    "defaultName": "Spearfish",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -31403.01,
+    "y": -32622.31,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_buffalo",
+    "editorName": "SD Buffalo",
+    "defaultName": "Buffalo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_bison",
+    "editorName": "SD Bison",
+    "defaultName": "Bison",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_tmbrlake",
+    "editorName": "SD Timber Lake",
+    "defaultName": "Timber Lake",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_selby",
+    "editorName": "SD Selby",
+    "defaultName": "Selby",
+    "nameVariants": [],
+    "distanceOffset": -3,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_sturgis",
+    "editorName": "SD Sturgis",
+    "defaultName": "Sturgis",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_redfield",
+    "editorName": "SD Redfield",
+    "defaultName": "Redfield",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_huron",
+    "editorName": "SD Huron",
+    "defaultName": "Huron",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_faith",
+    "editorName": "SD Faith",
+    "defaultName": "Faith",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_wall",
+    "editorName": "SD Wall",
+    "defaultName": "Wall",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -24548.92,
+    "y": -29061.57,
+    "searchRadius": 100
+  },
+  {
+    "token": "sd_murdo",
+    "editorName": "SD Murdo",
+    "defaultName": "Murdo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_martin",
+    "editorName": "SD Martin",
+    "defaultName": "Martin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_mission",
+    "editorName": "SD Mission",
+    "defaultName": "Mission",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_whtriver",
+    "editorName": "SD White River",
+    "defaultName": "White River",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_hotspgs",
+    "editorName": "SD Hot Springs",
+    "defaultName": "Hot Springs",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "nv_i80x95",
+    "editorName": "NV I-80 x US-95",
+    "defaultName": "Jct US-95",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -96476.34,
+    "y": -18159.43,
+    "searchRadius": 100
+  },
+  {
+    "token": "nv_lovelock",
+    "editorName": "NV Lovelock",
+    "defaultName": "Lovelock",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -95087.81,
+    "y": -19782.41,
+    "searchRadius": 75
+  },
+  {
+    "token": "nv_carlin",
+    "editorName": "NV Carlin",
+    "defaultName": "Carlin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -86608.65,
+    "y": -19247.55,
+    "searchRadius": 100
+  },
+  {
+    "token": "nv_fallon",
+    "editorName": "NV Fallon",
+    "defaultName": "Fallon",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -96254.14,
+    "y": -13500.95,
+    "searchRadius": 140
+  },
+  {
+    "token": "nd_fargo",
+    "editorName": "ND Fargo",
+    "defaultName": "Fargo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4079.65,
+    "y": -45439.44,
+    "searchRadius": 200
+  },
+  {
+    "token": "nv_currie",
+    "editorName": "NV Currie",
+    "defaultName": "Currie",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_newhazlet",
+    "editorName": "BC New Hazelton",
+    "defaultName": "New Hazelton",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -104052,
+    "y": -109720.49,
+    "searchRadius": 30
+  },
+  {
+    "token": "sd_coalspgs",
+    "editorName": "SD Coal Springs",
+    "defaultName": "Coal Springs",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_lemmon",
+    "editorName": "SD Lemmon",
+    "defaultName": "Lemmon",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0,
+    "searchRadius": 60
+  },
+  {
+    "token": "bc_kitwanga",
+    "editorName": "BC Kitwanga",
+    "defaultName": "Kitwanga",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -105373.03,
+    "y": -109332.69,
+    "searchRadius": 30
+  },
+  {
+    "token": "bc_houston",
+    "editorName": "BC Houston",
+    "defaultName": "Houston",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -101980.3,
+    "y": -103609.02,
+    "searchRadius": 150
+  },
+  {
+    "token": "sd_reva",
+    "editorName": "SD Reva Gap",
+    "defaultName": "Reva Gap",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0,
+    "searchRadius": 0
+  },
+  {
+    "token": "nv_nv376x377",
+    "editorName": "NV NV-376 x NV-377",
+    "defaultName": "Jct SR377",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -92652.3,
+    "y": -8205.52,
+    "searchRadius": 25
+  },
+  {
+    "token": "mt_alzad",
+    "editorName": "MT Alzada",
+    "defaultName": "Alzada",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_i29xus12",
+    "editorName": "SD I-29 x US-12",
+    "defaultName": "Interstate 29",
+    "nameVariants": [],
+    "distanceOffset": -10,
+    "x": -4202.89,
+    "y": -35459.4,
+    "searchRadius": 100
+  },
+  {
+    "token": "sd_i90xi29",
+    "editorName": "SD I-90 x I-29",
+    "defaultName": "Interstate 90",
+    "nameVariants": [],
+    "distanceOffset": 10,
+    "x": -4612.31,
+    "y": -26443.19,
+    "searchRadius": 120
+  },
+  {
+    "token": "sdmt_sl212",
+    "editorName": "SD MT US-212 State Line",
+    "defaultName": "WY State Line",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "nv_alamo",
+    "editorName": "NV Alamo",
+    "defaultName": "Alamo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -85109.34,
+    "y": 754.47,
+    "searchRadius": 30
+  },
+  {
+    "token": "sd_u85xsd168",
+    "editorName": "SD US-85 x SD-168",
+    "defaultName": "SR-168",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -29842.84,
+    "y": -36337.67,
+    "searchRadius": 30
+  },
+  {
+    "token": "sd_i90xu85",
+    "editorName": "SD I-90 x US-85",
+    "defaultName": "JCT 90",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -31619.97,
+    "y": -33265.53,
+    "searchRadius": 120
+  },
+  {
+    "token": "sd_dead",
+    "editorName": "SD Deadwood",
+    "defaultName": "Deadwood",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -31242.37,
+    "y": -31596.2,
+    "searchRadius": 50
+  },
+  {
+    "token": "sd_i90xus281",
+    "editorName": "SD I-90 x US-281",
+    "defaultName": "Interstate 90",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10419.99,
+    "y": -26997.25,
+    "searchRadius": 150
+  },
+  {
+    "token": "sd_waubay",
+    "editorName": "SD Waubay",
+    "defaultName": "Waubay",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_us83us212",
+    "editorName": "SD US-83 x US-212",
+    "defaultName": "JCT 212",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -15895.48,
+    "y": -34712.48,
+    "searchRadius": 300
+  },
+  {
+    "token": "sd_us14xus83",
+    "editorName": "SD US-14 x US-83",
+    "defaultName": "Junction 14",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "nv_caliente",
+    "editorName": "NV Caliente",
+    "defaultName": "Caliente",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -82517.68,
+    "y": -635.09,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_us14xsd34",
+    "editorName": "SD US-14 x SD-34",
+    "defaultName": "Junction 34",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_sd34xsd73",
+    "editorName": "SD SD-34 x SD-73",
+    "defaultName": "Junction 73",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_us12xus83",
+    "editorName": "SD US-12 x US-83",
+    "defaultName": "JCT 83",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_abbotsfor",
+    "editorName": "BC Abbotsford",
+    "defaultName": "Abbotsford",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_hope",
+    "editorName": "BC Hope",
+    "defaultName": "Hope",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -93583.26,
+    "y": -72014.51,
+    "searchRadius": 150
+  },
+  {
+    "token": "bc_princeton",
+    "editorName": "BC Princeton",
+    "defaultName": "Princeton",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_osoyoos",
+    "editorName": "BC Osoyoos",
+    "defaultName": "Osoyoos",
+    "nameVariants": [],
+    "distanceOffset": -3,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_salmo",
+    "editorName": "BC Salmo",
+    "defaultName": "Salmo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_creston",
+    "editorName": "BC Creston",
+    "defaultName": "Creston",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -76252.93,
+    "y": -66057.29,
+    "searchRadius": 300
+  },
+  {
+    "token": "bc_cranbrook",
+    "editorName": "BC Cranbrook",
+    "defaultName": "Cranbrook",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_sparwood",
+    "editorName": "BC Sparwood",
+    "defaultName": "Sparwood",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "bc_fernie",
+    "editorName": "BC Fernie",
+    "defaultName": "Fernie",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "can_usa_93",
+    "editorName": "CAN USA 93 Border",
+    "defaultName": "USA Border",
+    "nameVariants": [],
+    "distanceOffset": 2,
+    "x": -70810.23,
+    "y": -64076.94,
+    "searchRadius": 200
+  },
+  {
+    "token": "sd_us18xus83",
+    "editorName": "SD US-83 x US-18",
+    "defaultName": "Junction 18",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 0,
+    "y": 0
+  },
+  {
+    "token": "sd_badl_pin",
+    "editorName": "SD Badlands Pinnacles E",
+    "defaultName": "Badlands",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -25348.15,
+    "y": -27343.61,
+    "searchRadius": 110
   }
 ]

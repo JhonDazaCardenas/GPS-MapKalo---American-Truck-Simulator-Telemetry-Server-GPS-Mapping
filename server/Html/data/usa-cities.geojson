@@ -4272,6 +4272,86 @@
                 "population": 0,
                 "countryToken": "california"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11298.625,
+                    -32299.75
+                ]
+            },
+            "properties": {
+                "name": "La finca de DJoney",
+                "token": "f_djhoney",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17054.796875,
+                    -50618.87890625
+                ]
+            },
+            "properties": {
+                "name": "La finca de jekko",
+                "token": "f_jekko",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41617.15234375,
+                    -68922.765625
+                ]
+            },
+            "properties": {
+                "name": "La finca de Victor Stingray",
+                "token": "f_victor",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77838.0,
+                    2233.265625
+                ]
+            },
+            "properties": {
+                "name": "La finca de Fuminaya",
+                "token": "f_fuminaya",
+                "population": 0,
+                "countryToken": "california"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39414.984375,
+                    -51406.3984375
+                ]
+            },
+            "properties": {
+                "name": "Tamesis Antioquia",
+                "token": "tamesis",
+                "population": 0,
+                "countryToken": "california"
+            }
         }
     ]
 }

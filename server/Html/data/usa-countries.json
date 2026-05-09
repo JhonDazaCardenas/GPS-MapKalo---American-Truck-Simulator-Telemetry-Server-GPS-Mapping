@@ -125,6 +125,31 @@
     }
   },
   {
+    "token": "illinois",
+    "name": "Illinois",
+    "id": 14,
+    "x": 27500,
+    "y": -8500,
+    "code": "IL",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 55,
+        "maxLimit": 65,
+        "urbanLimit": 30
+      },
+      "dividedRoad": {
+        "limit": 65,
+        "maxLimit": 70,
+        "urbanLimit": 30
+      },
+      "freeway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 65
+      }
+    }
+  },
+  {
     "token": "iowa",
     "name": "Iowa",
     "id": 21,

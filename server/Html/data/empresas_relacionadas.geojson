@@ -4,6 +4,40 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "6291a6d412000003",
+                "nombre": "Deepgrove",
+                "token": "dg_wd_saw1",
+                "ciudad": "f_djhoney",
+                "sector": "2,8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11316.047123481516,
+                    -32176.779509539545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6291a6d512800001",
+                "nombre": "Plaster & Sons",
+                "token": "pns_con_grg",
+                "ciudad": "f_djhoney",
+                "sector": "2,8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11268.822071075341,
+                    -32283.013301849358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f00856d1002176",
                 "nombre": "Deepgrove",
                 "token": "dg_wd_saw1",
@@ -55,6 +89,23 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "61f008554180210f",
+                "nombre": "Oakland Shippers",
+                "token": "oak_port",
+                "ciudad": "ptoberrio",
+                "sector": "3,8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12826.661143049381,
+                    -33414.18086201237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f00855560020c1",
                 "nombre": "Charged",
                 "token": "cha_el_mkt",
@@ -66,6 +117,23 @@
                 "coordinates": [
                     13178.613559392674,
                     -33677.39363700919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "61f00857630020fe",
+                "nombre": "Sunshine Crops",
+                "token": "sc_frm",
+                "ciudad": "ptoberrio",
+                "sector": "3,8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14881.038860849128,
+                    -33070.4895567738
                 ]
             }
         },
@@ -234,8 +302,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -32856.273336932856,
-                    -18055.043728394092
+                    -32856.273336979226,
+                    -18055.04372843286
                 ]
             }
         },
@@ -888,6 +956,57 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "632a68c18c800003",
+                "nombre": "S26",
+                "token": "s26",
+                "ciudad": "monteria",
+                "sector": "-12,-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47234.7734375,
+                    10279.71875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a68c22b000001",
+                "nombre": "Wolrd Logistics LTDA",
+                "token": "worldlogi",
+                "ciudad": "monteria",
+                "sector": "-12,-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47238.7578125,
+                    10285.04296875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a68c2f9000005",
+                "nombre": "Transportes Armenia",
+                "token": "armenia",
+                "ciudad": "monteria",
+                "sector": "-12,-3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47232.0078125,
+                    10274.13671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f00854d0002930",
                 "nombre": "Port of SF",
                 "token": "sf_port",
@@ -1086,57 +1205,6 @@
                 "coordinates": [
                     12079.990167317565,
                     -53687.48782638283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "uid": "61f008578c0014bc",
-                "nombre": "Gallon Oil",
-                "token": "gal_oil_gst",
-                "ciudad": "barranbmeja",
-                "sector": "7,5"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29239.10128398707,
-                    -21876.12863028824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "uid": "61f00857ae0014ca",
-                "nombre": "Eddy's",
-                "token": "ed_mkt",
-                "ciudad": "barranbmeja",
-                "sector": "7,5"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29409.481190115348,
-                    -22474.484684859366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "uid": "61f00857b28014c2",
-                "nombre": "SellGoods",
-                "token": "sg_whs",
-                "ciudad": "barranbmeja",
-                "sector": "7,5"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29400.090058321755,
-                    -22269.947210149927
                 ]
             }
         },
@@ -1409,6 +1477,40 @@
                 "coordinates": [
                     -30663.088240222238,
                     44166.91089888468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e60d8a0c000025",
+                "nombre": "Port of Seattle",
+                "token": "port_sea",
+                "ciudad": "c_kofla",
+                "sector": "-8,-12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29021.42561425573,
+                    45109.22632741541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e61be4c0000001",
+                "nombre": "Oakland Shippers",
+                "token": "oak_port",
+                "ciudad": "c_kofla",
+                "sector": "-8,-12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -29034.501040462328,
+                    45059.85016862747
                 ]
             }
         },
@@ -2826,6 +2928,108 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "6297d81d9b000050",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_str1",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16938.70766118336,
+                    -50534.647468028255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6297d81e32800018",
+                "nombre": "Steeler",
+                "token": "st_met_wrk",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17125.617158097146,
+                    -50508.70548588206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6297d81e98000030",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_sit",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16951.294849077458,
+                    -50505.475902274535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6297d81f6880001d",
+                "nombre": "HMS Machinery",
+                "token": "hms_con_svc",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16808.439525003876,
+                    -50503.35117184794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6297d81f7e800049",
+                "nombre": "American Lines",
+                "token": "aml_rail_wrk",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16913.209064258375,
+                    -50498.88148071169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6297d81fe600001a",
+                "nombre": "Bushnell Farms",
+                "token": "bn_live_auc",
+                "ciudad": "f_jekko",
+                "sector": "-5,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16960.06203183952,
+                    -50539.84501515715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f0085588000c40",
                 "nombre": "Portland Cargo Central",
                 "token": "aport_pcc",
@@ -4084,6 +4288,176 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "63116d143d000009",
+                "nombre": "Plaster & Sons",
+                "token": "pns_con_grg",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39606.450977608634,
+                    -51649.404666884446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "63116d14f8800003",
+                "nombre": "Port of SF",
+                "token": "sf_port",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39502.63115973404,
+                    -51575.05117756129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "63116d15a4000001",
+                "nombre": "Sunshine Crops",
+                "token": "sc_frm_grg",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39504.01228035879,
+                    -51670.07573624583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6311ea3467000003",
+                "nombre": "Deepgrove",
+                "token": "dg_wd_saw1",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39573.69026560402,
+                    -51135.62255864294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6311ef465f000005",
+                "nombre": "Transportes Armenia",
+                "token": "armenia",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39503.59765625,
+                    -51202.3046875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6311ef4663800003",
+                "nombre": "S26",
+                "token": "s26",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39504.36328125,
+                    -51193.52734375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6311ef47fc000001",
+                "nombre": "Wolrd Logistics LTDA",
+                "token": "worldlogi",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39504.88671875,
+                    -51184.30859375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "63121f1142800001",
+                "nombre": "Olthon Homes",
+                "token": "oh_con_hom",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38223.96708635925,
+                    -49215.63194942835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "631220a427800001",
+                "nombre": "Bitumen",
+                "token": "bit_rd_svc",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38212.688992003365,
+                    -49131.173784985636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "631220a494800003",
+                "nombre": "HMS Machinery",
+                "token": "hms_con_svc",
+                "ciudad": "tamesis",
+                "sector": "-10,12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38262.19146723645,
+                    -49202.25966375861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f00854ed802915",
                 "nombre": "Page & Price Paper",
                 "token": "pnp_wd_pln",
@@ -4265,6 +4639,108 @@
                 "coordinates": [
                     -73183.93058392838,
                     -290.2067651815306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045c8f000714",
+                "nombre": "American Lines",
+                "token": "aml_rail_wrk",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77770.31334443824,
+                    2199.1573514060688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045cc8800702",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_str1",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77754.86442325432,
+                    2224.634766913102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045cde00090a",
+                "nombre": "Steeler",
+                "token": "st_met_wrk",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77900.67292680137,
+                    2245.430946439482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045ea58008a8",
+                "nombre": "Bushnell Farms",
+                "token": "bn_live_auc",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77881.06748036636,
+                    2233.0066144359002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045fe880083c",
+                "nombre": "HMS Machinery",
+                "token": "hms_con_svc",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77827.70575975374,
+                    2191.114321596452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a045ff80009dd",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_sit",
+                "ciudad": "f_fuminaya",
+                "sector": "-20,-1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78031.28855707032,
+                    2140.3869079029205
                 ]
             }
         },
@@ -5835,6 +6311,57 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "61f008578c0014bc",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_gst",
+                "ciudad": "barranbmeja",
+                "sector": "7,5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29239.10128398707,
+                    -21876.12863028824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "61f00857ae0014ca",
+                "nombre": "Eddy's",
+                "token": "ed_mkt",
+                "ciudad": "barranbmeja",
+                "sector": "7,5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29409.481190115348,
+                    -22474.484684859366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "61f00857b28014c2",
+                "nombre": "SellGoods",
+                "token": "sg_whs",
+                "ciudad": "barranbmeja",
+                "sector": "7,5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29400.090058321755,
+                    -22269.947210149927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f008551e802789",
                 "nombre": "Gallon Oil",
                 "token": "gal_oil_str1",
@@ -6900,6 +7427,57 @@
                 "coordinates": [
                     46142.66332525694,
                     42312.936920373235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a882dc300000e",
+                "nombre": "Wolrd Logistics LTDA",
+                "token": "worldlogi",
+                "ciudad": "valledupar",
+                "sector": "11,-11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46412.70703125,
+                    42806.640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a882e8480000c",
+                "nombre": "S26",
+                "token": "s26",
+                "ciudad": "valledupar",
+                "sector": "11,-11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46419.22265625,
+                    42808.05078125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a882ea8000010",
+                "nombre": "Transportes Armenia",
+                "token": "armenia",
+                "ciudad": "valledupar",
+                "sector": "11,-11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46425.43359375,
+                    42808.25
                 ]
             }
         },
@@ -12346,6 +12924,108 @@
         {
             "type": "Feature",
             "properties": {
+                "uid": "62e143e18d800005",
+                "nombre": "Fish Tail Food",
+                "token": "ftf_food_pln",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39094.784197797846,
+                    -71284.59800132384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e143e208000001",
+                "nombre": "Bitumen",
+                "token": "bit_rd_grg",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39168.352446957964,
+                    -71460.30964405676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e143e322000003",
+                "nombre": "Eddy's",
+                "token": "ed_mkt",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39138.09994853005,
+                    -71158.02039400359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a8ad02900000e",
+                "nombre": "Wolrd Logistics LTDA",
+                "token": "worldlogi",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39506.82421875,
+                    -71750
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a8ad193000010",
+                "nombre": "Transportes Armenia",
+                "token": "armenia",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39505.6015625,
+                    -71737.2265625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "632a8ad38f80000c",
+                "nombre": "S26",
+                "token": "s26",
+                "ciudad": "armenia",
+                "sector": "-10,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -39506.7734375,
+                    -71743.34375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "uid": "61f008547580074b",
                 "nombre": "Sea Horizon",
                 "token": "sh_shp_plnt",
@@ -12697,6 +13377,108 @@
                 "coordinates": [
                     -40209.70366850777,
                     -65079.312799785344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e363043b800058",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_str1",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41550.58636771935,
+                    -68971.06549164989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e363049080004e",
+                "nombre": "Bushnell Farms",
+                "token": "bn_live_auc",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41649.048461907805,
+                    -68930.06220055782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e36304b2000051",
+                "nombre": "HMS Machinery",
+                "token": "hms_con_svc",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41684.62046872312,
+                    -68711.00289222739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e3630641800018",
+                "nombre": "Steeler",
+                "token": "st_met_wrk",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41563.76091503069,
+                    -68673.6051773475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e363064e00002b",
+                "nombre": "Gallon Oil",
+                "token": "gal_oil_sit",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41557.10505089261,
+                    -68781.36512005467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "62e3630689000040",
+                "nombre": "American Lines",
+                "token": "aml_rail_wrk",
+                "ciudad": "f_victor",
+                "sector": "-11,17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41569.303406885105,
+                    -68830.28863664139
                 ]
             }
         },

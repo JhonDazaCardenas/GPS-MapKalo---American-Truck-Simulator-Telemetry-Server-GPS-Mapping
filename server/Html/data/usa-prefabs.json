@@ -1,5 +1,51 @@
 [
   {
+    "uid": "62919b4e0d000113",
+    "type": 4,
+    "x": 11361.125,
+    "y": 32357.783203125,
+    "dlcGuard": 4,
+    "token": "e10b",
+    "nodeUids": [
+      "62919b4ca50002df",
+      "62919b4d310002e0"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 2,
+    "sectorY": 8
+  },
+  {
+    "uid": "6291a6d4fa000000",
+    "type": 4,
+    "x": 11250.3046875,
+    "y": 32240.146484375,
+    "dlcGuard": 0,
+    "token": "d_con_grg",
+    "nodeUids": [
+      "6291a6d6c700000b",
+      "6291a6d5da00000c"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 2,
+    "sectorY": 8
+  },
+  {
+    "uid": "6291a6d617800002",
+    "type": 4,
+    "x": 11303.009765625,
+    "y": 32133.736328125,
+    "dlcGuard": 0,
+    "token": "d_wd_saw1",
+    "nodeUids": [
+      "6291a6d7f2800017",
+      "6291a6d7c1000018",
+      "6291a6d7e2800019"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 2,
+    "sectorY": 8
+  },
+  {
     "uid": "5365612498c0006b",
     "type": 4,
     "x": 9351.140625,
@@ -773,6 +819,38 @@
     "originNodeIndex": 0,
     "sectorX": 5,
     "sectorY": 8
+  },
+  {
+    "uid": "56cd0fb8ae140341",
+    "type": 4,
+    "x": 21140.28515625,
+    "y": -4721.62890625,
+    "dlcGuard": 52,
+    "token": "us_17",
+    "nodeUids": [
+      "589e62a2c9100000",
+      "56cd0fb8089407fd",
+      "56cd0fb8e69407fe"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 5,
+    "sectorY": -2
+  },
+  {
+    "uid": "588d54bd19a60001",
+    "type": 4,
+    "x": 24024.484375,
+    "y": -4060.60546875,
+    "dlcGuard": 50,
+    "token": "2k01u",
+    "nodeUids": [
+      "58beec0e3aa60002",
+      "588d54beb6a60002",
+      "588d54be50a60003"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 5,
+    "sectorY": -2
   },
   {
     "uid": "45ed02cc2f800efa",
@@ -4941,6 +5019,51 @@
     "sectorY": -3
   },
   {
+    "uid": "632a68c062800004",
+    "type": 4,
+    "x": -47227.99609375,
+    "y": -10276.984375,
+    "dlcGuard": 0,
+    "token": "dbmx_tufesa",
+    "nodeUids": [
+      "632a68c31a80001f",
+      "632a68c0ef800020"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -12,
+    "sectorY": -3
+  },
+  {
+    "uid": "632a68c3ad000000",
+    "type": 4,
+    "x": -47234.703125,
+    "y": -10287.826171875,
+    "dlcGuard": 0,
+    "token": "turistar",
+    "nodeUids": [
+      "632a68c0e3000011",
+      "632a68c07e000012"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -12,
+    "sectorY": -3
+  },
+  {
+    "uid": "632a68c3b4000002",
+    "type": 4,
+    "x": -47230.76171875,
+    "y": -10282.564453125,
+    "dlcGuard": 0,
+    "token": "dbmx_aguila",
+    "nodeUids": [
+      "632a68c21a800018",
+      "632a68c0f0800019"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -12,
+    "sectorY": -3
+  },
+  {
     "uid": "460bc5f4c0c00001",
     "type": 4,
     "x": -47327.0546875,
@@ -5274,280 +5397,6 @@
     "originNodeIndex": 0,
     "sectorX": 3,
     "sectorY": 13
-  },
-  {
-    "uid": "488a1758068000a0",
-    "type": 4,
-    "x": 29296.32421875,
-    "y": 22010.357421875,
-    "dlcGuard": 0,
-    "token": "us_gas_13",
-    "nodeUids": [
-      "488a17587cc00268",
-      "488a1758fb000269"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17580f40002f",
-    "type": 4,
-    "x": 29274.072265625,
-    "y": 21861.6484375,
-    "dlcGuard": 0,
-    "token": "us_80",
-    "nodeUids": [
-      "488a175868c001d7",
-      "488a17586f4001d8",
-      "488a17586e0001d9"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a1758138000bd",
-    "type": 4,
-    "x": 28879.33984375,
-    "y": 22231.52734375,
-    "dlcGuard": 0,
-    "token": "d_car_deal",
-    "nodeUids": [
-      "488a17589bc00297",
-      "488a17582bc00298"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17581840008d",
-    "type": 4,
-    "x": 29370.46875,
-    "y": 21917.921875,
-    "dlcGuard": 4,
-    "token": "e10b",
-    "nodeUids": [
-      "488a1758f3c00251",
-      "488a175802400252"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a175826400095",
-    "type": 4,
-    "x": 29288.541015625,
-    "y": 21975.916015625,
-    "dlcGuard": 0,
-    "token": "us_gas_14",
-    "nodeUids": [
-      "488a17583300025e",
-      "488a17581140025f"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a175840400038",
-    "type": 4,
-    "x": 29241.419921875,
-    "y": 21852.353515625,
-    "dlcGuard": 0,
-    "token": "us_gas_06",
-    "nodeUids": [
-      "488a1758ccc001e7",
-      "488a1758274001e8"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17584b80014d",
-    "type": 4,
-    "x": 29443.4609375,
-    "y": 21776.8515625,
-    "dlcGuard": 0,
-    "token": "us_47n",
-    "nodeUids": [
-      "488a17587b8001f4",
-      "488a1758e9000353"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17584d40014e",
-    "type": 4,
-    "x": 29483.123046875,
-    "y": 21757.41796875,
-    "dlcGuard": 0,
-    "token": "us_60",
-    "nodeUids": [
-      "488a1758e9000353",
-      "488a1758dc80034b"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a175855000161",
-    "type": 4,
-    "x": 29408.25390625,
-    "y": 22214.728515625,
-    "dlcGuard": 0,
-    "token": "d_gen_whs",
-    "nodeUids": [
-      "488a175812400370",
-      "488a1758c8c00371"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17585f400058",
-    "type": 4,
-    "x": 29206.0625,
-    "y": 21873.853515625,
-    "dlcGuard": 0,
-    "token": "us_102",
-    "nodeUids": [
-      "488a175885c0020d",
-      "488a175898c001b2"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17589d00005e",
-    "type": 4,
-    "x": 29218.119140625,
-    "y": 21937.677734375,
-    "dlcGuard": 0,
-    "token": "nm_119",
-    "nodeUids": [
-      "488a175829c00213",
-      "488a17589740020e",
-      "488a17588cc00214",
-      "488a1758f2800215"
-    ],
-    "originNodeIndex": 2,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a17589dc00040",
-    "type": 4,
-    "x": 29317.484375,
-    "y": 21845.62109375,
-    "dlcGuard": 0,
-    "token": "us_102",
-    "nodeUids": [
-      "488a1758cd8001da",
-      "488a175888c001f0"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a1758ad80013c",
-    "type": 4,
-    "x": 29390.4609375,
-    "y": 22518.87890625,
-    "dlcGuard": 0,
-    "token": "d_food_mkt2",
-    "nodeUids": [
-      "488a17583ac0033d",
-      "488a1758d4c0033e"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a1758af400060",
-    "type": 4,
-    "x": 29228.27734375,
-    "y": 22009.890625,
-    "dlcGuard": 0,
-    "token": "us_80",
-    "nodeUids": [
-      "488a1758f2800215",
-      "488a17581c400216",
-      "488a1758b9c00217"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a1758efc0006f",
-    "type": 4,
-    "x": 29164.041015625,
-    "y": 21994.431640625,
-    "dlcGuard": 0,
-    "token": "us_102",
-    "nodeUids": [
-      "488a17582f40022a",
-      "488a17582c000227"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "488a1758fa80006d",
-    "type": 4,
-    "x": 29173.603515625,
-    "y": 21977.87109375,
-    "dlcGuard": 0,
-    "token": "us_74n",
-    "nodeUids": [
-      "488a1758ce400228",
-      "488a1758f4800229"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "4d180a809f4000be",
-    "type": 4,
-    "x": 30085.712890625,
-    "y": 21512.615234375,
-    "dlcGuard": 0,
-    "token": "e10b",
-    "nodeUids": [
-      "4d180a80bc800215",
-      "4d180a808bc00216"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
-  },
-  {
-    "uid": "4d180a80d0400071",
-    "type": 4,
-    "x": 30186.078125,
-    "y": 21523.521484375,
-    "dlcGuard": 4,
-    "token": "e10b",
-    "nodeUids": [
-      "4d180a80638001bf",
-      "4d180a80250001c0"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 7,
-    "sectorY": 5
   },
   {
     "uid": "5cbcd4427c000000",
@@ -5892,38 +5741,6 @@
     "originNodeIndex": 1,
     "sectorX": 7,
     "sectorY": 13
-  },
-  {
-    "uid": "56cd0fb8ae140341",
-    "type": 4,
-    "x": 21140.28515625,
-    "y": -4721.62890625,
-    "dlcGuard": 52,
-    "token": "us_17",
-    "nodeUids": [
-      "589e62a2c9100000",
-      "56cd0fb8089407fd",
-      "56cd0fb8e69407fe"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 5,
-    "sectorY": -2
-  },
-  {
-    "uid": "588d54bd19a60001",
-    "type": 4,
-    "x": 24024.484375,
-    "y": -4060.60546875,
-    "dlcGuard": 50,
-    "token": "2k01u",
-    "nodeUids": [
-      "58beec0e3aa60002",
-      "588d54beb6a60002",
-      "588d54be50a60003"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": 5,
-    "sectorY": -2
   },
   {
     "uid": "2855e5b4024001b9",
@@ -6390,6 +6207,52 @@
     "nodeUids": [
       "6288af0b3280005a",
       "6288af0a2b80005b"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "62e60d8967800024",
+    "type": 4,
+    "x": -28916.271484375,
+    "y": -45184.33203125,
+    "dlcGuard": 0,
+    "token": "d_port_sea",
+    "nodeUids": [
+      "62e60d88b1000051",
+      "62e60d8994000052"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "62e61be6a6000000",
+    "type": 4,
+    "x": -29059.44140625,
+    "y": -44991.59765625,
+    "dlcGuard": 0,
+    "token": "d_port_oakl",
+    "nodeUids": [
+      "62e61be6b6800009",
+      "62e6cf4304000000"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -8,
+    "sectorY": -12
+  },
+  {
+    "uid": "62e6ba84c8000000",
+    "type": 4,
+    "x": -28968.46484375,
+    "y": -44903.1171875,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "62e6ba861d000001",
+      "62e6b82b6d000002",
+      "62e6ba8636000003"
     ],
     "originNodeIndex": 0,
     "sectorX": -8,
@@ -17845,6 +17708,158 @@
     "sectorY": 11
   },
   {
+    "uid": "6297340c1b000001",
+    "type": 4,
+    "x": -17860.369140625,
+    "y": 50898.95703125,
+    "dlcGuard": 0,
+    "token": "us_218",
+    "nodeUids": [
+      "629733efd9000000",
+      "6297340edf000002",
+      "6297337d780000f1"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d1be69800001",
+    "type": 4,
+    "x": -17206.939453125,
+    "y": 50435.6171875,
+    "dlcGuard": 0,
+    "token": "1171fld",
+    "nodeUids": [
+      "6297d1bd01000000",
+      "6297d1bc0f800002"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d1d068800001",
+    "type": 4,
+    "x": -17207.447265625,
+    "y": 50448.015625,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "6297d1d05f800000",
+      "6297d1d31c800002"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81c2e000017",
+    "type": 4,
+    "x": -17082.35546875,
+    "y": 50449.87890625,
+    "dlcGuard": 0,
+    "token": "d_met_wrk1",
+    "nodeUids": [
+      "6297d81fb3800071",
+      "6297d81e26000072"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81d9000004f",
+    "type": 4,
+    "x": -16909.701171875,
+    "y": 50565.25390625,
+    "dlcGuard": 13,
+    "token": "d_oil_str1",
+    "nodeUids": [
+      "6297d81c420000cd",
+      "6297d81c008000ce"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81da4800019",
+    "type": 4,
+    "x": -16999.458984375,
+    "y": 50560.93359375,
+    "dlcGuard": 13,
+    "token": "d_farm_mkt1",
+    "nodeUids": [
+      "6297d81d3500007a",
+      "6297d81f1800007b"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81e11800048",
+    "type": 4,
+    "x": -16900.19921875,
+    "y": 50459.77734375,
+    "dlcGuard": 0,
+    "token": "d_rail_sit",
+    "nodeUids": [
+      "6297d81c420000bf",
+      "6297d81e6c8000c0",
+      "6297d81eb58000c1"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81f1980001c",
+    "type": 4,
+    "x": -16834.279296875,
+    "y": 50452.2890625,
+    "dlcGuard": 0,
+    "token": "d_con_svc1",
+    "nodeUids": [
+      "6297d81e46000084",
+      "6297d81e88000085"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81fdb80002f",
+    "type": 4,
+    "x": -16983.6015625,
+    "y": 50458.1640625,
+    "dlcGuard": 13,
+    "token": "d_oil_site",
+    "nodeUids": [
+      "6297d81e0d00009e",
+      "6297d81d8680009f"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
+    "uid": "6297d81fe3000031",
+    "type": 4,
+    "x": -17098.765625,
+    "y": 50585.87109375,
+    "dlcGuard": 0,
+    "token": "poor_garage",
+    "nodeUids": [
+      "6297d81da58000a4",
+      "6297d81c898000a5"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -5,
+    "sectorY": 12
+  },
+  {
     "uid": "48d389ccb4400001",
     "type": 4,
     "x": -19172.267578125,
@@ -18292,6 +18307,22 @@
       "52e662b099400003"
     ],
     "originNodeIndex": 0,
+    "sectorX": -6,
+    "sectorY": 8
+  },
+  {
+    "uid": "634233b675000001",
+    "type": 4,
+    "x": -23381.34375,
+    "y": 33703.8515625,
+    "dlcGuard": 0,
+    "token": "us_377",
+    "nodeUids": [
+      "634232477c000002",
+      "634233b71c800002",
+      "634233b4e3800003"
+    ],
+    "originNodeIndex": 1,
     "sectorX": -6,
     "sectorY": 8
   },
@@ -18934,6 +18965,22 @@
     "originNodeIndex": 0,
     "sectorX": -6,
     "sectorY": 11
+  },
+  {
+    "uid": "6296f9f43e000001",
+    "type": 4,
+    "x": -21051.88671875,
+    "y": 51842.98828125,
+    "dlcGuard": 0,
+    "token": "us_218",
+    "nodeUids": [
+      "6296f37198000000",
+      "6296f9f454800002",
+      "6296f9f58d800003"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -6,
+    "sectorY": 12
   },
   {
     "uid": "5c1bd56403800027",
@@ -23403,8 +23450,8 @@
   {
     "uid": "457bca9899c00000",
     "type": 4,
-    "x": -36089.21875,
-    "y": 48303.08203125,
+    "x": -36090.9921875,
+    "y": 48300.2421875,
     "dlcGuard": 0,
     "token": "us_157",
     "nodeUids": [
@@ -23520,6 +23567,346 @@
       "5b40f9453f0000a6"
     ],
     "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6307208c51800001",
+    "type": 4,
+    "x": -36162.546875,
+    "y": 48295.15234375,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "63071f1701800000",
+      "6307208f81800002",
+      "6307208efb800003"
+    ],
+    "originNodeIndex": 2,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630bc698c8800000",
+    "type": 4,
+    "x": -36204.1484375,
+    "y": 48937.39453125,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630722ba16000000",
+      "630bc69a94800002",
+      "630bc69956000003"
+    ],
+    "originNodeIndex": 2,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b488c000004",
+    "type": 4,
+    "x": -39526.890625,
+    "y": 51394.8125,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b486a000017",
+      "630c1b4b82000018",
+      "630c1b48a3000019"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b4a8300000c",
+    "type": 4,
+    "x": -39519.1171875,
+    "y": 51494.1875,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b4938800022",
+      "630c1b4b4480001e",
+      "630c1b4a4f800021"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b4b07800002",
+    "type": 4,
+    "x": -39411.515625,
+    "y": 51263.015625,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b4a65800014",
+      "63116975bc000000",
+      "630c1b4b23000013"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b4b2080000a",
+    "type": 4,
+    "x": -39402.21875,
+    "y": 51488.46875,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b48eb00001c",
+      "630c1b4a5180001f",
+      "630c1b4b31800020"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b4b3f80000f",
+    "type": 4,
+    "x": -39536.765625,
+    "y": 51273.9453125,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b4b2e800024",
+      "630c1b483a000010",
+      "630c1b48c8000012"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c1b4bea000006",
+    "type": 4,
+    "x": -39407.0078125,
+    "y": 51385.8203125,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "630c1b491c800016",
+      "630c1b480080001b",
+      "630c1b499b00001a"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "630c9e9ef3000001",
+    "type": 4,
+    "x": -39427.28515625,
+    "y": 51138.671875,
+    "dlcGuard": 0,
+    "token": "e11t",
+    "nodeUids": [
+      "630c9e9c31800000",
+      "630c9e9ce1000002"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "63116d1590000008",
+    "type": 4,
+    "x": -39587.9375,
+    "y": 51692.28515625,
+    "dlcGuard": 0,
+    "token": "d_con_grg",
+    "nodeUids": [
+      "63116d15bf000032",
+      "63116d17a0800033"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "63116d15aa000002",
+    "type": 4,
+    "x": -39469.7890625,
+    "y": 51571.51171875,
+    "dlcGuard": 0,
+    "token": "d_port_sf",
+    "nodeUids": [
+      "63116d14ac000019",
+      "63116d141b00001a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "63116d1798800000",
+    "type": 4,
+    "x": -39461.31640625,
+    "y": 51651.02734375,
+    "dlcGuard": 0,
+    "token": "d_farm_grg",
+    "nodeUids": [
+      "63116d14cb800011",
+      "63116d1755000012"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6311ea3424800002",
+    "type": 4,
+    "x": -39616.3125,
+    "y": 51152.34765625,
+    "dlcGuard": 0,
+    "token": "d_wd_saw1",
+    "nodeUids": [
+      "6311ea362a800018",
+      "6311ea3650000019",
+      "6311ea354f00001a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6311ef44af000000",
+    "type": 4,
+    "x": -39499.9765625,
+    "y": 51183.9921875,
+    "dlcGuard": 0,
+    "token": "turistar",
+    "nodeUids": [
+      "6311ef46d0000013",
+      "6311ef472d800014"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6311ef461c800004",
+    "type": 4,
+    "x": -39498.69140625,
+    "y": 51201.9140625,
+    "dlcGuard": 0,
+    "token": "dbmx_tufesa",
+    "nodeUids": [
+      "6311ef45db800021",
+      "6311ef4717800022"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6311ef4717000002",
+    "type": 4,
+    "x": -39499.46484375,
+    "y": 51193.13671875,
+    "dlcGuard": 0,
+    "token": "dbmx_aguila",
+    "nodeUids": [
+      "6311ef45df80001a",
+      "6311ef44c180001b"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6311f602a2000004",
+    "type": 4,
+    "x": -39507.9609375,
+    "y": 51167.875,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "6311f6007b000003",
+      "6311f60193800005"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "63120e5dc3800002",
+    "type": 4,
+    "x": -38118.671875,
+    "y": 49029.85546875,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "63120d8124800000",
+      "63120e5d75800004",
+      "63120e5c44800007"
+    ],
+    "originNodeIndex": 2,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "63121f1133800000",
+    "type": 4,
+    "x": -38164.91796875,
+    "y": 49265.5859375,
+    "dlcGuard": 0,
+    "token": "d_con_hom",
+    "nodeUids": [
+      "63121f11d580000b",
+      "63121f12f480000c"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "631220a685800000",
+    "type": 4,
+    "x": -38186.71875,
+    "y": 49136.078125,
+    "dlcGuard": 0,
+    "token": "d_road_svc",
+    "nodeUids": [
+      "631220a53d800009",
+      "631220a5c800000a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "631220a6d8000002",
+    "type": 4,
+    "x": -38246.71875,
+    "y": 49175.9921875,
+    "dlcGuard": 0,
+    "token": "d_con_svc",
+    "nodeUids": [
+      "631220a422000012",
+      "631220a741000013"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 12
+  },
+  {
+    "uid": "6337d7279a800001",
+    "type": 4,
+    "x": -39691.890625,
+    "y": 51998.89453125,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "6337d725b5800000",
+      "6337d7245d800002"
+    ],
+    "originNodeIndex": 0,
     "sectorX": -10,
     "sectorY": 12
   },
@@ -24295,8 +24682,8 @@
   {
     "uid": "4a6f41e4fb800005",
     "type": 4,
-    "x": -73206.48828125,
-    "y": -2101.67578125,
+    "x": -73203.52734375,
+    "y": -2140.92578125,
     "dlcGuard": 0,
     "token": "e10b",
     "nodeUids": [
@@ -24412,6 +24799,158 @@
     "originNodeIndex": 1,
     "sectorX": -19,
     "sectorY": -2
+  },
+  {
+    "uid": "6317cb98ad800000",
+    "type": 4,
+    "x": -75871.4375,
+    "y": -5114.97265625,
+    "dlcGuard": 0,
+    "token": "us_23n",
+    "nodeUids": [
+      "6317ca7142800000",
+      "6317cb9b9c800002",
+      "6317cb986f000003"
+    ],
+    "originNodeIndex": 2,
+    "sectorX": -19,
+    "sectorY": -2
+  },
+  {
+    "uid": "632a045dc4000701",
+    "type": 4,
+    "x": -77712.8984375,
+    "y": -2215.984375,
+    "dlcGuard": 13,
+    "token": "d_oil_str1",
+    "nodeUids": [
+      "632a045ee40011db",
+      "632a045e520011dc"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045dc58008a7",
+    "type": 4,
+    "x": -77903.37890625,
+    "y": -2194.234375,
+    "dlcGuard": 13,
+    "token": "d_farm_mkt1",
+    "nodeUids": [
+      "632a045e960013b4",
+      "632a045fe00013b5"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045dd700083b",
+    "type": 4,
+    "x": -77857.19921875,
+    "y": -2139.53125,
+    "dlcGuard": 0,
+    "token": "d_con_svc1",
+    "nodeUids": [
+      "632a045e78001340",
+      "632a045f24001341"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045e568009dc",
+    "type": 4,
+    "x": -78055.0546875,
+    "y": -2088.193359375,
+    "dlcGuard": 13,
+    "token": "d_oil_site",
+    "nodeUids": [
+      "632a045d9f0012b9",
+      "632a045ff1001503"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045e83000909",
+    "type": 4,
+    "x": -77973.72265625,
+    "y": -2249.822265625,
+    "dlcGuard": 0,
+    "token": "d_met_wrk1",
+    "nodeUids": [
+      "632a045e01801422",
+      "632a045c39001423"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045e8c0007fd",
+    "type": 4,
+    "x": -77784.23046875,
+    "y": -2334.9921875,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "632a045e760012f9",
+      "632a045e3a0012fa"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045eb00007be",
+    "type": 4,
+    "x": -77856.1953125,
+    "y": -2416.51171875,
+    "dlcGuard": 0,
+    "token": "poor_garage",
+    "nodeUids": [
+      "632a045c8d0012b0",
+      "632a045fce8012b1"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045eef800713",
+    "type": 4,
+    "x": -77760.53125,
+    "y": -2158.326171875,
+    "dlcGuard": 0,
+    "token": "d_rail_sit",
+    "nodeUids": [
+      "632a045db90011f3",
+      "632a045f4b0011f4",
+      "632a045df70011f5"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -20,
+    "sectorY": -1
+  },
+  {
+    "uid": "632a045fbf800752",
+    "type": 4,
+    "x": -77776.9375,
+    "y": -2340.92578125,
+    "dlcGuard": 0,
+    "token": "1171fld",
+    "nodeUids": [
+      "632a045e15801238",
+      "632a045e80001239"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -20,
+    "sectorY": -1
   },
   {
     "uid": "460b6a1812401209",
@@ -36471,6 +37010,280 @@
     "sectorY": -16
   },
   {
+    "uid": "488a1758068000a0",
+    "type": 4,
+    "x": 29296.32421875,
+    "y": 22010.357421875,
+    "dlcGuard": 0,
+    "token": "us_gas_13",
+    "nodeUids": [
+      "488a17587cc00268",
+      "488a1758fb000269"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17580f40002f",
+    "type": 4,
+    "x": 29274.072265625,
+    "y": 21861.6484375,
+    "dlcGuard": 0,
+    "token": "us_80",
+    "nodeUids": [
+      "488a175868c001d7",
+      "488a17586f4001d8",
+      "488a17586e0001d9"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758138000bd",
+    "type": 4,
+    "x": 28879.33984375,
+    "y": 22231.52734375,
+    "dlcGuard": 0,
+    "token": "d_car_deal",
+    "nodeUids": [
+      "488a17589bc00297",
+      "488a17582bc00298"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17581840008d",
+    "type": 4,
+    "x": 29370.46875,
+    "y": 21917.921875,
+    "dlcGuard": 4,
+    "token": "e10b",
+    "nodeUids": [
+      "488a1758f3c00251",
+      "488a175802400252"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175826400095",
+    "type": 4,
+    "x": 29288.541015625,
+    "y": 21975.916015625,
+    "dlcGuard": 0,
+    "token": "us_gas_14",
+    "nodeUids": [
+      "488a17583300025e",
+      "488a17581140025f"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175840400038",
+    "type": 4,
+    "x": 29241.419921875,
+    "y": 21852.353515625,
+    "dlcGuard": 0,
+    "token": "us_gas_06",
+    "nodeUids": [
+      "488a1758ccc001e7",
+      "488a1758274001e8"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17584b80014d",
+    "type": 4,
+    "x": 29443.4609375,
+    "y": 21776.8515625,
+    "dlcGuard": 0,
+    "token": "us_47n",
+    "nodeUids": [
+      "488a17587b8001f4",
+      "488a1758e9000353"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17584d40014e",
+    "type": 4,
+    "x": 29483.123046875,
+    "y": 21757.41796875,
+    "dlcGuard": 0,
+    "token": "us_60",
+    "nodeUids": [
+      "488a1758e9000353",
+      "488a1758dc80034b"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a175855000161",
+    "type": 4,
+    "x": 29408.25390625,
+    "y": 22214.728515625,
+    "dlcGuard": 0,
+    "token": "d_gen_whs",
+    "nodeUids": [
+      "488a175812400370",
+      "488a1758c8c00371"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17585f400058",
+    "type": 4,
+    "x": 29206.0625,
+    "y": 21873.853515625,
+    "dlcGuard": 0,
+    "token": "us_102",
+    "nodeUids": [
+      "488a175885c0020d",
+      "488a175898c001b2"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17589d00005e",
+    "type": 4,
+    "x": 29218.119140625,
+    "y": 21937.677734375,
+    "dlcGuard": 0,
+    "token": "nm_119",
+    "nodeUids": [
+      "488a175829c00213",
+      "488a17589740020e",
+      "488a17588cc00214",
+      "488a1758f2800215"
+    ],
+    "originNodeIndex": 2,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a17589dc00040",
+    "type": 4,
+    "x": 29317.484375,
+    "y": 21845.62109375,
+    "dlcGuard": 0,
+    "token": "us_102",
+    "nodeUids": [
+      "488a1758cd8001da",
+      "488a175888c001f0"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758ad80013c",
+    "type": 4,
+    "x": 29390.4609375,
+    "y": 22518.87890625,
+    "dlcGuard": 0,
+    "token": "d_food_mkt2",
+    "nodeUids": [
+      "488a17583ac0033d",
+      "488a1758d4c0033e"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758af400060",
+    "type": 4,
+    "x": 29228.27734375,
+    "y": 22009.890625,
+    "dlcGuard": 0,
+    "token": "us_80",
+    "nodeUids": [
+      "488a1758f2800215",
+      "488a17581c400216",
+      "488a1758b9c00217"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758efc0006f",
+    "type": 4,
+    "x": 29164.041015625,
+    "y": 21994.431640625,
+    "dlcGuard": 0,
+    "token": "us_102",
+    "nodeUids": [
+      "488a17582f40022a",
+      "488a17582c000227"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "488a1758fa80006d",
+    "type": 4,
+    "x": 29173.603515625,
+    "y": 21977.87109375,
+    "dlcGuard": 0,
+    "token": "us_74n",
+    "nodeUids": [
+      "488a1758ce400228",
+      "488a1758f4800229"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "4d180a809f4000be",
+    "type": 4,
+    "x": 30085.712890625,
+    "y": 21512.615234375,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "4d180a80bc800215",
+      "4d180a808bc00216"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
+    "uid": "4d180a80d0400071",
+    "type": 4,
+    "x": 30186.078125,
+    "y": 21523.521484375,
+    "dlcGuard": 4,
+    "token": "e10b",
+    "nodeUids": [
+      "4d180a80638001bf",
+      "4d180a80250001c0"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 7,
+    "sectorY": 5
+  },
+  {
     "uid": "5c1c05584e00002c",
     "type": 4,
     "x": 28107.529296875,
@@ -41569,6 +42382,51 @@
     "nodeUids": [
       "4a0377149d80015f",
       "6024ca7c55800002"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "632a882d5400000f",
+    "type": 4,
+    "x": 46424.5234375,
+    "y": -42813.0859375,
+    "dlcGuard": 0,
+    "token": "dbmx_tufesa",
+    "nodeUids": [
+      "632a882fd2000040",
+      "632a882c5f800041"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "632a882ec300000d",
+    "type": 4,
+    "x": 46411.8671875,
+    "y": -42811.48828125,
+    "dlcGuard": 0,
+    "token": "turistar",
+    "nodeUids": [
+      "632a882d9a800039",
+      "632a882c0c80003a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": 11,
+    "sectorY": -11
+  },
+  {
+    "uid": "632a882ecd00000b",
+    "type": 4,
+    "x": 46418.3046875,
+    "y": -42812.88671875,
+    "dlcGuard": 0,
+    "token": "dbmx_aguila",
+    "nodeUids": [
+      "632a882e69800032",
+      "632a882fe7800033"
     ],
     "originNodeIndex": 0,
     "sectorX": 11,
@@ -61948,7 +62806,7 @@
   {
     "uid": "3ac62e1858c00001",
     "type": 4,
-    "x": -39451.55859375,
+    "x": -39451.57421875,
     "y": 64694.66015625,
     "dlcGuard": 0,
     "token": "d_hs_whs",
@@ -62711,21 +63569,6 @@
     "sectorY": 17
   },
   {
-    "uid": "2862d9cc814002d9",
-    "type": 4,
-    "x": -39173.390625,
-    "y": 71403.5,
-    "dlcGuard": 0,
-    "token": "43d",
-    "nodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": -10,
-    "sectorY": 17
-  },
-  {
     "uid": "2862d9cc82800341",
     "type": 4,
     "x": -39105.78125,
@@ -62745,7 +63588,7 @@
     "uid": "2862d9cc8b800186",
     "type": 4,
     "x": -39092.60546875,
-    "y": 71056.91015625,
+    "y": 71058.52734375,
     "dlcGuard": 0,
     "token": "us_42n",
     "nodeUids": [
@@ -62805,21 +63648,6 @@
     "sectorY": 17
   },
   {
-    "uid": "2862d9cca8800124",
-    "type": 4,
-    "x": -39111.4921875,
-    "y": 71127.625,
-    "dlcGuard": 0,
-    "token": "d_el_whs",
-    "nodeUids": [
-      "2862d9cc78000515",
-      "2862d9ccb48004d2"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": -10,
-    "sectorY": 17
-  },
-  {
     "uid": "2862d9cca98001af",
     "type": 4,
     "x": -39050.1640625,
@@ -62861,21 +63689,6 @@
     "nodeUids": [
       "2862d9cce7c004c1",
       "2862d9ccc38004c2"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": -10,
-    "sectorY": 17
-  },
-  {
-    "uid": "2862d9ccc800014f",
-    "type": 4,
-    "x": -39170.90625,
-    "y": 71233.71484375,
-    "dlcGuard": 0,
-    "token": "d_car_whs",
-    "nodeUids": [
-      "2862d9cc44800553",
-      "2862d9cce2800554"
     ],
     "originNodeIndex": 1,
     "sectorX": -10,
@@ -63411,21 +64224,6 @@
     "sectorY": 17
   },
   {
-    "uid": "2ef4683446800041",
-    "type": 4,
-    "x": -39556.19921875,
-    "y": 71774.11328125,
-    "dlcGuard": 0,
-    "token": "6002",
-    "nodeUids": [
-      "2ef46834d24000ca",
-      "2ef46834b10000cb"
-    ],
-    "originNodeIndex": 0,
-    "sectorX": -10,
-    "sectorY": 17
-  },
-  {
     "uid": "2ef4683460000003",
     "type": 4,
     "x": -39450,
@@ -63558,21 +64356,6 @@
     "nodeUids": [
       "35ac98d04140015f",
       "35ac98d0fbc00160"
-    ],
-    "originNodeIndex": 1,
-    "sectorX": -10,
-    "sectorY": 17
-  },
-  {
-    "uid": "35ac98d0bf0000c2",
-    "type": 4,
-    "x": -39109.703125,
-    "y": 71246.98046875,
-    "dlcGuard": 0,
-    "token": "d_food_mkt",
-    "nodeUids": [
-      "35ac98d0eb4001dd",
-      "35ac98d0690001de"
     ],
     "originNodeIndex": 1,
     "sectorX": -10,
@@ -64218,6 +65001,112 @@
     "nodeUids": [
       "55c8852158800003",
       "55c8852389000004"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e143e1f9800000",
+    "type": 4,
+    "x": -39184.8828125,
+    "y": 71416.625,
+    "dlcGuard": 0,
+    "token": "d_road_grg",
+    "nodeUids": [
+      "62e143e3d380000d",
+      "62e143e0a800000e"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e143e24c800004",
+    "type": 4,
+    "x": -39143.0546875,
+    "y": 71235.26953125,
+    "dlcGuard": 0,
+    "token": "d_food_plnt2",
+    "nodeUids": [
+      "62e143e1ba80001e",
+      "62e143e0a080001f"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e143e30e000002",
+    "type": 4,
+    "x": -39114.21875,
+    "y": 71143.84375,
+    "dlcGuard": 0,
+    "token": "d_food_mkt",
+    "nodeUids": [
+      "62e143e3a8800014",
+      "62e143e3a9000015"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e280c3c8800001",
+    "type": 4,
+    "x": -39829.12109375,
+    "y": 70282.48828125,
+    "dlcGuard": 4,
+    "token": "us_233",
+    "nodeUids": [
+      "62e283e42f000000",
+      "62e267433f000067",
+      "62e280c166000003"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "632a8ad07280000f",
+    "type": 4,
+    "x": -39510.51953125,
+    "y": 71737.06640625,
+    "dlcGuard": 0,
+    "token": "dbmx_tufesa",
+    "nodeUids": [
+      "632a8ad05e800040",
+      "632a8ad0db800041"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "632a8ad13480000d",
+    "type": 4,
+    "x": -39511.7421875,
+    "y": 71749.765625,
+    "dlcGuard": 0,
+    "token": "turistar",
+    "nodeUids": [
+      "632a8ad0f9800039",
+      "632a8ad16900003a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -10,
+    "sectorY": 17
+  },
+  {
+    "uid": "632a8ad2f400000b",
+    "type": 4,
+    "x": -39511.69140625,
+    "y": 71743.18359375,
+    "dlcGuard": 0,
+    "token": "dbmx_aguila",
+    "nodeUids": [
+      "632a8ad3ff800032",
+      "632a8ad240800033"
     ],
     "originNodeIndex": 0,
     "sectorX": -10,
@@ -66103,6 +66992,127 @@
     "originNodeIndex": 1,
     "sectorX": -11,
     "sectorY": 16
+  },
+  {
+    "uid": "62e363047f00004d",
+    "type": 4,
+    "x": -41668.9140625,
+    "y": 68889.99609375,
+    "dlcGuard": 13,
+    "token": "d_farm_mkt1",
+    "nodeUids": [
+      "62e36306428000c6",
+      "62e36307a10000c7"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e36304a480003f",
+    "type": 4,
+    "x": -41530.2109375,
+    "y": 68843.3046875,
+    "dlcGuard": 0,
+    "token": "d_rail_sit",
+    "nodeUids": [
+      "62e36305968000ae",
+      "62e36307040000af",
+      "62e36304f38000b0"
+    ],
+    "originNodeIndex": 1,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e3630506000057",
+    "type": 4,
+    "x": -41520.00390625,
+    "y": 68941.76953125,
+    "dlcGuard": 13,
+    "token": "d_oil_str1",
+    "nodeUids": [
+      "62e36305c18000dd",
+      "62e36306d18000de"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e36305b5800017",
+    "type": 4,
+    "x": -41623.03515625,
+    "y": 68630.99609375,
+    "dlcGuard": 0,
+    "token": "d_met_wrk1",
+    "nodeUids": [
+      "62e36307ff800079",
+      "62e36304cf00007a"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e363068c00002a",
+    "type": 4,
+    "x": -41509.109375,
+    "y": 68750.03125,
+    "dlcGuard": 13,
+    "token": "d_oil_site",
+    "nodeUids": [
+      "62e3630430800093",
+      "62e3630631000094"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e3630700800050",
+    "type": 4,
+    "x": -41658.140625,
+    "y": 68761.765625,
+    "dlcGuard": 0,
+    "token": "d_con_svc1",
+    "nodeUids": [
+      "62e36304d00000d0",
+      "62e36304b80000d1"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e365e5b6800005",
+    "type": 4,
+    "x": -41698.42578125,
+    "y": 68965.86328125,
+    "dlcGuard": 0,
+    "token": "e10b",
+    "nodeUids": [
+      "62e365e687800011",
+      "62e365e461000012"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
+  },
+  {
+    "uid": "62e3677a3d800003",
+    "type": 4,
+    "x": -41624.75390625,
+    "y": 68988.65625,
+    "dlcGuard": 0,
+    "token": "1171fld",
+    "nodeUids": [
+      "62e3677a6800000a",
+      "62e367799700000b"
+    ],
+    "originNodeIndex": 0,
+    "sectorX": -11,
+    "sectorY": 17
   },
   {
     "uid": "47881bb00500001e",

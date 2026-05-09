@@ -1,6 +1,6 @@
 ﻿// ============================================
 // GPS MapKalo by DevZeros S.A.S
-// VERSION COMPLETA CON MODO OSCURO Y VOZ LEGIBLE
+// GPS MapKalo v2.0 - Modo oscuro, voz legible, sin rotación en seguimiento
 // ============================================
 
 // --- VARIABLES GLOBALES ---
@@ -1072,6 +1072,39 @@ async function updateGPS() {
             const tons = (mass / 1000).toFixed(1);
             cargoElement.innerText = mass > 0 ? `${name} (${tons}t)` : name;
         }
+
+        function getDamageColor(pct) {
+            if (pct <= 5) return '#4CAF50';
+            if (pct <= 20) return '#FF9800';
+            if (pct <= 40) return '#FF5722';
+            return '#F44336';
+        }
+
+        function getDamageFilter(pct) {
+            if (pct <= 5) return 'brightness(0) saturate(100%) invert(56%) sepia(47%) saturate(777%) hue-rotate(86deg) brightness(96%) contrast(91%)';
+            if (pct <= 20) return 'brightness(0) saturate(100%) invert(68%) sepia(82%) saturate(512%) hue-rotate(360deg) brightness(101%) contrast(103%)';
+            if (pct <= 40) return 'brightness(0) saturate(100%) invert(42%) sepia(87%) saturate(2393%) hue-rotate(352deg) brightness(96%) contrast(101%)';
+            return 'brightness(0) saturate(100%) invert(27%) sepia(96%) saturate(7483%) hue-rotate(357deg) brightness(96%) contrast(99%)';
+        }
+
+        function setDamageDisplay(el, iconEl, pct) {
+            if (el) { el.innerText = pct.toFixed(1) + '%'; el.style.color = getDamageColor(pct); }
+            if (iconEl) { iconEl.style.filter = getDamageFilter(pct); }
+        }
+
+        const damageRow = document.getElementById('damage-row');
+        if (damageRow) {
+            const truckWears = [truck.wearEngine, truck.wearTransmission, truck.wearCabin, truck.wearChassis, truck.wearWheels].filter(v => v !== undefined && v !== null);
+            const truckDamage = truckWears.length > 0 ? truckWears.reduce((a, b) => a + b, 0) / truckWears.length * 100 : 0;
+            const trailerDamage = (trailer && trailer.wear !== undefined) ? trailer.wear * 100 : 0;
+            const cargoDamage = trailerDamage * 0.65;
+
+            setDamageDisplay(document.getElementById('ui-damage-truck'), document.getElementById('damage-icon-truck'), truckDamage);
+            setDamageDisplay(document.getElementById('ui-damage-trailer'), document.getElementById('damage-icon-trailer'), trailerDamage);
+            setDamageDisplay(document.getElementById('ui-damage-cargo'), document.getElementById('damage-icon-cargo'), cargoDamage);
+
+            damageRow.style.display = 'block';
+        }
         
         // Extraer coordenadas del camión (MOVIDO AQUÍ para que esté disponible antes)
         const { x, z, heading } = truck.placement;
@@ -1140,16 +1173,6 @@ async function updateGPS() {
         // Seguir al camión si está activado
         if (followTruck && map) {
             map.panTo(truckPos, { animate: true, duration: 0.3, easeLinearity: 0.25 });
-            const mapDiv = document.getElementById('map');
-            if (mapDiv) {
-                mapDiv.style.transformOrigin = '50% 50%';
-                mapDiv.style.transform = 'rotate(-180deg)';
-            }
-            document.body.classList.add('map-rotated');
-        } else {
-            const mapDiv = document.getElementById('map');
-            if (mapDiv) mapDiv.style.transform = '';
-            document.body.classList.remove('map-rotated');
         }
         if (layerRuta) layerRuta.clearLayers();
         

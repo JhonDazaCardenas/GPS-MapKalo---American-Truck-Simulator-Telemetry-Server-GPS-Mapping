@@ -1,12 +1,5 @@
 [
   {
-    "token": "2700c",
-    "name": "metal barrel1 rusty dyna",
-    "modelDesc": "/asset/props/industrial/metal_barrel1_rusty_dyna.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "de_1a001",
     "name": "construction light portable 01 de",
     "modelDesc": "/asset/props/construction/close/construction_light_portable_01_de.pmd",
@@ -14,30 +7,9 @@
     "editable": false
   },
   {
-    "token": "blkw_2t002",
-    "name": "pallet jack 01 blkw",
-    "modelDesc": "/asset/props/storage/pallet_jack_01_blkw.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "609",
-    "name": "harley police physics",
-    "modelDesc": "/model/parked_bikes/physics/harley_police_physics.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "610",
     "name": "old bike",
     "modelDesc": "/model/parked_bikes/static/old_bike.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "611",
-    "name": "chopper",
-    "modelDesc": "/model/parked_bikes/static/chopper.pmd",
     "category": "",
     "editable": false
   },
@@ -52,13 +24,6 @@
     "token": "614",
     "name": "harley police physics",
     "modelDesc": "/model/parked_bikes/physics/harley_police_physics.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "615",
-    "name": "old bike",
-    "modelDesc": "/model/parked_bikes/static/old_bike.pmd",
     "category": "",
     "editable": false
   },
@@ -115,13 +80,6 @@
     "token": "15",
     "name": "sellplan lamp single",
     "modelDesc": "/model/props/lamp/sellplan_lamp_single.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "16",
-    "name": "ca t shaped 3p",
-    "modelDesc": "/model/pillar/ca_t_shaped_3p.pmd",
     "category": "",
     "editable": false
   },
@@ -196,13 +154,6 @@
     "editable": false
   },
   {
-    "token": "111",
-    "name": "us call box1",
-    "modelDesc": "/model/sign/traffic/us_call_box1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "112",
     "name": "us speed 15mph",
     "modelDesc": "/model/sign/traffic/us_speed_15mph.pmd",
@@ -266,20 +217,6 @@
     "editable": false
   },
   {
-    "token": "123",
-    "name": "us truck hill1",
-    "modelDesc": "/model/sign/traffic/us_truck_hill1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "124",
-    "name": "us truck hill2",
-    "modelDesc": "/model/sign/traffic/us_truck_hill2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "125",
     "name": "us lane ends right1",
     "modelDesc": "/model/sign/traffic/us_lane_ends_right1.pmd",
@@ -301,13 +238,6 @@
     "editable": false
   },
   {
-    "token": "128",
-    "name": "us cross t1",
-    "modelDesc": "/model/sign/traffic/us_cross_t1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "129",
     "name": "us pedestrians1",
     "modelDesc": "/model/sign/traffic/us_pedestrians1.pmd",
@@ -315,44 +245,9 @@
     "editable": false
   },
   {
-    "token": "130",
-    "name": "us divided highway1",
-    "modelDesc": "/model/sign/traffic/us_divided_highway1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "131",
-    "name": "us divided highway end1",
-    "modelDesc": "/model/sign/traffic/us_divided_highway_end1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "133",
-    "name": "us farm equipment1",
-    "modelDesc": "/model/sign/traffic/us_farm_equipment1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "134",
-    "name": "us rough road1",
-    "modelDesc": "/model/sign/traffic/us_rough_road1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "135",
     "name": "us deer crossing1",
     "modelDesc": "/model/sign/traffic/us_deer_crossing1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "137",
-    "name": "us tunnel1",
-    "modelDesc": "/model/sign/traffic/us_tunnel1.pmd",
     "category": "",
     "editable": false
   },
@@ -427,13 +322,6 @@
     "editable": false
   },
   {
-    "token": "215",
-    "name": "sr l dir ca",
-    "modelDesc": "/model/sign/navigation/sr_l_dir_ca.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "216",
     "name": "sf gglamp1",
     "modelDesc": "/model/props/lamp/sf_gglamp1.pmd",
@@ -458,13 +346,6 @@
     "token": "222",
     "name": "meter1",
     "modelDesc": "/model/props/street/meter1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "223",
-    "name": "meter1a",
-    "modelDesc": "/model/props/street/meter1a.pmd",
     "category": "",
     "editable": false
   },
@@ -630,13 +511,6 @@
     "editable": false
   },
   {
-    "token": "299",
-    "name": "square concave",
-    "modelDesc": "/model/pillar/square_concave.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "403",
     "name": "traffic barrier light",
     "modelDesc": "/model/sign/misc/traffic_barrier_light.pmd",
@@ -798,20 +672,6 @@
     "editable": false
   },
   {
-    "token": "438",
-    "name": "hw exit edit",
-    "modelDesc": "/model/sign/navigation/hw_exit_edit.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "439",
-    "name": "hw exit now edit",
-    "modelDesc": "/model/sign/navigation/hw_exit_now_edit.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "440",
     "name": "hw sr weighst edit",
     "modelDesc": "/model/sign/navigation/hw_sr_weighst_edit.pmd",
@@ -822,13 +682,6 @@
     "token": "443",
     "name": "sr ls dir edit",
     "modelDesc": "/model/sign/navigation/sr_ls_dir_edit.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "444",
-    "name": "sr rls dir edit",
-    "modelDesc": "/model/sign/navigation/sr_rls_dir_edit.pmd",
     "category": "editable area",
     "editable": true
   },
@@ -875,13 +728,6 @@
     "editable": false
   },
   {
-    "token": "451",
-    "name": "cablespool 02",
-    "modelDesc": "/model/props/construction/cablespool_02.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "452",
     "name": "cablespool 01",
     "modelDesc": "/model/props/construction/cablespool_01.pmd",
@@ -906,27 +752,6 @@
     "token": "456",
     "name": "tire 01",
     "modelDesc": "/model/props/garage/tire_01.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "457",
-    "name": "hays 03",
-    "modelDesc": "/model/props/farm/hays_03.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "458",
-    "name": "hays 02",
-    "modelDesc": "/model/props/farm/hays_02.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "459",
-    "name": "hays 01",
-    "modelDesc": "/model/props/farm/hays_01.pmd",
     "category": "",
     "editable": false
   },
@@ -1078,20 +903,6 @@
     "editable": false
   },
   {
-    "token": "482",
-    "name": "bench metal 01",
-    "modelDesc": "/model/props/street/bench_metal_01.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "483",
-    "name": "bench metal 02",
-    "modelDesc": "/model/props/street/bench_metal_02.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "484",
     "name": "garbage can metal 01",
     "modelDesc": "/model/props/street/garbage_can_metal_01.pmd",
@@ -1102,13 +913,6 @@
     "token": "486",
     "name": "smarket lamp single",
     "modelDesc": "/model/props/lamp/smarket_lamp_single.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "489",
-    "name": "lamp winne",
-    "modelDesc": "/model/props/lamp/lamp_winne.pmd",
     "category": "",
     "editable": false
   },
@@ -1155,13 +959,6 @@
     "editable": false
   },
   {
-    "token": "499",
-    "name": "trashbin 03",
-    "modelDesc": "/model/props/street/trashbin_03.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "500",
     "name": "bikerack 01",
     "modelDesc": "/model/props/street/bikerack_01.pmd",
@@ -1197,20 +994,6 @@
     "editable": false
   },
   {
-    "token": "508",
-    "name": "2hw dir edit az",
-    "modelDesc": "/model/sign/navigation/2hw_dir_edit_az.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "509",
-    "name": "flowerpot veg1",
-    "modelDesc": "/model/props/street/flowerpot_veg1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "511",
     "name": "entrance sign",
     "modelDesc": "/model/sign/company_logos/eddys/entrance_sign.pmd",
@@ -1225,30 +1008,9 @@
     "editable": false
   },
   {
-    "token": "514",
-    "name": "2hw dir exit edit az",
-    "modelDesc": "/model/sign/navigation/2hw_dir_exit_edit_az.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "515",
-    "name": "3hw dir edit az",
-    "modelDesc": "/model/sign/navigation/3hw_dir_edit_az.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "517",
     "name": "hw exit edit az",
     "modelDesc": "/model/sign/navigation/hw_exit_edit_az.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "519",
-    "name": "speed radar led sign",
-    "modelDesc": "/model/sign/traffic_light/speed_radar_led_sign.pmd",
     "category": "editable area",
     "editable": true
   },
@@ -1358,13 +1120,6 @@
     "editable": false
   },
   {
-    "token": "542",
-    "name": "us railroad ahead",
-    "modelDesc": "/model/sign/traffic/us_railroad_ahead.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "544",
     "name": "street lamp 01",
     "modelDesc": "/model/props/lamp/street_lamp_01.pmd",
@@ -1375,13 +1130,6 @@
     "token": "545",
     "name": "street lamp 01 double",
     "modelDesc": "/model/props/lamp/street_lamp_01_double.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "549",
-    "name": "electrobox 01",
-    "modelDesc": "/model/props/street/electrobox_01.pmd",
     "category": "",
     "editable": false
   },
@@ -1421,13 +1169,6 @@
     "editable": true
   },
   {
-    "token": "556",
-    "name": "3lane hw exit",
-    "modelDesc": "/model/sign/navigation/3lane_hw_exit.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "557",
     "name": "3lane hw all",
     "modelDesc": "/model/sign/navigation/3lane_hw_all.pmd",
@@ -1442,25 +1183,11 @@
     "editable": true
   },
   {
-    "token": "559",
-    "name": "exit sign",
-    "modelDesc": "/model/sign/navigation/exit_sign.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "561",
     "name": "us cross merge1",
     "modelDesc": "/model/sign/traffic/us_cross_merge1.pmd",
     "category": "",
     "editable": false
-  },
-  {
-    "token": "562",
-    "name": "exit mph",
-    "modelDesc": "/model/sign/traffic/exit_mph.pmd",
-    "category": "editable area",
-    "editable": true
   },
   {
     "token": "564",
@@ -1494,27 +1221,6 @@
     "token": "572",
     "name": "traffic barrier light2",
     "modelDesc": "/model/sign/misc/traffic_barrier_light2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "576",
-    "name": "arrow right",
-    "modelDesc": "/model/sign/company_logos/sunshine_crops/arrow_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "582",
-    "name": "arrow right",
-    "modelDesc": "/model/sign/company_logos/galon_oil/arrow_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "583",
-    "name": "arrow left",
-    "modelDesc": "/model/sign/company_logos/galon_oil/arrow_left.pmd",
     "category": "",
     "editable": false
   },
@@ -1589,13 +1295,6 @@
     "editable": false
   },
   {
-    "token": "618",
-    "name": "us road work traffic",
-    "modelDesc": "/model/sign/traffic/us_road_work_traffic.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "619",
     "name": "us speed 35mph roadwork traffic",
     "modelDesc": "/model/sign/traffic/us_speed_35mph_roadwork_traffic.pmd",
@@ -1652,30 +1351,9 @@
     "editable": false
   },
   {
-    "token": "633",
-    "name": "warning triangle",
-    "modelDesc": "/model/props/street/warning_triangle.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "az_3",
-    "name": "az round01 light",
-    "modelDesc": "/model/pillar/az_round01_light.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "dlc_az_2",
     "name": "az supermarket lamp",
     "modelDesc": "/model/props/lamp/az_supermarket_lamp.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "634",
-    "name": "tire damage",
-    "modelDesc": "/model/props/road/tire_damage.pmd",
     "category": "",
     "editable": false
   },
@@ -1690,20 +1368,6 @@
     "token": "639",
     "name": "us cross side1",
     "modelDesc": "/model/sign/traffic/us_cross_side1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "640",
-    "name": "us cattle crossing1",
-    "modelDesc": "/model/sign/traffic/us_cattle_crossing1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "641",
-    "name": "us pedestrians2",
-    "modelDesc": "/model/sign/traffic/us_pedestrians2.pmd",
     "category": "",
     "editable": false
   },
@@ -1729,20 +1393,6 @@
     "editable": false
   },
   {
-    "token": "643",
-    "name": "us rail crossing2",
-    "modelDesc": "/model/sign/traffic/us_rail_crossing2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "644",
-    "name": "us cross y1",
-    "modelDesc": "/model/sign/traffic/us_cross_y1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "648",
     "name": "us truck rollover 35",
     "modelDesc": "/model/sign/traffic/us_truck_rollover_35.pmd",
@@ -1753,13 +1403,6 @@
     "token": "649",
     "name": "us wrongway1",
     "modelDesc": "/model/sign/traffic/us_wrongway1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "650",
-    "name": "us reduced speed",
-    "modelDesc": "/model/sign/traffic/us_reduced_speed.pmd",
     "category": "",
     "editable": false
   },
@@ -1792,13 +1435,6 @@
     "editable": false
   },
   {
-    "token": "654",
-    "name": "us steep grades1",
-    "modelDesc": "/model/sign/traffic/us_steep_grades1.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "656",
     "name": "us speed 45mph",
     "modelDesc": "/model/sign/traffic/us_speed_45mph.pmd",
@@ -1820,37 +1456,9 @@
     "editable": false
   },
   {
-    "token": "658",
-    "name": "us no passing zone",
-    "modelDesc": "/model/sign/traffic/us_no_passing_zone.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "659",
     "name": "building sign small",
     "modelDesc": "/model/sign/company_logos/coastline_mining/building_sign_small.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "661",
-    "name": "interstate 2",
-    "modelDesc": "/model/sign/navigation/interstate_2.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "662",
-    "name": "highway 1",
-    "modelDesc": "/model/sign/navigation/highway_1.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "665",
-    "name": "us junction",
-    "modelDesc": "/model/sign/traffic/us_junction.pmd",
     "category": "",
     "editable": false
   },
@@ -1876,13 +1484,6 @@
     "editable": false
   },
   {
-    "token": "ev_2",
-    "name": "pick",
-    "modelDesc": "/model/props/street/pick.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "ev_3",
     "name": "big hammer",
     "modelDesc": "/model/props/street/big_hammer.pmd",
@@ -1890,23 +1491,9 @@
     "editable": false
   },
   {
-    "token": "ev_4",
-    "name": "traffic barrier light sync",
-    "modelDesc": "/model/sign/misc/traffic_barrier_light_sync.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "ev_5",
     "name": "traffic barrier light2 sync",
     "modelDesc": "/model/sign/misc/traffic_barrier_light2_sync.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ev_6",
-    "name": "bucket",
-    "modelDesc": "/model/props/street/bucket.pmd",
     "category": "",
     "editable": false
   },
@@ -1988,44 +1575,9 @@
     "editable": false
   },
   {
-    "token": "sd_bd_08",
-    "name": "us side board 05-1",
-    "modelDesc": "/model/sign/navigation/us_side_board_05-1.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "sd_bd_18",
     "name": "us warn side board 03",
     "modelDesc": "/model/sign/navigation/us_warn_side_board_03.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "sd_bd_19",
-    "name": "us warn side board 02",
-    "modelDesc": "/model/sign/navigation/us_warn_side_board_02.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "sd_bd_21",
-    "name": "us serv side board 02",
-    "modelDesc": "/model/sign/navigation/us_serv_side_board_02.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "sd_bd_25",
-    "name": "us note side board 03",
-    "modelDesc": "/model/sign/navigation/us_note_side_board_03.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "sd_bd_26",
-    "name": "us cult side board 03",
-    "modelDesc": "/model/sign/navigation/us_cult_side_board_03.pmd",
     "category": "editable board",
     "editable": true
   },
@@ -2058,30 +1610,9 @@
     "editable": true
   },
   {
-    "token": "ov_bd_10",
-    "name": "fwy1 ovh board 05-2",
-    "modelDesc": "/model/sign/navigation/fwy1_ovh_board_05-2.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "ov_bd_14",
     "name": "fwy2 ovh board exonly 01 01",
     "modelDesc": "/model/sign/navigation/fwy2_ovh_board_exonly_01_01.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "ov_bd_17",
-    "name": "fwy2 ovh board 05-1 01 wide",
-    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_05-1_01_wide.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "ov_bd_18",
-    "name": "fwy2 ovh board 05 wide 05 wide",
-    "modelDesc": "/model/sign/navigation/fwy2_ovh_board_05_wide_05_wide.pmd",
     "category": "editable board",
     "editable": true
   },
@@ -2121,44 +1652,9 @@
     "editable": true
   },
   {
-    "token": "sm_bd_04",
-    "name": "board sml b1",
-    "modelDesc": "/model/sign/navigation/board_sml_b1.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "sm_bd_11",
     "name": "board sml g1",
     "modelDesc": "/model/sign/navigation/board_sml_g1.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_01",
-    "name": "fwy shield entrance",
-    "modelDesc": "/model/sign/navigation/fwy_shield_entrance.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_02",
-    "name": "fwy shield arrow",
-    "modelDesc": "/model/sign/navigation/fwy_shield_arrow.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_03",
-    "name": "fwy shield single",
-    "modelDesc": "/model/sign/navigation/fwy_shield_single.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_04",
-    "name": "fwy shield arrow to",
-    "modelDesc": "/model/sign/navigation/fwy_shield_arrow_to.pmd",
     "category": "editable board",
     "editable": true
   },
@@ -2170,87 +1666,10 @@
     "editable": true
   },
   {
-    "token": "rot_bd_20",
-    "name": "hw shield arrow nodir",
-    "modelDesc": "/model/sign/navigation/hw_shield_arrow_nodir.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_23",
-    "name": "fwy shield entrance1",
-    "modelDesc": "/model/sign/navigation/fwy_shield_entrance1.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_25",
-    "name": "hw shield single jct",
-    "modelDesc": "/model/sign/navigation/hw_shield_single_jct.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_26",
-    "name": "hw shield double nodir",
-    "modelDesc": "/model/sign/navigation/hw_shield_double_nodir.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_28",
-    "name": "hw shield double vert",
-    "modelDesc": "/model/sign/navigation/hw_shield_double_vert.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_29",
-    "name": "hw shield double arrow vert",
-    "modelDesc": "/model/sign/navigation/hw_shield_double_arrow_vert.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_44",
-    "name": "hw shield single dir",
-    "modelDesc": "/model/sign/navigation/hw_shield_single_dir.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "rot_bd_45",
     "name": "hw shield single arrow dir",
     "modelDesc": "/model/sign/navigation/hw_shield_single_arrow_dir.pmd",
     "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "rot_bd_46",
-    "name": "hw shield single arrow",
-    "modelDesc": "/model/sign/navigation/hw_shield_single_arrow.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "dlc_nm_29",
-    "name": "nm ref post1 white",
-    "modelDesc": "/model/sign/nm_ref_post1_white.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "dlc_nm_30",
-    "name": "nm ref post1 orange",
-    "modelDesc": "/model/sign/nm_ref_post1_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "dlc_nm_23",
-    "name": "sightseeing sign",
-    "modelDesc": "/model/props/country/sightseeing_sign.pmd",
-    "category": "",
     "editable": true
   },
   {
@@ -2324,30 +1743,9 @@
     "editable": false
   },
   {
-    "token": "dlc_or_8",
-    "name": "or portland lamp wall",
-    "modelDesc": "/model/props/lamp/or_portland_lamp_wall.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "693",
     "name": "us twistyroad speed",
     "modelDesc": "/model/sign/traffic/us_twistyroad_speed.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "695",
-    "name": "us sharp left turn speed",
-    "modelDesc": "/model/sign/traffic/us_sharp_left_turn_speed.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "696",
-    "name": "us sharp right turn speed",
-    "modelDesc": "/model/sign/traffic/us_sharp_right_turn_speed.pmd",
     "category": "",
     "editable": true
   },
@@ -2380,51 +1778,9 @@
     "editable": true
   },
   {
-    "token": "717",
-    "name": "us reverse curve left",
-    "modelDesc": "/model/sign/traffic/us_reverse_curve_left.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "718",
-    "name": "us reverse curve right",
-    "modelDesc": "/model/sign/traffic/us_reverse_curve_right.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "720",
-    "name": "us school zone",
-    "modelDesc": "/model/sign/traffic/us_school_zone.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "723",
-    "name": "us advisory reverse curve left",
-    "modelDesc": "/model/sign/traffic/us_advisory_reverse_curve_left.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "724",
-    "name": "us advisory reverse curve right",
-    "modelDesc": "/model/sign/traffic/us_advisory_reverse_curve_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "726",
     "name": "us divided right",
     "modelDesc": "/model/sign/traffic/us_divided_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "731",
-    "name": "us firetruck",
-    "modelDesc": "/model/sign/traffic/us_firetruck.pmd",
     "category": "",
     "editable": false
   },
@@ -2436,30 +1792,9 @@
     "editable": false
   },
   {
-    "token": "dlc_or_4",
-    "name": "or basketball hoop",
-    "modelDesc": "/model/props/street/or_basketball_hoop.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "dlc_or_10",
-    "name": "id ref post1 white",
-    "modelDesc": "/model/sign/id_ref_post1_white.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "dlc_or_18",
     "name": "building sign 02",
     "modelDesc": "/model/sign/company_logos/steeler/building_sign_02.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "dlc_or_36",
-    "name": "building sign",
-    "modelDesc": "/model/sign/company_logos/deep_grove/building_sign.pmd",
     "category": "",
     "editable": false
   },
@@ -2499,20 +1834,6 @@
     "editable": false
   },
   {
-    "token": "ov_bd_81",
-    "name": "us fw4 dynamic board3 oh",
-    "modelDesc": "/model/sign/navigation/us_fw4_dynamic_board3_oh.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "ov_bd_82",
-    "name": "us fw dynamic speed limit sd",
-    "modelDesc": "/model/sign/navigation/us_fw_dynamic_speed_limit_sd.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "ov_bd_83",
     "name": "us fw2 dynamic speed limit oh",
     "modelDesc": "/model/sign/navigation/us_fw2_dynamic_speed_limit_oh.pmd",
@@ -2532,48 +1853,6 @@
     "modelDesc": "/model/sign/traffic/us_turn_right_advisory.pmd",
     "category": "",
     "editable": true
-  },
-  {
-    "token": "744",
-    "name": "us object marker both sides",
-    "modelDesc": "/model/sign/traffic/us_object_marker_both_sides.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "758",
-    "name": "us speed limit 35 ahead1",
-    "modelDesc": "/model/sign/traffic/us_speed_limit_35_ahead1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "765",
-    "name": "us curve left48",
-    "modelDesc": "/model/sign/traffic/us_curve_left48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "766",
-    "name": "us curve right48",
-    "modelDesc": "/model/sign/traffic/us_curve_right48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "767",
-    "name": "us curve chevron left48",
-    "modelDesc": "/model/sign/traffic/us_curve_chevron_left48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "768",
-    "name": "us curve chevron right48",
-    "modelDesc": "/model/sign/traffic/us_curve_chevron_right48.pmd",
-    "category": "",
-    "editable": false
   },
   {
     "token": "dlc_or_47",
@@ -2625,30 +1904,9 @@
     "editable": false
   },
   {
-    "token": "wa_14",
-    "name": "wa sightseeing sign",
-    "modelDesc": "/model/props/country/wa_sightseeing_sign.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "wa_7",
-    "name": "wa lamp 3",
-    "modelDesc": "/model/props/lamp/wa_lamp_3.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "wa_ov_bd_02",
     "name": "wa fwy1 ovh board 01-2",
     "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_01-2.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "wa_ov_bd_06",
-    "name": "wa fwy1 ovh board 04-1",
-    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_04-1.pmd",
     "category": "editable board",
     "editable": true
   },
@@ -2667,37 +1925,9 @@
     "editable": true
   },
   {
-    "token": "wa_ov_bd_19",
-    "name": "wa fwy1 ovh board 04-1 noplague",
-    "modelDesc": "/model/sign/navigation/wa_fwy1_ovh_board_04-1_noplague.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "dlc_or_11",
     "name": "or lakeview lamp",
     "modelDesc": "/model/sign/or_lakeview_lamp.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ut_6",
-    "name": "ut provo lamp2",
-    "modelDesc": "/model/props/lamp/ut_provo_lamp2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ut_1",
-    "name": "ut ref post1 orange",
-    "modelDesc": "/model/sign/ut_ref_post1_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "815",
-    "name": "us speed limit 45 ahead1",
-    "modelDesc": "/model/sign/traffic/us_speed_limit_45_ahead1.pmd",
     "category": "",
     "editable": false
   },
@@ -2716,37 +1946,9 @@
     "editable": false
   },
   {
-    "token": "820",
-    "name": "la street-lamp0 lod",
-    "modelDesc": "/model/props/lamp/la_street-lamp0_lod.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "822",
-    "name": "port lamp lod",
-    "modelDesc": "/model/props/lamp/port_lamp_lod.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "824",
-    "name": "us object marker left2",
-    "modelDesc": "/model/sign/traffic/us_object_marker_left2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "825",
     "name": "us object marker right2",
     "modelDesc": "/model/sign/traffic/us_object_marker_right2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "827",
-    "name": "us donotenter1",
-    "modelDesc": "/model/sign/traffic/us_donotenter1.pmd",
     "category": "",
     "editable": false
   },
@@ -2772,30 +1974,9 @@
     "editable": false
   },
   {
-    "token": "865",
-    "name": "us ref post yellow",
-    "modelDesc": "/model/sign/us_ref_post_yellow.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "869",
-    "name": "or divided highway",
-    "modelDesc": "/model/sign/traffic/or_divided_highway.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "878",
     "name": "ref post white 02 orange",
     "modelDesc": "/model/sign/ref_post_white_02_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ut_8",
-    "name": "ut ref post2 orange",
-    "modelDesc": "/model/sign/ut_ref_post2_orange.pmd",
     "category": "",
     "editable": false
   },
@@ -2805,27 +1986,6 @@
     "modelDesc": "/model/sign/ut_delineator_post.pmd",
     "category": "",
     "editable": false
-  },
-  {
-    "token": "2k00a",
-    "name": "fwy3 ovh board warn03 01-3 01-3 warn03",
-    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_warn03_01-3_01-3_warn03.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k00c",
-    "name": "fwy1 ovh warning board 05-2",
-    "modelDesc": "/model/sign/navigation/fwy1_ovh_warning_board_05-2.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k00w",
-    "name": "fwy3 ovh board 14-1 01-2 wide",
-    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_14-1_01-2_wide.pmd",
-    "category": "editable board",
-    "editable": true
   },
   {
     "token": "2k01e",
@@ -2845,13 +2005,6 @@
     "token": "2k02e",
     "name": "us stop flashing beacon",
     "modelDesc": "/model/sign/traffic/us_stop_flashing_beacon.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "06002",
-    "name": "co reflection post 1 orange",
-    "modelDesc": "/model/sign/co_reflection_post_1_orange.pmd",
     "category": "",
     "editable": false
   },
@@ -2877,20 +2030,6 @@
     "editable": false
   },
   {
-    "token": "2k02m",
-    "name": "board sml h-1",
-    "modelDesc": "/model/sign/navigation/board_sml_h-1.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k02n",
-    "name": "board sml h-2",
-    "modelDesc": "/model/sign/navigation/board_sml_h-2.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "2k02p",
     "name": "board sml h-4",
     "modelDesc": "/model/sign/navigation/board_sml_h-4.pmd",
@@ -2898,79 +2037,9 @@
     "editable": true
   },
   {
-    "token": "2k02v",
-    "name": "us left lane must turn left",
-    "modelDesc": "/model/sign/traffic/us_left_lane_must_turn_left.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k02w",
-    "name": "us one direction arrow right",
-    "modelDesc": "/model/sign/traffic/us_one_direction_arrow_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k02x",
-    "name": "us one direction arrow left",
-    "modelDesc": "/model/sign/traffic/us_one_direction_arrow_left.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "2k03a",
     "name": "co reflection post 3 orange",
     "modelDesc": "/model/sign/co_reflection_post_3_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k03c",
-    "name": "co reflection post 1 green",
-    "modelDesc": "/model/sign/co_reflection_post_1_green.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k03d",
-    "name": "co reflection post 3 green",
-    "modelDesc": "/model/sign/co_reflection_post_3_green.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k03q",
-    "name": "us side board white 427x244",
-    "modelDesc": "/model/sign/navigation/us_side_board_white_427x244.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k03x",
-    "name": "us side board green 426x274 ep",
-    "modelDesc": "/model/sign/navigation/us_side_board_green_426x274_ep.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k044",
-    "name": "road barrel with chevron",
-    "modelDesc": "/model/sign/road_barrel_with_chevron.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "wy_2k001",
-    "name": "wy reflection post 1 orange",
-    "modelDesc": "/model/sign/wy_reflection_post_1_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "wy_2k002",
-    "name": "wy reflection post 1 white",
-    "modelDesc": "/model/sign/wy_reflection_post_1_white.pmd",
     "category": "",
     "editable": false
   },
@@ -2982,38 +2051,10 @@
     "editable": true
   },
   {
-    "token": "2k04m",
-    "name": "us side board green 244x91",
-    "modelDesc": "/model/sign/navigation/us_side_board_green_244x91.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "2k04p",
     "name": "us side board blue 320x210",
     "modelDesc": "/model/sign/navigation/us_side_board_blue_320x210.pmd",
     "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k04r",
-    "name": "us blank diamond 122x122",
-    "modelDesc": "/model/sign/traffic/us_blank_diamond_122x122.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "wy_2k006",
-    "name": "wy reflection post 3 orange",
-    "modelDesc": "/model/sign/wy_reflection_post_3_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "18002",
-    "name": "co gallonoil driver totem",
-    "modelDesc": "/prefab/gas/co_gallonoil_driver_totem.pmd",
-    "category": "",
     "editable": true
   },
   {
@@ -3031,27 +2072,6 @@
     "editable": true
   },
   {
-    "token": "2k05d",
-    "name": "us side board white 244x122",
-    "modelDesc": "/model/sign/us_side_board_white_244x122.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k06a",
-    "name": "us fw diamond advisory blank",
-    "modelDesc": "/model/sign/traffic/us_fw_diamond_advisory_blank.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "2k06c",
-    "name": "fwy3 ovh board green 1676x243",
-    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_green_1676x243.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
     "token": "2k06k",
     "name": "ca stop flashing beacon",
     "modelDesc": "/model/sign/traffic/ca_stop_flashing_beacon.pmd",
@@ -3059,30 +2079,9 @@
     "editable": false
   },
   {
-    "token": "2k06l",
-    "name": "us flasing warning beacon",
-    "modelDesc": "/model/sign/traffic/us_flasing_warning_beacon.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k06m",
-    "name": "us blank diamond 152x152",
-    "modelDesc": "/model/sign/traffic/us_blank_diamond_152x152.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "1a001",
     "name": "wy railroad construction lamp",
     "modelDesc": "/model/props/lamp/wy_railroad_construction_lamp.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k075",
-    "name": "or ref post1 red",
-    "modelDesc": "/model/sign/or_ref_post1_red.pmd",
     "category": "",
     "editable": false
   },
@@ -3094,65 +2093,9 @@
     "editable": false
   },
   {
-    "token": "2k07q",
-    "name": "us cross merge 122cm right",
-    "modelDesc": "/model/sign/traffic/us_cross_merge_122cm_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k07s",
-    "name": "us cross side 122cm right",
-    "modelDesc": "/model/sign/traffic/us_cross_side_122cm_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k08v",
-    "name": "warehouse lamp 01 double",
-    "modelDesc": "/model/props/lamp/warehouse_lamp_01_double.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "2k092",
     "name": "us curve chevron double 48",
     "modelDesc": "/model/sign/traffic/us_curve_chevron_double_48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k095",
-    "name": "us one way roundabout 4",
-    "modelDesc": "/model/sign/traffic/us_one_way_roundabout_4.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0ai",
-    "name": "us side board yellow 305x190",
-    "modelDesc": "/model/sign/navigation/us_side_board_yellow_305x190.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k0b9",
-    "name": "fwy3 ovh board g 610x305 g 457x305 g 457x305",
-    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_g_610x305_g_457x305_g_457x305.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k0bi",
-    "name": "fwy3 ovh board g701x305 g 488x305",
-    "modelDesc": "/model/sign/navigation/fwy3_ovh_board_g701x305_g_488x305.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k0bm",
-    "name": "us stop ahead 2x upper flasing beacon",
-    "modelDesc": "/model/sign/traffic/us_stop_ahead_2x_upper_flasing_beacon.pmd",
     "category": "",
     "editable": false
   },
@@ -3164,60 +2107,11 @@
     "editable": false
   },
   {
-    "token": "2k0cl",
-    "name": "roadwork barrier 02",
-    "modelDesc": "/model/props/street/roadwork_barrier_02.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0d2",
-    "name": "us blank diamond 91x91 yellow plq 61x46",
-    "modelDesc": "/model/sign/traffic/us_blank_diamond_91x91_yellow_plq_61x46.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "2k0ds",
     "name": "us side dynamic board 250x150",
     "modelDesc": "/model/sign/navigation/us_side_dynamic_board_250x150.pmd",
     "category": "editable board",
     "editable": true
-  },
-  {
-    "token": "gas_18004",
-    "name": "us gas station totem gallonoil",
-    "modelDesc": "/model/sign/us_gas_station_totem_gallonoil.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
-    "token": "tx_2k00j",
-    "name": "tx side board green 213 152 122x61",
-    "modelDesc": "/model/sign/navigation/tx_side_board_green_213_152_122x61.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "mt_2k005",
-    "name": "mt reflection post 2 orange",
-    "modelDesc": "/model/sign/mt_reflection_post_2_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "mt_2k009",
-    "name": "mt reflection post 2 orange dbl sided",
-    "modelDesc": "/model/sign/mt_reflection_post_2_orange_dbl_sided.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "mt_2k004",
-    "name": "mt reflection post 2 white",
-    "modelDesc": "/model/sign/mt_reflection_post_2_white.pmd",
-    "category": "",
-    "editable": false
   },
   {
     "token": "2k0e9",
@@ -3234,58 +2128,9 @@
     "editable": true
   },
   {
-    "token": "2k0eg",
-    "name": "ref post white 02 orange double",
-    "modelDesc": "/model/sign/ref_post_white_02_orange_double.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0ej",
-    "name": "us 3hw jct vert",
-    "modelDesc": "/model/sign/navigation/us_3hw_jct_vert.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k0ek",
-    "name": "us 3hw jct",
-    "modelDesc": "/model/sign/navigation/us_3hw_jct.pmd",
-    "category": "editable board",
-    "editable": true
-  },
-  {
-    "token": "2k0f4",
-    "name": "traffic cone slim reflective orange",
-    "modelDesc": "/model/sign/traffic_cone_slim_reflective_orange.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0f6",
-    "name": "variable message sign dynamic",
-    "modelDesc": "/model/sign/traffic_light/variable_message_sign_dynamic.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "27007",
-    "name": "us gas vortex navigation sign",
-    "modelDesc": "/prefab/gas/vortex/us_gas_vortex_navigation_sign.pmd",
-    "category": "",
-    "editable": true
-  },
-  {
     "token": "2k0gj",
     "name": "us stop 122x122 flashing beacons",
     "modelDesc": "/model/sign/traffic/us_stop_122x122_flashing_beacons.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0h1",
-    "name": "us signal ahead 2x upper flashing beacon",
-    "modelDesc": "/model/sign/traffic/us_signal_ahead_2x_upper_flashing_beacon.pmd",
     "category": "",
     "editable": false
   },
@@ -3297,37 +2142,9 @@
     "editable": true
   },
   {
-    "token": "2k0hx",
-    "name": "road barrel light steady",
-    "modelDesc": "/model/sign/road_barrel_light_steady.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0i3",
-    "name": "road barrel light flashing nosync",
-    "modelDesc": "/model/sign/misc/road_barrel_light_flashing_nosync.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "tx_2k01z",
     "name": "tx stop 122x122 flashing beacon",
     "modelDesc": "/model/sign/traffic/tx_stop_122x122_flashing_beacon.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "tx_2k02c",
-    "name": "tx stop black rect y",
-    "modelDesc": "/model/sign/traffic/tx_stop_black_rect_y.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "2k0jz",
-    "name": "traffic cone full red",
-    "modelDesc": "/model/props/street/traffic_cone_full_red.pmd",
     "category": "",
     "editable": false
   },
@@ -3342,34 +2159,6 @@
     "token": "2k0k1",
     "name": "traffic cone full yellow",
     "modelDesc": "/model/props/street/traffic_cone_full_yellow.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ok_2k00r",
-    "name": "ok tollgate semaphore",
-    "modelDesc": "/model/sign/ok_tollgate_semaphore.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0oe",
-    "name": "ks lamp 2",
-    "modelDesc": "/model/props/lamp/ks_lamp_2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0of",
-    "name": "ks lamp 2 double",
-    "modelDesc": "/model/props/lamp/ks_lamp_2_double.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0ow",
-    "name": "wa reflection post white yr",
-    "modelDesc": "/model/sign/wa_reflection_post_white_yr.pmd",
     "category": "",
     "editable": false
   },
@@ -3391,41 +2180,6 @@
     "token": "2k0sh",
     "name": "ar welcome sign 01",
     "modelDesc": "/model/sign/ar_welcome_sign_01.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0ti",
-    "name": "wy overhead stand 01 3fwy",
-    "modelDesc": "/model/sign/navigation/wy_overhead_stand_01_3fwy.pmd",
-    "category": "overhead stand/wy/01",
-    "editable": true
-  },
-  {
-    "token": "2k0tr",
-    "name": "us nonreflective post 01 chevron y b",
-    "modelDesc": "/model/sign/us_nonreflective_post_01_chevron_y_b.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0u0",
-    "name": "us roadwork type ii portable barrier",
-    "modelDesc": "/model/sign/traffic/us_roadwork_type_ii_portable_barrier.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k0vk",
-    "name": "us roadblock type iii barricade",
-    "modelDesc": "/model/props/street/us_roadblock_type_iii_barricade.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ok_2k00u",
-    "name": "ok etoll semaphore",
-    "modelDesc": "/model/sign/ok_etoll_semaphore.pmd",
     "category": "",
     "editable": false
   },
@@ -3472,37 +2226,9 @@
     "editable": true
   },
   {
-    "token": "2k107",
-    "name": "us spec barricade yellow black x180",
-    "modelDesc": "/model/sign/traffic/us_spec_barricade_yellow_black_x180.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k108",
-    "name": "us spec barricade yellow black x180",
-    "modelDesc": "/model/sign/traffic/us_spec_barricade_yellow_black_x180.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "2k10c",
-    "name": "mo buckle up",
-    "modelDesc": "/model/sign/traffic/mo_buckle_up.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "dlc_az_1",
     "name": "az lamp1",
     "modelDesc": "/model/props/lamp/az_lamp1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "az_8",
-    "name": "universal",
-    "modelDesc": "/model/sign/company_logos/phoenix_freight/universal.pmd",
     "category": "",
     "editable": false
   },
@@ -3521,20 +2247,6 @@
     "editable": false
   },
   {
-    "token": "tx_2k012",
-    "name": "tx arrow chevrons left",
-    "modelDesc": "/model/sign/traffic/tx_arrow_chevrons_left.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "tx_2k013",
-    "name": "tx arrow chevrons right",
-    "modelDesc": "/model/sign/traffic/tx_arrow_chevrons_right.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "cder",
     "name": "curva derecha",
     "modelDesc": "/model/sign/dbmx/curva_derecha.pmd",
@@ -3545,27 +2257,6 @@
     "token": "cizq",
     "name": "curva izquierda",
     "modelDesc": "/model/sign/dbmx/curva_izquierda.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "cruz",
-    "name": "cruz",
-    "modelDesc": "/model/sign/dbmx/cruz.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "ccder",
-    "name": "curva cerrada derecha",
-    "modelDesc": "/model/sign/dbmx/curva_cerrada_derecha.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "ccoder",
-    "name": "curva continua derecha",
-    "modelDesc": "/model/sign/dbmx/curva_continua_derecha.pmd",
     "category": "Senales/Trafico",
     "editable": false
   },
@@ -3584,44 +2275,9 @@
     "editable": false
   },
   {
-    "token": "ccoizq",
-    "name": "curva continua izquierda",
-    "modelDesc": "/model/sign/dbmx/curva_continua_izquierda.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "cvsizq",
-    "name": "curvas continuas izquierda",
-    "modelDesc": "/model/sign/dbmx/curvas_continuas_izquierda.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
     "token": "idayvuelta",
     "name": "ida vuelta",
     "modelDesc": "/model/sign/dbmx/ida_vuelta.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "salida",
-    "name": "salida",
-    "modelDesc": "/model/sign/dbmx/salida.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "estrech",
-    "name": "estrechamiento",
-    "modelDesc": "/model/sign/dbmx/estrechamiento.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "estrech2",
-    "name": "estrechamiento2",
-    "modelDesc": "/model/sign/dbmx/estrechamiento2.pmd",
     "category": "Senales/Trafico",
     "editable": false
   },
@@ -3640,30 +2296,9 @@
     "editable": false
   },
   {
-    "token": "peatones",
-    "name": "peatones",
-    "modelDesc": "/model/sign/dbmx/peatones.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
     "token": "escolares",
     "name": "escolares",
     "modelDesc": "/model/sign/dbmx/escolares.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "campesinos",
-    "name": "campesinos",
-    "modelDesc": "/model/sign/dbmx/campesinos.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "dividida",
-    "name": "dividida",
-    "modelDesc": "/model/sign/dbmx/dividida.pmd",
     "category": "Senales/Trafico",
     "editable": false
   },
@@ -3672,62 +2307,6 @@
     "name": "tope",
     "modelDesc": "/model/sign/dbmx/tope.pmd",
     "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "topes",
-    "name": "topes",
-    "modelDesc": "/model/sign/dbmx/topes.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "cvspel",
-    "name": "curvas peligrosas",
-    "modelDesc": "/model/sign/dbmx/curvas_peligrosas.pmd",
-    "category": "Senales/Trafico",
-    "editable": false
-  },
-  {
-    "token": "pobprox",
-    "name": "poblado proximo",
-    "modelDesc": "/model/sign/dbmx/poblado_proximo.pmd",
-    "category": "Senales/Informativas",
-    "editable": false
-  },
-  {
-    "token": "red250",
-    "name": "reductores 250",
-    "modelDesc": "/model/sign/dbmx/reductores_250.pmd",
-    "category": "Senales/Informativas",
-    "editable": false
-  },
-  {
-    "token": "obedezca",
-    "name": "obedezca",
-    "modelDesc": "/model/sign/dbmx/obedezca.pmd",
-    "category": "Senales/Informativas",
-    "editable": false
-  },
-  {
-    "token": "lento",
-    "name": "lento",
-    "modelDesc": "/model/sign/dbmx/lento.pmd",
-    "category": "Senales/Informativas",
-    "editable": false
-  },
-  {
-    "token": "raycont",
-    "name": "raya continua",
-    "modelDesc": "/model/sign/dbmx/raya_continua.pmd",
-    "category": "Senales/Informativas",
-    "editable": false
-  },
-  {
-    "token": "disvel",
-    "name": "disminuya velocidad",
-    "modelDesc": "/model/sign/dbmx/disminuya_velocidad.pmd",
-    "category": "Senales/Informativas",
     "editable": false
   },
   {
@@ -3759,23 +2338,9 @@
     "editable": false
   },
   {
-    "token": "181607",
-    "name": "HBS MSR VueltaDerechaB",
-    "modelDesc": "/model/HBS_MSR_VueltaDerechaB/HBS_MSR_VueltaDerechaB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181608",
     "name": "HBS MSR VueltaIzquierdaA",
     "modelDesc": "/model/HBS_MSR_VueltaIzquierdaA/HBS_MSR_VueltaIzquierdaA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181609",
-    "name": "HBS MSR VueltaIzquierdaB",
-    "modelDesc": "/model/HBS_MSR_VueltaIzquierdaB/HBS_MSR_VueltaIzquierdaB.pmd",
     "category": "",
     "editable": false
   },
@@ -3850,13 +2415,6 @@
     "editable": false
   },
   {
-    "token": "181620",
-    "name": "HBS MSP CurvasIzqA",
-    "modelDesc": "/model/HBS_MSP_CurvasIzqA/HBS_MSP_CurvasIzqA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181621",
     "name": "HBS MSP CurvasIzqB",
     "modelDesc": "/model/HBS_MSP_CurvasIzqB/HBS_MSP_CurvasIzqB.pmd",
@@ -3871,30 +2429,9 @@
     "editable": false
   },
   {
-    "token": "181623",
-    "name": "HBS MSP CodosDerB",
-    "modelDesc": "/model/HBS_MSP_CodosDerB/HBS_MSP_CodosDerB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181625",
-    "name": "HBS MSP CodosDIzqB",
-    "modelDesc": "/model/HBS_MSP_CodosDIzqB/HBS_MSP_CodosDIzqB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181627",
     "name": "HBS MSP SinuosoDerB",
     "modelDesc": "/model/HBS_MSP_SinuosoDerB/HBS_MSP_SinuosoDerB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181628",
-    "name": "HBS MSP SinuosoIzqA",
-    "modelDesc": "/model/HBS_MSP_SinuosoIzqA/HBS_MSP_SinuosoIzqA.pmd",
     "category": "",
     "editable": false
   },
@@ -3962,13 +2499,6 @@
     "editable": false
   },
   {
-    "token": "181639",
-    "name": "HBS MSP CruceroB",
-    "modelDesc": "/model/HBS_MSP_CruceroB/HBS_MSP_CruceroB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181640",
     "name": "HBS MSP CruceT1A",
     "modelDesc": "/model/HBS_MSP_CruceT1A/HBS_MSP_CruceT1A.pmd",
@@ -4011,13 +2541,6 @@
     "editable": false
   },
   {
-    "token": "181649",
-    "name": "HBS MSP SalidaDerB",
-    "modelDesc": "/model/HBS_MSP_SalidaDerB/HBS_MSP_SalidaDerB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181653",
     "name": "HBS MSP GlorietaB",
     "modelDesc": "/model/HBS_MSP_GlorietaB/HBS_MSP_GlorietaB.pmd",
@@ -4025,30 +2548,9 @@
     "editable": false
   },
   {
-    "token": "181654",
-    "name": "HBS MSP T5A",
-    "modelDesc": "/model/HBS_MSP_T5A/HBS_MSP_T5A.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181655",
     "name": "HBS MSP T5B",
     "modelDesc": "/model/HBS_MSP_T5B/HBS_MSP_T5B.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181659",
-    "name": "HBS MSP SalidaIzqB",
-    "modelDesc": "/model/HBS_MSP_SalidaIzqB/HBS_MSP_SalidaIzqB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181662",
-    "name": "HBS MSP AnchoA",
-    "modelDesc": "/model/HBS_MSP_AnchoA/HBS_MSP_AnchoA.pmd",
     "category": "",
     "editable": false
   },
@@ -4084,13 +2586,6 @@
     "token": "181673",
     "name": "HBS MSP ArroyoB",
     "modelDesc": "/model/HBS_MSP_ArroyoB/HBS_MSP_ArroyoB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181675",
-    "name": "HBS MSP TerminaPavB",
-    "modelDesc": "/model/HBS_MSP_TerminaPavB/HBS_MSP_TerminaPavB.pmd",
     "category": "",
     "editable": false
   },
@@ -4165,13 +2660,6 @@
     "editable": false
   },
   {
-    "token": "181694",
-    "name": "HBS MSP TerminaAvA",
-    "modelDesc": "/model/HBS_MSP_TerminaAvA/HBS_MSP_TerminaAvA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181695",
     "name": "HBS MSP TerminaAvB",
     "modelDesc": "/model/HBS_MSP_TerminaAvB/HBS_MSP_TerminaAvB.pmd",
@@ -4203,13 +2691,6 @@
     "token": "181700",
     "name": "HBS MSP DeslaveA",
     "modelDesc": "/model/HBS_MSP_DeslaveA/HBS_MSP_DeslaveA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181701",
-    "name": "HBS MSP DeslaveB",
-    "modelDesc": "/model/HBS_MSP_DeslaveB/HBS_MSP_DeslaveB.pmd",
     "category": "",
     "editable": false
   },
@@ -4270,23 +2751,9 @@
     "editable": false
   },
   {
-    "token": "181717",
-    "name": "HBS MSR IzquierdaB",
-    "modelDesc": "/model/HBS_MSR_IzquierdaB/HBS_MSR_IzquierdaB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181720",
     "name": "HBS MSR DobleA",
     "modelDesc": "/model/HBS_MSR_DobleA/HBS_MSR_DobleA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181721",
-    "name": "HBS MSR DobleB",
-    "modelDesc": "/model/HBS_MSR_DobleB/HBS_MSR_DobleB.pmd",
     "category": "",
     "editable": false
   },
@@ -4315,13 +2782,6 @@
     "token": "181729",
     "name": "HBS MSR NoEstacionarseB",
     "modelDesc": "/model/HBS_MSR_NoEstacionarseB/HBS_MSR_NoEstacionarseB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181731",
-    "name": "HBS MSR NoDerechaB",
-    "modelDesc": "/model/HBS_MSR_NoDerechaB/HBS_MSR_NoDerechaB.pmd",
     "category": "",
     "editable": false
   },
@@ -4529,13 +2989,6 @@
     "editable": false
   },
   {
-    "token": "181785",
-    "name": "HBS MSI 239x71 3",
-    "modelDesc": "/model/HBS_MSI_239x71_3/HBS_MSI_239x71_3.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181794",
     "name": "HBS MSI 178x40 5",
     "modelDesc": "/model/HBS_MSI_178x40_5/HBS_MSI_178x40_5.pmd",
@@ -4553,13 +3006,6 @@
     "token": "181799",
     "name": "HBS MSP FantasmaB",
     "modelDesc": "/model/HBS_MSP_FantasmaB/HBS_MSP_FantasmaB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181800",
-    "name": "HBS MSI 290x56 1",
-    "modelDesc": "/model/HBS_MSI_290x56_1/HBS_MSI_290x56_1.pmd",
     "category": "",
     "editable": false
   },
@@ -4634,13 +3080,6 @@
     "editable": false
   },
   {
-    "token": "181818",
-    "name": "HBS MSS mecanicoA",
-    "modelDesc": "/model/HBS_MSS_mecanicoA/HBS_MSS_mecanicoA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181822",
     "name": "HBS MSS paradaA",
     "modelDesc": "/model/HBS_MSS_paradaA/HBS_MSS_paradaA.pmd",
@@ -4658,27 +3097,6 @@
     "token": "181824",
     "name": "HBS MSS sosA",
     "modelDesc": "/model/HBS_MSS_sosA/HBS_MSS_sosA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181825",
-    "name": "HBS MSS sosB",
-    "modelDesc": "/model/HBS_MSS_sosB/HBS_MSS_sosB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181826",
-    "name": "HBS MSP SeparadorD",
-    "modelDesc": "/model/HBS_MSP_SeparadorD/HBS_MSP_SeparadorD.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181827",
-    "name": "HBS MSP SeparadorE",
-    "modelDesc": "/model/HBS_MSP_SeparadorE/HBS_MSP_SeparadorE.pmd",
     "category": "",
     "editable": false
   },
@@ -4760,13 +3178,6 @@
     "editable": true
   },
   {
-    "token": "181841",
-    "name": "HBS MSI 56x300 x2",
-    "modelDesc": "/model/HBS_MSI_56x300_x2/HBS_MSI_56x300_x2.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "181842",
     "name": "HBS MSI 56x300C",
     "modelDesc": "/model/HBS_MSI_56x300C/HBS_MSI_56x300C.pmd",
@@ -4777,13 +3188,6 @@
     "token": "181844",
     "name": "HBS MSI 56x300x1A",
     "modelDesc": "/model/HBS_MSI_56x300x1A/HBS_MSI_56x300x1A.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "181845",
-    "name": "HBS MSI 56x300x1B",
-    "modelDesc": "/model/HBS_MSI_56x300x1B/HBS_MSI_56x300x1B.pmd",
     "category": "editable area",
     "editable": true
   },
@@ -4837,13 +3241,6 @@
     "editable": true
   },
   {
-    "token": "181856",
-    "name": "HBS MSI TabA 47x117",
-    "modelDesc": "/model/HBS_MSI_TabA_47x117/HBS_MSI_TabA_47x117.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "181858",
     "name": "HBS MSI TabA 83x117",
     "modelDesc": "/model/HBS_MSI_TabA_83x117/HBS_MSI_TabA_83x117.pmd",
@@ -4858,30 +3255,9 @@
     "editable": true
   },
   {
-    "token": "181860",
-    "name": "HBS MSI TabB 47x117",
-    "modelDesc": "/model/HBS_MSI_TabB_47x117/HBS_MSI_TabB_47x117.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "181863",
     "name": "HBS MSP TabA 47x165",
     "modelDesc": "/model/HBS_MSP_TabA_47x165/HBS_MSP_TabA_47x165.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "181864",
-    "name": "HBS MSP TabA 83x165",
-    "modelDesc": "/model/HBS_MSP_TabA_83x165/HBS_MSP_TabA_83x165.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
-    "token": "181865",
-    "name": "HBS MSP TabA 121x35",
-    "modelDesc": "/model/HBS_MSP_TabA_121x35/HBS_MSP_TabA_121x35.pmd",
     "category": "editable area",
     "editable": true
   },
@@ -4907,23 +3283,9 @@
     "editable": false
   },
   {
-    "token": "181871",
-    "name": "HBS SPS BanderaSingA",
-    "modelDesc": "/model/HBS_SPS_BanderaSingA/HBS_SPS_BanderaSingA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181873",
     "name": "HBS SPS BanderaSingC",
     "modelDesc": "/model/HBS_SPS_BanderaSingC/HBS_SPS_BanderaSingC.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181874",
-    "name": "HBS SPS BanderaSingD",
-    "modelDesc": "/model/HBS_SPS_BanderaSingD/HBS_SPS_BanderaSingD.pmd",
     "category": "",
     "editable": false
   },
@@ -4956,13 +3318,6 @@
     "editable": false
   },
   {
-    "token": "181883",
-    "name": "HBS MSD 140x61",
-    "modelDesc": "/model/HBS_MSD_140x61/HBS_MSD_140x61.pmd",
-    "category": "editable area",
-    "editable": true
-  },
-  {
     "token": "181886",
     "name": "HBS MSD 140x600B",
     "modelDesc": "/model/HBS_MSD_140x600B/HBS_MSD_140x600B.pmd",
@@ -4970,23 +3325,9 @@
     "editable": true
   },
   {
-    "token": "181888",
-    "name": "HBS MSP EscolaresA",
-    "modelDesc": "/model/HBS_MSP_EscolaresA/HBS_MSP_EscolaresA.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "181889",
     "name": "HBS MSP EscolaresB",
     "modelDesc": "/model/HBS_MSP_EscolaresB/HBS_MSP_EscolaresB.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "181895",
-    "name": "HBS MSP Topes2B",
-    "modelDesc": "/model/HBS_MSP_Topes2B/HBS_MSP_Topes2B.pmd",
     "category": "",
     "editable": false
   },
@@ -5012,37 +3353,9 @@
     "editable": false
   },
   {
-    "token": "rmus2",
-    "name": "us curve chevron left2",
-    "modelDesc": "/model/sign/traffic/us_curve_chevron_left2.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "rmca_stand_1",
-    "name": "2fwy wide 1 nm",
-    "modelDesc": "/model/sign/navigation/2fwy_wide_1_nm.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
     "token": "rmca_stand_3",
     "name": "4fwy wide 1 nm",
     "modelDesc": "/model/sign/navigation/4fwy_wide_1_nm.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "rmus31",
-    "name": "us warning diamond 48",
-    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "rmus64",
-    "name": "us warning diamond 48",
-    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
     "category": "",
     "editable": false
   },
@@ -5058,27 +3371,6 @@
     "name": "exp speed",
     "modelDesc": "/model/sign/traffic/exp_speed.pmd",
     "category": "",
-    "editable": false
-  },
-  {
-    "token": "rmus247",
-    "name": "us warning diamond 48",
-    "modelDesc": "/model/sign/traffic/us_warning_diamond_48.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "rmus459",
-    "name": "sign flashing yellow",
-    "modelDesc": "/model/sign/traffic/sign_flashing_yellow.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "id5",
-    "name": "main road",
-    "modelDesc": "/model/signid/main_road.pmd",
-    "category": "signs/id",
     "editable": false
   },
   {
@@ -5099,20 +3391,6 @@
     "token": "ebr2",
     "name": "us curve chevron right1",
     "modelDesc": "/model/sign/traffic/us_curve_chevron_right1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ebr3",
-    "name": "us curve right1",
-    "modelDesc": "/model/sign/traffic/us_curve_right1.pmd",
-    "category": "",
-    "editable": false
-  },
-  {
-    "token": "ebr4",
-    "name": "us curve left1",
-    "modelDesc": "/model/sign/traffic/us_curve_left1.pmd",
     "category": "",
     "editable": false
   },

@@ -1,5 +1,33 @@
 [
   {
+    "prefabUid": "62919b4e0d000113",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": 2,
+    "sectorY": 8,
+    "x": 11361.129802365262,
+    "y": 32357.789292243946,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "x": 11316.047123481516,
+    "y": 32176.779509539545,
+    "sectorX": 2,
+    "sectorY": 8,
+    "type": "company",
+    "icon": "dg_wd_saw1",
+    "label": "Deepgrove"
+  },
+  {
+    "x": 11268.822071075341,
+    "y": 32283.013301849358,
+    "sectorX": 2,
+    "sectorY": 8,
+    "type": "company",
+    "icon": "pns_con_grg",
+    "label": "Plaster & Sons"
+  },
+  {
     "prefabUid": "5367faa496c00021",
     "prefabPath": "prefab/dbmx/gas_pemex_esquina.ppd",
     "sectorX": 2,
@@ -278,6 +306,15 @@
     "icon": "parking_ico"
   },
   {
+    "x": 12826.661143049381,
+    "y": 33414.18086201237,
+    "sectorX": 3,
+    "sectorY": 8,
+    "type": "company",
+    "icon": "oak_port",
+    "label": "Oakland Shippers"
+  },
+  {
     "x": 13178.613559392674,
     "y": 33677.39363700919,
     "sectorX": 3,
@@ -285,6 +322,15 @@
     "type": "company",
     "icon": "cha_el_mkt",
     "label": "Charged"
+  },
+  {
+    "x": 14881.038860849128,
+    "y": 33070.4895567738,
+    "sectorX": 3,
+    "sectorY": 8,
+    "type": "company",
+    "icon": "sc_frm",
+    "label": "Sunshine Crops"
   },
   {
     "prefabUid": "4d180fcc22400071",
@@ -930,8 +976,8 @@
     "label": "Bushnell Farms"
   },
   {
-    "x": -32856.273336932856,
-    "y": 18055.043728394092,
+    "x": -32856.273336979226,
+    "y": 18055.04372843286,
     "sectorX": -9,
     "sectorY": 4,
     "type": "company",
@@ -963,6 +1009,16 @@
     "sectorY": 8,
     "x": -33788.81352282398,
     "y": 32804.454664379264,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "44b83ec814800005",
+    "prefabPath": "prefab/gas/az_gas02.ppd",
+    "sectorX": -9,
+    "sectorY": 8,
+    "x": -33785.58687314671,
+    "y": 32807.81337504369,
     "type": "facility",
     "icon": "gas_ico"
   },
@@ -2503,6 +2559,33 @@
     "label": "42 Print"
   },
   {
+    "x": -47234.7734375,
+    "y": -10279.71875,
+    "sectorX": -12,
+    "sectorY": -3,
+    "type": "company",
+    "icon": "s26",
+    "label": "S26"
+  },
+  {
+    "x": -47238.7578125,
+    "y": -10285.04296875,
+    "sectorX": -12,
+    "sectorY": -3,
+    "type": "company",
+    "icon": "worldlogi",
+    "label": "Wolrd Logistics LTDA"
+  },
+  {
+    "x": -47232.0078125,
+    "y": -10274.13671875,
+    "sectorX": -12,
+    "sectorY": -3,
+    "type": "company",
+    "icon": "armenia",
+    "label": "Transportes Armenia"
+  },
+  {
     "prefabUid": "5ccd8d94b3000002",
     "prefabPath": "prefab/gas/gas_icon.ppd",
     "sectorX": -14,
@@ -2669,145 +2752,6 @@
     "type": "company",
     "icon": "pns_con_sit2",
     "label": "Plaster & Sons"
-  },
-  {
-    "prefabUid": "488a17581840008d",
-    "prefabPath": "prefab/service/service_icon.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29370.460668238517,
-    "y": 21917.916849863617,
-    "type": "facility",
-    "icon": "service_ico"
-  },
-  {
-    "prefabUid": "488a175826400095",
-    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29281.383137077293,
-    "y": 21961.85600544306,
-    "type": "facility",
-    "icon": "gas_ico"
-  },
-  {
-    "prefabUid": "488a175826400095",
-    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29284.59581527626,
-    "y": 21973.42201011402,
-    "type": "facility",
-    "icon": "gas_ico"
-  },
-  {
-    "prefabUid": "488a175826400095",
-    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29287.80849270952,
-    "y": 21984.988012028327,
-    "type": "facility",
-    "icon": "gas_ico"
-  },
-  {
-    "x": 29348.318359375,
-    "y": 21900.755859375,
-    "sectorX": 7,
-    "sectorY": 5,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "488a1758e1c003a2",
-      "488a1758f00003a3",
-      "488a1758824003a4",
-      "488a1758e3c003a5"
-    ],
-    "icon": "parking_ico",
-    "fromItemType": "trigger"
-  },
-  {
-    "prefabUid": "488a175840400038",
-    "prefabPath": "prefab/gas/nm_gas_station1_depot_rt.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29232.77861476608,
-    "y": 21853.653731220023,
-    "type": "facility",
-    "icon": "gas_ico"
-  },
-  {
-    "prefabUid": "488a175840400038",
-    "prefabPath": "prefab/gas/nm_gas_station1_depot_rt.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 29244.76240055083,
-    "y": 21849.574062538253,
-    "type": "facility",
-    "icon": "gas_ico"
-  },
-  {
-    "x": 29300.087890625,
-    "y": 21918.509765625,
-    "sectorX": 7,
-    "sectorY": 5,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "488a175861000397",
-      "488a1758eb800398",
-      "488a17583ac00399",
-      "488a17586180039a"
-    ],
-    "icon": "parking_ico",
-    "fromItemType": "trigger"
-  },
-  {
-    "prefabUid": "4d180a809f4000be",
-    "prefabPath": "prefab/service/service_icon.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 30085.719067964685,
-    "y": 21512.61428328444,
-    "type": "facility",
-    "icon": "service_ico"
-  },
-  {
-    "prefabUid": "4d180a80d0400071",
-    "prefabPath": "prefab/service/service_icon.ppd",
-    "sectorX": 7,
-    "sectorY": 5,
-    "x": 30186.070899205315,
-    "y": 21523.522333103265,
-    "type": "facility",
-    "icon": "service_ico"
-  },
-  {
-    "x": 29239.10128398707,
-    "y": 21876.12863028824,
-    "sectorX": 7,
-    "sectorY": 5,
-    "type": "company",
-    "icon": "gal_oil_gst",
-    "label": "Gallon Oil"
-  },
-  {
-    "x": 29409.481190115348,
-    "y": 22474.484684859366,
-    "sectorX": 7,
-    "sectorY": 5,
-    "type": "company",
-    "icon": "ed_mkt",
-    "label": "Eddy's"
-  },
-  {
-    "x": 29400.090058321755,
-    "y": 22269.947210149927,
-    "sectorX": 7,
-    "sectorY": 5,
-    "type": "company",
-    "icon": "sg_whs",
-    "label": "SellGoods"
   },
   {
     "prefabUid": "5cbcd4427c000000",
@@ -3115,6 +3059,88 @@
     "y": -44963.83648945827,
     "type": "facility",
     "icon": "service_ico"
+  },
+  {
+    "x": -29021.42561425573,
+    "y": -45109.22632741541,
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "company",
+    "icon": "port_sea",
+    "label": "Port of Seattle"
+  },
+  {
+    "x": -29034.501040462328,
+    "y": -45059.85016862747,
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "company",
+    "icon": "oak_port",
+    "label": "Oakland Shippers"
+  },
+  {
+    "prefabUid": "62e61be6a6000000",
+    "prefabPath": "prefab/depots/port_oakland/port_oakland.ppd",
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "62e61be6b6800009",
+      "62e6cf4304000000"
+    ],
+    "fromItemType": "prefab",
+    "x": -29076.01312491158,
+    "y": -44967.50340003307,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "62e61be6a6000000",
+    "prefabPath": "prefab/depots/port_oakland/port_oakland.ppd",
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "62e61be6b6800009",
+      "62e6cf4304000000"
+    ],
+    "fromItemType": "prefab",
+    "x": -29115.644092775696,
+    "y": -44946.40761713703,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "62e61be6a6000000",
+    "prefabPath": "prefab/depots/port_oakland/port_oakland.ppd",
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "62e61be6b6800009",
+      "62e6cf4304000000"
+    ],
+    "fromItemType": "prefab",
+    "x": -29128.89264485844,
+    "y": -44971.29661720045,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "62e61be6a6000000",
+    "prefabPath": "prefab/depots/port_oakland/port_oakland.ppd",
+    "sectorX": -8,
+    "sectorY": -12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "62e61be6b6800009",
+      "62e6cf4304000000"
+    ],
+    "fromItemType": "prefab",
+    "x": -29089.261676994327,
+    "y": -44992.39240009649,
+    "icon": "parking_ico"
   },
   {
     "x": -49714.2421875,
@@ -7223,6 +7249,164 @@
     "icon": "service_ico"
   },
   {
+    "prefabUid": "6297d1be69800001",
+    "prefabPath": "prefab/gas/gas_icon.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "x": -17206.933855327636,
+    "y": 50435.621660158045,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "6297d1d068800001",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "x": -17207.444533776867,
+    "y": 50448.02043328531,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "x": -16938.70766118336,
+    "y": 50534.647468028255,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "gal_oil_str1",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": -17125.617158097146,
+    "y": 50508.70548588206,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "st_met_wrk",
+    "label": "Steeler"
+  },
+  {
+    "x": -16951.294849077458,
+    "y": 50505.475902274535,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "gal_oil_sit",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": -16808.439525003876,
+    "y": 50503.35117184794,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "hms_con_svc",
+    "label": "HMS Machinery"
+  },
+  {
+    "x": -16913.209064258375,
+    "y": 50498.88148071169,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "aml_rail_wrk",
+    "label": "American Lines"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "x": -17088.94386555296,
+    "y": 50607.12131399952,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "x": -17099.43240671865,
+    "y": 50556.257543316446,
+    "type": "facility",
+    "icon": "garage_large_ico"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "6297d81da58000a4",
+      "6297d81c898000a5"
+    ],
+    "fromItemType": "prefab",
+    "x": -17101.060694167347,
+    "y": 50569.64642048976,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "6297d81da58000a4",
+      "6297d81c898000a5"
+    ],
+    "fromItemType": "prefab",
+    "x": -17101.4353496367,
+    "y": 50589.90155128566,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "6297d81da58000a4",
+      "6297d81c898000a5"
+    ],
+    "fromItemType": "prefab",
+    "x": -17094.377355285458,
+    "y": 50590.09978888965,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "6297d81fe3000031",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "6297d81da58000a4",
+      "6297d81c898000a5"
+    ],
+    "fromItemType": "prefab",
+    "x": -17094.00222226113,
+    "y": 50569.81883987053,
+    "icon": "parking_ico"
+  },
+  {
+    "x": -16960.06203183952,
+    "y": 50539.84501515715,
+    "sectorX": -5,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "bn_live_auc",
+    "label": "Bushnell Farms"
+  },
+  {
     "prefabUid": "48d389ccb4400001",
     "prefabPath": "prefab/gas/gas_icon.ppd",
     "sectorX": -5,
@@ -9643,6 +9827,126 @@
     "label": "Plaster & Sons"
   },
   {
+    "prefabUid": "630c9e9ef3000001",
+    "prefabPath": "prefab/gas/gas_icon.ppd",
+    "sectorX": -10,
+    "sectorY": 12,
+    "x": -39427.28765055023,
+    "y": 51138.67209433286,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "x": -39606.450977608634,
+    "y": 51649.404666884446,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "pns_con_grg",
+    "label": "Plaster & Sons"
+  },
+  {
+    "x": -39502.63115973404,
+    "y": 51575.05117756129,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "sf_port",
+    "label": "Port of SF"
+  },
+  {
+    "x": -39504.01228035879,
+    "y": 51670.07573624583,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "sc_frm_grg",
+    "label": "Sunshine Crops"
+  },
+  {
+    "x": -39573.69026560402,
+    "y": 51135.62255864294,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "dg_wd_saw1",
+    "label": "Deepgrove"
+  },
+  {
+    "x": -39503.59765625,
+    "y": 51202.3046875,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "armenia",
+    "label": "Transportes Armenia"
+  },
+  {
+    "x": -39504.36328125,
+    "y": 51193.52734375,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "s26",
+    "label": "S26"
+  },
+  {
+    "x": -39504.88671875,
+    "y": 51184.30859375,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "worldlogi",
+    "label": "Wolrd Logistics LTDA"
+  },
+  {
+    "prefabUid": "6311f602a2000004",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": -10,
+    "sectorY": 12,
+    "x": -39507.953070159165,
+    "y": 51167.88015224174,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "x": -38223.96708635925,
+    "y": 49215.63194942835,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "oh_con_hom",
+    "label": "Olthon Homes"
+  },
+  {
+    "x": -38212.688992003365,
+    "y": 49131.173784985636,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "bit_rd_svc",
+    "label": "Bitumen"
+  },
+  {
+    "x": -38262.19146723645,
+    "y": 49202.25966375861,
+    "sectorX": -10,
+    "sectorY": 12,
+    "type": "company",
+    "icon": "hms_con_svc",
+    "label": "HMS Machinery"
+  },
+  {
+    "prefabUid": "6337d7279a800001",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": -10,
+    "sectorY": 12,
+    "x": -39691.8965261017,
+    "y": 51998.89305144227,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
     "prefabUid": "4d1a653c15000065",
     "prefabPath": "prefab/service/service_icon.ppd",
     "sectorX": -11,
@@ -10125,10 +10429,168 @@
     "prefabPath": "prefab/service/service_icon.ppd",
     "sectorX": -19,
     "sectorY": -1,
-    "x": -73206.48225099826,
-    "y": -2101.680858138522,
+    "x": -73203.52521974826,
+    "y": -2140.930858138522,
     "type": "facility",
     "icon": "service_ico"
+  },
+  {
+    "x": -77770.31334443824,
+    "y": -2199.1573514060688,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "aml_rail_wrk",
+    "label": "American Lines"
+  },
+  {
+    "x": -77754.86442325432,
+    "y": -2224.634766913102,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "gal_oil_str1",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": -77900.67292680137,
+    "y": -2245.430946439482,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "st_met_wrk",
+    "label": "Steeler"
+  },
+  {
+    "prefabUid": "632a045e8c0007fd",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "x": -77784.22636095507,
+    "y": -2335.000231124649,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "x": -77881.06748036636,
+    "y": -2233.0066144359002,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "bn_live_auc",
+    "label": "Bushnell Farms"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "x": -77876.21359202242,
+    "y": -2428.5474943582794,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "x": -77838.9490597119,
+    "y": -2392.3744754690047,
+    "type": "facility",
+    "icon": "garage_large_ico"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "632a045c8d0012b0",
+      "632a045fce8012b1"
+    ],
+    "fromItemType": "prefab",
+    "x": -77845.12799467346,
+    "y": -2404.3633917969514,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "632a045c8d0012b0",
+      "632a045fce8012b1"
+    ],
+    "fromItemType": "prefab",
+    "x": -77856.20318906986,
+    "y": -2421.3266096332527,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "632a045c8d0012b0",
+      "632a045fce8012b1"
+    ],
+    "fromItemType": "prefab",
+    "x": -77862.15214687494,
+    "y": -2417.5233894919643,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "632a045eb00007be",
+    "prefabPath": "prefab/garage/garage_poor.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "632a045c8d0012b0",
+      "632a045fce8012b1"
+    ],
+    "fromItemType": "prefab",
+    "x": -77851.06283547066,
+    "y": -2400.53854947267,
+    "icon": "parking_ico"
+  },
+  {
+    "prefabUid": "632a045fbf800752",
+    "prefabPath": "prefab/gas/gas_icon.ppd",
+    "sectorX": -20,
+    "sectorY": -1,
+    "x": -77776.9382895081,
+    "y": -2340.920356064594,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "x": -77827.70575975374,
+    "y": -2191.114321596452,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "hms_con_svc",
+    "label": "HMS Machinery"
+  },
+  {
+    "x": -78031.28855707032,
+    "y": -2140.3869079029205,
+    "sectorX": -20,
+    "sectorY": -1,
+    "type": "company",
+    "icon": "gal_oil_sit",
+    "label": "Gallon Oil"
   },
   {
     "prefabUid": "460b6a183dc012fa",
@@ -13215,6 +13677,145 @@
     "icon": "service_ico"
   },
   {
+    "prefabUid": "488a17581840008d",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29370.460668238517,
+    "y": 21917.916849863617,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "prefabUid": "488a175826400095",
+    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29281.383137077293,
+    "y": 21961.85600544306,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "488a175826400095",
+    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29284.59581527626,
+    "y": 21973.42201011402,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "488a175826400095",
+    "prefabPath": "prefab/gas/nm_gas_station1_truck_stop_big_spawn.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29287.80849270952,
+    "y": 21984.988012028327,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "x": 29348.318359375,
+    "y": 21900.755859375,
+    "sectorX": 7,
+    "sectorY": 5,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "488a1758e1c003a2",
+      "488a1758f00003a3",
+      "488a1758824003a4",
+      "488a1758e3c003a5"
+    ],
+    "icon": "parking_ico",
+    "fromItemType": "trigger"
+  },
+  {
+    "prefabUid": "488a175840400038",
+    "prefabPath": "prefab/gas/nm_gas_station1_depot_rt.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29232.77861476608,
+    "y": 21853.653731220023,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "prefabUid": "488a175840400038",
+    "prefabPath": "prefab/gas/nm_gas_station1_depot_rt.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 29244.76240055083,
+    "y": 21849.574062538253,
+    "type": "facility",
+    "icon": "gas_ico"
+  },
+  {
+    "x": 29300.087890625,
+    "y": 21918.509765625,
+    "sectorX": 7,
+    "sectorY": 5,
+    "type": "facility",
+    "dlcGuard": 0,
+    "itemNodeUids": [
+      "488a175861000397",
+      "488a1758eb800398",
+      "488a17583ac00399",
+      "488a17586180039a"
+    ],
+    "icon": "parking_ico",
+    "fromItemType": "trigger"
+  },
+  {
+    "prefabUid": "4d180a809f4000be",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 30085.719067964685,
+    "y": 21512.61428328444,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "prefabUid": "4d180a80d0400071",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": 7,
+    "sectorY": 5,
+    "x": 30186.070899205315,
+    "y": 21523.522333103265,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "x": 29239.10128398707,
+    "y": 21876.12863028824,
+    "sectorX": 7,
+    "sectorY": 5,
+    "type": "company",
+    "icon": "gal_oil_gst",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": 29409.481190115348,
+    "y": 22474.484684859366,
+    "sectorX": 7,
+    "sectorY": 5,
+    "type": "company",
+    "icon": "ed_mkt",
+    "label": "Eddy's"
+  },
+  {
+    "x": 29400.090058321755,
+    "y": 22269.947210149927,
+    "sectorX": 7,
+    "sectorY": 5,
+    "type": "company",
+    "icon": "sg_whs",
+    "label": "SellGoods"
+  },
+  {
     "prefabUid": "5c1c05584e00002c",
     "prefabPath": "prefab/gas/gas_icon.ppd",
     "sectorX": 7,
@@ -15605,6 +16206,33 @@
     "type": "company",
     "icon": "ed_mkt",
     "label": "Eddy's"
+  },
+  {
+    "x": 46412.70703125,
+    "y": -42806.640625,
+    "sectorX": 11,
+    "sectorY": -11,
+    "type": "company",
+    "icon": "worldlogi",
+    "label": "Wolrd Logistics LTDA"
+  },
+  {
+    "x": 46419.22265625,
+    "y": -42808.05078125,
+    "sectorX": 11,
+    "sectorY": -11,
+    "type": "company",
+    "icon": "s26",
+    "label": "S26"
+  },
+  {
+    "x": 46425.43359375,
+    "y": -42808.25,
+    "sectorX": 11,
+    "sectorY": -11,
+    "type": "company",
+    "icon": "armenia",
+    "label": "Transportes Armenia"
   },
   {
     "x": 48025.7890625,
@@ -25364,155 +25992,6 @@
     "label": "Fish Tail Food"
   },
   {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "x": -39191.00800984562,
-    "y": 71427.10944947304,
-    "type": "facility",
-    "icon": "dealer_ico",
-    "label": "Peterbilt"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "x": -39138.935188567164,
-    "y": 71443.23325464492,
-    "type": "facility",
-    "icon": "service_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39141.11599099535,
-    "y": 71434.22399490412,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39129.61616451776,
-    "y": 71434.82714152025,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39128.28302270224,
-    "y": 71409.40894445403,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39139.78284917983,
-    "y": 71408.80579783791,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39167.001443170455,
-    "y": 71462.88968780224,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39139.46522848886,
-    "y": 71464.33391609025,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39166.78480098521,
-    "y": 71458.75910417392,
-    "icon": "parking_ico"
-  },
-  {
-    "prefabUid": "2862d9cc814002d9",
-    "prefabPath": "prefab/truck_dealer/truck_dealer_peterbilt.ppd",
-    "sectorX": -10,
-    "sectorY": 17,
-    "type": "facility",
-    "dlcGuard": 0,
-    "itemNodeUids": [
-      "2862d9cc2a400746",
-      "2862d9cc18c00747"
-    ],
-    "fromItemType": "prefab",
-    "x": -39139.24858630361,
-    "y": 71460.20333246193,
-    "icon": "parking_ico"
-  },
-  {
     "prefabUid": "2862d9cc9f8000a8",
     "prefabPath": "prefab/dbmx/gas_pemex_esquina.ppd",
     "sectorX": -10,
@@ -25783,6 +26262,60 @@
     "type": "company",
     "icon": "re_train",
     "label": "Rail Export"
+  },
+  {
+    "x": -39094.784197797846,
+    "y": 71284.59800132384,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "ftf_food_pln",
+    "label": "Fish Tail Food"
+  },
+  {
+    "x": -39168.352446957964,
+    "y": 71460.30964405676,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "bit_rd_grg",
+    "label": "Bitumen"
+  },
+  {
+    "x": -39138.09994853005,
+    "y": 71158.02039400359,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "ed_mkt",
+    "label": "Eddy's"
+  },
+  {
+    "x": -39506.82421875,
+    "y": 71750,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "worldlogi",
+    "label": "Wolrd Logistics LTDA"
+  },
+  {
+    "x": -39505.6015625,
+    "y": 71737.2265625,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "armenia",
+    "label": "Transportes Armenia"
+  },
+  {
+    "x": -39506.7734375,
+    "y": 71743.34375,
+    "sectorX": -10,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "s26",
+    "label": "S26"
   },
   {
     "x": -38098.446602578144,
@@ -26445,6 +26978,80 @@
     "type": "company",
     "icon": "tid_mkt",
     "label": "Tidbit"
+  },
+  {
+    "x": -41550.58636771935,
+    "y": 68971.06549164989,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "gal_oil_str1",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": -41649.048461907805,
+    "y": 68930.06220055782,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "bn_live_auc",
+    "label": "Bushnell Farms"
+  },
+  {
+    "x": -41684.62046872312,
+    "y": 68711.00289222739,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "hms_con_svc",
+    "label": "HMS Machinery"
+  },
+  {
+    "x": -41563.76091503069,
+    "y": 68673.6051773475,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "st_met_wrk",
+    "label": "Steeler"
+  },
+  {
+    "x": -41557.10505089261,
+    "y": 68781.36512005467,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "gal_oil_sit",
+    "label": "Gallon Oil"
+  },
+  {
+    "x": -41569.303406885105,
+    "y": 68830.28863664139,
+    "sectorX": -11,
+    "sectorY": 17,
+    "type": "company",
+    "icon": "aml_rail_wrk",
+    "label": "American Lines"
+  },
+  {
+    "prefabUid": "62e365e5b6800005",
+    "prefabPath": "prefab/service/service_icon.ppd",
+    "sectorX": -11,
+    "sectorY": 17,
+    "x": -41698.41803397855,
+    "y": 68965.85470296722,
+    "type": "facility",
+    "icon": "service_ico"
+  },
+  {
+    "prefabUid": "62e3677a3d800003",
+    "prefabPath": "prefab/gas/gas_icon.ppd",
+    "sectorX": -11,
+    "sectorY": 17,
+    "x": -41624.74881855441,
+    "y": 68988.64887555948,
+    "type": "facility",
+    "icon": "gas_ico"
   },
   {
     "prefabUid": "61c0efb0f5000038",

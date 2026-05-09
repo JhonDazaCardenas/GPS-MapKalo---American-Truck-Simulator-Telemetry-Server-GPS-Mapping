@@ -370,8 +370,20 @@
         "y": 71255.9375,
         "token": "armenia",
         "hidden": false,
-        "width": 550,
-        "height": 516.3663940429688,
+        "width": 703.776611328125,
+        "height": 616.3286743164062,
+        "sectorX": -10,
+        "sectorY": 17
+      },
+      {
+        "uid": "632a97ba4d800000",
+        "type": 12,
+        "x": -39502.203125,
+        "y": 71738.8125,
+        "token": "armenia",
+        "hidden": true,
+        "width": 265.1980285644531,
+        "height": 221.0245819091797,
         "sectorX": -10,
         "sectorY": 17
       }
@@ -448,8 +460,8 @@
         "y": 35834.18359375,
         "token": "barbosa",
         "hidden": false,
-        "width": 200,
-        "height": 200,
+        "width": 363.041259765625,
+        "height": 352.4831848144531,
         "sectorX": -7,
         "sectorY": 8
       }
@@ -619,7 +631,7 @@
         "x": 20142.65625,
         "y": 70263.484375,
         "token": "bogota",
-        "hidden": false,
+        "hidden": true,
         "width": 218.07266235351562,
         "height": 100,
         "sectorX": 5,
@@ -5330,8 +5342,8 @@
         "y": 39545.83984375,
         "token": "transbetjara",
         "hidden": true,
-        "width": 300,
-        "height": 244.77793884277344,
+        "width": 313.2626953125,
+        "height": 351.4923400878906,
         "sectorX": -9,
         "sectorY": 9
       }
@@ -5557,7 +5569,7 @@
         "token": "valledupar",
         "hidden": false,
         "width": 1799.7381591796875,
-        "height": 770.904052734375,
+        "height": 1211.3165283203125,
         "sectorX": 11,
         "sectorY": -11
       }
@@ -7426,10 +7438,132 @@
         "y": -44970.42578125,
         "token": "c_kofla",
         "hidden": false,
-        "width": 357.00250244140625,
-        "height": 360.87823486328125,
+        "width": 1035.4705810546875,
+        "height": 613.2416381835938,
         "sectorX": -8,
         "sectorY": -12
+      }
+    ]
+  },
+  {
+    "token": "f_djhoney",
+    "name": "La finca de DJoney",
+    "countryToken": "california",
+    "population": 0,
+    "x": 11298.625,
+    "y": 32299.75,
+    "areas": [
+      {
+        "uid": "6291b12604000001",
+        "type": 12,
+        "x": 11298.625,
+        "y": 32299.75,
+        "token": "f_djhoney",
+        "hidden": false,
+        "width": 203.4732208251953,
+        "height": 458.3731689453125,
+        "sectorX": 2,
+        "sectorY": 8
+      }
+    ]
+  },
+  {
+    "token": "f_jekko",
+    "name": "La finca de jekko",
+    "countryToken": "california",
+    "population": 0,
+    "x": -17054.796875,
+    "y": 50618.87890625,
+    "areas": [
+      {
+        "uid": "6297ff89ec800001",
+        "type": 12,
+        "x": -17054.796875,
+        "y": 50618.87890625,
+        "token": "f_jekko",
+        "hidden": false,
+        "width": 587.1803588867188,
+        "height": 487.7282409667969,
+        "sectorX": -5,
+        "sectorY": 12
+      }
+    ]
+  },
+  {
+    "token": "f_victor",
+    "name": "La finca de Victor Stingray",
+    "countryToken": "california",
+    "population": 0,
+    "x": -41617.15234375,
+    "y": 68922.765625,
+    "areas": [
+      {
+        "uid": "62e373703a800001",
+        "type": 12,
+        "x": -41617.15234375,
+        "y": 68922.765625,
+        "token": "f_victor",
+        "hidden": false,
+        "width": 421.1436767578125,
+        "height": 702.8570556640625,
+        "sectorX": -11,
+        "sectorY": 17
+      }
+    ]
+  },
+  {
+    "token": "f_fuminaya",
+    "name": "La finca de Fuminaya",
+    "countryToken": "california",
+    "population": 0,
+    "x": -77838,
+    "y": -2233.265625,
+    "areas": [
+      {
+        "uid": "632a045c8f800875",
+        "type": 12,
+        "x": -77838,
+        "y": -2233.265625,
+        "token": "f_fuminaya",
+        "hidden": false,
+        "width": 826.8074951171875,
+        "height": 530.9893798828125,
+        "sectorX": -20,
+        "sectorY": -1
+      }
+    ]
+  },
+  {
+    "token": "tamesis",
+    "name": "Tamesis Antioquia",
+    "countryToken": "california",
+    "population": 0,
+    "x": -39414.984375,
+    "y": 51406.3984375,
+    "areas": [
+      {
+        "uid": "63120693be000001",
+        "type": 12,
+        "x": -39414.984375,
+        "y": 51406.3984375,
+        "token": "tamesis",
+        "hidden": false,
+        "width": 594.3403930664062,
+        "height": 789.7378540039062,
+        "sectorX": -10,
+        "sectorY": 12
+      },
+      {
+        "uid": "631228cc73000001",
+        "type": 12,
+        "x": -38184.30859375,
+        "y": 49215.54296875,
+        "token": "tamesis",
+        "hidden": true,
+        "width": 256.6107177734375,
+        "height": 264.21746826171875,
+        "sectorX": -10,
+        "sectorY": 12
       }
     ]
   }

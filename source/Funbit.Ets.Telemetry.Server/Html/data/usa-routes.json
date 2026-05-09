@@ -431,6 +431,21 @@
     "toCity": "port_fourcho"
   },
   {
+    "token": "peo_chi1",
+    "fromCity": "peoria",
+    "toCity": "chicago"
+  },
+  {
+    "token": "mol_qui1",
+    "fromCity": "moline",
+    "toCity": "quincy"
+  },
+  {
+    "token": "spr_mar1",
+    "fromCity": "springfie_il",
+    "toCity": "marion"
+  },
+  {
     "token": "maz_gom1",
     "fromCity": "mazatlan",
     "toCity": "gomez_p"
