@@ -10,8 +10,11 @@ FOLDER STRUCTURE
 |-----------|
 |  server   | contains compiled server and HTML5 dashboard
 |-----------|
+|-----------|
+|  source   | contains the complete source code
+|-----------|
 
-Note: This is a compiled distribution. Source code is not included.
+Note: This distribution includes the full source code. You can find it in the "source" folder.
 
 Simply run "server/GPSMapKalo.exe" to start the server and connect your HTML5 mobile dashboard or GPS MapKalo Android app!
 
@@ -45,7 +48,7 @@ INSTALLATION
 
 Windows:
 1. Extract ZIP anywhere
-2. Run server/GPSMapKalo.exe
+2. Run server/GPSMapKalo.exe as administrator
 3. Click "Install"
 4. When done, click "OK", select network interface
 5. Done
@@ -92,4 +95,12 @@ Scan the QR code with your payment app.
 LICENSE
 ================================================================================
 
-GNU General Public License v3 (GPL-3). Read LICENSE file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+- Plain English summary (TLDRLegal): 
+  https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3
+
+- Full legal text (GNU): 
+  https://www.gnu.org/licenses/gpl-3.0.html
+
+You can also read the full LICENSE file included in this distribution.
