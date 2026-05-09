@@ -62,7 +62,7 @@ Follow me on social media for updates, new features, and trucking content:
 
 - Real-time tracking of your assigned route
 - On-screen display: Origin-Destination, Cargo type and Cargo weight
-- Added damage metrics to the dashboard: Vehicle Weighting, Trailer Damage and Cargo Damage
+- Added damage metrics to the dashboard: Average vehicle wear (engine, transmission, cabin, chassis, wheels), Trailer Damage and Cargo Damage
 - On-screen parameters: Speed, Fuel tank, Time remaining, KM remaining, ETA
 - Internal map browser (magnifier icon) to search locations
 - Automatic Light/Dark mode based on system time with manual toggle
