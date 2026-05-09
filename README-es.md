@@ -162,7 +162,7 @@ Escanea el código QR con tu app de pagos o haz clic en los logotipos de arriba.
 
 **Servidor GPS MapKalo:**
 
-<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/8327f2b3-b676-4b24-bb45-34d8c85aeb2e" />
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/2893ea1b-7fa6-4e09-8c1f-dad35b5c417f" />
 
 **Modo oscuro:**
 
