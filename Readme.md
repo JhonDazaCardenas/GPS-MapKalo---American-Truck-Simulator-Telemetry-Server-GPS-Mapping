@@ -188,4 +188,7 @@ This package contains compiled server binaries, HTML5 dashboard, and GPS MapKalo
 
 ## License
 
-GNU General Public License v3 (GPL-3) - https://tldrlegal.com/license/gnu-general-public-license-v3-%28gpl-3%29
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+- 📘 **Resumen fácil de entender (TLDRLegal):** [https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3](https://www.tldrlegal.com/license/gnu-general-public-license-v3-gpl-3)
+- 📜 **Texto legal completo (GNU):** [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
