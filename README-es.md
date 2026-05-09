@@ -62,7 +62,7 @@ Sígueme en redes sociales para actualizaciones, nuevas funciones y contenido de
 
 - Seguimiento en tiempo real de tu ruta asignada
 - Visualización en pantalla: Origen-Destino, tipo de carga y peso de la carga
-- Añadidas métricas de daño al panel: Peso del vehículo, Daño del remolque y Daño de la carga
+- Añadidas métricas de daño al panel: Promedio de desgaste del vehículo (motor, transmisión, cabina, chasis, ruedas), Daño del remolque y Daño de la carga
 - Parámetros en pantalla: Velocidad, combustible, tiempo restante, KM restantes, hora de llegada estimada
 - Navegador de mapa interno (icono de lupa) para buscar ubicaciones
 - Modo Automático Claro/Oscuro basado en la hora del sistema con cambio manual
