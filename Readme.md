@@ -162,15 +162,18 @@ Scan the QR code with your payment app or click on the logos above.
 
 **GPS MapKalo Server:**
 
-<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/d7a1bf7b-d14b-403d-bd72-4e65adff3b0e" />
+<img width="325" height="500" alt="image" src="https://github.com/user-attachments/assets/c24d8110-8517-4885-ad70-048e31f35026" />
+
 
 **Dark mode:**
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/eb99c0eb-c184-414f-932b-372452c9dae5" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/03ab2c5e-24cd-4b2f-b432-0e93a865caae" />
+
 
 **Clear Mode:**
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/de82e693-149f-46d7-a745-b539c33de58c" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e3293d42-83aa-41f3-bbdb-1e4df726827c" />
+
 
 **Mobile Dark mode:**
 
